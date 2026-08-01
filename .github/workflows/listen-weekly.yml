@@ -1,9 +1,7 @@
 name: listen-weekly
-# NOTE: GitHub only runs workflows found at the repository root under
-# .github/workflows/. While workplace-listening/ lives inside another repo this
-# file is documentation of the intended CI; move it (and set working-directory)
-# to the repo root, or extract workplace-listening/ into its own repo, to have
-# it fire. Wave 0 is designed to run locally via `python3 run.py` regardless.
+# Runs from the repository root: workplace-listening is now its own repo, so
+# run.py and its data/ live at the top level. Wave 0 also runs locally via
+# `python3 run.py`.
 on:
   schedule:
     - cron: "0 11 * * 1"   # Mondays 11:00 UTC, matching transition-watchlist
@@ -14,9 +12,6 @@ permissions:
 jobs:
   listen:
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: workplace-listening
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5

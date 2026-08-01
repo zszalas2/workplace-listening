@@ -1,5 +1,5 @@
 name: listen-monthly
-# See listen-weekly.yml for the note on workflow location while nested.
+# Runs from the repository root (see listen-weekly.yml).
 # Monthly adapters (paa, reviews_*, trends, reports_diff) are Wave 3; until they
 # are built run.py skips them with a log line, so this cron is safe to enable now.
 on:
@@ -12,9 +12,6 @@ permissions:
 jobs:
   listen:
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: workplace-listening
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
