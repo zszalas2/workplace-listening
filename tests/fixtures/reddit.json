@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "id": "1oepsxb",
+      "title": "What visitor management system are you guys using?",
+      "selftext": "We are a 300 person office and our front desk sign-in is a paper binder. Looking for something that integrates with our access control.",
+      "permalink": "/r/sysadmin/comments/1oepsxb/what_visitor_management_system/",
+      "url": "https://www.reddit.com/r/sysadmin/comments/1oepsxb/what_visitor_management_system/",
+      "created_utc": 1760000000,
+      "num_comments": 20,
+      "score": 45,
+      "author": "netadmin_dave",
+      "subreddit": "sysadmin"
+    },
+    {
+      "id": "1oepqqq",
+      "title": "Anyone tried desk booking for a small team?",
+      "selftext": "Just three teams sharing 20 desks.",
+      "permalink": "/r/sysadmin/comments/1oepqqq/desk_booking_small_team/",
+      "created_utc": 1760100000,
+      "num_comments": 1,
+      "score": 4,
+      "author": "smallshop",
+      "subreddit": "sysadmin"
+    }
+  ]
+}

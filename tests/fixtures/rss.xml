@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Allwork.Space</title>
+    <link>https://allwork.space</link>
+    <item>
+      <title>The hybrid office is being redesigned around neighborhoods</title>
+      <link>https://allwork.space/2026/07/neighborhoods/</link>
+      <guid isPermaLink="false">https://allwork.space/?p=12345</guid>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <dc:creator>Jane Doe</dc:creator>
+      <description>Short summary of the neighborhood model.</description>
+      <content:encoded><![CDATA[<p>Companies are moving to a <strong>neighborhood model</strong> for desk allocation.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Return to office mandates are quietly softening</title>
+      <link>https://allwork.space/2026/07/rto-softening/</link>
+      <guid isPermaLink="false">https://allwork.space/?p=12346</guid>
+      <pubDate>Sun, 27 Jul 2026 12:30:00 +0000</pubDate>
+      <description>RTO enforcement is slipping in practice.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,352 @@
+# Source registry for the workplace-listening Listener.
+# One entry per source. `lane` (question | context) determines everything
+# downstream: question sources are short/high-volume/literal, context sources
+# are long-form and get summarized at ingest. `adapter` names a module in
+# collectors/. `cadence` (weekly | monthly) selects which cron picks it up.
+#
+# Adapters implemented in Wave 0/1: rss, hackernews, spiceworks, reddit_arctic.
+# Sources whose adapter is not yet implemented stay listed here and are skipped
+# by run.py with a log line, so the registry is complete from the start.
+
+# =========================================================================== #
+# Lane A - question sources (short, high volume, literal buying questions)
+# =========================================================================== #
+- id: reddit_sysadmin
+  lane: question
+  adapter: reddit_arctic
+  cadence: weekly
+  config:
+    subreddit: sysadmin
+    queries: ["visitor management", "desk booking", "room booking", "hoteling", "space management"]
+    min_comments: 3
+
+- id: reddit_k12sysadmin
+  lane: question
+  adapter: reddit_arctic
+  cadence: weekly
+  config:
+    subreddit: k12sysadmin
+    queries: ["visitor management", "visitor sign in", "front office check in", "raptor alternative"]
+    min_comments: 2
+
+- id: reddit_msp
+  lane: question
+  adapter: reddit_arctic
+  cadence: weekly
+  config:
+    subreddit: msp
+    queries: ["visitor management", "desk booking", "room booking", "space management"]
+    min_comments: 3
+
+- id: reddit_itmanagers
+  lane: question
+  adapter: reddit_arctic
+  cadence: weekly
+  config:
+    subreddit: ITManagers
+    queries: ["visitor management", "desk booking", "room booking", "space management"]
+    min_comments: 2
+
+- id: reddit_facilitymanagement
+  lane: question
+  adapter: reddit_arctic
+  cadence: weekly
+  config:
+    subreddit: FacilitiesManagement
+    queries: ["desk booking", "room booking", "space management", "occupancy", "hoteling"]
+    min_comments: 1
+
+- id: reddit_executiveassistants
+  lane: question
+  adapter: reddit_arctic
+  cadence: weekly
+  config:
+    subreddit: ExecutiveAssistants
+    queries: ["room booking", "meeting room", "visitor", "desk booking", "calendar"]
+    min_comments: 2
+
+- id: reddit_adminassistant
+  lane: question
+  adapter: reddit_arctic
+  cadence: weekly
+  config:
+    subreddit: AdminAssistant
+    queries: ["room booking", "meeting room", "visitor", "front desk"]
+    min_comments: 1
+
+- id: reddit_humanresources
+  lane: question
+  adapter: reddit_arctic
+  cadence: weekly
+  config:
+    subreddit: humanresources
+    queries: ["return to office", "hybrid policy", "office attendance", "hot desking", "rto mandate"]
+    min_comments: 3
+
+- id: reddit_humanresourcesuk
+  lane: question
+  adapter: reddit_arctic
+  cadence: weekly
+  config:
+    subreddit: HumanResourcesUK
+    queries: ["return to office", "hybrid policy", "office attendance", "hot desking"]
+    min_comments: 2
+
+- id: spiceworks
+  lane: question
+  adapter: spiceworks
+  cadence: weekly
+  config:
+    base: https://community.spiceworks.com
+    queries: ["visitor management", "desk booking", "room booking", "space management"]
+
+- id: hackernews
+  lane: question
+  adapter: hackernews
+  cadence: weekly
+  config:
+    queries: ["return to office", "hybrid work", "hot desking", "desk booking", "office occupancy", "return-to-office mandate"]
+    min_points: 5
+
+- id: paa_seed_keywords
+  lane: question
+  adapter: paa
+  cadence: monthly
+  config:
+    provider: dataforseo
+    keywords: ["desk booking software", "hot desking software", "room booking system", "meeting room scheduling", "visitor management system", "visitor sign in app", "office occupancy sensors", "workplace analytics software", "hybrid work policy", "return to office policy", "office attendance tracking", "workspace management software", "flex office software", "coworking access for employees", "workspace spend management"]
+
+- id: capterra_reviews
+  lane: question
+  adapter: reviews_capterra
+  cadence: monthly
+  config:
+    categories: ["desk-booking", "visitor-management", "space-management", "meeting-room-booking"]
+    fields: ["cons", "switched_from"]
+
+- id: trustradius_reviews
+  lane: question
+  adapter: reviews_trustradius
+  cadence: monthly
+  config:
+    categories: ["desk-booking", "visitor-management", "space-management"]
+
+# =========================================================================== #
+# Lane B - context sources (long-form; summarized at ingest, feed saturation)
+# =========================================================================== #
+- id: allwork_space
+  lane: context
+  adapter: rss
+  cadence: weekly
+  config:
+    feed: https://allwork.space/feed/
+
+- id: workplace_insight
+  lane: context
+  adapter: rss
+  cadence: weekly
+  config:
+    feed: https://workplaceinsight.net/feed/
+    geo_hint: UK
+
+- id: worktech_academy
+  lane: context
+  adapter: rss
+  cadence: weekly
+  config:
+    feed: https://worktechacademy.com/feed/
+
+- id: charter
+  lane: context
+  adapter: rss
+  cadence: weekly
+  config:
+    feed: https://charterworks.com/feed
+
+- id: work_design_mag
+  lane: context
+  adapter: rss
+  cadence: weekly
+  config:
+    feed: https://workdesign.com/feed/
+
+- id: fmlink
+  lane: context
+  adapter: rss
+  cadence: weekly
+  config:
+    feed: https://fmlink.com/feed/
+
+- id: facilitiesnet
+  lane: context
+  adapter: rss
+  cadence: weekly
+  config:
+    feed: https://www.facilitiesnet.com/rss/news.rss
+
+- id: worklife_news
+  lane: context
+  adapter: rss
+  cadence: weekly
+  config:
+    feed: https://www.worklife.news/feed/
+
+- id: raconteur
+  lane: context
+  adapter: rss
+  cadence: weekly
+  config:
+    feed: https://www.raconteur.net/feed
+    keywords: ["hybrid", "return to office", "workplace", "office", "desk", "flexible work"]
+
+- id: facility_executive
+  lane: context
+  adapter: rss
+  cadence: weekly
+  config:
+    feed: https://news.google.com/rss/search?q=%22Facility+Executive%22+workplace&hl=en-US&gl=US&ceid=US:en
+
+- id: hr_brew
+  lane: context
+  adapter: rss
+  cadence: weekly
+  config:
+    feed: https://news.google.com/rss/search?q=%22HR+Brew%22+return+to+office+OR+hybrid&hl=en-US&gl=US&ceid=US:en
+
+- id: the_assist
+  lane: context
+  adapter: archive_scrape
+  cadence: weekly
+  config:
+    archive: https://www.theassistant.com/blog
+
+- id: competitor_robin
+  lane: context
+  adapter: rss
+  cadence: weekly
+  config:
+    feed: https://robinpowered.com/blog/rss.xml
+    saturation: true
+
+- id: competitor_envoy
+  lane: context
+  adapter: sitemap_diff
+  cadence: weekly
+  config:
+    sitemap: https://envoy.com/sitemap.xml
+    include: ["/blog/"]
+    saturation: true
+
+- id: competitor_officespace
+  lane: context
+  adapter: sitemap_diff
+  cadence: weekly
+  config:
+    sitemap: https://www.officespacesoftware.com/sitemap.xml
+    include: ["/blog/"]
+    saturation: true
+
+- id: podcast_workplace_innovator
+  lane: context
+  adapter: podcast
+  cadence: weekly
+  config:
+    feed: https://workplaceinnovator.libsyn.com/rss
+    saturation: true
+
+- id: podcast_workplace_geeks
+  lane: context
+  adapter: podcast
+  cadence: weekly
+  config:
+    feed: https://feeds.buzzsprout.com/1933353.rss
+    saturation: true
+
+- id: podcast_dwg_impact
+  lane: context
+  adapter: podcast
+  cadence: weekly
+  config:
+    feed: https://feeds.acast.com/public/shows/5f5b6f3c39b79b4f9afc8812
+    transcripts_in_feed: true
+    saturation: true
+
+- id: podcast_connected_fm
+  lane: context
+  adapter: podcast
+  cadence: weekly
+  config:
+    feed: https://feeds.captivate.fm/connected-fm/
+    saturation: true
+
+- id: yt_ifma
+  lane: context
+  adapter: youtube_detect
+  cadence: weekly
+  config:
+    channel_id: UC_IFMA_PLACEHOLDER
+    saturation: true
+
+- id: yt_worktech
+  lane: context
+  adapter: youtube_detect
+  cadence: weekly
+  config:
+    channel_id: UC_WORKTECH_PLACEHOLDER
+    saturation: true
+
+- id: yt_running_remote
+  lane: context
+  adapter: youtube_detect
+  cadence: weekly
+  config:
+    channel_id: UC_RUNNINGREMOTE_PLACEHOLDER
+    saturation: true
+
+- id: trends_seed_keywords
+  lane: context
+  adapter: trends
+  cadence: monthly
+  config:
+    provider: serpapi
+    keywords: ["desk booking software", "hot desking software", "room booking system", "visitor management system", "hybrid work policy", "return to office policy", "workspace spend management"]
+
+- id: reports_gensler
+  lane: context
+  adapter: reports_diff
+  cadence: monthly
+  config:
+    url: https://www.gensler.com/gri/research
+    saturation: true
+
+- id: reports_jll
+  lane: context
+  adapter: reports_diff
+  cadence: monthly
+  config:
+    url: https://www.jll.com/en/trends-and-insights/research
+    saturation: true
+
+- id: reports_cbre
+  lane: context
+  adapter: reports_diff
+  cadence: monthly
+  config:
+    url: https://www.cbre.com/insights
+    saturation: true
+
+- id: reports_gallup
+  lane: context
+  adapter: reports_diff
+  cadence: monthly
+  config:
+    url: https://www.gallup.com/workplace/home.aspx
+    saturation: true
+
+- id: reports_leesman
+  lane: context
+  adapter: reports_diff
+  cadence: monthly
+  config:
+    url: https://www.leesmanindex.com/insights/
+    saturation: true

@@ -1,0 +1,29 @@
+{
+  "hits": [
+    {
+      "objectID": "40123456",
+      "title": "Ask HN: How are you handling return-to-office mandates?",
+      "url": null,
+      "author": "throwaway99",
+      "points": 142,
+      "num_comments": 210,
+      "created_at": "2026-07-30T14:03:00.000Z",
+      "created_at_i": 1785592980,
+      "story_text": "My company just announced 4 days in office. Curious how others are dealing with desk booking chaos.",
+      "_tags": ["story", "ask_hn"]
+    },
+    {
+      "objectID": "40123457",
+      "title": "Show HN: An open-source desk booking tool",
+      "url": "https://example.com/deskbook",
+      "author": "builder",
+      "points": 3,
+      "num_comments": 1,
+      "created_at": "2026-07-29T09:00:00.000Z",
+      "created_at_i": 1785488400,
+      "story_text": null,
+      "_tags": ["story", "show_hn"]
+    }
+  ],
+  "nbHits": 2
+}

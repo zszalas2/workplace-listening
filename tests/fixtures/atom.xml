@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Worktech Academy</title>
+  <link href="https://worktechacademy.com"/>
+  <entry>
+    <title>Seat allocation ratios are climbing past 100 percent</title>
+    <link href="https://worktechacademy.com/seat-allocation/" rel="alternate"/>
+    <id>tag:worktechacademy.com,2026:/seat-allocation</id>
+    <published>2026-07-29T08:00:00Z</published>
+    <updated>2026-07-29T08:00:00Z</updated>
+    <summary>Over-provisioning of seats is becoming the norm.</summary>
+    <content type="html">&lt;p&gt;The &lt;b&gt;seat allocation ratio&lt;/b&gt; is now over-provisioned in many firms.&lt;/p&gt;</content>
+  </entry>
+</feed>

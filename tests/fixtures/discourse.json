@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "id": 500001,
+      "topic_id": 90001,
+      "blurb": "We need a visitor management system that ties into badge access. What are folks running?",
+      "created_at": "2026-07-25T10:00:00.000Z"
+    }
+  ],
+  "topics": [
+    {
+      "id": 90001,
+      "title": "Visitor management that integrates with access control",
+      "fancy_title": "Visitor management that integrates with access control",
+      "slug": "visitor-management-access-control",
+      "posts_count": 12,
+      "created_at": "2026-07-25T10:00:00.000Z"
+    }
+  ]
+}
