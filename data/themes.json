@@ -1,1 +1,211 @@
-[]
+[
+ {
+  "theme_id": "hot_desking_backlash",
+  "label": "Hot desking backlash and whether unassigned desks actually work",
+  "first_seen": "2026-08-02",
+  "counts_by_week": {
+   "2026-W31": 5
+  },
+  "evidence": [
+   {
+    "quote": "Is hot desking dead in a post-COVID19 work world?",
+    "url": "https://www.itnews.com.au/news/commonwealth-bank-cto-snapped-up-by-google-548236",
+    "source_id": "hackernews"
+   },
+   {
+    "quote": "Ask HN: Viable tech for hotdesking in software dev?",
+    "url": "https://news.ycombinator.com/item?id=15675856",
+    "source_id": "hackernews"
+   },
+   {
+    "quote": "We're about to move into new offices and something that appeals is the potential for developers to work in smaller 'project' areas.",
+    "url": "https://news.ycombinator.com/item?id=15675856",
+    "source_id": "hackernews"
+   }
+  ],
+  "vocabulary": [
+   "hot desking",
+   "hotdesking",
+   "hot-desking",
+   "assigned desk",
+   "open plan",
+   "semi-open-plan",
+   "quiet rooms",
+   "moving between areas",
+   "new offices"
+  ],
+  "became_post": null,
+  "became_post_at": null,
+  "covered_by_context": [
+   "facility_executive",
+   "worktech_academy"
+  ],
+  "suggested_angle": "Show HR and workplace leads how to price the real cost of hot desking, from wasted seats to the equipment and support spend nobody budgets for.",
+  "current": 5,
+  "trailing_mean": 0,
+  "delta_z": 0.0,
+  "demand_score": 0.0,
+  "saturation_score": 1.0,
+  "opportunity_score": 0.0,
+  "status": "new"
+ },
+ {
+  "theme_id": "hybrid_rto_mandate_pushback",
+  "label": "Mandatory in-office days and employee reaction to RTO",
+  "first_seen": "2026-08-02",
+  "counts_by_week": {
+   "2026-W31": 1
+  },
+  "evidence": [
+   {
+    "quote": "A bad trend I'm also noticing is most of the jobs now seem to be hybrid with 2-3 mandatory days in the office per week, which seems like a bad deal to me in that it's almost as inflexible as being on site, and likely means hotdesking.",
+    "url": "https://news.ycombinator.com/item?id=37568491",
+    "source_id": "hackernews"
+   }
+  ],
+  "vocabulary": [
+   "mandatory days in the office",
+   "hybrid 2-3 days",
+   "on site",
+   "inflexible",
+   "hotdesking"
+  ],
+  "became_post": null,
+  "became_post_at": null,
+  "covered_by_context": [
+   "charter",
+   "hr_brew"
+  ],
+  "suggested_angle": "Explain how HR can tie office day mandates to actual per-seat and per-day spend so policy debates are settled with numbers rather than sentiment.",
+  "current": 1,
+  "trailing_mean": 0,
+  "delta_z": 0.0,
+  "demand_score": 0.0,
+  "saturation_score": 1.0,
+  "opportunity_score": 0.0,
+  "status": "watching"
+ },
+ {
+  "theme_id": "admin_ea_operational_overhead",
+  "label": "Admin, EA and office manager operational overhead",
+  "first_seen": "2026-08-02",
+  "counts_by_week": {
+   "2026-W31": 4
+  },
+  "evidence": [
+   {
+    "quote": "What is the ONE administrative task that takes the most time or causes the most frustration in your office? Why?",
+    "url": "https://www.reddit.com/r/AdminAssistant/comments/1uxapxr/administrative_challenges_medical_offices_face/",
+    "source_id": "reddit_adminassistant"
+   },
+   {
+    "quote": "Am I right in thinking this might actually benefit me as is keeping track of 1 person vs. 3?",
+    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1vburfz/im_here_just_promoted_to_ea/",
+    "source_id": "reddit_executiveassistants"
+   },
+   {
+    "quote": "constant firefighting, delayed decisions, compliance items being pushed aside, lack of operational processes, and a pattern of preventable issues becoming urgent problems",
+    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1vbv2fe/update_when_an_ea_says_this_will_become_a_problem/",
+    "source_id": "reddit_executiveassistants"
+   }
+  ],
+  "vocabulary": [
+   "front desk staff",
+   "office manager",
+   "practice administrator",
+   "operational processes",
+   "firefighting",
+   "calendar appointments",
+   "admin task"
+  ],
+  "became_post": null,
+  "became_post_at": null,
+  "covered_by_context": [],
+  "suggested_angle": "Position workspace spend management as the tool that takes recurring office admin chores off the EA and office manager plate before they become escalations.",
+  "current": 4,
+  "trailing_mean": 0,
+  "delta_z": 0.0,
+  "demand_score": 1.0,
+  "saturation_score": 0.0,
+  "opportunity_score": 1.0,
+  "status": "new"
+ },
+ {
+  "theme_id": "multi_site_proof_of_work_tracking",
+  "label": "Proof of work and task verification across multiple sites",
+  "first_seen": "2026-08-02",
+  "counts_by_week": {
+   "2026-W31": 1
+  },
+  "evidence": [
+   {
+    "quote": "Anyone else’s proof of work living in a group chat and a camera roll?",
+    "url": "https://www.reddit.com/r/AdminAssistant/comments/1uoxy2w/anyone_elses_proof_of_work_living_in_a_group_chat/",
+    "source_id": "reddit_adminassistant"
+   },
+   {
+    "quote": "Curious how other people solved this or if everyone’s just quietly living with it.",
+    "url": "https://www.reddit.com/r/AdminAssistant/comments/1uoxy2w/anyone_elses_proof_of_work_living_in_a_group_chat/",
+    "source_id": "reddit_adminassistant"
+   }
+  ],
+  "vocabulary": [
+   "proof of work",
+   "group chat",
+   "camera roll",
+   "restocked front desk",
+   "splitting time across two locations",
+   "pattern or a one-off"
+  ],
+  "became_post": null,
+  "became_post_at": null,
+  "covered_by_context": [
+   "facility_executive"
+  ],
+  "suggested_angle": "Show how a single record of office tasks and spend replaces the photo and text message trail when one person covers several sites.",
+  "current": 1,
+  "trailing_mean": 0,
+  "delta_z": 0.0,
+  "demand_score": 0.202,
+  "saturation_score": 0.5,
+  "opportunity_score": 0.101,
+  "status": "watching"
+ },
+ {
+  "theme_id": "support_desk_metrics_quality",
+  "label": "Support and IT service desk metrics that miss the point",
+  "first_seen": "2026-08-02",
+  "counts_by_week": {
+   "2026-W31": 1
+  },
+  "evidence": [
+   {
+    "quote": "Support KPIs provide enough info for managers, and their managers, to assess the performance of a Support department and make decisions on that.",
+    "url": "https://www.reddit.com/r/ITManagers/comments/1uh1vbt/customertech_support_systems_and_departments_are/",
+    "source_id": "reddit_itmanagers"
+   },
+   {
+    "quote": "The main focus/goal is to make sure tickets get solved/closed in the least amount of time possible.",
+    "url": "https://www.reddit.com/r/ITManagers/comments/1uh1vbt/customertech_support_systems_and_departments_are/",
+    "source_id": "reddit_itmanagers"
+   }
+  ],
+  "vocabulary": [
+   "tickets",
+   "Support KPIs",
+   "closed in the least amount of time",
+   "missed opportunity"
+  ],
+  "became_post": null,
+  "became_post_at": null,
+  "covered_by_context": [],
+  "suggested_angle": "Draw the parallel for workplace teams: ticket volume and closure speed hide the real question of what the workplace actually costs and delivers.",
+  "current": 1,
+  "trailing_mean": 0,
+  "delta_z": 0.0,
+  "demand_score": 0.176,
+  "saturation_score": 0.0,
+  "opportunity_score": 0.176,
+  "status": "watching"
+ }
+]
