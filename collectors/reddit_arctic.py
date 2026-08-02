@@ -11,6 +11,7 @@ Reddit post objects under a top-level "data" key.
   fetch(source)          -> list[dict]       one response per query (network)
   collect(source)        -> list[raw_item]
 """
+import threading
 import time
 import urllib.parse
 from datetime import date, timedelta
@@ -18,6 +19,25 @@ from datetime import date, timedelta
 import common
 
 API = "https://arctic-shift.photon-reddit.com/api/posts/search"
+
+# Arctic Shift rate-limits aggressively and run.py collects sources concurrently,
+# so all subreddit collectors would otherwise hit the API in parallel and get
+# HTTP 429. This module-level lock + minimum spacing serializes every Arctic
+# Shift request across threads, turning the fan-out into a polite single stream.
+_LOCK = threading.Lock()
+_last_request = [0.0]
+_MIN_INTERVAL = 2.0  # seconds between any two Arctic Shift requests, globally
+
+
+def _throttled_get_json(url):
+    with _LOCK:
+        wait = _MIN_INTERVAL - (time.monotonic() - _last_request[0])
+        if wait > 0:
+            time.sleep(wait)
+        try:
+            return common.get_json(url, retries=3)
+        finally:
+            _last_request[0] = time.monotonic()
 
 
 def parse(payload, source):
@@ -58,20 +78,17 @@ def fetch(source):
     subreddit = cfg.get("subreddit")
     queries = cfg.get("queries") or [""]
     limit = cfg.get("limit", 100)
-    lookback = cfg.get("lookback_days", 30)
+    lookback = cfg.get("lookback_days", 60)
     after = (date.today() - timedelta(days=lookback)).isoformat()
-    pause = cfg.get("pause_seconds", 1.5)
     out = []
-    for i, q in enumerate(queries):
+    for q in queries:
         params = {"subreddit": subreddit, "limit": limit, "after": after}
         if q:
             params["query"] = q
         url = f"{API}?{urllib.parse.urlencode(params)}"
-        payload = common.get_json(url)
+        payload = _throttled_get_json(url)
         if payload is not None:
             out.append(payload)
-        if i < len(queries) - 1:
-            time.sleep(pause)  # be polite; Arctic Shift throttles hard
     return out
 
 

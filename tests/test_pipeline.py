@@ -15,6 +15,7 @@ FIX = os.path.join(ROOT, "tests", "fixtures")
 import common          # noqa: E402
 import normalize       # noqa: E402
 import digest          # noqa: E402
+import relevance       # noqa: E402
 from collectors import rss, hackernews, spiceworks, reddit_arctic  # noqa: E402
 
 PASS = 0
@@ -64,6 +65,14 @@ def test_rss():
     kitems = rss.parse(load("rss.xml", binary=True), ksrc)
     check("rss keyword filter", len(kitems) == 1 and "Return to office" in kitems[0]["title"],
           f"got {len(kitems)}")
+
+    # Malformed feed falls back to lenient regex parse (facilitiesnet case).
+    msrc = {"id": "facilitiesnet", "lane": "context", "config": {"feed": "x"}}
+    mitems = rss.parse(load("malformed.xml", binary=True), msrc)
+    check("rss malformed fallback recovers items", len(mitems) == 2, f"got {len(mitems)}")
+    check("rss malformed title", mitems[0]["title"].startswith("Occupancy sensors"))
+    check("rss malformed link", mitems[0]["url"].endswith("/article/12345"))
+    check("rss malformed html stripped in body", "<p>" not in mitems[1]["text"])
 
 
 def test_hn():
@@ -123,6 +132,42 @@ def test_normalize_and_dedup():
     check("normalize dedup on second pass", len(new2) == 0 and dup2 == 1, f"new={len(new2)} dup={dup2}")
 
 
+def test_relevance():
+    print("test_relevance")
+    config = common.load_json(common.SCORING_PATH, default={})
+    # Real live-run noise vs signal for a question source (Spiceworks).
+    sw = {"id": "spiceworks", "lane": "question", "adapter": "spiceworks", "config": {}}
+    items = [
+        {"title": "Google Chrome", "text": "browser thread"},                       # junk
+        {"title": "Microsoft Windows 7 Pro", "text": ""},                            # junk
+        {"title": "Visitor management that integrates with access control", "text": ""},  # signal
+        {"title": "Anyone using desk booking software?", "text": "hot desking"},     # signal
+    ]
+    kept, dropped = relevance.filter_source(items, sw, config)
+    check("relevance drops junk", dropped == 2 and len(kept) == 2, f"kept={len(kept)} dropped={dropped}")
+    check("relevance keeps visitor mgmt", any("Visitor management" in k["title"] for k in kept))
+
+    # HN off-topic bleed-through gets dropped too.
+    hn = {"id": "hackernews", "lane": "question", "adapter": "hackernews", "config": {}}
+    hn_items = [
+        {"title": "Future euro banknote design proposals", "text": ""},              # junk
+        {"title": "JPMorgan Workers Ponder Union after Return-to-Office Mandate", "text": ""},  # signal
+    ]
+    _, hn_dropped = relevance.filter_source(hn_items, hn, config)
+    check("relevance drops HN off-topic", hn_dropped == 1, f"dropped={hn_dropped}")
+
+    # Reddit (query-targeted, sparse) is NOT gated by default.
+    rd = {"id": "reddit_sysadmin", "lane": "question", "adapter": "reddit_arctic", "config": {}}
+    rd_items = [{"title": "some tangential post", "text": "no keyword here"}]
+    rd_kept, rd_dropped = relevance.filter_source(rd_items, rd, config)
+    check("relevance skips reddit by default", rd_dropped == 0 and len(rd_kept) == 1)
+
+    # Context feeds pass untouched by default.
+    ctx = {"id": "allwork_space", "lane": "context", "adapter": "rss", "config": {}}
+    ctx_kept, ctx_dropped = relevance.filter_source([{"title": "anything", "text": ""}], ctx, config)
+    check("relevance skips context by default", ctx_dropped == 0 and len(ctx_kept) == 1)
+
+
 def test_digest():
     print("test_digest")
     config = common.load_json(common.SCORING_PATH, default={})
@@ -156,7 +201,7 @@ def test_digest():
 
 def main():
     for t in (test_rss, test_hn, test_spiceworks, test_reddit,
-              test_normalize_and_dedup, test_digest):
+              test_normalize_and_dedup, test_relevance, test_digest):
         t()
     print(f"\n{PASS} passed, {FAIL} failed")
     return 1 if FAIL else 0

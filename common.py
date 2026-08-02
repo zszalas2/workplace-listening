@@ -56,6 +56,18 @@ def get(url, timeout=15, headers=None, retries=2):
             req = urllib.request.Request(url, headers=h)
             with urllib.request.urlopen(req, timeout=timeout) as r:
                 return r.read()
+        except urllib.error.HTTPError as e:  # noqa: PERF203
+            last = e
+            if attempt < retries:
+                # Honor Retry-After on 429/503, else exponential backoff.
+                wait = 2 ** attempt
+                if e.code in (429, 503):
+                    ra = e.headers.get("Retry-After") if e.headers else None
+                    try:
+                        wait = max(wait, int(ra)) if ra else max(wait, 5)
+                    except (TypeError, ValueError):
+                        wait = max(wait, 5)
+                time.sleep(wait)
         except Exception as e:  # noqa: BLE001 - best effort by design
             last = e
             if attempt < retries:

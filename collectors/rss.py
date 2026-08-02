@@ -13,6 +13,7 @@ data/items.jsonl contract:
   {source_id, lane, native_id, url, title, text, published_at,
    author_role_hint, geo_hint, engagement}
 """
+import re
 import xml.etree.ElementTree as ET
 
 import common
@@ -57,8 +58,10 @@ def parse(raw, source):
     try:
         root = ET.fromstring(raw)
     except ET.ParseError as e:
-        print(f"  ! {sid}: xml parse error: {e}")
-        return items
+        # Some feeds (e.g. facilitiesnet) ship malformed XML. Salvage what we can
+        # with a lenient regex pass rather than losing the whole source.
+        print(f"  ! {sid}: xml parse error ({e}); falling back to lenient parse")
+        return _regex_items(raw, source)
 
     # RSS 2.0: <rss><channel><item>...  |  Atom: <feed><entry>...
     entries = root.findall(".//item")
@@ -91,6 +94,57 @@ def parse(raw, source):
             "url": url,
             "title": title,
             "text": text,
+            "published_at": common.iso_or_none(pub),
+            "author_role_hint": None,
+            "geo_hint": geo,
+            "engagement": {},
+        })
+    return items
+
+
+def _tag(block, name):
+    m = re.search(rf"<{name}[^>]*>(.*?)</{name}>", block, re.S | re.I)
+    if not m:
+        return ""
+    val = m.group(1).strip()
+    cdata = re.match(r"^<!\[CDATA\[(.*)\]\]>$", val, re.S)
+    return cdata.group(1).strip() if cdata else val
+
+
+def _regex_items(raw, source):
+    """Lenient fallback for malformed feeds: pull <item>/<entry> blocks by regex."""
+    sid = source["id"]
+    lane = source.get("lane", "context")
+    cfg = source.get("config") or {}
+    keywords = cfg.get("keywords")
+    geo = cfg.get("geo_hint")
+    try:
+        text = raw.decode("utf-8", "replace") if isinstance(raw, bytes) else raw
+    except Exception:  # noqa: BLE001
+        return []
+    items = []
+    blocks = re.findall(r"<(?:item|entry)[^>]*>(.*?)</(?:item|entry)>", text, re.S | re.I)
+    for b in blocks:
+        title = common.strip_html(_tag(b, "title"))
+        link = _tag(b, "link")
+        if not link:  # atom style: <link href="..."/>
+            m = re.search(r'<link[^>]*href="([^"]+)"', b, re.I)
+            link = m.group(1) if m else ""
+        body = _tag(b, "content:encoded") or _tag(b, "description") or _tag(b, "summary")
+        body = common.strip_html(body)
+        pub = _tag(b, "pubDate") or _tag(b, "published") or _tag(b, "updated") or _tag(b, "dc:date")
+        native = _tag(b, "guid") or _tag(b, "id") or link or title
+        if keywords and not _matches_keywords(title, body, keywords):
+            continue
+        if not (title or link):
+            continue
+        items.append({
+            "source_id": sid,
+            "lane": lane,
+            "native_id": native,
+            "url": link,
+            "title": title,
+            "text": body,
             "published_at": common.iso_or_none(pub),
             "author_role_hint": None,
             "geo_hint": geo,

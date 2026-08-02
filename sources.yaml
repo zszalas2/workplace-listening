@@ -154,7 +154,9 @@
   adapter: rss
   cadence: weekly
   config:
-    feed: https://worktechacademy.com/feed/
+    # Direct feed returns HTTP 403 (Cloudflare) from CI runners; use the Google
+    # News RSS proxy, same workaround as facility_executive.
+    feed: https://news.google.com/rss/search?q=site:worktechacademy.com&hl=en-US&gl=US&ceid=US:en
 
 - id: charter
   lane: context

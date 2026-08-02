@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>FacilitiesNet</title>
+    <item>
+      <title>Occupancy sensors reshape space management budgets</title>
+      <link>https://www.facilitiesnet.com/spacemanagement/article/12345</link>
+      <guid>https://www.facilitiesnet.com/?a=12345</guid>
+      <pubDate>Wed, 30 Jul 2026 10:00:00 +0000</pubDate>
+      <description>Facilities teams weigh occupancy data against desk booking rollouts.</description>
+    </item>
+    <item>
+      <title>Return to office push tests meeting room capacity</title>
+      <link>https://www.facilitiesnet.com/rto/article/12346</link>
+      <pubDate>Tue, 29 Jul 2026 09:00:00 +0000</pubDate>
+      <description>Unclosed paragraph <p>breaks strict XML parsing here</description>
+    </item>
+  </channel>

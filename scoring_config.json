@@ -17,5 +17,22 @@
     "digest_max_themes": 8,
     "gap_play_max_saturation": 0.2
   },
-  "suppress_if_became_post_within_days": 120
+  "suppress_if_became_post_within_days": 120,
+  "relevance": {
+    "enabled": true,
+    "keywords": [
+      "visitor management", "visitor sign", "visitor sign-in", "sign in app",
+      "front desk", "front office", "reception", "check-in", "check in",
+      "desk booking", "hot desk", "hotdesk", "hoteling", "hot-desking",
+      "room booking", "meeting room", "conference room", "space management",
+      "workspace", "workplace", "office space", "floor plan", "seat allocation",
+      "occupancy", "utilization", "occupancy sensor",
+      "return to office", "return-to-office", "rto", "back to office",
+      "hybrid work", "hybrid office", "hybrid policy", "office attendance",
+      "attendance tracking", "flex office", "coworking", "co-working",
+      "access control", "badge", "workplace analytics", "workspace management",
+      "facilities", "facility management", "workspace spend", "neighborhood model",
+      "work from home", "remote work"
+    ]
+  }
 }

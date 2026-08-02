@@ -30,6 +30,7 @@ import collectors
 import common
 import digest
 import normalize
+import relevance
 
 
 def select_sources(sources, cadence, only, limit):
@@ -94,11 +95,20 @@ def main(argv=None):
             print(f"  ! {sid}: {error}")
             continue
         ok += 1
-        new_items, dup = normalize.normalize(raw_items or [], sid, state)
+        fetched = len(raw_items or [])
+        kept, off_topic = relevance.filter_source(raw_items or [], source, config)
+        new_items, dup = normalize.normalize(kept, sid, state)
         all_new.extend(new_items)
-        summary_rows.append({"id": sid, "new": len(new_items),
-                             "note": f"ok ({dup} dup)" if dup else "ok"})
-        print(f"  + {sid}: {len(new_items)} new ({dup} dup, {len(raw_items or [])} fetched)")
+        note = "ok"
+        extra = []
+        if dup:
+            extra.append(f"{dup} dup")
+        if off_topic:
+            extra.append(f"{off_topic} off-topic")
+        if extra:
+            note = "ok (" + ", ".join(extra) + ")"
+        summary_rows.append({"id": sid, "new": len(new_items), "note": note})
+        print(f"  + {sid}: {len(new_items)} new ({dup} dup, {off_topic} off-topic, {fetched} fetched)")
 
     run_summary = {
         "run_id": common.RUN_ID,
