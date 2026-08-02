@@ -31,6 +31,12 @@ import common
 import digest
 import normalize
 import relevance
+import scoring
+import synthesize
+try:
+    import issues
+except ImportError:  # issues module is optional
+    issues = None
 
 
 def select_sources(sources, cadence, only, limit):
@@ -120,16 +126,31 @@ def main(argv=None):
         "new_items": len(all_new),
     }
 
+    # Step 4.5: synthesis + deterministic scoring (Wave 1). Best-effort: skipped
+    # when there is no ANTHROPIC_API_KEY or no new question items, in which case
+    # the digest falls back to the counts-only view.
+    model_output = synthesize.synthesize(all_new, themes, config)
+    if model_output is not None:
+        themes = scoring.score(themes, model_output, all_new, config)
+        run_summary["themes_total"] = len(themes)
+        run_summary["movers"] = sum(
+            1 for t in themes if t.get("status") in ("new", "accelerating", "gap"))
+        print(f"  synthesis: {len(themes)} themes, {run_summary['movers']} movers")
+
     if args.dry_run:
-        print(f"\n[dry-run] would append {len(all_new)} items; not writing items.jsonl/state.json")
+        print(f"\n[dry-run] would append {len(all_new)} items; not writing items.jsonl/state.json/themes.json")
     else:
         common.append_jsonl(common.ITEMS_PATH, all_new)
         state.setdefault("runs", []).append(run_summary)
         common.save_json(common.STATE_PATH, state)
+        if model_output is not None:
+            common.save_json(common.THEMES_PATH, themes)
 
     # Step 5: digest (always written so the loop is visible even on dry runs).
     out = digest.write(run_summary, all_new, themes, config)
     print(f"\ndigest: {out}")
+    if issues is not None and model_output is not None and not args.dry_run:
+        issues.sync(themes, config)
     print(f"done: {len(all_new)} new items, {ok} ok / {err} err / {skipped} skipped")
     return 0
 

@@ -19,6 +19,12 @@ jobs:
           python-version: "3.11"
       - name: Run weekly collectors + digest
         run: python3 run.py --cadence weekly
+        env:
+          # Synthesis (Wave 1) runs only when this secret is set; otherwise the
+          # digest falls back to the counts-only view. Issues sync uses the
+          # workflow token and the issues:write permission above.
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit results
         run: |
           git config user.name "listening-bot"

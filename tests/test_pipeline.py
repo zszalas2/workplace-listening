@@ -16,6 +16,9 @@ import common          # noqa: E402
 import normalize       # noqa: E402
 import digest          # noqa: E402
 import relevance       # noqa: E402
+import scoring         # noqa: E402
+import synthesize      # noqa: E402
+import issues          # noqa: E402
 from collectors import rss, hackernews, spiceworks, reddit_arctic  # noqa: E402
 
 PASS = 0
@@ -199,9 +202,155 @@ def test_digest():
     check("digest wave0 movers placeholder", "counts-only Wave 0 digest" in md)
 
 
+def _item(iid, source_id, lane, day="2026-08-01"):
+    return {"id": iid, "source_id": source_id, "lane": lane,
+            "published_at": day, "observed_at": day, "engagement": {}}
+
+
+def test_synthesis_assembly():
+    print("test_synthesis_assembly")
+    config = common.load_json(common.SCORING_PATH, default={})
+    items = [_item("i1", "reddit_sysadmin", "question"),
+             _item("c1", "allwork_space", "context")]
+    prompt = synthesize.build_prompt(items, themes=[
+        {"theme_id": "visitor-mgmt", "label": "Visitor mgmt", "vocabulary": ["badge"]}])
+    check("prompt carries question item", "i1" in prompt)
+    check("prompt carries context item", "c1" in prompt)
+    check("prompt carries registry", "visitor-mgmt" in prompt)
+
+    canned = {"themes": [{"theme_id": "t", "label": "L", "is_new": True,
+                          "item_ids": ["i1"], "buying_questions": [], "vocabulary": [],
+                          "covered_by_context": [], "suggested_angle": "", "watching": False}]}
+
+    def fake(_ni, _th, _cfg, _key):
+        return canned
+
+    out = synthesize.synthesize(items, [], config, call=fake)
+    check("synthesize returns model output", out == canned)
+    # No question items -> skip entirely.
+    ctx_only = synthesize.synthesize([_item("c2", "allwork_space", "context")], [], config, call=fake)
+    check("synthesize skips without question items", ctx_only is None)
+
+
+def test_scoring_basic():
+    print("test_scoring_basic")
+    config = common.load_json(common.SCORING_PATH, default={})
+    week = common.iso_week()
+    items = [_item("i1", "reddit_sysadmin", "question"),
+             _item("i2", "spiceworks", "question"),
+             _item("i4", "hackernews", "question"),
+             _item("i3", "hackernews", "question"),
+             _item("c1", "allwork_space", "context")]
+    model = {"themes": [
+        {"theme_id": "visitor-mgmt", "label": "Visitor management + access control",
+         "is_new": True, "item_ids": ["i1", "i2", "i4"],
+         "buying_questions": [{"quote": "What VMS integrates with access control?",
+                              "url": "u", "source_id": "reddit_sysadmin"}],
+         "vocabulary": ["visitor management", "access control"],
+         "covered_by_context": [], "suggested_angle": "Lead with badge-free entry.",
+         "watching": False},
+        {"theme_id": "rto-mandate", "label": "RTO mandate enforcement", "is_new": True,
+         "item_ids": ["i3"], "buying_questions": [], "vocabulary": ["rto"],
+         "covered_by_context": ["allwork_space"], "suggested_angle": "", "watching": False},
+    ]}
+    out = scoring.score([], model, items, config, week=week)
+    by = {t["theme_id"]: t for t in out}
+    vm = by["visitor-mgmt"]
+    rto = by["rto-mandate"]
+    check("scoring two themes", len(out) == 2)
+    check("scoring current count", vm["current"] == 3, str(vm["current"]))
+    check("scoring status new", vm["status"] == "new", vm["status"])
+    check("scoring demand normalized to 1", vm["demand_score"] == 1.0, str(vm["demand_score"]))
+    check("scoring no saturation -> opportunity high", vm["opportunity_score"] == 1.0,
+          str(vm["opportunity_score"]))
+    check("scoring evidence carried", vm["evidence"] and "VMS" in vm["evidence"][0]["quote"])
+    check("scoring vocabulary carried", "access control" in vm["vocabulary"])
+    check("scoring saturated theme -> saturation 1", rto["saturation_score"] == 1.0,
+          str(rto["saturation_score"]))
+    check("scoring sub-threshold -> watching", rto["status"] == "watching", rto["status"])
+
+
+def test_scoring_velocity_and_suppression():
+    print("test_scoring_velocity_and_suppression")
+    config = common.load_json(common.SCORING_PATH, default={})
+    week = common.iso_week()
+    tw = scoring._trailing_weeks(week, config.get("velocity_window_weeks", 6))
+    quiet = {tw[0]: 0, tw[1]: 0, tw[2]: 0, tw[3]: 0, tw[4]: 1, tw[5]: 1}
+    existing = [
+        {"theme_id": "desk-booking", "label": "Desk booking", "first_seen": "2026-01-01",
+         "counts_by_week": dict(quiet), "evidence": [], "vocabulary": [],
+         "became_post": None, "became_post_at": None},
+        {"theme_id": "hoteling", "label": "Hoteling", "first_seen": "2026-01-01",
+         "counts_by_week": {}, "evidence": [], "vocabulary": [],
+         "became_post": "post-x", "became_post_at": common.RUN_ID},
+    ]
+    spike = [_item(f"d{i}", "reddit_sysadmin", "question") for i in range(6)]
+    spike += [_item("h1", "spiceworks", "question")]
+    model = {"themes": [
+        {"theme_id": "desk-booking", "label": "Desk booking", "is_new": False,
+         "item_ids": [f"d{i}" for i in range(6)], "buying_questions": [],
+         "vocabulary": [], "covered_by_context": [], "suggested_angle": "", "watching": False},
+        {"theme_id": "hoteling", "label": "Hoteling", "is_new": False,
+         "item_ids": ["h1"], "buying_questions": [], "vocabulary": [],
+         "covered_by_context": [], "suggested_angle": "", "watching": False},
+    ]}
+    out = scoring.score(existing, model, spike, config, week=week)
+    by = {t["theme_id"]: t for t in out}
+    check("velocity spike -> accelerating", by["desk-booking"]["status"] == "accelerating",
+          f"{by['desk-booking']['status']} z={by['desk-booking']['delta_z']}")
+    check("velocity delta_z positive", by["desk-booking"]["delta_z"] > 1.5,
+          str(by["desk-booking"]["delta_z"]))
+    check("recent post -> suppressed", by["hoteling"]["status"] == "suppressed",
+          by["hoteling"]["status"])
+
+
+def test_digest_v1():
+    print("test_digest_v1")
+    config = common.load_json(common.SCORING_PATH, default={})
+    week = common.iso_week()
+    items = [_item("i1", "reddit_sysadmin", "question"),
+             _item("i2", "spiceworks", "question"),
+             _item("i4", "hackernews", "question")]
+    model = {"themes": [{"theme_id": "visitor-mgmt",
+                         "label": "Visitor management + access control", "is_new": True,
+                         "item_ids": ["i1", "i2", "i4"],
+                         "buying_questions": [{"quote": "Which VMS integrates with access control?",
+                                              "url": "https://x", "source_id": "reddit_sysadmin"}],
+                         "vocabulary": ["visitor management"], "covered_by_context": [],
+                         "suggested_angle": "Lead with badge-free entry for HR.",
+                         "watching": False}]}
+    scored = scoring.score([], model, items, config, week=week)
+    md = digest.build({"run_id": common.RUN_ID, "sources": [], "sources_ok": 1,
+                       "sources_error": 0, "sources_skipped": 0}, items, scored, config)
+    check("digest v1 renders mover", "Visitor management + access control" in md)
+    check("digest v1 not wave0 placeholder", "counts-only Wave 0 digest" not in md)
+    check("digest v1 verbatim question", "Which VMS integrates" in md)
+    check("digest v1 saturation read", "saturation read" in md)
+    check("digest v1 suggested angle", "badge-free entry" in md)
+    check("digest v1 no em dashes", "—" not in md)
+
+
+def test_issues_body():
+    print("test_issues_body")
+    theme = {"theme_id": "visitor-mgmt", "label": "Visitor management",
+             "status": "new", "opportunity_score": 0.81, "demand_score": 0.9,
+             "saturation_score": 0.1, "suggested_angle": "Badge-free entry.",
+             "evidence": [{"quote": "Which VMS?", "url": "https://x", "source_id": "reddit_sysadmin"}],
+             "covered_by_context": [], "vocabulary": ["visitor management", "kiosk"]}
+    body = issues.issue_body(theme)
+    check("issue body has marker", "theme_id=visitor-mgmt" in body)
+    check("issue body has question", "Which VMS?" in body)
+    check("issue body has angle", "Badge-free entry" in body)
+    check("issue body no em dash", "—" not in body)
+    labels = issues.issue_labels(theme)
+    check("issue labels", labels == ["theme", "status:new", "wave1"], str(labels))
+
+
 def main():
     for t in (test_rss, test_hn, test_spiceworks, test_reddit,
-              test_normalize_and_dedup, test_relevance, test_digest):
+              test_normalize_and_dedup, test_relevance, test_digest,
+              test_synthesis_assembly, test_scoring_basic,
+              test_scoring_velocity_and_suppression, test_digest_v1, test_issues_body):
         t()
     print(f"\n{PASS} passed, {FAIL} failed")
     return 1 if FAIL else 0

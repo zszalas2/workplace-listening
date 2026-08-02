@@ -51,8 +51,26 @@ def _fmt_movers(themes, config):
         for ev in (t.get("evidence") or [])[:3]:
             q = (ev.get("quote") or "").strip()
             lines.append(f"  - \"{q}\" [{ev.get('source_id', '')}]({ev.get('url', '')})")
+        covered = t.get("covered_by_context") or []
+        if covered:
+            lines.append(f"- saturation read: already covered by {', '.join(covered)}")
+        else:
+            lines.append("- saturation read: no Lane B coverage found (open field)")
+        angle = (t.get("suggested_angle") or "").strip()
+        if angle:
+            lines.append(f"- suggested angle: {angle}")
         lines.append("")
     return "\n".join(lines)
+
+
+def _fmt_watching(themes):
+    """One-line list of sub-threshold themes being watched."""
+    watching = [t for t in themes if t.get("status") == "watching"]
+    if not watching:
+        return ""
+    watching.sort(key=lambda t: t.get("current", 0), reverse=True)
+    parts = [f"{t.get('label', t.get('theme_id'))} ({t.get('current', 0)})" for t in watching[:12]]
+    return "_Watching: " + "; ".join(parts) + "._\n"
 
 
 def build(run_summary, items_this_run, themes, config):
@@ -62,6 +80,10 @@ def build(run_summary, items_this_run, themes, config):
     # Movers (empty in Wave 0).
     lines.append("## Movers")
     lines.append(_fmt_movers(themes, config))
+
+    watching = _fmt_watching(themes)
+    if watching:
+        lines.append(watching)
 
     # Counts view.
     lines.append("## Run counts")
