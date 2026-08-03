@@ -1,0 +1,48 @@
+{
+ "id": "3af18386c28a070d7a539942af9d5e1d2d5c20cc",
+ "source_id": "podcast_workplace_innovator",
+ "url": "https://eptura.com/discover-more/podcasts/workplace-innovator/",
+ "published_at": "2025-11-25",
+ "observed_at": "2026-08-03",
+ "summary": "Podcast show notes for Episode 379 of Eptura's Workplace Innovator, hosted by Mike Petrusky, featuring Dominique Burgauer, CEO of Archilogic. Archilogic focuses on digitally mapping interior spaces (floor plans) and offers an integrated product suite that lets customers build apps, websites and workplace experiences on top of that spatial data.\n\nThe conversation centers on connectivity and interoperability between workplace systems as a prerequisite for faster, better decision-making. Burgauer argues that when systems talk to each other, workplace and real estate leaders can accelerate decisions rather than waiting on fragmented data. The discussion also covers AI, worktech tooling, and the importance of capturing the right data (not simply more data) to deliver against desired business outcomes.\n\nA second theme is organizational: breaking down departmental silos and fostering cross-functional collaboration is described as paramount for corporate real estate (CRE) and facility management leaders who want to deliver frictionless employee experiences and a more productive built environment.\n\nBurgauer's stated design philosophy is that the best workplace technologies are seamless and unnoticeable to end users. The episode closes with practical advice and the show's standard encouragement for listeners to act as Workplace Innovators in their own organizations.\n\nThe notes include links to Burgauer's LinkedIn, the Archilogic website, Eptura's podcast resource hub and past interviews, Eptura's main site, and Mike Petrusky's LinkedIn. No specific statistics, survey data, customer counts or product pricing are cited in the show notes. There is no discussion of desk booking mechanics, hot desking, return-to-office mandates, visitor management workflows, or support desk metrics, so the item functions primarily as high-level thought leadership on workplace data infrastructure and systems integration rather than as an operational or policy piece.",
+ "claims": [
+  {
+   "claim": "Connectivity and interoperability between workplace systems are essential for accelerating decision-making in the workplace",
+   "stat": "",
+   "attribution": "Dominique Burgauer, CEO of Archilogic"
+  },
+  {
+   "claim": "The best workplace technologies are those that are seamless and unnoticeable",
+   "stat": "",
+   "attribution": "Dominique Burgauer"
+  },
+  {
+   "claim": "Breaking down silos and fostering cross-department collaboration is paramount for CRE and facility management leaders seeking frictionless experiences",
+   "stat": "",
+   "attribution": "Show notes / Mike Petrusky and Dominique Burgauer"
+  },
+  {
+   "claim": "Archilogic maps the world's interiors with an integrated product suite for building apps, websites and experiences",
+   "stat": "",
+   "attribution": "Eptura show notes"
+  }
+ ],
+ "vocabulary": [
+  "connectivity",
+  "interoperability",
+  "worktech",
+  "AI",
+  "CRE (corporate real estate)",
+  "facility management",
+  "built environment",
+  "frictionless experiences",
+  "breaking down silos",
+  "business outcomes",
+  "integrated suite",
+  "mapping interiors",
+  "Workplace Innovator",
+  "Eptura",
+  "Archilogic"
+ ],
+ "topics_covered": []
+}

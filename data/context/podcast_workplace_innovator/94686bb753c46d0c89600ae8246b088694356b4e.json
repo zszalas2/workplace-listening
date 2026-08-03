@@ -1,0 +1,45 @@
+{
+ "id": "94686bb753c46d0c89600ae8246b088694356b4e",
+ "source_id": "podcast_workplace_innovator",
+ "url": "https://eptura.com/discover-more/podcasts/workplace-innovator/",
+ "published_at": "2026-01-06",
+ "observed_at": "2026-08-03",
+ "summary": "Podcast episode (Workplace Innovator Ep. 383, hosted by Mike Petrusky of Eptura) featuring Bryan Berthold, Global Workplace Experience Leader at Cushman & Wakefield. The discussion centers on C&W's report \"Reimagining Workplaces: Why Efforts Fall Short and How to Get It Right.\"\n\nKey arguments: workplace experience is not solely a real estate concern; it requires shared ownership across HR, IT, corporate real estate (CRE), facilities management (FM) and other stakeholders, summed up by the episode title \"We All Have a Role.\" Berthold cites research showing only 47% of organizations have any focus on workplace experience and fewer than 1% treat it as a business priority, which he frames as an opportunity for CRE and FM leaders to differentiate and move the needle.\n\nOn attendance, Berthold argues people come to the office primarily to collaborate and connect with others, so return-to-office mandates alone do not improve workplace experience. Instead he emphasizes clear communication, listening to employees, and investment in workplace technology.\n\nThe conversation also covers Cushman & Wakefield's \"Experience per Square Foot\" model as a framework for measuring and improving workplace experience, positioned as an alternative to purely space- or cost-based metrics. The episode closes with encouragement for listeners to act as workplace innovators heading into 2026, plus links to the report, C&W, Eptura, and the guests' LinkedIn profiles and video version.",
+ "claims": [
+  {
+   "claim": "Only a minority of organizations focus on workplace experience",
+   "stat": "47% of organizations have a focus on workplace experience",
+   "attribution": "Bryan Berthold, Cushman & Wakefield, citing the \"Reimagining Workplaces\" report"
+  },
+  {
+   "claim": "Almost no organizations treat workplace experience as a business priority",
+   "stat": "less than 1%",
+   "attribution": "Bryan Berthold, Cushman & Wakefield"
+  },
+  {
+   "claim": "People come to the office primarily to collaborate and connect with others, so mandates alone are not effective at improving workplace experience",
+   "stat": "",
+   "attribution": "Bryan Berthold, Cushman & Wakefield"
+  },
+  {
+   "claim": "Workplace experience requires clear communication, listening, and investment in technology",
+   "stat": "",
+   "attribution": "Bryan Berthold, Cushman & Wakefield"
+  }
+ ],
+ "vocabulary": [
+  "workplace experience",
+  "Experience per Square Foot",
+  "CRE (corporate real estate)",
+  "FM (facilities management)",
+  "mandates",
+  "workplace innovator",
+  "people, place, and performance",
+  "Global Workplace Experience Leader",
+  "Eptura",
+  "Cushman & Wakefield"
+ ],
+ "topics_covered": [
+  "hybrid_rto_mandate_pushback"
+ ]
+}

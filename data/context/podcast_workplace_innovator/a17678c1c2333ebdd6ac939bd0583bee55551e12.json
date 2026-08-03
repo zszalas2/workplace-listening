@@ -1,0 +1,38 @@
+{
+ "id": "a17678c1c2333ebdd6ac939bd0583bee55551e12",
+ "source_id": "podcast_workplace_innovator",
+ "url": "https://eptura.com/discover-more/podcasts/workplace-innovator/",
+ "published_at": "2026-02-10",
+ "observed_at": "2026-08-03",
+ "summary": "Solo episode 388 of Eptura's Workplace Innovator Podcast, hosted by Mike Petrusky. Rather than a guest interview, Petrusky reflects on roughly a decade of podcasting and how the facility management industry has changed over that period. The episode is framed as a vision-casting exercise for the future of FM leadership, blending personal anecdotes, inspirational quotations, and forward-looking commentary on the future of work.\n\nKey threads: lessons Petrusky says he has learned about leadership, workplace technology, and innovation; his optimism about the coming ten years; and the potential impact of AI on the built environment. He stresses empathetic leadership and understanding human behavior as central capabilities for workplace leaders, positioning the human element rather than tooling as the differentiator in the future workplace.\n\nThe episode leans heavily on motivational framing, citing C.S. Lewis, Brene Brown, and Seth Godin, and urges listeners to leave their comfort zone and pursue their own hero's journey so they can act as a Workplace Innovator inside their own organizations.\n\nThe show notes also serve a promotional function, pointing to Petrusky's LinkedIn, a YouTube playlist of episodes, free resources and an archive of past interviews on the Eptura site, and a link to learn more about Eptura.\n\nNotably, the item contains no data, survey findings, or specific operational detail. There is no discussion of desk booking, hot desking, visitor management, RTO mandates, occupancy analytics, or service desk metrics. It is a general leadership and inspiration episode from a workplace technology vendor's content program, useful mainly as a signal of vendor thought-leadership positioning around AI and empathetic FM leadership rather than as a source of substantive claims.",
+ "claims": [
+  {
+   "claim": "Petrusky has been podcasting for about a decade and reflects on the evolution of facility management over that span",
+   "stat": "decade / ten years",
+   "attribution": "Mike Petrusky, host, Workplace Innovator Podcast"
+  },
+  {
+   "claim": "AI will have significant potential impact on the built environment over the next ten years",
+   "stat": "",
+   "attribution": "Mike Petrusky"
+  },
+  {
+   "claim": "Empathetic leadership and understanding human behavior are critical to the future workplace",
+   "stat": "",
+   "attribution": "Mike Petrusky"
+  }
+ ],
+ "vocabulary": [
+  "facility management",
+  "Workplace Innovator",
+  "future of work",
+  "built environment",
+  "AI",
+  "empathetic leadership",
+  "workplace technology",
+  "innovation",
+  "hero's journey",
+  "Eptura"
+ ],
+ "topics_covered": []
+}

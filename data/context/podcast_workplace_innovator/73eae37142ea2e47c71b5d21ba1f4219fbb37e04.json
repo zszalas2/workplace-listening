@@ -1,0 +1,50 @@
+{
+ "id": "73eae37142ea2e47c71b5d21ba1f4219fbb37e04",
+ "source_id": "podcast_workplace_innovator",
+ "url": "https://eptura.com/discover-more/podcasts/workplace-innovator/",
+ "published_at": "2026-05-05",
+ "observed_at": "2026-08-03",
+ "summary": "Episode 400 of Eptura's Workplace Innovator podcast, hosted by Mike Petrusky, is a milestone retrospective recorded in San Francisco during IFMA's Facility Fusion 2026. Six former guests from the IFMA community join to reflect on a decade of the show, the present state of facility management, and where the workplace is heading.\n\nThe discussion frames facility management as having shifted dramatically over the years: technical and transactional competence alone is no longer enough, and leadership, culture-building, and an understanding of human behavior are now presented as essential to success. AI and automation are described as reshaping the FM industry, freeing practitioners from transactional tasks so they can focus on strategic work, personal upskilling, and delivering broader organizational value.\n\nA second thread is community and professional development. The guests credit relationships built through IFMA with enabling growth, collaboration, and innovation, and they emphasize resilience, optimism, and human connection as core traits for people who care for the built environment. Music and pop culture, including the Star Wars framing of the title (\"Do or Do Not\"), are used as unifying, morale-building elements, alongside anecdotes and stories from the show's history.\n\nFeatured guests are Rene Jackson (MBA, CFM), Lena Thompson (IFMA Fellow, FMP, SFP), Amanda Muzzarelli, Vik Bangia (MCR), James Waddell, and Wayne Whitzell (CFM, FMP, SFP, LEED AP, BEP, IFMA Fellow). The show notes point to LinkedIn profiles for each participant, a YouTube playlist of the video version, free resources and archived interviews on Eptura's site, and Eptura product information.\n\nThe item is promotional show-note copy rather than reporting: it contains no statistics, survey data, or specific operational claims, and does not address desk booking, visitor management, RTO mandates, or workplace metrics in any concrete way.",
+ "claims": [
+  {
+   "claim": "The facility management landscape has shifted dramatically over the past decade, making leadership, culture-building, and understanding human behavior essential to workplace success.",
+   "stat": "",
+   "attribution": "Mike Petrusky and guests, Workplace Innovator podcast (Eptura)"
+  },
+  {
+   "claim": "AI and automation are reshaping the FM industry, enabling professionals to focus on strategic work and upskilling rather than transactional tasks.",
+   "stat": "",
+   "attribution": "Mike Petrusky and guests"
+  },
+  {
+   "claim": "The episode is the podcast's 400th and was recorded in San Francisco during IFMA's Facility Fusion 2026.",
+   "stat": "Episode 400",
+   "attribution": "Eptura show notes"
+  },
+  {
+   "claim": "Six past guests joined the anniversary episode.",
+   "stat": "6 guests",
+   "attribution": "Eptura show notes"
+  }
+ ],
+ "vocabulary": [
+  "facility management (FM)",
+  "Workplace Innovator",
+  "IFMA",
+  "Facility Fusion",
+  "built environment",
+  "AI and automation",
+  "upskilling",
+  "transactional tasks",
+  "culture-building",
+  "CFM",
+  "FMP",
+  "SFP",
+  "IFMA Fellow",
+  "LEED AP",
+  "MCR",
+  "future of the workplace",
+  "Eptura"
+ ],
+ "topics_covered": []
+}

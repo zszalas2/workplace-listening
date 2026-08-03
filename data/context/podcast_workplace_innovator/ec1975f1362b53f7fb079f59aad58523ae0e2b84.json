@@ -1,0 +1,47 @@
+{
+ "id": "ec1975f1362b53f7fb079f59aad58523ae0e2b84",
+ "source_id": "podcast_workplace_innovator",
+ "url": "https://eptura.com/discover-more/podcasts/workplace-innovator/",
+ "published_at": "2025-12-02",
+ "observed_at": "2026-08-03",
+ "summary": "Podcast show notes for Episode 380 of Eptura's Workplace Innovator, hosted by Mike Petrusky, featuring Darlene Pope, CEO of Brava Systems. Brava positions itself as a flexible system that lets organizations configure, launch, and interact with AI across the enterprise using their own data. Pope is described as a smart building and digital workplace expert and advocate for disruptive technology in real estate.\n\nThe conversation covers her career journey and the case for embracing AI in support of businesses and the built environment. A central theme is that workplace leaders need to rethink the traditional office setup and expectations around return to office, though the notes do not detail specific policy positions or mandate specifics.\n\nPope frames AI as a \"surge\" rather than a \"bubble,\" arguing it has significant potential to reshape businesses over the next 5 to 10 years. Because of that, she stresses the prerequisite of gathering clean data before attempting AI implementation.\n\nEmerging technologies highlighted include location-based services and dynamic assignment of space, which the guests say can improve workplace experience and drive energy efficiency. Petrusky and Pope urge facility management and real estate leaders to \"follow the money\" when evaluating technology investments, and close with encouragement to act as a Workplace Innovator inside their own organizations.\n\nThe notes also include links to Pope's LinkedIn, Brava Systems, Eptura, and past podcast interviews. Overall the item is promotional show-note copy rather than a reported piece, with no cited studies, survey data, or named customer outcomes. Themes touched on include AI readiness and data hygiene, smart buildings, space assignment models, and sustainability or energy efficiency benefits tied to workplace technology.",
+ "claims": [
+  {
+   "claim": "AI should be viewed as a \"surge\" rather than a \"bubble,\" with significant potential to impact businesses over the next 5 to 10 years",
+   "stat": "next 5-10 years",
+   "attribution": "Darlene Pope, CEO of Brava Systems"
+  },
+  {
+   "claim": "Gathering clean data is essential to implementing AI effectively",
+   "stat": "",
+   "attribution": "Darlene Pope"
+  },
+  {
+   "claim": "Location-based services and dynamic assignment of space can improve workplace experience and drive energy efficiency",
+   "stat": "",
+   "attribution": "Mike Petrusky and Darlene Pope"
+  },
+  {
+   "claim": "Workplace leaders need to rethink the traditional office setup and expectations around return to office",
+   "stat": "",
+   "attribution": "Mike Petrusky and Darlene Pope"
+  }
+ ],
+ "vocabulary": [
+  "dynamic assignment of space",
+  "location-based services",
+  "smart building",
+  "digital workplace",
+  "return to office",
+  "built environment",
+  "facility management",
+  "AI surge vs bubble",
+  "clean data",
+  "Workplace Innovator",
+  "disruptive technology",
+  "energy efficiency",
+  "Eptura",
+  "Brava Systems"
+ ],
+ "topics_covered": []
+}

@@ -1,0 +1,46 @@
+{
+ "id": "1ba8fb5a42b3d29b790363d0f554990c6d61452a",
+ "source_id": "podcast_workplace_innovator",
+ "url": "https://eptura.com/discover-more/podcasts/workplace-innovator/",
+ "published_at": "2026-05-12",
+ "observed_at": "2026-08-03",
+ "summary": "Episode 401 of Eptura's Workplace Innovator podcast, hosted by Mike Petrusky, features Helia Taheri, Ph.D., Assoc. AIA, EDAC, an Associate and Research & Insights Lead at Arcadis. The show notes describe her focus on the often invisible but powerful influence that buildings, neighborhoods and cities exert on human connection, health and behavior.\n\nThe conversation centers on human-centered design that accounts for the whole person, covering physical, mental and social health in the workplace. Taheri argues that curiosity and intellectual humility are what fuel innovation, and that openness to being wrong plus learning from failure are essential parts of her research and design strategy work.\n\nA core topic is neuroarchitecture, described as a blend of neuroscience and architecture, used as a means of measuring how design decisions affect brain health and human behavior. Petrusky and Taheri agree on the framing captured in the episode title: if you do not measure, you cannot manage or improve. From there they discuss practical measurement methods that listeners can use to improve the effectiveness of the built environment, framed as encouragement for workplace professionals to act as innovators inside their own organizations.\n\nThe notes are promotional and light on specifics, offering no statistics, study findings or named datasets. Links point to Taheri's LinkedIn, Arcadis, the podcast YouTube playlist, Eptura's podcast resource hub, and Petrusky's LinkedIn. No visitor management, desk or room booking, RTO policy, admin workload or service desk metrics content appears; the measurement discussion is about design efficacy and occupant wellbeing rather than workplace utilization dashboards or support KPIs.",
+ "claims": [
+  {
+   "claim": "Neuroarchitecture is a blend of neuroscience and architecture that can measure how design affects brain health and human behavior",
+   "stat": "",
+   "attribution": "Helia Taheri, Arcadis"
+  },
+  {
+   "claim": "Curiosity and intellectual humility fuel innovation, with openness to being wrong and learning from failure as essential components of research and design strategy",
+   "stat": "",
+   "attribution": "Helia Taheri, Arcadis"
+  },
+  {
+   "claim": "If you don't measure, you can't manage or improve the built environment",
+   "stat": "",
+   "attribution": "Mike Petrusky and Helia Taheri"
+  },
+  {
+   "claim": "Buildings, neighborhoods and cities have silent yet powerful impacts on human connections, health and behaviors",
+   "stat": "",
+   "attribution": "Helia Taheri, Arcadis"
+  }
+ ],
+ "vocabulary": [
+  "neuroarchitecture",
+  "human-centered design",
+  "built environment",
+  "Research & Insights Lead",
+  "whole person health",
+  "physical, mental and social health",
+  "intellectual humility",
+  "Workplace Innovator",
+  "EDAC",
+  "Assoc. AIA",
+  "Eptura",
+  "Arcadis",
+  "measure to manage and improve"
+ ],
+ "topics_covered": []
+}

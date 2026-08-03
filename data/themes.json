@@ -4,7 +4,8 @@
   "label": "Hot desking backlash and whether unassigned desks actually work",
   "first_seen": "2026-08-02",
   "counts_by_week": {
-   "2026-W31": 5
+   "2026-W31": 5,
+   "2026-W32": 0
   },
   "evidence": [
    {
@@ -32,29 +33,32 @@
    "semi-open-plan",
    "quiet rooms",
    "moving between areas",
-   "new offices"
+   "new offices",
+   "shared desking",
+   "activity-based working",
+   "dynamic assignment of space",
+   "static floor plans",
+   "smart lockers"
   ],
   "became_post": null,
   "became_post_at": null,
-  "covered_by_context": [
-   "facility_executive",
-   "worktech_academy"
-  ],
-  "suggested_angle": "Show HR and workplace leads how to price the real cost of hot desking, from wasted seats to the equipment and support spend nobody budgets for.",
-  "current": 5,
-  "trailing_mean": 0,
-  "delta_z": 0.0,
+  "covered_by_context": [],
+  "suggested_angle": "Put a cost figure on unassigned seating: what companies actually save versus what they spend re-buying storage, quiet rooms and booking tools.",
+  "current": 0,
+  "trailing_mean": 0.833,
+  "delta_z": -0.447,
   "demand_score": 0.0,
-  "saturation_score": 1.0,
+  "saturation_score": 0.0,
   "opportunity_score": 0.0,
-  "status": "new"
+  "status": "steady"
  },
  {
   "theme_id": "hybrid_rto_mandate_pushback",
   "label": "Mandatory in-office days and employee reaction to RTO",
   "first_seen": "2026-08-02",
   "counts_by_week": {
-   "2026-W31": 1
+   "2026-W31": 1,
+   "2026-W32": 0
   },
   "evidence": [
    {
@@ -68,29 +72,34 @@
    "hybrid 2-3 days",
    "on site",
    "inflexible",
-   "hotdesking"
+   "hotdesking",
+   "return to office",
+   "earning the commute",
+   "mandates",
+   "attendance",
+   "proximity and presence"
   ],
   "became_post": null,
   "became_post_at": null,
   "covered_by_context": [
-   "charter",
-   "hr_brew"
+   "podcast_workplace_innovator"
   ],
-  "suggested_angle": "Explain how HR can tie office day mandates to actual per-seat and per-day spend so policy debates are settled with numbers rather than sentiment.",
-  "current": 1,
-  "trailing_mean": 0,
-  "delta_z": 0.0,
+  "suggested_angle": "Argue that spend on making the office worth the commute beats spend on enforcing mandates, and show HR how to compare the two on a per head basis.",
+  "current": 0,
+  "trailing_mean": 0.167,
+  "delta_z": -0.447,
   "demand_score": 0.0,
   "saturation_score": 1.0,
   "opportunity_score": 0.0,
-  "status": "watching"
+  "status": "steady"
  },
  {
   "theme_id": "admin_ea_operational_overhead",
   "label": "Admin, EA and office manager operational overhead",
   "first_seen": "2026-08-02",
   "counts_by_week": {
-   "2026-W31": 4
+   "2026-W31": 4,
+   "2026-W32": 0
   },
   "evidence": [
    {
@@ -122,20 +131,21 @@
   "became_post_at": null,
   "covered_by_context": [],
   "suggested_angle": "Position workspace spend management as the tool that takes recurring office admin chores off the EA and office manager plate before they become escalations.",
-  "current": 4,
-  "trailing_mean": 0,
-  "delta_z": 0.0,
-  "demand_score": 1.0,
+  "current": 0,
+  "trailing_mean": 0.667,
+  "delta_z": -0.447,
+  "demand_score": 0.0,
   "saturation_score": 0.0,
-  "opportunity_score": 1.0,
-  "status": "new"
+  "opportunity_score": 0.0,
+  "status": "steady"
  },
  {
   "theme_id": "multi_site_proof_of_work_tracking",
   "label": "Proof of work and task verification across multiple sites",
   "first_seen": "2026-08-02",
   "counts_by_week": {
-   "2026-W31": 1
+   "2026-W31": 1,
+   "2026-W32": 0
   },
   "evidence": [
    {
@@ -159,24 +169,23 @@
   ],
   "became_post": null,
   "became_post_at": null,
-  "covered_by_context": [
-   "facility_executive"
-  ],
+  "covered_by_context": [],
   "suggested_angle": "Show how a single record of office tasks and spend replaces the photo and text message trail when one person covers several sites.",
-  "current": 1,
-  "trailing_mean": 0,
-  "delta_z": 0.0,
-  "demand_score": 0.202,
-  "saturation_score": 0.5,
-  "opportunity_score": 0.101,
-  "status": "watching"
+  "current": 0,
+  "trailing_mean": 0.167,
+  "delta_z": -0.447,
+  "demand_score": 0.0,
+  "saturation_score": 0.0,
+  "opportunity_score": 0.0,
+  "status": "steady"
  },
  {
   "theme_id": "support_desk_metrics_quality",
   "label": "Support and IT service desk metrics that miss the point",
   "first_seen": "2026-08-02",
   "counts_by_week": {
-   "2026-W31": 1
+   "2026-W31": 1,
+   "2026-W32": 0
   },
   "evidence": [
    {
@@ -200,12 +209,46 @@
   "became_post_at": null,
   "covered_by_context": [],
   "suggested_angle": "Draw the parallel for workplace teams: ticket volume and closure speed hide the real question of what the workplace actually costs and delivers.",
+  "current": 0,
+  "trailing_mean": 0.167,
+  "delta_z": -0.447,
+  "demand_score": 0.0,
+  "saturation_score": 0.0,
+  "opportunity_score": 0.0,
+  "status": "steady"
+ },
+ {
+  "theme_id": "risk_assessment_vendor_review_workload",
+  "label": "Security, privacy and risk assessment workload in tool procurement",
+  "first_seen": "2026-08-03",
+  "counts_by_week": {
+   "2026-W32": 1
+  },
+  "evidence": [
+   {
+    "quote": "Questionnaires suck, and so does cramming in a risk assessment right before you want to launch.",
+    "url": "https://github.com/DataParade-io/dataparade-cli",
+    "source_id": "hackernews"
+   }
+  ],
+  "vocabulary": [
+   "risk assessment",
+   "questionnaires",
+   "dataflow diagram",
+   "privacy and security controls",
+   "processing activity",
+   "launch review"
+  ],
+  "became_post": null,
+  "became_post_at": null,
+  "covered_by_context": [],
+  "suggested_angle": "Show HR and workplace buyers how to get a visitor management or desk booking tool through privacy and security review without a last minute questionnaire scramble, and what data flows they will be asked to document.",
   "current": 1,
   "trailing_mean": 0,
   "delta_z": 0.0,
-  "demand_score": 0.176,
+  "demand_score": 1.0,
   "saturation_score": 0.0,
-  "opportunity_score": 0.176,
+  "opportunity_score": 1.0,
   "status": "watching"
  }
 ]

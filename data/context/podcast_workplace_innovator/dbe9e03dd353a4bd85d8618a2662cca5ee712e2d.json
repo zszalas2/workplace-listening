@@ -1,0 +1,42 @@
+{
+ "id": "dbe9e03dd353a4bd85d8618a2662cca5ee712e2d",
+ "source_id": "podcast_workplace_innovator",
+ "url": "https://eptura.com/discover-more/podcasts/workplace-innovator/",
+ "published_at": "2025-10-21",
+ "observed_at": "2026-08-03",
+ "summary": "Podcast episode description for The Workplace Innovator (Eptura), Ep. 374, hosted by Mike Petrusky, featuring Martha Lawrence, Executive Editor at Blanchard and author of \"Catch People Doing Things Right: How Ken Blanchard Changed the Way the World Leads.\" The book is described as an intimate portrait of Ken Blanchard, author of \"The One Minute Manager\" and dozens of other influential leadership books.\n\nThe conversation centers on Blanchard's leadership philosophy: working with people rather than controlling them. Lawrence argues that catching people doing things right can significantly boost energy levels and morale in a team. She also frames leadership as something detached from formal titles or positions, saying anyone can be a leader by influencing others, and that the focus should be on empowering people and fostering a positive environment.\n\nOther themes include innovation as a collaborative act that requires overcoming the natural human tendency to focus on mistakes rather than progress, and change management. On change, the episode notes that effective change work involves addressing people's concerns about information, personal impact, and implementation, echoing Blanchard's concerns-based change model.\n\nThe episode is positioned as practical advice and inspiration for listeners aiming to be a Workplace Innovator in their own organizations. The show notes close with links to Lawrence's LinkedIn profile, Blanchard's website, the book on Amazon, past interviews and free resources on the Eptura podcast page, Eptura's corporate site, and Petrusky's LinkedIn.\n\nNotably, the item contains no workplace-technology substance: no discussion of visitor management, desk or room booking, hybrid or return-to-office policy, workplace analytics, facilities operations, or support desk metrics. It is leadership and management content distributed through a workplace-focused podcast channel, so its value to a workplace technology listening pipeline is limited to brand and thought-leadership context around Eptura's content marketing.",
+ "claims": [
+  {
+   "claim": "Catching people doing things right can significantly boost energy levels and morale",
+   "stat": "",
+   "attribution": "Martha Lawrence, Blanchard"
+  },
+  {
+   "claim": "Leadership is not limited to formal positions; anyone can be a leader by influencing others",
+   "stat": "",
+   "attribution": "Martha Lawrence"
+  },
+  {
+   "claim": "Effective change management involves addressing people's concerns about information, personal impact, and implementation",
+   "stat": "",
+   "attribution": "Martha Lawrence / Mike Petrusky discussion"
+  },
+  {
+   "claim": "Ken Blanchard authored \"The One Minute Manager\" and dozens of other influential books",
+   "stat": "dozens of books",
+   "attribution": "Episode description"
+  }
+ ],
+ "vocabulary": [
+  "Workplace Innovator",
+  "change management",
+  "leadership philosophy",
+  "empowering people",
+  "The One Minute Manager",
+  "Eptura",
+  "Blanchard",
+  "innovation",
+  "morale"
+ ],
+ "topics_covered": []
+}

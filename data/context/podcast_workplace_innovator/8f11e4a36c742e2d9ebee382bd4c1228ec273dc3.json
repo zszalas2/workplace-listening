@@ -1,0 +1,59 @@
+{
+ "id": "8f11e4a36c742e2d9ebee382bd4c1228ec273dc3",
+ "source_id": "podcast_workplace_innovator",
+ "url": "https://eptura.com/discover-more/podcasts/workplace-innovator/",
+ "published_at": "2026-06-02",
+ "observed_at": "2026-08-03",
+ "summary": "Podcast episode 404 of Eptura's Workplace Innovator, hosted by Mike Petrusky, featuring Rebecca Swanner, Associate Principal and Senior Workplace Design Leader at HED. Swanner focuses on interiors that strengthen culture, support the evolving nature of work, and amplify human potential.\n\nCore argument: workplace leaders should start with big picture conversations about desired outcomes before making workspace or logistical decisions. Rather than beginning with square footage, seat counts, or logistics, teams should define the outcomes they want the space to produce.\n\nAI discussion: AI is absorbing low cognitive load tasks, pushing humans toward strategic and creative work. This raises what Swanner calls a \"cognitive bar,\" meaning design must actively protect focus and deep work.\n\nResponsive workplace: Swanner argues the workforce is ready for more responsive workspaces that use wearable tech and data to adapt environments to individual needs and specific tasks. She describes dynamically adjusting lighting, temperature, and acoustics based on real-time biometric data as a way to optimize human performance.\n\nMethod and measurement: effective workplace transformation requires piloting and iterating designs. Success metrics should shift away from measuring occupancy toward measuring outcomes. The future of work is framed as more integrated, asynchronous, and hybrid.\n\nThe episode notes point to HED's \"Intelligence in PLACE\" research, Swanner's LinkedIn, the YouTube playlist, and Eptura resources. No quantitative statistics, survey data, or customer case numbers are provided in the show notes. Nothing in the item addresses hot desking specifically, RTO mandates, admin overhead, multi-site task verification, or support desk metrics; the metrics critique is confined to occupancy versus outcomes in workplace design.",
+ "claims": [
+  {
+   "claim": "AI is absorbing low cognitive load tasks, increasing the need for humans to focus on strategic and creative work and raising a \"cognitive bar\" that requires protecting focus",
+   "stat": "",
+   "attribution": "Rebecca Swanner, HED"
+  },
+  {
+   "claim": "The workforce is ready for more responsive workspaces that use wearable tech and data to adapt environments to personal needs and tasks",
+   "stat": "",
+   "attribution": "Rebecca Swanner, HED"
+  },
+  {
+   "claim": "Dynamically adjusting lighting, temperature, and acoustics using real-time biometric data can optimize human performance",
+   "stat": "",
+   "attribution": "Rebecca Swanner, HED"
+  },
+  {
+   "claim": "Workplace success metrics should shift from measuring occupancy to measuring outcomes",
+   "stat": "",
+   "attribution": "Rebecca Swanner, HED"
+  },
+  {
+   "claim": "Workplace leaders should initiate big picture conversations about desired outcomes before making workspace or logistical decisions",
+   "stat": "",
+   "attribution": "Rebecca Swanner, HED"
+  },
+  {
+   "claim": "The future of work will be more integrated, asynchronous, and hybrid",
+   "stat": "",
+   "attribution": "Rebecca Swanner, HED"
+  }
+ ],
+ "vocabulary": [
+  "responsive workplace",
+  "workplace design",
+  "cognitive load",
+  "cognitive bar",
+  "wearable tech",
+  "real-time biometric data",
+  "occupancy",
+  "outcomes-based metrics",
+  "piloting and iterating",
+  "asynchronous work",
+  "hybrid",
+  "acoustics",
+  "Intelligence in PLACE",
+  "workplace transformation",
+  "Workplace Innovator",
+  "Eptura"
+ ],
+ "topics_covered": []
+}

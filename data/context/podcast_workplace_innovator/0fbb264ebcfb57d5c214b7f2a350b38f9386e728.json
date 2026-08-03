@@ -1,0 +1,57 @@
+{
+ "id": "0fbb264ebcfb57d5c214b7f2a350b38f9386e728",
+ "source_id": "podcast_workplace_innovator",
+ "url": "https://eptura.com/discover-more/podcasts/workplace-innovator/",
+ "published_at": "2026-03-24",
+ "observed_at": "2026-08-03",
+ "summary": "Podcast episode 394 of Eptura's Workplace Innovator, hosted by Mike Petrusky, featuring Melissa Marsh, Founder and Executive Director of PLASTARC, a workplace strategy and change management consultancy focused on social research and people analytics for the built environment.\n\nCore argument: organizations cannot realize the benefits of AI and IoT until they first establish intelligence, meaning digitized real estate assets, interoperable systems, and a bridge between people data and building data. Marsh frames smart buildings as defined primarily by their ability to connect digital and physical assets, so the move to a smart workplace requires investment in underlying data systems and a clear articulation of desired outcomes before AI tools are layered on top.\n\nThe conversation covers how the post-pandemic period has fundamentally changed how cities and offices are occupied. Patterns of use are described as less predictable and more variable than before, which the speakers say requires new approaches to space management rather than legacy assumptions about steady occupancy.\n\nOn AI's potential, Marsh argues the value is not mainly automation but improvement of workplace experience, achieved by integrating HR data, building systems, and personalized services for occupants.\n\nThe show notes are promotional in structure, pointing listeners to Marsh's LinkedIn, the PLASTARC site, the Eptura Flex/26 New York event, the YouTube playlist, and Eptura's back catalog of interviews and free resources. No statistics, survey data, or named customer examples appear in the notes. The item is thematically about smart building data foundations, system interoperability, and workplace analytics rather than about desk booking mechanics, visitor management, return to office mandates, or administrative workload.",
+ "claims": [
+  {
+   "claim": "Post-pandemic occupancy of cities and offices has changed fundamentally, producing less predictable and more variable patterns of use that require new space management strategies.",
+   "stat": "",
+   "attribution": "Melissa Marsh, PLASTARC, and host Mike Petrusky"
+  },
+  {
+   "claim": "Smart buildings are increasingly defined by their ability to connect digital and physical assets.",
+   "stat": "",
+   "attribution": "Melissa Marsh, PLASTARC"
+  },
+  {
+   "claim": "Transitioning to a smart workplace requires investment in data systems and a clear understanding of desired outcomes before layering on AI tools.",
+   "stat": "",
+   "attribution": "Melissa Marsh, PLASTARC"
+  },
+  {
+   "claim": "AI's true potential in workplace environments lies in enhancing workplace experience through integration of HR data, building systems, and personalized services, not just automation.",
+   "stat": "",
+   "attribution": "Melissa Marsh, PLASTARC"
+  },
+  {
+   "claim": "Organizations need to focus on digitizing real estate assets, ensuring system interoperability, and bridging the gap between people and building data.",
+   "stat": "",
+   "attribution": "Melissa Marsh, PLASTARC"
+  }
+ ],
+ "vocabulary": [
+  "smart buildings",
+  "smart workplaces",
+  "workplace strategy",
+  "change management",
+  "social research",
+  "people analytics",
+  "built environment",
+  "digitizing real estate assets",
+  "system interoperability",
+  "building data",
+  "IoT",
+  "AI tools",
+  "space management",
+  "workplace experience",
+  "HR data integration",
+  "personalized services",
+  "digital and physical assets",
+  "Workplace Innovator",
+  "Eptura Flex/26"
+ ],
+ "topics_covered": []
+}
