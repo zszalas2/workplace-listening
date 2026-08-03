@@ -95,8 +95,20 @@ def _issue_body(v, duration, reason):
 def detect(open_issues=True):
     repo = os.environ.get("GITHUB_REPOSITORY")
     token = os.environ.get("GITHUB_TOKEN")
+    # First-ever run: seed the queue from the current channel WITHOUT opening
+    # Issues, so the back-catalog does not produce a burst of notifications. Only
+    # videos detected after this baseline get an Issue.
+    first_run = not os.path.exists(QUEUE_PATH)
+
     raw = common.get(youtube_detect.FEED.format(CHANNEL_ID))
+    if raw is None:
+        print("  ! channel feed fetch failed; nothing detected this run")
+        return []
     videos = youtube_detect.parse_videos(raw)
+    if not videos:
+        print("  ! channel feed returned 0 parseable videos "
+              "(possible datacenter-IP block or feed format change)")
+        return []
     processed = SKIP_IDS | _queued_ids()
 
     new_rows = []
@@ -119,12 +131,14 @@ def detect(open_issues=True):
             "detected_at": common.RUN_ID,
         }
         new_rows.append(row)
-        if open_issues and repo and token:
+        if open_issues and not first_run and repo and token:
             issues.open_issue(repo, token, f"New video ready: {v['title']}",
                               _issue_body(v, duration, reason), labels=["converter"])
         print(f"  + queued {vid}: {v['title']}")
 
     common.append_jsonl(QUEUE_PATH, new_rows)
+    if first_run and new_rows:
+        print(f"  baseline: seeded {len(new_rows)} existing video(s) without opening Issues")
     print(f"detect: {len(new_rows)} new video(s) queued")
     return new_rows
 
