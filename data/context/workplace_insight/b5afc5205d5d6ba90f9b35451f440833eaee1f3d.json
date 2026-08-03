@@ -1,0 +1,57 @@
+{
+ "id": "b5afc5205d5d6ba90f9b35451f440833eaee1f3d",
+ "source_id": "workplace_insight",
+ "url": "https://workplaceinsight.net/giving-employees-a-say-over-office-art-may-boost-wellbeing-and-job-satisfaction-review-suggests/?utm_source=rss&utm_medium=rss&utm_campaign=giving-employees-a-say-over-office-art-may-boost-wellbeing-and-job-satisfaction-review-suggests",
+ "published_at": "2026-08-03",
+ "observed_at": "2026-08-03",
+ "summary": "A systematic review from the University of Roehampton, published in Psychology of Aesthetics, Creativity, and the Arts, finds that visual art in the workplace may improve employee wellbeing, job satisfaction and engagement, with the strongest effects when employees themselves choose or position the artwork.\n\nProfessor Mick Cooper and Maritina Peristeri screened more than 900 published papers on workplace art, but only eight papers (10 individual studies, roughly 1,220 participants) met inclusion criteria, underscoring a thin evidence base.\n\nKey findings: consistent evidence that visual art can improve psychological comfort, job satisfaction and workplace engagement while strengthening social relationships between colleagues. Employee agency emerged as the most notable factor. In two randomised office studies, participants allowed to choose or arrange artwork reported higher psychological comfort, greater job satisfaction and better work-related outcomes than those whose art was chosen for them. Those gains diminished when the control was removed later.\n\nThe researchers grouped benefits into four areas: work-related outcomes (job satisfaction, engagement, perceived productivity); psychological comfort; reduced stress and psychological distress in some settings; and increased social interaction. Preliminary evidence suggests nature-based imagery such as landscapes and outdoor photographs may be especially effective at reducing stress. One study associated natural imagery, and art blending natural and abstract elements, with lower stress and anger among male participants.\n\nCooper cautioned that art is not a standalone solution to workplace stress but, alongside other wellbeing measures, is a relatively simple contributor to healthier environments. The authors also stress that evidence remains limited, with few robust studies conducted in functioning workplaces, and call for further research before firm conclusions are drawn. The broader implication for facilities and workplace teams is that participation in decisions about the environment may matter as much as the design choices themselves.",
+ "claims": [
+  {
+   "claim": "The review screened published papers on workplace art but few met inclusion criteria",
+   "stat": "more than 900 papers screened; 8 papers, 10 studies, ~1,220 participants included",
+   "attribution": "University of Roehampton review (Cooper and Peristeri), Psychology of Aesthetics, Creativity, and the Arts"
+  },
+  {
+   "claim": "Employees allowed to choose or arrange artwork reported higher psychological comfort, job satisfaction and better work outcomes than those whose art was selected for them",
+   "stat": "2 randomised office studies",
+   "attribution": "University of Roehampton systematic review"
+  },
+  {
+   "claim": "Improvements diminished when participants lost control over artwork",
+   "stat": "",
+   "attribution": "University of Roehampton systematic review"
+  },
+  {
+   "claim": "Nature-based imagery and art combining natural and abstract elements were associated with lower stress and anger among male participants",
+   "stat": "",
+   "attribution": "One study cited in the review"
+  },
+  {
+   "claim": "Artwork is not a standalone solution to workplace stress but is a relatively simple way to contribute to healthier workplace environments",
+   "stat": "",
+   "attribution": "Professor Mick Cooper, University of Roehampton"
+  },
+  {
+   "claim": "Few robust studies have been conducted in functioning workplaces, so further research is needed",
+   "stat": "",
+   "attribution": "Review authors"
+  }
+ ],
+ "vocabulary": [
+  "systematic review",
+  "workplace art",
+  "psychological wellbeing",
+  "job satisfaction",
+  "workplace engagement",
+  "psychological comfort",
+  "employee agency",
+  "randomised office studies",
+  "nature-based imagery",
+  "biophilic-style natural imagery",
+  "staff wellbeing",
+  "perceived productivity",
+  "social interaction",
+  "sense of belonging"
+ ],
+ "topics_covered": []
+}

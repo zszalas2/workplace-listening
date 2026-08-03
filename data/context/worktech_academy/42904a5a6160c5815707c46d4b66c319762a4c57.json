@@ -1,0 +1,21 @@
+{
+ "id": "42904a5a6160c5815707c46d4b66c319762a4c57",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYlZzMllFVFRtQVhfbDNaWHBaN1k1S2dNSjNIR2JDalRVYXlpNUxsc0p4N2pFQWlwanM0T1RzV25BdkNPUHZETHhYOVkwZkNjME10TjJBWV9YOTdSSzJvMzdCWmNWUkVVNVlCR3UwbHdtVWhtbXpyaENoTlVYcFZFMGxQRVVxd1VLcHlmVVJydjRESlM1?oc=5",
+ "published_at": "2026-06-25",
+ "observed_at": "2026-08-03",
+ "summary": "This item is effectively a headline-only entry with no article body available. The title, from WORKTECH Academy, announces \"New research charts the significance of in-between spaces,\" suggesting coverage of research into transitional or interstitial workplace zones such as corridors, atria, breakout areas, stairwells, thresholds and other circulation spaces that sit between formal desks and formal meeting rooms. The captured text repeats only the headline and the publisher name, so no findings, methodology, researcher names, sample sizes, or conclusions are present in the source material provided.\n\nBased on the headline alone, the likely subject matter is workplace design research and the role of non-primary work settings in supporting collaboration, informal encounter, and movement through the office. However, nothing in the supplied text confirms specific claims about desk booking, occupancy analytics, hybrid attendance policy, hot desking outcomes, or facilities operations.\n\nNo statistics, quotations, vendor references, product categories, or named studies appear in the item. Any summary of the actual research would require retrieving the full article. For pipeline purposes this should be treated as an unresolved stub: relevant to the broader workplace design and WORKTECH editorial beat, but carrying no extractable evidence, and therefore not taggable against the listening themes with any confidence. Recommend re-crawling the destination URL to recover the body text before scoring, since the topic of in-between or interstitial space could plausibly touch on unassigned desk strategies and the value proposition of returning to the office, but only if the underlying research addresses those points directly.",
+ "claims": [
+  {
+   "claim": "New research examines the significance of in-between spaces in the workplace",
+   "stat": "",
+   "attribution": "WORKTECH Academy headline"
+  }
+ ],
+ "vocabulary": [
+  "in-between spaces",
+  "WORKTECH Academy",
+  "workplace research"
+ ],
+ "topics_covered": []
+}

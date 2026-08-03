@@ -1,0 +1,23 @@
+{
+ "id": "7f583ab63d64e0d9a2b15b12d058080f22b36d73",
+ "source_id": "facility_executive",
+ "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSll3eFpTaGZlYy1HNl92MEpDWlU4QUhFbHpuZFg0OFZ5cWFlRlFaYWhjV0FiZXBRd3g1aXJNQ1FHX0w5b2g5aDcza1RmTEJ3aXE4RURaY3FnV2YxX0ZQTDlMeDY1LS1kX01Ga3dudE9LYzExdzh6T19aX3BWTVIwYmZlVFFDaWFJZ19Kd25NVQ?oc=5",
+ "published_at": "2025-05-12",
+ "observed_at": "2026-08-03",
+ "summary": "This item is a headline-only entry from Facility Executive Magazine announcing Fujitsu's new AIRSTAGE Orion XLTH+ cold climate heat pump. No article body was captured beyond the title and publication name, so no product specifications, efficiency ratings, availability dates, pricing, or executive commentary are available. Based on the title alone, the piece appears to be an HVAC equipment product announcement aimed at facilities and building operations professionals, likely covering heating performance in cold climates as part of the broader trend toward electrification and heat pump adoption in commercial buildings. Nothing in the captured text addresses workplace experience topics such as visitor management, desk or room booking, hybrid and return-to-office policy, workplace analytics, admin overhead, support desk metrics, or vendor risk assessment. For a B2B listening pipeline focused on those themes, this item carries no usable signal and should be treated as out of scope, other than as a general indicator that facilities trade press continues to devote coverage to building systems and mechanical equipment alongside workplace technology. If the theme set were expanded to include HVAC, energy efficiency, sustainability, or capital equipment procurement, the item might warrant a follow up to retrieve the full text and any manufacturer claims about heating capacity at low ambient temperatures.",
+ "claims": [
+  {
+   "claim": "Fujitsu has introduced a new AIRSTAGE Orion XLTH+ cold climate heat pump.",
+   "stat": "",
+   "attribution": "Facility Executive Magazine headline"
+  }
+ ],
+ "vocabulary": [
+  "AIRSTAGE Orion XLTH+",
+  "cold climate heat pump",
+  "heat pump",
+  "HVAC",
+  "facility executive"
+ ],
+ "topics_covered": []
+}

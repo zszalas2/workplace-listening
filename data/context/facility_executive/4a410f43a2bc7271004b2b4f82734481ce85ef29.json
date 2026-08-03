@@ -1,0 +1,21 @@
+{
+ "id": "4a410f43a2bc7271004b2b4f82734481ce85ef29",
+ "source_id": "facility_executive",
+ "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNGVNMVNISThHNlZnMks2WXI1UWVDQmx2OXFOX1dkd3Q1MTg3aVlXbkJpWDlYaHhCWVhMNjhZeXpxUGxDcnJqLVM1VTl0RFJlMUNZYkdiWDg2SmNOZjYxVFBPTUJoazhveEluT3haWENQS3B1V3hnWnIwZ0FTZHUydXRrdkZoQlN5SGxkdzVR?oc=5",
+ "published_at": "2022-10-20",
+ "observed_at": "2026-08-03",
+ "summary": "This item is a headline-only entry from Facility Executive Magazine, surfaced via a Google News RSS link. The title states that Joe DiMaggio Children's Hospital has unveiled a $166 million expansion. No body text was provided beyond a repetition of the headline and publication name, so there is no detail available on the scope of the expansion, the square footage added, the clinical or bed capacity involved, the design or construction partners, the timeline, or the funding sources. There is also no discussion of workplace technology topics such as visitor management, desk or room booking, hybrid and return-to-office policy, workplace analytics, or facilities operations software. The only extractable fact is the stated capital value of the project. For a B2B listening pipeline focused on workplace technology themes, this item carries no usable signal beyond noting continued healthcare facility capital investment activity, which may be relevant only as general context for construction and facilities spending. Further reporting from the original Facility Executive article would be required to determine whether the expansion involves any relevant facilities technology, wayfinding, patient and visitor check-in, or space management components. No claims are attributed to named executives, architects, or health system representatives in the material supplied.",
+ "claims": [
+  {
+   "claim": "Joe DiMaggio Children's Hospital unveiled an expansion project",
+   "stat": "$166 million",
+   "attribution": "Facility Executive Magazine headline"
+  }
+ ],
+ "vocabulary": [
+  "expansion",
+  "children's hospital",
+  "facility"
+ ],
+ "topics_covered": []
+}

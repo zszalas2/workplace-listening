@@ -1,0 +1,13 @@
+{
+ "id": "8235db813c2fc831153924296d98308777710005",
+ "source_id": "hr_brew",
+ "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96MmxLcEhPWENxMmIzeHExQWtkTDk3Z0xNaG03TUtrY2hYdG0tRTQtYi1Lb0tIazdoLU0yVnBPMzZJNC0yQ2dscWVnZVF3UWdMN0xObndTbw?oc=5",
+ "published_at": "2024-02-01",
+ "observed_at": "2026-08-03",
+ "summary": "This item is effectively an empty feed entry. The record consists only of a Google News RSS redirect link titled \"HR News and Trends - HR Brew,\" with body text that repeats the title (\"HR News and Trends HR Brew\") and contains no article content. There is no discussion of visitor management, desk or room booking, hybrid and return-to-office policy, workplace analytics, facilities operations, support desk metrics, or vendor risk review. No sources are quoted, no statistics are given, and no vendors or product categories are named. The only inferable context is that HR Brew is a trade newsletter covering human resources news and trends, which could plausibly touch on workplace and hybrid work topics in its actual coverage, but nothing in this record supports tagging any specific theme. Recommended handling: treat as a non-substantive syndication stub, exclude from saturation scoring, and, if the underlying URL can be resolved, re-fetch the destination article for a usable summary. No claims, vocabulary, or theme tags can be extracted responsibly from the text as provided.",
+ "claims": [],
+ "vocabulary": [
+  "HR news and trends"
+ ],
+ "topics_covered": []
+}

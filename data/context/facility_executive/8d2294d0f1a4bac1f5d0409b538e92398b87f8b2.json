@@ -1,0 +1,17 @@
+{
+ "id": "8d2294d0f1a4bac1f5d0409b538e92398b87f8b2",
+ "source_id": "facility_executive",
+ "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YRXpTUklRRVNCTVZpYWN3cWhyWEVaV1VLWFVyU0NfT3QtN05fdVdkU0RBQW82bHZoazB1Qm85WF9WYUtwRUp6VWVDX2tRSWdwZnltY0NSMHVveV8ySGRSeG5LNHhoeFh5UGZCbEtxU25rZw?oc=5",
+ "published_at": "2026-06-22",
+ "observed_at": "2026-08-03",
+ "summary": "This item is effectively a headline-only listing from Facility Executive Magazine, surfaced via a Google News RSS link. The title, \"Greenbuild 2026: Invest For Impact,\" indicates coverage or promotion of the Greenbuild 2026 conference, an event associated with green building and sustainability in the built environment, using \"Invest For Impact\" as its theme or tagline. No body copy, article text, speaker list, dates, venue, registration details, agenda tracks, or supporting data were included in the supplied item, so no substantive reporting can be summarized. There are no quantified statistics, named sources, vendor mentions, or product claims present. Because the retrievable content is limited to the duplicated title string, any characterization of the event's programming, sustainability certification focus, or facilities management audience would be inference rather than summary. For a workplace-technology listening pipeline, the practical value here is limited to signaling that Facility Executive is publishing Greenbuild 2026 event coverage, which may be worth revisiting once the full article is accessible. Recommended action: re-crawl the canonical Facility Executive URL to capture the article body before scoring relevance, and treat this record as a stub. No claims relating to visitor management, desk or room booking, hybrid and return-to-office policy, workplace analytics, support desk metrics, or vendor risk assessment appear in the item.",
+ "claims": [],
+ "vocabulary": [
+  "Greenbuild",
+  "Invest For Impact",
+  "facility executive",
+  "green building",
+  "sustainability"
+ ],
+ "topics_covered": []
+}

@@ -1,0 +1,15 @@
+{
+ "id": "68983978a57783eb5aac5f81df3840a18cf22600",
+ "source_id": "facility_executive",
+ "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wQXprdklOd0locTZOQURvTXRHVExKaVYzaWFnQ01Nd21kWjh1QnNvYWdJbWxhbTl0UjF2MHNNY0lNNlREVEdsZk5acjZSZTNQdkRfSEpaWm5TZElvV1hySDc3WGM3TXMxaWp1eGRLSEk?oc=5",
+ "published_at": "2022-05-11",
+ "observed_at": "2026-08-03",
+ "summary": "This item is effectively a headline-only entry with no article body available. The title, \"On The Turf At Arrowhead Stadium,\" comes from Facility Executive Magazine and was surfaced via a Google News RSS link. The only repeated text is the title plus the publication name, so no substantive content, quotes, data, or reporting can be extracted.\n\nBased on the title alone, the piece appears to be a facilities-oriented feature about turf management and grounds maintenance at Arrowhead Stadium, home of the Kansas City Chiefs. Facility Executive typically covers building operations, maintenance, grounds care, and facility management practices at large venues, so the likely subject matter is playing surface upkeep, groundskeeping crews, and stadium operations rather than workplace technology.\n\nNo claims, statistics, vendor names, or category terminology are present in the supplied text. Nothing in the item addresses visitor management, desk or room booking, hybrid and return-to-office policy, workplace analytics, admin overhead, support desk metrics, or vendor risk review. The item is not usable for the listening pipeline in its current form and would need the full article text retrieved before any meaningful summary, claim extraction, or theme tagging could be performed.\n\nRecommendation: treat as low value or re-fetch the source URL for full body copy. If retrieved, the most plausible relevant angle would be venue facilities operations, which sits outside the current theme registry focused on office workplace experience topics.",
+ "claims": [],
+ "vocabulary": [
+  "Facility Executive Magazine",
+  "turf",
+  "Arrowhead Stadium"
+ ],
+ "topics_covered": []
+}
