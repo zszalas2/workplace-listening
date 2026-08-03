@@ -204,6 +204,7 @@ def test_digest():
 
 def _item(iid, source_id, lane, day="2026-08-01"):
     return {"id": iid, "source_id": source_id, "lane": lane,
+            "url": f"https://example.test/{iid}", "title": f"title {iid}",
             "published_at": day, "observed_at": day, "engagement": {}}
 
 
@@ -245,7 +246,7 @@ def test_scoring_basic():
         {"theme_id": "visitor-mgmt", "label": "Visitor management + access control",
          "is_new": True, "item_ids": ["i1", "i2", "i4"],
          "buying_questions": [{"quote": "What VMS integrates with access control?",
-                              "url": "u", "source_id": "reddit_sysadmin"}],
+                              "item_id": "i1"}],
          "vocabulary": ["visitor management", "access control"],
          "covered_by_context": [], "suggested_angle": "Lead with badge-free entry.",
          "watching": False},
@@ -264,6 +265,10 @@ def test_scoring_basic():
     check("scoring no saturation -> opportunity high", vm["opportunity_score"] == 1.0,
           str(vm["opportunity_score"]))
     check("scoring evidence carried", vm["evidence"] and "VMS" in vm["evidence"][0]["quote"])
+    check("scoring evidence url resolved from item_id",
+          vm["evidence"][0]["url"] == "https://example.test/i1", vm["evidence"][0]["url"])
+    check("scoring evidence source resolved from item_id",
+          vm["evidence"][0]["source_id"] == "reddit_sysadmin", vm["evidence"][0]["source_id"])
     check("scoring vocabulary carried", "access control" in vm["vocabulary"])
     check("scoring saturated theme -> saturation 1", rto["saturation_score"] == 1.0,
           str(rto["saturation_score"]))
@@ -304,6 +309,35 @@ def test_scoring_velocity_and_suppression():
           by["hoteling"]["status"])
 
 
+def test_opportunity_floor():
+    print("test_opportunity_floor")
+    config = common.load_json(common.SCORING_PATH, default={})
+    week = common.iso_week()
+    items = [_item("s1", "reddit_sysadmin", "question"),
+             _item("s2", "spiceworks", "question"),
+             _item("s3", "hackernews", "question"),
+             _item("k1", "reddit_msp", "question")]
+    model = {"themes": [
+        # 3 items (>= min) but fully covered by Lane B -> saturation 1.0 ->
+        # opportunity 0 -> demoted from "new" to "watching".
+        {"theme_id": "saturated", "label": "Saturated topic", "is_new": True,
+         "item_ids": ["s1", "s2", "s3"], "buying_questions": [], "vocabulary": [],
+         "covered_by_context": ["allwork_space", "charter"], "suggested_angle": "",
+         "watching": False},
+        # a second theme with no coverage so max_cov > 0 and the ratio is meaningful
+        {"theme_id": "clean", "label": "Clean topic", "is_new": True,
+         "item_ids": ["k1"], "buying_questions": [], "vocabulary": [],
+         "covered_by_context": [], "suggested_angle": "", "watching": False},
+    ]}
+    out = scoring.score([], model, items, config, week=week)
+    by = {t["theme_id"]: t for t in out}
+    check("floor: saturated new theme demoted to watching",
+          by["saturated"]["status"] == "watching",
+          f"{by['saturated']['status']} opp={by['saturated']['opportunity_score']}")
+    check("floor: saturated opportunity is 0",
+          by["saturated"]["opportunity_score"] == 0.0, str(by["saturated"]["opportunity_score"]))
+
+
 def test_digest_v1():
     print("test_digest_v1")
     config = common.load_json(common.SCORING_PATH, default={})
@@ -315,7 +349,7 @@ def test_digest_v1():
                          "label": "Visitor management + access control", "is_new": True,
                          "item_ids": ["i1", "i2", "i4"],
                          "buying_questions": [{"quote": "Which VMS integrates with access control?",
-                                              "url": "https://x", "source_id": "reddit_sysadmin"}],
+                                              "item_id": "i1"}],
                          "vocabulary": ["visitor management"], "covered_by_context": [],
                          "suggested_angle": "Lead with badge-free entry for HR.",
                          "watching": False}]}
@@ -350,7 +384,8 @@ def main():
     for t in (test_rss, test_hn, test_spiceworks, test_reddit,
               test_normalize_and_dedup, test_relevance, test_digest,
               test_synthesis_assembly, test_scoring_basic,
-              test_scoring_velocity_and_suppression, test_digest_v1, test_issues_body):
+              test_scoring_velocity_and_suppression, test_opportunity_floor,
+              test_digest_v1, test_issues_body):
         t()
     print(f"\n{PASS} passed, {FAIL} failed")
     return 1 if FAIL else 0

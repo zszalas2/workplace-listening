@@ -15,7 +15,8 @@
     "accelerating_z": 1.5,
     "new_theme_min_items": 3,
     "digest_max_themes": 8,
-    "gap_play_max_saturation": 0.2
+    "gap_play_max_saturation": 0.2,
+    "mover_min_opportunity": 0.05
   },
   "suppress_if_became_post_within_days": 120,
   "relevance": {

@@ -57,11 +57,12 @@ def _trailing_weeks(week, n):
     return out
 
 
-def _status(theme, demand, saturation, delta_z, week, config, model_watching):
+def _status(theme, demand, saturation, delta_z, week, config, model_watching, opportunity):
     thr = config.get("thresholds", {})
     acc_z = thr.get("accelerating_z", 1.5)
     min_items = thr.get("new_theme_min_items", 3)
     gap_max = thr.get("gap_play_max_saturation", 0.2)
+    floor = thr.get("mover_min_opportunity", 0.05)
     suppress_days = config.get("suppress_if_became_post_within_days", 120)
 
     bp = theme.get("became_post_at")
@@ -74,14 +75,22 @@ def _status(theme, demand, saturation, delta_z, week, config, model_watching):
     if model_watching or (theme.get("first_seen", "") and
                           common.iso_week(theme["first_seen"]) == week and current < min_items):
         return "watching"
+
     if delta_z > acc_z:
-        return "accelerating"
-    if theme.get("first_seen", "") and common.iso_week(theme["first_seen"]) == week \
+        base = "accelerating"
+    elif theme.get("first_seen", "") and common.iso_week(theme["first_seen"]) == week \
             and current >= min_items:
-        return "new"
-    if saturation < gap_max and demand >= 0.4:
-        return "gap"
-    return "steady"
+        base = "new"
+    elif saturation < gap_max and demand >= 0.4:
+        base = "gap"
+    else:
+        base = "steady"
+
+    # A mover that is fully covered (or otherwise scores below the floor) is not
+    # worth writing; demote it to the watching list rather than the digest.
+    if base in ("new", "accelerating", "gap") and opportunity < floor:
+        return "watching"
+    return base
 
 
 def score(themes, model_output, new_items, config, week=None):
@@ -121,10 +130,18 @@ def score(themes, model_output, new_items, config, week=None):
         t["counts_by_week"][week] = t["counts_by_week"].get(week, 0) + raw
         weighted = sum(_item_weight(it, config, today) for it in assigned)
 
-        # Evidence (verbatim buying questions) and vocabulary.
-        ev = [{"quote": q.get("quote", ""), "url": q.get("url", ""),
-               "source_id": q.get("source_id", "")}
-              for q in (m.get("buying_questions") or []) if q.get("quote")]
+        # Evidence: resolve each verbatim question's url/source from the cited
+        # item_id so provenance is guaranteed rather than trusted to the model.
+        # A question citing an unknown item_id is dropped, not shown with a
+        # mismatched link.
+        ev = []
+        for q in (m.get("buying_questions") or []):
+            quote = (q.get("quote") or "").strip()
+            src = item_map.get(q.get("item_id"))
+            if not quote or src is None:
+                continue
+            ev.append({"quote": quote, "url": src.get("url", ""),
+                       "source_id": src.get("source_id", "")})
         if ev:
             t["evidence"] = ev[:_EVIDENCE_CAP]
         vocab = list(dict.fromkeys((t.get("vocabulary") or []) + (m.get("vocabulary") or [])))
@@ -167,7 +184,8 @@ def score(themes, model_output, new_items, config, week=None):
         t["delta_z"] = round(delta_z, 3)
         t["demand_score"] = round(demand, 3)
         t["saturation_score"] = round(saturation, 3)
-        t["opportunity_score"] = round(demand * (1 - saturation), 3)
-        t["status"] = _status(t, demand, saturation, delta_z, week, config, watching)
+        opportunity = demand * (1 - saturation)
+        t["opportunity_score"] = round(opportunity, 3)
+        t["status"] = _status(t, demand, saturation, delta_z, week, config, watching, opportunity)
 
     return themes

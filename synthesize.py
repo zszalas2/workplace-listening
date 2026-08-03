@@ -53,10 +53,9 @@ OUTPUT_SCHEMA = {
                             "type": "object",
                             "properties": {
                                 "quote": {"type": "string"},
-                                "url": {"type": "string"},
-                                "source_id": {"type": "string"},
+                                "item_id": {"type": "string"},
                             },
-                            "required": ["quote", "url", "source_id"],
+                            "required": ["quote", "item_id"],
                             "additionalProperties": False,
                         },
                     },
@@ -87,7 +86,9 @@ SYSTEM = (
     "propose a new theme when nothing fits. Strongly prefer assignment. Reuse the "
     "exact theme_id of an existing theme you assign to.\n"
     "2. For each theme, extract up to three literal buying questions, quoted "
-    "verbatim from the item text or title, each with its source url and source_id.\n"
+    "verbatim from the item text or title. Cite each one with the item_id of the "
+    "exact item it came from (the id field of that item). Do not invent or "
+    "cross-reference ids; the url and source are resolved from the item_id.\n"
     "3. List the vocabulary buyers actually use, especially where it differs from "
     "vendor language.\n"
     "4. In covered_by_context, list the source_ids of context items that already "
