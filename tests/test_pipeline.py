@@ -18,8 +18,12 @@ import digest          # noqa: E402
 import relevance       # noqa: E402
 import scoring         # noqa: E402
 import synthesize      # noqa: E402
+import summarize_context  # noqa: E402
 import issues          # noqa: E402
-from collectors import rss, hackernews, spiceworks, reddit_arctic  # noqa: E402
+from collectors import (rss, hackernews, spiceworks, reddit_arctic,  # noqa: E402
+                        youtube_detect, sitemap_diff, archive_scrape,
+                        paa, trends, reviews_capterra, reports_diff)
+from converter import detect as converter_detect  # noqa: E402
 
 PASS = 0
 FAIL = 0
@@ -223,7 +227,7 @@ def test_synthesis_assembly():
                           "item_ids": ["i1"], "buying_questions": [], "vocabulary": [],
                           "covered_by_context": [], "suggested_angle": "", "watching": False}]}
 
-    def fake(_ni, _th, _cfg, _key):
+    def fake(_ni, _th, _cfg, _key, _summaries=None):
         return canned
 
     out = synthesize.synthesize(items, [], config, call=fake)
@@ -338,6 +342,129 @@ def test_opportunity_floor():
           by["saturated"]["opportunity_score"] == 0.0, str(by["saturated"]["opportunity_score"]))
 
 
+def test_youtube_detect():
+    print("test_youtube_detect")
+    vids = youtube_detect.parse_videos(load("youtube.xml", binary=True))
+    check("yt two videos", len(vids) == 2, str(len(vids)))
+    check("yt video id", vids[0]["video_id"] == "ABC123abc")
+    check("yt description", "distributed workforce" in vids[0]["description"])
+    check("yt views parsed", vids[0]["views"] == 1234, str(vids[0]["views"]))
+    src = {"id": "yt_ifma", "lane": "context", "config": {}}
+    items = youtube_detect.collect  # smoke: collect needs a feed url
+    check("yt collect needs feed", youtube_detect.feed_url(src) is None)
+    check("yt feed from channel_id",
+          youtube_detect.feed_url({"config": {"channel_id": "UCx"}}).endswith("channel_id=UCx"))
+
+
+def test_sitemap_diff():
+    print("test_sitemap_diff")
+    locs = sitemap_diff._locs(load("sitemap.xml", binary=True))
+    check("sitemap three locs", len(locs) == 3, str(len(locs)))
+    blog = [u for (u, m) in locs if "/blog/" in u]
+    check("sitemap blog filter finds two", len(blog) == 2, str(len(blog)))
+    # newest-first sort by lastmod
+    src = {"id": "competitor_envoy", "lane": "context",
+           "config": {"include": ["/blog/"], "max_urls": 25}}
+    kept = [u for (u, m) in locs if any(inc in u for inc in ["/blog/"])]
+    kept.sort()
+    check("sitemap include matches blog urls", set(kept) == set(blog))
+
+
+def test_archive_scrape():
+    print("test_archive_scrape")
+    html = ('<a href="https://theassistmedia.com/blog/ea-time-savers">x</a>'
+            '<a href="https://theassistmedia.com/blog/office-manager-guide">y</a>'
+            '<a href="https://twitter.com/theassist">social</a>')
+    import re as _re
+    host = "theassistmedia.com"
+    pattern = r'href=["\'](https?://' + _re.escape(host) + r'/[^"\'#?]+)["\']'
+    links = archive_scrape._links(html, pattern)
+    check("archive extracts same-host links", len(links) == 2, str(links))
+    check("archive drops offsite", all("theassistmedia.com" in u for u in links))
+
+
+def test_summarize_context():
+    print("test_summarize_context")
+    config = common.load_json(common.SCORING_PATH, default={})
+    themes = [{"theme_id": "desk-booking-utilization", "label": "Desk booking",
+               "vocabulary": ["hot desk"]}]
+    item = _item("c1", "allwork_space", "context")
+    item["text"] = "A long article about desk booking utilization and occupancy sensors."
+    prompt = summarize_context.build_prompt(item, themes)
+    check("summary prompt carries theme_id", "desk-booking-utilization" in prompt)
+    check("summary prompt carries item text", "occupancy sensors" in prompt)
+
+    def fake(_it, _th, _cfg, _key):
+        return {"summary": "Desks are over-provisioned.",
+                "claims": [{"claim": "111% ratio", "stat": "111%", "attribution": "CBRE"}],
+                "vocabulary": ["seat allocation ratio"],
+                "topics_covered": ["desk-booking-utilization"]}
+
+    out = summarize_context.summarize_items([item], themes, config, call=fake, write=False)
+    check("summary produced one", len(out) == 1, str(len(out)))
+    check("summary carries topics_covered",
+          out[0]["topics_covered"] == ["desk-booking-utilization"])
+    check("summary carries id/source", out[0]["id"] == "c1" and out[0]["source_id"] == "allwork_space")
+    # question-lane items are ignored by the summarizer
+    q = _item("q1", "reddit_sysadmin", "question")
+    check("summary ignores question lane",
+          summarize_context.summarize_items([q], themes, config, call=fake, write=False) == [])
+
+
+def test_saturation_from_summaries():
+    print("test_saturation_from_summaries")
+    config = common.load_json(common.SCORING_PATH, default={})
+    week = common.iso_week()
+    items = [_item("i1", "reddit_sysadmin", "question"),
+             _item("i2", "spiceworks", "question"),
+             _item("i3", "hackernews", "question"),
+             _item("j1", "reddit_msp", "question")]
+    model = {"themes": [
+        {"theme_id": "desk-booking", "label": "Desk booking", "is_new": True,
+         "item_ids": ["i1", "i2", "i3"], "buying_questions": [], "vocabulary": [],
+         "covered_by_context": [], "suggested_angle": "", "watching": False},
+        {"theme_id": "visitor-open", "label": "Visitor open field", "is_new": True,
+         "item_ids": ["j1"], "buying_questions": [], "vocabulary": [],
+         "covered_by_context": [], "suggested_angle": "", "watching": False},
+    ]}
+    summaries = [
+        {"source_id": "allwork_space", "topics_covered": ["desk-booking"]},
+        {"source_id": "charter", "topics_covered": ["desk-booking"]},
+        {"source_id": "worktech_academy", "topics_covered": []},
+    ]
+    out = scoring.score([], model, items, config, week=week, context_summaries=summaries)
+    by = {t["theme_id"]: t for t in out}
+    check("saturation from summaries: covered theme saturated",
+          by["desk-booking"]["saturation_score"] == 1.0,
+          str(by["desk-booking"]["saturation_score"]))
+    check("saturation covered_by_context resolved from summaries",
+          by["desk-booking"]["covered_by_context"] == ["allwork_space", "charter"],
+          str(by["desk-booking"]["covered_by_context"]))
+    check("saturation from summaries: uncovered theme open",
+          by["visitor-open"]["saturation_score"] == 0.0,
+          str(by["visitor-open"]["saturation_score"]))
+
+
+def test_converter_detect():
+    print("test_converter_detect")
+    check("iso8601 minutes+seconds", converter_detect._iso8601_seconds("PT12M30S") == 750)
+    check("iso8601 hours", converter_detect._iso8601_seconds("PT1H2M") == 3720)
+    inc, _ = converter_detect._qualifies(900)
+    check("converter includes long video", inc is True)
+    exc, _ = converter_detect._qualifies(120)
+    check("converter excludes short video", exc is False)
+    unk, reason = converter_detect._qualifies(None)
+    check("converter includes unknown-duration for human", unk is True and "unknown" in reason)
+
+
+def test_placeholder_adapters():
+    print("test_placeholder_adapters")
+    for mod, sid in [(paa, "paa_seed_keywords"), (trends, "trends_seed_keywords"),
+                     (reviews_capterra, "capterra_reviews"), (reports_diff, "reports_gensler")]:
+        out = mod.collect({"id": sid, "config": {}})
+        check(f"placeholder {sid} no-ops", out == [], str(out))
+
+
 def test_digest_v1():
     print("test_digest_v1")
     config = common.load_json(common.SCORING_PATH, default={})
@@ -385,6 +512,9 @@ def main():
               test_normalize_and_dedup, test_relevance, test_digest,
               test_synthesis_assembly, test_scoring_basic,
               test_scoring_velocity_and_suppression, test_opportunity_floor,
+              test_youtube_detect, test_sitemap_diff, test_archive_scrape,
+              test_summarize_context, test_saturation_from_summaries,
+              test_converter_detect, test_placeholder_adapters,
               test_digest_v1, test_issues_body):
         t()
     print(f"\n{PASS} passed, {FAIL} failed")

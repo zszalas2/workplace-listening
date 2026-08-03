@@ -93,9 +93,15 @@ def _status(theme, demand, saturation, delta_z, week, config, model_watching, op
     return base
 
 
-def score(themes, model_output, new_items, config, week=None):
+def score(themes, model_output, new_items, config, week=None, context_summaries=None):
     """Return the updated themes registry (list). Pure over its inputs except for
-    reading today's date via common."""
+    reading today's date via common.
+
+    When context_summaries (Wave 2) are supplied, saturation is computed
+    deterministically from their topics_covered rather than the model's
+    covered_by_context guess: a theme's saturation is the count of distinct Lane B
+    sources whose summaries tag it, normalized to the busiest theme this window.
+    """
     week = week or common.iso_week()
     today = date.today()
     item_map = {it["id"]: it for it in new_items}
@@ -159,17 +165,33 @@ def score(themes, model_output, new_items, config, week=None):
         t["counts_by_week"].setdefault(week, 0)
         t["current"] = t["counts_by_week"][week]
 
+    # Deterministic saturation from Lane B summaries (Wave 2), when available.
+    use_summaries = context_summaries is not None
+    cover_src = {}
+    if use_summaries:
+        for s in context_summaries:
+            for tid in (s.get("topics_covered") or []):
+                cover_src.setdefault(tid, set()).add(s.get("source_id"))
+
+    def _cov(tid):
+        if use_summaries:
+            return len(cover_src.get(tid, ()))
+        info = touched.get(tid)
+        return info["cov"] if info else 0
+
     # Normalize demand and saturation across themes active this window.
     max_weighted = max([v["weighted"] for v in touched.values()], default=0.0)
-    max_cov = max([v["cov"] for v in touched.values()], default=0)
+    max_cov = max([_cov(t.get("theme_id")) for t in themes], default=0)
     window_weeks = config.get("velocity_window_weeks", 6)
 
     for t in themes:
         tid = t.get("theme_id")
         info = touched.get(tid)
         weighted = info["weighted"] if info else 0.0
-        cov = info["cov"] if info else 0
+        cov = _cov(tid)
         watching = info["watching"] if info else False
+        if use_summaries:
+            t["covered_by_context"] = sorted(cover_src.get(tid, []))
 
         demand = (weighted / max_weighted) if max_weighted > 0 else 0.0
         saturation = (cov / max_cov) if max_cov > 0 else 0.0

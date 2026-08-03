@@ -19,6 +19,16 @@ jobs:
           python-version: "3.11"
       - name: Run monthly collectors + digest
         run: python3 run.py --cadence monthly
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Premium data APIs (placeholders until the secrets are added; adapters
+          # no-op cleanly without them). PAA uses DataForSEO or AlsoAsked;
+          # Trends uses SerpApi.
+          DATAFORSEO_LOGIN: ${{ secrets.DATAFORSEO_LOGIN }}
+          DATAFORSEO_PASSWORD: ${{ secrets.DATAFORSEO_PASSWORD }}
+          ALSOASKED_API_KEY: ${{ secrets.ALSOASKED_API_KEY }}
+          SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
       - name: Commit results
         run: |
           git config user.name "listening-bot"

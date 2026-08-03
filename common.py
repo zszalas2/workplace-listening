@@ -76,6 +76,19 @@ def get(url, timeout=15, headers=None, retries=2):
     return None
 
 
+def post_json(url, body, headers=None, timeout=120):
+    """POST a JSON body and return the parsed JSON response. Raises on transport
+    or HTTP error (callers that must stay non-fatal wrap this in try/except).
+    Used for the Anthropic Messages API (dependency-free, no SDK)."""
+    data = json.dumps(body).encode("utf-8")
+    h = {"content-type": "application/json"}
+    if headers:
+        h.update(headers)
+    req = urllib.request.Request(url, data=data, method="POST", headers=h)
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        return json.loads(r.read())
+
+
 def get_json(url, timeout=15, headers=None, retries=2):
     b = get(url, timeout=timeout, headers=headers, retries=retries)
     if b is None:

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015"
+      xmlns:media="http://search.yahoo.com/mrss/"
+      xmlns="http://www.w3.org/2005/Atom">
+  <title>Croissant Workspace</title>
+  <entry>
+    <id>yt:video:ABC123abc</id>
+    <yt:videoId>ABC123abc</yt:videoId>
+    <title>We Have Employees in 20+ States: Multi-State Workspace Compliance</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=ABC123abc"/>
+    <published>2026-07-20T10:00:00+00:00</published>
+    <media:group>
+      <media:description>A customer story on managing a distributed workforce and workspace stipends across many states.</media:description>
+      <media:community>
+        <media:statistics views="1234"/>
+      </media:community>
+    </media:group>
+  </entry>
+  <entry>
+    <id>yt:video:DEF456def</id>
+    <yt:videoId>DEF456def</yt:videoId>
+    <title>Webinar: Return to Office Without the Backlash</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=DEF456def"/>
+    <published>2026-07-27T10:00:00+00:00</published>
+    <media:group>
+      <media:description>Panel on hybrid policy, desk booking, and office attendance.</media:description>
+      <media:community>
+        <media:statistics views="88"/>
+      </media:community>
+    </media:group>
+  </entry>
+</feed>

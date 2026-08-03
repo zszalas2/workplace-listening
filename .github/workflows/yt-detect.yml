@@ -1,0 +1,35 @@
+name: yt-detect
+# Track 1 Converter detection (CI half only): find new Croissant videos, queue
+# them in data/video_queue.jsonl, and open a GitHub Issue per video. Transcript
+# extraction and post drafting run locally against the website repo, not here
+# (YouTube blocks transcripts from datacenter IPs; PROJECT_PLAN.md 7, 8).
+on:
+  schedule:
+    - cron: "0 13 * * 1,4"   # Mondays and Thursdays 13:00 UTC
+  workflow_dispatch: {}
+permissions:
+  contents: write
+  issues: write
+jobs:
+  detect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Detect new videos
+        run: python3 converter/detect.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Optional: enables the <10 min duration filter via the YouTube Data
+          # API. Without it, videos are queued with duration unknown for a human
+          # to judge.
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+      - name: Commit queue
+        run: |
+          git config user.name "listening-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/
+          git commit -m "yt-detect run $(date +%F)" || echo "no changes"
+          git push

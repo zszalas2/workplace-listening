@@ -32,6 +32,7 @@ import digest
 import normalize
 import relevance
 import scoring
+import summarize_context
 import synthesize
 try:
     import issues
@@ -126,12 +127,16 @@ def main(argv=None):
         "new_items": len(all_new),
     }
 
-    # Step 4.5: synthesis + deterministic scoring (Wave 1). Best-effort: skipped
-    # when there is no ANTHROPIC_API_KEY or no new question items, in which case
+    # Step 4.5: summarize new Lane B items (Wave 2), then synthesis + scoring
+    # (Wave 1). All best-effort: skipped without ANTHROPIC_API_KEY, in which case
     # the digest falls back to the counts-only view.
-    model_output = synthesize.synthesize(all_new, themes, config)
+    context_summaries = summarize_context.summarize_items(all_new, themes, config)
+    summaries_arg = context_summaries if context_summaries else None
+    model_output = synthesize.synthesize(all_new, themes, config,
+                                         context_summaries=summaries_arg)
     if model_output is not None:
-        themes = scoring.score(themes, model_output, all_new, config)
+        themes = scoring.score(themes, model_output, all_new, config,
+                               context_summaries=summaries_arg)
         run_summary["themes_total"] = len(themes)
         run_summary["movers"] = sum(
             1 for t in themes if t.get("status") in ("new", "accelerating", "gap"))

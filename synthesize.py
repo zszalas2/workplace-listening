@@ -123,17 +123,29 @@ def _lane_block(items, lane, snippet):
     return rows
 
 
-def build_prompt(new_items, themes):
-    """Assemble the user message payload the model synthesizes over."""
+def build_prompt(new_items, themes, context_summaries=None):
+    """Assemble the user message payload the model synthesizes over. When Wave 2
+    context summaries are supplied they replace raw Lane B item text, keeping the
+    prompt compact and the cost flat."""
     registry = [
         {"theme_id": t.get("theme_id"), "label": t.get("label"),
          "vocabulary": (t.get("vocabulary") or [])[:12]}
         for t in themes
     ]
+    if context_summaries is not None:
+        context_block = [
+            {"source_id": s.get("source_id"), "url": s.get("url", ""),
+             "summary": s.get("summary", ""),
+             "topics_covered": s.get("topics_covered", []),
+             "vocabulary": (s.get("vocabulary") or [])[:12]}
+            for s in context_summaries
+        ]
+    else:
+        context_block = _lane_block(new_items, "context", CONTEXT_SNIPPET)
     payload = {
         "current_themes": registry,
         "new_question_items": _lane_block(new_items, "question", QUESTION_SNIPPET),
-        "new_context_items": _lane_block(new_items, "context", CONTEXT_SNIPPET),
+        "new_context_items": context_block,
     }
     return (
         "Current theme registry and this run's new items follow as JSON. Assign "
@@ -166,7 +178,7 @@ def _extract_json(response):
     raise ValueError("no text block in model response")
 
 
-def call_model(new_items, themes, config, api_key):
+def call_model(new_items, themes, config, api_key, context_summaries=None):
     """Real Anthropic call. Returns the parsed {"themes": [...]} dict, or None on
     any failure (synthesis is best-effort; the digest falls back to counts-only)."""
     model = config.get("synthesis_model", DEFAULT_MODEL)
@@ -178,7 +190,8 @@ def call_model(new_items, themes, config, api_key):
             "format": {"type": "json_schema", "schema": OUTPUT_SCHEMA},
             "effort": config.get("synthesis_effort", "medium"),
         },
-        "messages": [{"role": "user", "content": build_prompt(new_items, themes)}],
+        "messages": [{"role": "user",
+                      "content": build_prompt(new_items, themes, context_summaries)}],
     }
     try:
         resp = _post(body, api_key)
@@ -199,7 +212,7 @@ def call_model(new_items, themes, config, api_key):
         return None
 
 
-def synthesize(new_items, themes, config, api_key=None, call=None):
+def synthesize(new_items, themes, config, api_key=None, call=None, context_summaries=None):
     """Return the model's {"themes": [...]} assignment, or None to skip synthesis.
 
     `call` is injectable so tests exercise the assembly and downstream scoring
@@ -216,4 +229,4 @@ def synthesize(new_items, themes, config, api_key=None, call=None):
     if not question_items:
         print("  - synthesis skipped (no new question items)")
         return None
-    return call(new_items, themes, config, api_key)
+    return call(new_items, themes, config, api_key, context_summaries)

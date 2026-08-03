@@ -61,6 +61,18 @@ def issue_labels(theme):
     return ["theme", f"status:{theme.get('status', 'steady')}", "wave1"]
 
 
+def open_issue(repo, token, title, body, labels=None):
+    """Create a GitHub issue. Returns the issue number, or None on failure.
+    Generic helper reused by the Track 1 Converter detector."""
+    try:
+        res = _req("POST", f"{API}/repos/{repo}/issues", token,
+                   {"title": title, "body": body, "labels": labels or []})
+        return res.get("number") if res else None
+    except Exception as e:  # noqa: BLE001
+        print(f"  ! open_issue failed: {e}")
+        return None
+
+
 def _req(method, url, token, body=None):
     data = json.dumps(body).encode("utf-8") if body is not None else None
     req = urllib.request.Request(url, data=data, method=method, headers={
