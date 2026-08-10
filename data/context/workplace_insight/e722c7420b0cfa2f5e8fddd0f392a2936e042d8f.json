@@ -1,0 +1,94 @@
+{
+ "id": "e722c7420b0cfa2f5e8fddd0f392a2936e042d8f",
+ "source_id": "workplace_insight",
+ "url": "https://workplaceinsight.net/ai-firms-and-flexible-office-operators-drive-global-demand-for-prime-office-space/?utm_source=rss&utm_medium=rss&utm_campaign=ai-firms-and-flexible-office-operators-drive-global-demand-for-prime-office-space",
+ "published_at": "2026-08-09",
+ "observed_at": "2026-08-10",
+ "summary": "Savills research finds global demand for prime office space strengthening, with 58 percent of the largest prime office leasing deals in H1 2026 involving occupiers expanding their footprints. Only 5 percent involved space reduction, while relocations or renewals at broadly the same footprint fell from 44 percent in H2 2025 to 37 percent in H1 2026. Savills frames this as prime demand decoupling from the wider office market, as organisations invest in better buildings and locations rather than simply cutting property commitments.\n\nFlexible workspace operators are the most expansionary group: 78 percent of the largest flex provider deals were expansions, and more than half of those involved taking additional space in markets where the operator already had a presence, suggesting deepening in selected cities rather than indiscriminate growth.\n\nAI companies are an emerging demand source, accounting for 17 percent of prime office deals involving technology companies in H1 2026, up from 3 percent two years earlier. Every identified AI company transaction was an expansion. Demand clusters around established tech and innovation hubs led by San Francisco, with notable activity in Seattle and London's West End. Sarah Brooks of Savills World Research called the influence of AI and tech occupiers \"unmistakable,\" citing long-term investment in flagship workplaces in San Francisco, London and Shenzhen to compete for talent and support client engagement and brand.\n\nCosts are rising: Savills Prime Office Costs research shows net all-in costs (rent plus fit-out) up 1 percent globally in Q2 and 5.3 percent year on year. North America rose 2.1 percent versus 0.5 percent in EMEA and Asia Pacific. San Francisco jumped 7.7 percent, Downtown New York 5.6 percent, Washington DC 4 percent, Seoul 3.8 percent, Melbourne 3.6 percent. Rick Schuham noted some mainland Chinese markets show weaker demand and rising availability. Savills defines prime as the top tier of Grade A, typically the highest 5 to 10 percent of rents.",
+ "claims": [
+  {
+   "claim": "Expansionary deals accounted for the majority of the largest prime office transactions analysed in H1 2026",
+   "stat": "58 percent",
+   "attribution": "Savills"
+  },
+  {
+   "claim": "Only a small share of the largest prime office deals involved occupiers reducing space",
+   "stat": "5 percent",
+   "attribution": "Savills"
+  },
+  {
+   "claim": "The share of occupiers relocating or renewing with broadly the same footprint declined",
+   "stat": "from 44 percent in H2 2025 to 37 percent in H1 2026",
+   "attribution": "Savills"
+  },
+  {
+   "claim": "Most of the largest deals involving flexible workspace operators were expansions",
+   "stat": "78 percent",
+   "attribution": "Savills"
+  },
+  {
+   "claim": "More than half of flex operator expansions were in markets where the operator already had a presence",
+   "stat": "more than 50 percent",
+   "attribution": "Savills"
+  },
+  {
+   "claim": "AI businesses made up a growing share of prime office deals involving technology companies",
+   "stat": "17 percent in H1 2026 vs 3 percent two years earlier",
+   "attribution": "Savills"
+  },
+  {
+   "claim": "Every AI company transaction identified in the period was an expansion",
+   "stat": "100 percent",
+   "attribution": "Savills"
+  },
+  {
+   "claim": "Net all-in prime office costs, including rent and fit-out, rose globally",
+   "stat": "up 1 percent in Q2 and 5.3 percent year on year",
+   "attribution": "Savills Prime Office Costs research"
+  },
+  {
+   "claim": "Regional quarterly cost growth varied",
+   "stat": "North America 2.1 percent; EMEA 0.5 percent; Asia Pacific 0.5 percent",
+   "attribution": "Savills"
+  },
+  {
+   "claim": "Selected cities recorded sharp quarterly cost increases",
+   "stat": "San Francisco 7.7 percent, Downtown New York 5.6 percent, Washington DC 4 percent, Seoul 3.8 percent, Melbourne 3.6 percent",
+   "attribution": "Savills"
+  },
+  {
+   "claim": "The influence of AI and technology occupiers in H1 was unmistakable, with long-term investment in flagship workplaces to compete for talent and support client engagement and brand",
+   "stat": "",
+   "attribution": "Sarah Brooks, associate director, Savills World Research"
+  },
+  {
+   "claim": "Organisations continue to prioritise premium workplaces, concentrating demand on the best buildings and pushing costs up, though some mainland Chinese markets show weaker demand and increased availability",
+   "stat": "",
+   "attribution": "Rick Schuham, CEO of Global Occupier Services, Savills"
+  },
+  {
+   "claim": "Prime space is defined as the upper tier of Grade A offices, typically commanding the highest rents in a market",
+   "stat": "highest 5 to 10 percent of rents",
+   "attribution": "Savills"
+  }
+ ],
+ "vocabulary": [
+  "prime office space",
+  "Grade A offices",
+  "leasing deals",
+  "expansionary deals",
+  "footprint",
+  "occupiers",
+  "flexible workspace operators",
+  "flex providers",
+  "net all-in costs",
+  "fit-out",
+  "Prime Office Costs",
+  "Global Occupier Services",
+  "innovation clusters",
+  "sustainability credentials",
+  "flagship workplaces",
+  "relocation or renewal"
+ ],
+ "topics_covered": []
+}

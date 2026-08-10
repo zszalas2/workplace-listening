@@ -1,0 +1,68 @@
+{
+ "id": "2af4257102cc1e0f93d29ac53df413cf2b0ee6e9",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/08/the-biggest-barrier-to-better-ai-results-may-be-your-ego/",
+ "published_at": "2026-08-08",
+ "observed_at": "2026-08-10",
+ "summary": "Allwork.Space argues the main constraint on AI value at work is not model quality but workers' self-knowledge, or calibration: knowing when to defer to the tool and when to trust their own judgment.\n\nThe piece centers on a peer-reviewed Management Science study of 732 participants judging whether faces in photos were over age 21, sometimes aided by an AI confidence score. Average performance improved with AI, and lower-ability participants gained most, but the study's distinctive finding is that calibration matters separately from raw ability: two workers with the same baseline skill can extract very different value from the same system depending on how well they recognize where their judgment fails.\n\nSupporting evidence is cited from a Science paper on generative AI and professional writing (ChatGPT raised productivity and quality, with the biggest gains for weaker initial performers) and a Quarterly Journal of Economics field experiment (AI assistance raised customer-support productivity 15% on average, helping novices most). An NBER paper is cited for the argument that AI could restore middle-skill work by embedding expertise into tools.\n\nMiscalibration cuts both ways: overconfident workers ignore useful AI advice, underconfident workers defer when they should not. So organizations can benchmark models, buy licenses, redesign workflows and train on prompts, yet still see mediocre gains. Similarly, AI narrows inequality only partially; with perfect calibration the equalizing effect would be much larger.\n\nThe practical recommendation is to retarget training away from pure skill addition toward estimating uncertainty, reading signals and spotting edge cases. Calibration appears trainable: a Futures & Foresight Science study found an interactive training app reduced overconfidence in under 30 minutes, echoing classic Lichtenstein and Fischhoff calibration-training research and newer automated forecaster training. The goal is disciplined partnership rather than blind trust, and the underrated advantage is knowing when you are probably wrong.",
+ "claims": [
+  {
+   "claim": "AI delivers the biggest gains when people are well calibrated about their own ability, not merely when they are less skilled",
+   "stat": "",
+   "attribution": "Management Science peer-reviewed study"
+  },
+  {
+   "claim": "Study tested participants on judging whether faces in photos were over age 21, with and without an AI confidence score; average performance improved and lower-ability participants gained more",
+   "stat": "732 participants",
+   "attribution": "Management Science study"
+  },
+  {
+   "claim": "ChatGPT increased productivity and quality in professional writing, with largest gains for weaker initial performers",
+   "stat": "",
+   "attribution": "Science paper on generative AI and professional writing"
+  },
+  {
+   "claim": "AI assistance raised customer-support productivity and helped novice and low-skilled workers far more than top performers",
+   "stat": "15% average productivity increase",
+   "attribution": "field experiment published in the Quarterly Journal of Economics"
+  },
+  {
+   "claim": "AI could help restore middle-skill work by embedding expertise into tools that broaden access to capability",
+   "stat": "",
+   "attribution": "NBER paper"
+  },
+  {
+   "claim": "When people use AI with imperfect self-beliefs inequality falls, but with perfect calibration it would fall much more",
+   "stat": "",
+   "attribution": "Management Science study"
+  },
+  {
+   "claim": "An interactive training app reduced overconfidence and improved calibration quickly",
+   "stat": "under 30 minutes",
+   "attribution": "study in Futures & Foresight Science"
+  },
+  {
+   "claim": "Feedback can make people better judges of their own probabilities",
+   "stat": "",
+   "attribution": "Sarah Lichtenstein and Baruch Fischhoff calibration training research"
+  }
+ ],
+ "vocabulary": [
+  "calibration",
+  "miscalibration",
+  "overconfidence",
+  "AI confidence score",
+  "augmentation",
+  "leveling technology",
+  "force multiplier",
+  "middle-skill work",
+  "prompt training",
+  "model benchmarking",
+  "licenses",
+  "workflow redesign",
+  "disciplined partnership",
+  "edge case",
+  "worker development"
+ ],
+ "topics_covered": []
+}

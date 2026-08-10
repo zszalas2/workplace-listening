@@ -1,0 +1,15 @@
+{
+ "id": "2ed59d74d59b858c40a3ed84eac320e935e6948c",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUFFrcE40eHpGSFBMZllMYUNBVEg1ZTBMbEdtejhlTFg0RVdhWUZ0bFNDVzJxUEtCUFpwMElMV2xaUkcxV1hYWTBoR1NkZUZick9pMkVrdHlGUXBMOEE5V1hnNHBoaHdjdzJZRUl0bEI3R0hkWDlqcEJSX0tCYTRFUWJpSjN0aTFEQ1c3cURNeW9Sdk9Cb05z?oc=5",
+ "published_at": "2026-08-06",
+ "observed_at": "2026-08-10",
+ "summary": "This item is a Google News RSS stub for a WORKTECH Academy article titled \"The workplace cul-de-sac: where next for workplace strategy?\" No body text was supplied beyond the headline and publication name, so the substance of the argument cannot be summarized responsibly.\n\nWhat can be inferred is limited and purely framing-level: WORKTECH Academy is a workplace research and insight outlet that publishes on workplace strategy, design, technology and the future of the office. The headline metaphor of a \"cul-de-sac\" suggests the piece argues that workplace strategy has reached a dead end or stalled point and asks what direction comes next, a common framing in post-pandemic commentary about hybrid working, office redesign and occupancy-driven decision making. However, no specific claims, statistics, named sources, survey data, vendor references or policy positions are present in the provided text.\n\nFor pipeline purposes this should be treated as an unresolved link requiring full-text retrieval before it can be scored for theme coverage or quoted. There is no evidence in the supplied content of discussion of hot desking, return-to-office mandates, administrative overhead, multi-site verification, support desk metrics or vendor risk assessment. Tagging any theme from the registry on the basis of the title alone would inflate saturation scores without underlying evidence, so no themes are assigned.\n\nRecommended next step: fetch the canonical WORKTECH Academy URL behind the Google News redirect and re-run summarization against the full article body.",
+ "claims": [],
+ "vocabulary": [
+  "workplace strategy",
+  "workplace cul-de-sac",
+  "WORKTECH Academy"
+ ],
+ "topics_covered": []
+}

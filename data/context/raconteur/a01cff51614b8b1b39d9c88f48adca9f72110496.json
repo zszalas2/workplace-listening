@@ -1,0 +1,79 @@
+{
+ "id": "a01cff51614b8b1b39d9c88f48adca9f72110496",
+ "source_id": "raconteur",
+ "url": "https://www.raconteur.net/finance/the-investment-case-for-women-led-deep-tech",
+ "published_at": "2026-08-10",
+ "observed_at": "2026-08-10",
+ "summary": "A Raconteur finance feature arguing that women-led deep-tech startups in Europe represent an overlooked, undervalued investment opportunity. It cites research that women-founded startups generate 78 cents of revenue per dollar invested versus 31 cents for male-founded ventures, yet all-female founding teams receive only 1.2% to 2.3% of European VC. In deep tech specifically, women are 14% of founders but attract 11.4% of investment, rising to 15% at seed. European Patent Office data show women appear on just 13.5% of European startup patent applications, and historically smaller rounds have led to lower valuations.\n\nAlena Redeker, principal at Auxxo, argues the gap is structural rather than a conscious choice by investors, and that at pre-seed and seed the relevant question is upside potential rather than failure risk, since deep tech carries binary, moonshot outcomes.\n\nThe EU's Women TechEU programme, with a 12m euro budget, will award 75,000 euro equity-free grants to 160 early-stage women-led deep-tech startups, with 40% of funding reserved for \"widening countries\". Consortium representatives (Virginia Gomez of Sploro, Angele Giuliano and Rebecca Zammit of AcrossLimits) note grants rarely cover heavy deep-tech costs such as CE-marking and regulatory milestones, and that widening innovators lack access rather than talent.\n\nExamples include PrintyMed (Latvia, founder Jekaterina Romanova), producing non-toxic artificial spider silk for bioengineered heart valves and implants, and MoveTru (Northern Ireland, founder Naomi McGregor), combining wearables and AI for women's sports medicine, which raised $1.9m pre-seed.\n\nPrior Women TechEU cohorts converted 9m euros of public investment into 53.8m euros of private follow-on funding within a year. AwakenHub is expanding investor networks. Redeker concludes that increasing the share of women managing AUM is what genuinely reshifts capital toward female founders.\n\nNo relevance to workplace technology themes.",
+ "claims": [
+  {
+   "claim": "Startups founded by women generate more revenue per dollar invested than male-founded ventures",
+   "stat": "78 cents vs 31 cents per dollar",
+   "attribution": "Recent research cited by Raconteur"
+  },
+  {
+   "claim": "All-female founding teams receive a small share of European venture capital",
+   "stat": "1.2% to 2.3%",
+   "attribution": "Raconteur"
+  },
+  {
+   "claim": "Women are underrepresented in deep-tech funding relative to founder share",
+   "stat": "14% of founders, 11.4% of investment, 15% at seed stage",
+   "attribution": "Raconteur"
+  },
+  {
+   "claim": "Women appear on a minority of European startup patent applications",
+   "stat": "13.5%",
+   "attribution": "European Patent Office"
+  },
+  {
+   "claim": "Women TechEU will award equity-free grants to early-stage women-led deep-tech startups",
+   "stat": "12m euro budget, 75,000 euro grants, 160 startups, 40% reserved for widening countries",
+   "attribution": "Women TechEU programme / Raconteur"
+  },
+  {
+   "claim": "The funding gap is structural rather than investors consciously leaving returns on the table",
+   "stat": "",
+   "attribution": "Alena Redeker, principal at Auxxo"
+  },
+  {
+   "claim": "Grants rarely cover heavy deep-tech costs such as regulatory milestones like CE-marking",
+   "stat": "",
+   "attribution": "Virginia Gomez (Sploro), Angele Giuliano and Rebecca Zammit (AcrossLimits), Women TechEU consortium"
+  },
+  {
+   "claim": "Previous Women TechEU cohorts converted public investment into private follow-on funding within a year",
+   "stat": "9m euros into 53.8m euros",
+   "attribution": "Raconteur"
+  },
+  {
+   "claim": "MoveTru has raised pre-seed funding",
+   "stat": "$1.9m",
+   "attribution": "Raconteur"
+  },
+  {
+   "claim": "Raising the share of women managing AUM is what shifts capital toward female-founded companies",
+   "stat": "",
+   "attribution": "Alena Redeker, Auxxo"
+  }
+ ],
+ "vocabulary": [
+  "deep tech",
+  "venture capital",
+  "pre-seed",
+  "seed stage",
+  "equity-free grants",
+  "non-dilutive funding",
+  "widening countries",
+  "commercialisation",
+  "CE-marking",
+  "follow-on funding",
+  "AUM",
+  "capital efficiency",
+  "similarity biases",
+  "moonshot bets",
+  "Women TechEU",
+  "European Patent Office"
+ ],
+ "topics_covered": []
+}

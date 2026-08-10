@@ -1,0 +1,16 @@
+{
+ "id": "f6336878e8c80fe1dacf20284d8d88ac994658a5",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTDVXNDA1N0kzODJaZUs1RkpiN1pUY2FSWnNFdzNyblMyS2NGdTdqM1JMN0R0STdJbEtmUktlVktBZzJzNXNnSTRKaHJlNm9hQ3NWNmRqS0dla1B2R2RSSERPd29aczFzVWNRdnIxSDNFM1VZbWJyeElzV2dxemN6SXBIVC0xNWotMnM2SXRvU0I?oc=5",
+ "published_at": "2025-09-09",
+ "observed_at": "2026-08-10",
+ "summary": "This item is a syndicated Google News link to a WORKTECH Academy article titled \"How AI is reimagining the corporate real estate market.\" The captured payload contains only the headline and source name repeated, with no body copy, byline, date, quotes, or data. As a result no substantive argument can be summarized.\n\nWhat can be inferred from the title alone: the piece sits in the corporate real estate (CRE) and workplace technology space and frames artificial intelligence as a reshaping force for how corporate property is planned, valued, transacted or managed. Typical WORKTECH Academy coverage in this vein would touch on portfolio decision making, space utilisation data, forecasting demand for offices, and the role of AI in workplace analytics, but none of that is present in the retrieved text and should not be attributed to the article.\n\nFor pipeline purposes this should be treated as a stub requiring full-text retrieval before it can contribute to theme saturation. No claims, statistics, vendor names, product categories or practitioner quotes are recoverable. No themes in the supplied registry (hot desking backlash, RTO mandate pushback, admin and EA overhead, multi-site proof of work, support desk metrics, or vendor risk assessment workload) are evidenced by the available text, so the item is tagged with no themes rather than speculatively matched to adjacent workplace topics.\n\nRecommended next step: re-crawl the canonical WORKTECH Academy URL behind the Google News redirect to obtain the article body, then re-run extraction.",
+ "claims": [],
+ "vocabulary": [
+  "AI",
+  "corporate real estate",
+  "corporate real estate market",
+  "WORKTECH Academy"
+ ],
+ "topics_covered": []
+}

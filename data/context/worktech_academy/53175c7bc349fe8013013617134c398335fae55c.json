@@ -1,0 +1,14 @@
+{
+ "id": "53175c7bc349fe8013013617134c398335fae55c",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pNV8wYnVGODFlang0dUxxdzZXRW9JSDJMZlNqWldxeXk5MkZRbVlfeUJJQ3BtV2FxbXFWcTBkS0hUbXU1UkhPWFM3aHlLWm9PMVIzODlsYk1iYUtFd2JHa01B?oc=5",
+ "published_at": "2018-11-07",
+ "observed_at": "2026-08-10",
+ "summary": "This item is not a substantive article. It is a Google News RSS redirect to a WORKTECH Academy archive listing page titled \"Innovation Archives.\" The captured text consists only of the page title repeated, with no body copy, no author, no date, and no reporting or commentary. There is no discussion of visitor management, desk or room booking, hybrid and return-to-office policy, workplace analytics, facilities operations, or any vendor or category positioning. WORKTECH Academy is a workplace research and knowledge platform that publishes on workplace innovation, design and technology, so the underlying archive would presumably index articles relevant to the listening pipeline, but none of that content is present in the item as supplied. No factual claims, statistics, or attributed statements can be extracted. No category or vendor vocabulary appears beyond the words \"Innovation\" and \"WORKTECH Academy.\" Recommendation for the pipeline: treat this as a crawl artifact or index page rather than an editorial item, and either discard it or re-fetch the destination URL to resolve individual articles. Because there is no evidence of coverage of any registry theme, no theme_ids are tagged, and this record should not contribute to saturation scoring.",
+ "claims": [],
+ "vocabulary": [
+  "WORKTECH Academy",
+  "Innovation Archives"
+ ],
+ "topics_covered": []
+}

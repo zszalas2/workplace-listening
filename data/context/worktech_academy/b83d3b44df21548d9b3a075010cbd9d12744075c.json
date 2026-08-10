@@ -1,0 +1,25 @@
+{
+ "id": "b83d3b44df21548d9b3a075010cbd9d12744075c",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcXFJVkpFc1VFaGsxODVxQVhUVkNlaWpCSUF6UzRicmJNQmlQYlhGN29ScEZ4NThvTTNHblFWMGhuNHIyRkVRZi1ub2ptcXZXU1Q2SExSZE1vMTVpTGhMT3JLSnNvQmd6OTBTNU54QVlVUDNKMW93TTVQb0FxdHNxa0xOWE9MQQ?oc=5",
+ "published_at": "2026-08-01",
+ "observed_at": "2026-08-10",
+ "summary": "A headline-only item from WORKTECH Academy titled \"Signal File: why location is the real RTO lever.\" No body text was captured beyond the title and source attribution, so the substance of the argument is not available. Based on the title alone, the piece appears to be part of a recurring WORKTECH Academy series (\"Signal File\") and argues that office location, rather than policy mandates or amenities, is the decisive factor in whether return-to-office efforts succeed. The implied thesis is that proximity, commute burden and site placement determine attendance outcomes more than the number of mandated in-office days. No statistics, named sources, survey data or case studies are recoverable from the supplied text. Any tagging beyond the general RTO theme would be speculative. Recommend re-fetching the full article before using this item for evidence, quotation or saturation scoring, since only the RTO framing signalled by the headline can be verified.",
+ "claims": [
+  {
+   "claim": "Location is the real lever for return-to-office success, implied to matter more than mandate design",
+   "stat": "",
+   "attribution": "WORKTECH Academy (headline assertion; supporting text not available)"
+  }
+ ],
+ "vocabulary": [
+  "RTO",
+  "return to office",
+  "Signal File",
+  "location",
+  "lever"
+ ],
+ "topics_covered": [
+  "hybrid_rto_mandate_pushback"
+ ]
+}

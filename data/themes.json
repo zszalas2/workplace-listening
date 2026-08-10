@@ -5,7 +5,8 @@
   "first_seen": "2026-08-02",
   "counts_by_week": {
    "2026-W31": 5,
-   "2026-W32": 0
+   "2026-W32": 0,
+   "2026-W33": 0
   },
   "evidence": [
    {
@@ -58,13 +59,19 @@
   "first_seen": "2026-08-02",
   "counts_by_week": {
    "2026-W31": 1,
-   "2026-W32": 0
+   "2026-W32": 0,
+   "2026-W33": 1
   },
   "evidence": [
    {
-    "quote": "A bad trend I'm also noticing is most of the jobs now seem to be hybrid with 2-3 mandatory days in the office per week, which seems like a bad deal to me in that it's almost as inflexible as being on site, and likely means hotdesking.",
-    "url": "https://news.ycombinator.com/item?id=37568491",
-    "source_id": "hackernews"
+    "quote": "Whilst everyone is told this verbally, there is no written policy stating this that I can find that stipulates being in the office once a week.",
+    "url": "https://www.reddit.com/r/HumanResourcesUK/comments/1vg3a9x/hybrid_working_rules_confusing/",
+    "source_id": "reddit_humanresourcesuk"
+   },
+   {
+    "quote": "Hybrid working rules confusing",
+    "url": "https://www.reddit.com/r/HumanResourcesUK/comments/1vg3a9x/hybrid_working_rules_confusing/",
+    "source_id": "reddit_humanresourcesuk"
    }
   ],
   "vocabulary": [
@@ -77,21 +84,27 @@
    "earning the commute",
    "mandates",
    "attendance",
-   "proximity and presence"
+   "proximity and presence",
+   "hybrid working rules",
+   "in the office once a week",
+   "no written policy",
+   "stress risk assessment",
+   "voluntary",
+   "Access to Work equipment"
   ],
   "became_post": null,
   "became_post_at": null,
   "covered_by_context": [
-   "podcast_workplace_innovator"
+   "worktech_academy"
   ],
-  "suggested_angle": "Argue that spend on making the office worth the commute beats spend on enforcing mandates, and show HR how to compare the two on a per head basis.",
-  "current": 0,
+  "suggested_angle": "Make the case that unwritten hybrid rules cost more than they save, and show HR how to price and publish an attendance policy people can actually follow.",
+  "current": 1,
   "trailing_mean": 0.167,
-  "delta_z": -0.447,
-  "demand_score": 0.0,
+  "delta_z": 2.236,
+  "demand_score": 0.127,
   "saturation_score": 1.0,
   "opportunity_score": 0.0,
-  "status": "steady"
+  "status": "watching"
  },
  {
   "theme_id": "admin_ea_operational_overhead",
@@ -99,22 +112,23 @@
   "first_seen": "2026-08-02",
   "counts_by_week": {
    "2026-W31": 4,
-   "2026-W32": 0
+   "2026-W32": 0,
+   "2026-W33": 8
   },
   "evidence": [
    {
-    "quote": "What is the ONE administrative task that takes the most time or causes the most frustration in your office? Why?",
-    "url": "https://www.reddit.com/r/AdminAssistant/comments/1uxapxr/administrative_challenges_medical_offices_face/",
-    "source_id": "reddit_adminassistant"
-   },
-   {
-    "quote": "Am I right in thinking this might actually benefit me as is keeping track of 1 person vs. 3?",
-    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1vburfz/im_here_just_promoted_to_ea/",
+    "quote": "Best platforms/resources to prepare for an Executive Assistant to CEO role?",
+    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1vf3ske/best_platformsresources_to_prepare_for_an/",
     "source_id": "reddit_executiveassistants"
    },
    {
-    "quote": "constant firefighting, delayed decisions, compliance items being pushed aside, lack of operational processes, and a pattern of preventable issues becoming urgent problems",
-    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1vbv2fe/update_when_an_ea_says_this_will_become_a_problem/",
+    "quote": "Do you think this position is worth for 1097USD?",
+    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1vge5mc/do_you_think_this_position_is_worth_for_1097usd/",
+    "source_id": "reddit_executiveassistants"
+   },
+   {
+    "quote": "I just realized that Blacklane no longer includes a calendar invite on their confirmation emails.",
+    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1veod8u/blacklane_removing_calendar_invites/",
     "source_id": "reddit_executiveassistants"
    }
   ],
@@ -125,19 +139,30 @@
    "operational processes",
    "firefighting",
    "calendar appointments",
-   "admin task"
+   "admin task",
+   "calendar management",
+   "inbox management",
+   "travel management",
+   "front desk",
+   "patient coordinator",
+   "day-to-day logistics",
+   "meeting coordination",
+   "restructuring",
+   "action items",
+   "confidentiality",
+   "Microsoft 365 / Google Workspace"
   ],
   "became_post": null,
   "became_post_at": null,
   "covered_by_context": [],
-  "suggested_angle": "Position workspace spend management as the tool that takes recurring office admin chores off the EA and office manager plate before they become escalations.",
-  "current": 0,
+  "suggested_angle": "Show HR and office leaders how much of the EA and front desk role is unpaid coordination overhead, and where spend on tooling actually removes work rather than adding another login.",
+  "current": 8,
   "trailing_mean": 0.667,
-  "delta_z": -0.447,
-  "demand_score": 0.0,
+  "delta_z": 4.919,
+  "demand_score": 1.0,
   "saturation_score": 0.0,
-  "opportunity_score": 0.0,
-  "status": "steady"
+  "opportunity_score": 1.0,
+  "status": "accelerating"
  },
  {
   "theme_id": "multi_site_proof_of_work_tracking",
@@ -145,7 +170,8 @@
   "first_seen": "2026-08-02",
   "counts_by_week": {
    "2026-W31": 1,
-   "2026-W32": 0
+   "2026-W32": 0,
+   "2026-W33": 0
   },
   "evidence": [
    {
@@ -185,44 +211,59 @@
   "first_seen": "2026-08-02",
   "counts_by_week": {
    "2026-W31": 1,
-   "2026-W32": 0
+   "2026-W32": 0,
+   "2026-W33": 3
   },
   "evidence": [
    {
-    "quote": "Support KPIs provide enough info for managers, and their managers, to assess the performance of a Support department and make decisions on that.",
-    "url": "https://www.reddit.com/r/ITManagers/comments/1uh1vbt/customertech_support_systems_and_departments_are/",
-    "source_id": "reddit_itmanagers"
+    "quote": "Advice needed - Move to Enterprise from SMB/MSP",
+    "url": "https://www.reddit.com/r/sysadmin/comments/1vhz9nt/advice_needed_move_to_enterprise_from_smbmsp/",
+    "source_id": "reddit_sysadmin"
    },
    {
-    "quote": "The main focus/goal is to make sure tickets get solved/closed in the least amount of time possible.",
-    "url": "https://www.reddit.com/r/ITManagers/comments/1uh1vbt/customertech_support_systems_and_departments_are/",
-    "source_id": "reddit_itmanagers"
+    "quote": "I essentially manage an entire department's IT while also handling sysadmin duties.",
+    "url": "https://www.reddit.com/r/sysadmin/comments/1viik8l/how_many_times_have_you_jumped_jobs/",
+    "source_id": "reddit_sysadmin"
+   },
+   {
+    "quote": "Looking for Next Career Steps Advice as current Sysadmin. What should I do?",
+    "url": "https://www.reddit.com/r/sysadmin/comments/1vg9r25/looking_for_next_career_steps_advice_as_current/",
+    "source_id": "reddit_sysadmin"
    }
   ],
   "vocabulary": [
    "tickets",
    "Support KPIs",
    "closed in the least amount of time",
-   "missed opportunity"
+   "missed opportunity",
+   "helpdesk escalations",
+   "MSP",
+   "internal IT department",
+   "the do everything guy",
+   "account management",
+   "IT leadership and strategy"
   ],
   "became_post": null,
   "became_post_at": null,
-  "covered_by_context": [],
-  "suggested_angle": "Draw the parallel for workplace teams: ticket volume and closure speed hide the real question of what the workplace actually costs and delivers.",
-  "current": 0,
+  "covered_by_context": [
+   "workplace_insight"
+  ],
+  "suggested_angle": "Show HR and IT budget owners how thinly stretched internal IT is, and why workplace tools that need constant admin quietly consume the same headcount.",
+  "current": 3,
   "trailing_mean": 0.167,
-  "delta_z": -0.447,
-  "demand_score": 0.0,
-  "saturation_score": 0.0,
+  "delta_z": 7.603,
+  "demand_score": 0.39,
+  "saturation_score": 1.0,
   "opportunity_score": 0.0,
-  "status": "steady"
+  "status": "watching"
  },
  {
   "theme_id": "risk_assessment_vendor_review_workload",
   "label": "Security, privacy and risk assessment workload in tool procurement",
   "first_seen": "2026-08-03",
   "counts_by_week": {
-   "2026-W32": 1
+   "2026-W32": 1,
+   "2026-W33": 0
   },
   "evidence": [
    {
@@ -243,12 +284,138 @@
   "became_post_at": null,
   "covered_by_context": [],
   "suggested_angle": "Show HR and workplace buyers how to get a visitor management or desk booking tool through privacy and security review without a last minute questionnaire scramble, and what data flows they will be asked to document.",
+  "current": 0,
+  "trailing_mean": 0.167,
+  "delta_z": -0.447,
+  "demand_score": 0.0,
+  "saturation_score": 0.0,
+  "opportunity_score": 0.0,
+  "status": "steady"
+ },
+ {
+  "theme_id": "attendance_tracking_and_monitoring_tools",
+  "label": "Time, attendance and presence tracking tooling",
+  "first_seen": "2026-08-10",
+  "counts_by_week": {
+   "2026-W33": 1
+  },
+  "evidence": [
+   {
+    "quote": "What would be a good software to recommend for a mid-sized office of about 100 employees?",
+    "url": "https://www.reddit.com/r/AdminAssistant/comments/1vgt8jj/need_advice_on_choosing_time_and_attendance/",
+    "source_id": "reddit_adminassistant"
+   },
+   {
+    "quote": "Need advice on choosing time and attendance software",
+    "url": "https://www.reddit.com/r/AdminAssistant/comments/1vgt8jj/need_advice_on_choosing_time_and_attendance/",
+    "source_id": "reddit_adminassistant"
+   }
+  ],
+  "vocabulary": [
+   "time and attendance software",
+   "coming in late and leaving early",
+   "monitor employee attendance",
+   "admin officer",
+   "front desk",
+   "mid-sized office"
+  ],
+  "became_post": null,
+  "became_post_at": null,
+  "covered_by_context": [],
+  "suggested_angle": "Explain to HR buyers when attendance tracking is a fairness problem rather than a software problem, and what presence data is actually worth paying for.",
   "current": 1,
   "trailing_mean": 0,
   "delta_z": 0.0,
-  "demand_score": 1.0,
+  "demand_score": 0.129,
   "saturation_score": 0.0,
-  "opportunity_score": 1.0,
+  "opportunity_score": 0.129,
+  "status": "watching"
+ },
+ {
+  "theme_id": "visitor_signin_diy_vs_buy",
+  "label": "DIY visitor and vendor sign-in versus buying a system",
+  "first_seen": "2026-08-10",
+  "counts_by_week": {
+   "2026-W33": 1
+  },
+  "evidence": [
+   {
+    "quote": "Administration asked me to come up with a \"Free digital\" sign in system for visitors with a \"Computer\".",
+    "url": "https://www.reddit.com/r/k12sysadmin/comments/1vepd6x/google_form_for_visitorvendor_sign_in/",
+    "source_id": "reddit_k12sysadmin"
+   },
+   {
+    "quote": "Was wondering what the end result to revert it back to the beginning for the next user would be.",
+    "url": "https://www.reddit.com/r/k12sysadmin/comments/1vepd6x/google_form_for_visitorvendor_sign_in/",
+    "source_id": "reddit_k12sysadmin"
+   }
+  ],
+  "vocabulary": [
+   "visitor/vendor sign in",
+   "google form",
+   "kiosk mode",
+   "free digital sign in system",
+   "late students",
+   "drop offs",
+   "record the time and date"
+  ],
+  "became_post": null,
+  "became_post_at": null,
+  "covered_by_context": [],
+  "suggested_angle": "Cost out the real price of the free Google Form visitor kiosk against a paid visitor management line item, for budget owners who have been told to spend nothing.",
+  "current": 1,
+  "trailing_mean": 0,
+  "delta_z": 0.0,
+  "demand_score": 0.123,
+  "saturation_score": 0.0,
+  "opportunity_score": 0.123,
+  "status": "watching"
+ },
+ {
+  "theme_id": "quiet_space_calls_and_coworking_choice",
+  "label": "Where to sit for calls: coworking, cubicles and paid desk alternatives",
+  "first_seen": "2026-08-10",
+  "counts_by_week": {
+   "2026-W33": 2
+  },
+  "evidence": [
+   {
+    "quote": "Do you co-work while also zooming a lot?",
+    "url": "https://news.ycombinator.com/item?id=32313779",
+    "source_id": "hackernews"
+   },
+   {
+    "quote": "Ask HN: Unconventional places of business to rent a desk?",
+    "url": "https://news.ycombinator.com/item?id=32110172",
+    "source_id": "hackernews"
+   },
+   {
+    "quote": "hot desks -- which don't keep my voice from projecting (not enough privacy), and are too noisy (from others talking around me)",
+    "url": "https://news.ycombinator.com/item?id=32313779",
+    "source_id": "hackernews"
+   }
+  ],
+  "vocabulary": [
+   "co-work",
+   "hot desks",
+   "cubicle",
+   "private offices",
+   "drop-in basis",
+   "too expensive",
+   "culture fit",
+   "rent a desk",
+   "coworking stipend"
+  ],
+  "became_post": null,
+  "became_post_at": null,
+  "covered_by_context": [],
+  "suggested_angle": "Frame coworking stipends and day-pass desks as a managed spend category for HR, with policy on what employees can claim and why call privacy drives the choice.",
+  "current": 2,
+  "trailing_mean": 0,
+  "delta_z": 0.0,
+  "demand_score": 0.0,
+  "saturation_score": 0.0,
+  "opportunity_score": 0.0,
   "status": "watching"
  }
 ]

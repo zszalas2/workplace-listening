@@ -1,0 +1,62 @@
+{
+ "id": "0736585aca86d0f6fc49484fa362c994895addfe",
+ "source_id": "workplace_insight",
+ "url": "https://workplaceinsight.net/inconsistent-recycling-bin-colours-are-creating-compliance-challenges-for-uk-workplaces/?utm_source=rss&utm_medium=rss&utm_campaign=inconsistent-recycling-bin-colours-are-creating-compliance-challenges-for-uk-workplaces",
+ "published_at": "2026-08-04",
+ "observed_at": "2026-08-10",
+ "summary": "Research by commercial waste services provider Direct365, based on Freedom of Information requests to UK local authorities, finds that inconsistent recycling bin colours are complicating compliance with England's Simpler Recycling regulations. At least 80 different bin colour combinations are in use across 190 local authorities, with no national colour-coding standard. Since March 2025 most workplaces in England must separate dry recyclables and food waste. While the materials to be separated are nationally defined, the visual language identifying waste streams is set locally, so employees can face different systems from site to site. This is a particular problem for organisations running multiple offices, depots or facilities, and for facilities managers maintaining consistent waste practices across dispersed estates. Rejected recycling is rising in some areas. Barking and Dagenham had the highest share of commercial recycling rejected and diverted to landfill or energy-from-waste at 39 percent, followed by Newham at 37 percent and Bradford at 30 percent. Gravesham saw the largest year-on-year increase in rejected recycling at 350 percent, with Newham up 188 percent and Highland up 130 percent. Enforcement remains light: more than 90 percent of councils issued no formal warnings or fines on commercial recycling compliance in the year to March 2026. Cardiff issued the most formal warnings, followed by Durham and Doncaster. Some areas improved, with Brighton and Hove cutting its rejection rate by 43 percent, Rotherham by 33 percent and Stoke-on-Trent by 32 percent. Karl Bantleman, Head of Digital at Direct365, said colour variation has made waste segregation \"a visual guessing game\" and called for national standardisation plus clearer workplace signage, staff training and regular waste audits to improve compliance and recycling outcomes.",
+ "claims": [
+  {
+   "claim": "At least 80 different bin colour combinations are in use across UK local authorities",
+   "stat": "80 combinations across 190 local authorities",
+   "attribution": "Direct365 FOI research"
+  },
+  {
+   "claim": "Most workplaces in England have had to separate dry recyclables and food waste since March 2025",
+   "stat": "since March 2025",
+   "attribution": "Government Simpler Recycling reforms"
+  },
+  {
+   "claim": "Barking and Dagenham had the highest proportion of commercial recycling rejected",
+   "stat": "39 percent; Newham 37 percent; Bradford 30 percent",
+   "attribution": "Direct365 research"
+  },
+  {
+   "claim": "Some authorities saw large increases in rejected recycling",
+   "stat": "Gravesham 350 percent, Newham 188 percent, Highland 130 percent",
+   "attribution": "Direct365 research"
+  },
+  {
+   "claim": "Most councils issued no formal warnings or fines for commercial recycling compliance",
+   "stat": "more than 90 percent, year to March 2026",
+   "attribution": "Direct365 research"
+  },
+  {
+   "claim": "Some areas cut rejection rates",
+   "stat": "Brighton and Hove 43 percent, Rotherham 33 percent, Stoke-on-Trent 32 percent",
+   "attribution": "Direct365 research"
+  },
+  {
+   "claim": "Bin colour variation has made waste segregation a visual guessing game",
+   "stat": "",
+   "attribution": "Karl Bantleman, Head of Digital, Direct365"
+  }
+ ],
+ "vocabulary": [
+  "Simpler Recycling regulations",
+  "dry recyclable materials",
+  "food waste",
+  "commercial waste services",
+  "Freedom of Information requests",
+  "rejection rate",
+  "energy-from-waste",
+  "contamination",
+  "waste segregation",
+  "waste audits",
+  "workplace signage",
+  "facilities managers",
+  "dispersed estates",
+  "colour-coding"
+ ],
+ "topics_covered": []
+}

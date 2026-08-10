@@ -1,0 +1,83 @@
+{
+ "id": "4928c2bc34420a59d9ff2303c5a9711dc028410f",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/jamie-dimon-isnt-worried-about-ai-job-losses-hes-worried-about-schools/",
+ "published_at": "2026-08-09",
+ "observed_at": "2026-08-10",
+ "summary": "Charter newsletter issue covering AI's effect on work, credentials, and JPMorgan CEO Jamie Dimon's views. The AI and Work Radar section notes leadership churn at Google (Demis Hassabis moving from Google DeepMind CEO to chairman and Alphabet chief scientist; Jeff Dean departing with three researchers to found a self-improving AI startup), the rise of \"tokenomics\" as companies try to measure return on AI spending using invented metrics like \"bionic head count,\" and Microsoft capping engineers' AI tool spend as firms retreat from \"tokenmaxxing.\" Atlassian Teamwork Lab research finds workers more willing to give up AI in personal life than at work. A PwC survey shows financial services executives prioritizing AI training over MBAs, while elite business schools respond to rising MBA costs with shorter AI certificate programs (per Bloomberg).\n\nThe main feature is an edited interview by Charter's Kevin Delaney with Jamie Dimon, onstage at an event co-hosted by The San Francisco Standard, timed to the first stop of Dimon's 16th annual bus tour, where he solicits complaints from branch managers, mortgage officers, and call-center workers, joking he offers \"beer and immunity.\"\n\nDimon argues business shares responsibility for civic outcomes: creating local jobs, engaging in local politics, and addressing stagnant wages for the bottom 20%. He blames failed policy on education, crime, wages, and training rather than partisan actors, and supports doubling the earned income tax credit. He cites JPMorgan placing 20% of branches in lower-income neighborhoods and using local food, papers, art, and hiring.\n\nOn the 2019 Business Roundtable stakeholder statement, Dimon says a reporter's question prompted him to revisit shareholder-primacy language, arguing it read to the public as greed. On AI, he says he does not know whether it is a bubble but expects investment to pay off in total, comparing it to the internet and fiber buildout, which took roughly 10 years longer than expected. Newsletter also teases a piece on helicopter parenting in the workplace.",
+ "claims": [
+  {
+   "claim": "Workers are twice as likely to say they would give up AI in their personal lives than at work, and half say they would push back if employers cut access",
+   "stat": "2x; 50%",
+   "attribution": "Atlassian Teamwork Lab research"
+  },
+  {
+   "claim": "When AI was taken away for a day in an experiment, most workers still felt the urge to use it",
+   "stat": "82%",
+   "attribution": "Atlassian Teamwork Lab experiment"
+  },
+  {
+   "claim": "Financial services executives value AI training over an MBA for new hires",
+   "stat": "86%",
+   "attribution": "PwC survey"
+  },
+  {
+   "claim": "Financial services executives say they are increasing pay for AI-skilled workers",
+   "stat": "91%",
+   "attribution": "PwC survey"
+  },
+  {
+   "claim": "MBA costs are climbing toward $300,000, prompting elite business schools to offer shorter, cheaper AI certificate programs",
+   "stat": "$300,000",
+   "attribution": "Bloomberg"
+  },
+  {
+   "claim": "Microsoft has capped engineers' AI tool spending",
+   "stat": "",
+   "attribution": "Charter newsletter"
+  },
+  {
+   "claim": "JPMorgan places 20% of its branches in lower-income neighborhoods",
+   "stat": "20%",
+   "attribution": "Jamie Dimon, JPMorgan Chase CEO"
+  },
+  {
+   "claim": "Wages for the bottom 20% of earners have not risen in 20 years",
+   "stat": "bottom 20%, 20 years",
+   "attribution": "Jamie Dimon"
+  },
+  {
+   "claim": "Dimon is on his 16th annual week-long US bus tour meeting frontline staff",
+   "stat": "16th annual",
+   "attribution": "Charter / Jamie Dimon"
+  },
+  {
+   "claim": "Dimon says AI investment will pay off in total, likening it to the internet where returns took about 10 years longer than expected",
+   "stat": "10 years",
+   "attribution": "Jamie Dimon"
+  },
+  {
+   "claim": "Dimon chaired the Business Roundtable in 2019 when its mandate shifted to include stakeholders beyond shareholders",
+   "stat": "2019",
+   "attribution": "Charter / Jamie Dimon"
+  }
+ ],
+ "vocabulary": [
+  "tokenomics",
+  "bionic head count",
+  "tokenmaxxing",
+  "AI bubble",
+  "return on investment",
+  "AI certificate programs",
+  "Teamwork Lab",
+  "chief scientist",
+  "self-improving AI",
+  "shareholder value",
+  "stakeholder capitalism",
+  "Business Roundtable",
+  "earned income tax credit",
+  "frontline workers",
+  "AI skills premium"
+ ],
+ "topics_covered": []
+}

@@ -1,0 +1,14 @@
+{
+ "id": "2a0b8dceccc6330dc2e41d69840e6327bd43a984",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPczBOaXhEeHdkT3BoMF9vTXhRSmdSWS1pdlpIOGYzT1RyLVEwd3Vhell2NkpMZzFXTFdwaFJQdkY5WEdfRFFsNTI0UzFnc3RoWHFreTdaOTZHem9pUjBkXzROTU9jeEM1OEItX2lYSHJFUU9TaEVEcEFWYVhGa1hETGtoaERXcEk4TXNHRXpsbzI?oc=5",
+ "published_at": "2025-06-10",
+ "observed_at": "2026-08-10",
+ "summary": "This item is a headline-only RSS entry from WORKTECH Academy, surfaced via Google News, titled \"The big question: has hybrid work broken knowledge work?\" No article body, quotes, data or author commentary were included in the captured text, so the substance of the argument cannot be summarized. From the title alone the piece appears to belong to WORKTECH Academy's recurring \"big question\" editorial format, in which the publication poses a provocative framing about the future of work and typically gathers expert or practitioner perspectives. The implied subject is whether distributed and hybrid working patterns have degraded knowledge work outcomes, which in that genre usually touches concentration, collaboration, mentoring, innovation and the role of the office as a setting for focused cognitive labor. However, none of that is verifiable from the supplied content. There are no stated statistics, no named sources, no vendor references and no policy specifics such as required in-office days or desk booking practices. For pipeline purposes this should be treated as a stub or lead requiring full-text retrieval before it can support any claim extraction or theme saturation scoring. Recommended next step is to fetch the canonical WORKTECH Academy URL behind the Google News redirect and re-run the summarization once the body copy is available. Until then the record's only reliable metadata are the publisher, the headline, and the general topic area of hybrid work and knowledge work productivity.",
+ "claims": [],
+ "vocabulary": [
+  "hybrid work",
+  "knowledge work"
+ ],
+ "topics_covered": []
+}

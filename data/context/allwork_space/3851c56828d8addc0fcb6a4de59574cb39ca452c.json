@@ -1,0 +1,78 @@
+{
+ "id": "3851c56828d8addc0fcb6a4de59574cb39ca452c",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/08/linkedins-ai-slop-button-wont-learn-our-standards-itll-learn-our-biases/",
+ "published_at": "2026-08-07",
+ "observed_at": "2026-08-10",
+ "summary": "Allwork.space opinion piece critiquing LinkedIn's new \"Seems like AI slop\" report button, added July 30, 2026 to the three-dot menu on every post, with LinkedIn's chief product officer confirming the flags will be fed into the platform's AI detection models.\n\nThe author concedes the underlying problem is real. A Pangram Labs study of roughly one million posts (first reported by 404 Media) found 41% of LinkedIn long-form posts over 250 words are fully AI-generated, the highest share of any major platform, ahead of X, Reddit, Substack and Medium. Pangram's CEO called that a floor, not a ceiling. Originality.ai's July 2026 sample of 5,000 posts found more than four in five read as likely AI, and about a quarter of LinkedIn replies now trip AI detectors versus under 2% on Reddit. LinkedIn says it has blocked billions of automated comment attempts recently and is retiring its own AI writing tools.\n\nThe core argument: crowdsourced flags are votes, not evidence. A report button captures a feeling, not proof, so flags will encode workplace grudges, competitive sabotage, political dislike, and the general inability of most people to distinguish AI text from clean human prose. The piece uses a fictional founder, Marta, a non-native English speaker whose careful, formal writing reads as machine-made.\n\nSupporting evidence for bias: a 2023 Stanford study ran 91 essays by non-native English speakers through seven AI detectors, which flagged 61% of that human writing as AI, versus roughly 5% false positives for native speakers. The author also notes an engagement paradox: Originality.ai found AI posts earn 45% less engagement on average, but AI \"leadership and inspiration\" posts outperformed human ones by 75%, implying the most-rewarded slop may be the least-flagged. If a model trains on human suspicion it learns to detect suspicion, a dynamic the author dubs the \"Slop Spiral.\" Text is truncated mid-sentence.",
+ "claims": [
+  {
+   "claim": "LinkedIn added a \"Seems like AI slop\" option to the three-dot menu on every post, and its chief product officer confirmed the flags will feed the platform's detection models",
+   "stat": "rolled out July 30, 2026",
+   "attribution": "LinkedIn / its chief product officer, as reported in the article"
+  },
+  {
+   "claim": "41% of LinkedIn long-form posts (over 250 words) are fully AI-generated, the highest rate of any major platform, ahead of X, Reddit, Substack and Medium",
+   "stat": "41% of posts over 250 words; sample of roughly one million posts",
+   "attribution": "Pangram Labs study, first reported by 404 Media"
+  },
+  {
+   "claim": "The 41% figure should be treated as a floor rather than a ceiling",
+   "stat": "41%",
+   "attribution": "Pangram Labs CEO"
+  },
+  {
+   "claim": "More than four in five sampled LinkedIn posts read as likely AI-generated",
+   "stat": "over 80% of a 5,000-post sample, July 2026",
+   "attribution": "Originality.ai"
+  },
+  {
+   "claim": "Roughly a quarter of replies on LinkedIn trip AI detectors, compared with under 2% on Reddit",
+   "stat": "~25% vs under 2%",
+   "attribution": "Originality.ai analysis cited in the article"
+  },
+  {
+   "claim": "LinkedIn has blocked billions of automated comment attempts in recent months",
+   "stat": "billions",
+   "attribution": "LinkedIn"
+  },
+  {
+   "claim": "LinkedIn is retiring its own AI writing tools",
+   "stat": "",
+   "attribution": "LinkedIn, per the article"
+  },
+  {
+   "claim": "AI detectors wrongly flagged human writing by non-native English speakers as machine-written at a far higher rate than writing by native speakers",
+   "stat": "61% false-positive rate for non-native writers vs about 5% for native speakers; 91 essays through seven detectors",
+   "attribution": "Stanford study (2023)"
+  },
+  {
+   "claim": "AI-generated posts earn less engagement on average, but AI leadership and inspiration posts outperform human ones",
+   "stat": "45% less engagement on average; leadership/inspiration AI posts +75% vs human",
+   "attribution": "Originality.ai"
+  }
+ ],
+ "vocabulary": [
+  "AI slop",
+  "\"Seems like AI slop\" button",
+  "AI detection models",
+  "crowdsourced detection",
+  "training signal",
+  "false positives",
+  "AI detectors",
+  "non-native English writers",
+  "long-form posts",
+  "Slop Spiral",
+  "three-dot menu",
+  "report button",
+  "downvote",
+  "engagement",
+  "Pangram Labs",
+  "Originality.ai",
+  "chief product officer",
+  "automated comment attempts",
+  "AI writing tools",
+  "proof of machine authorship"
+ ],
+ "topics_covered": []
+}

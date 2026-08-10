@@ -1,0 +1,51 @@
+{
+ "id": "41e7944098e09bd4745a28b06629cd9c067a1181",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/08/u-s-office-leasing-climbs-13-as-demand-for-premium-space-accelerates/",
+ "published_at": "2026-08-07",
+ "observed_at": "2026-08-10",
+ "summary": "Allwork.Space reports on Savills' Q2 2026 State of the U.S. Office Market, which finds the U.S. office market continuing its post-pandemic recovery through the first half of 2026. Leasing activity totaled 127.3 million square feet in the first six months, up 13% year over year and the strongest first-half performance since before the pandemic, exceeding every post-pandemic first-half total.\n\nDemand remains concentrated in premium, best-in-class buildings, as companies focus on leasing high-quality space. That concentration is tightening availability at the top of the market and supporting rent growth for the highest-quality properties.\n\nConditions improved broadly: 82% of tracked U.S. office markets reported lower availability than a year earlier, and another 9% were largely unchanged.\n\nInvestment activity also strengthened, with office investment volume up 15% year over year, indicating better market liquidity despite a slower second quarter.\n\nThese gains occurred against a softening macroeconomic backdrop: GDP growth eased to 1.5%, inflation held at 3.5%, and payroll growth moderated. The piece concludes that continued lease signing suggests office demand has proven resilient despite economic uncertainty.\n\nThe article is a short market-data brief with no discussion of workplace operations, hybrid policy specifics, hot desking, or workplace technology tooling.",
+ "claims": [
+  {
+   "claim": "U.S. office leasing reached its strongest first-half performance since before the pandemic in H1 2026",
+   "stat": "127.3 million sq ft, up 13% year over year",
+   "attribution": "Savills Q2 State of the U.S. Office Market report"
+  },
+  {
+   "claim": "Most tracked U.S. office markets saw availability decline year over year",
+   "stat": "82% lower availability; 9% largely unchanged",
+   "attribution": "Savills"
+  },
+  {
+   "claim": "Office investment volume increased year over year, signaling stronger liquidity despite a slower second quarter",
+   "stat": "up 15%",
+   "attribution": "Savills"
+  },
+  {
+   "claim": "Broader economic conditions softened while office leasing continued",
+   "stat": "GDP growth 1.5%; inflation 3.5%",
+   "attribution": "Savills / Allwork.Space"
+  },
+  {
+   "claim": "Demand is concentrated in premium buildings, tightening top-end availability and supporting rent growth",
+   "stat": "",
+   "attribution": "Savills"
+  }
+ ],
+ "vocabulary": [
+  "office leasing",
+  "leasing activity",
+  "premium office space",
+  "best-in-class properties",
+  "office availability",
+  "rent growth",
+  "office investment volume",
+  "market liquidity",
+  "square feet",
+  "post-pandemic recovery",
+  "GDP growth",
+  "payroll growth",
+  "State of the U.S. Office Market"
+ ],
+ "topics_covered": []
+}

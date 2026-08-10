@@ -1,0 +1,43 @@
+{
+ "id": "4918cd39a53e9a44b728a9129641e63176fa8d54",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/cersaie-2026-discover-the-future-of-ceramics-in-bologna-italy/",
+ "published_at": "2026-08-05",
+ "observed_at": "2026-08-10",
+ "summary": "An FMLink event preview announcing CERSAIE 2026, the International Exhibition of Ceramic Tile and Bathroom Furnishings, held September 21 to 25, 2026 in Bologna, Italy. The show expects more than 600 manufacturers and 100,000 visitors from over 160 countries, and positions itself as a global hub for architects, designers, contractors, facility managers, developers, distributors and other building professionals.\n\nProduct focus: advances in technology, fabrication and installation methods enabling more versatile ceramic applications. Exhibitors will highlight ceramic and porcelain's durable, non-porous and naturally hygienic properties, with launches spanning ultra-thin slabs, 2cm porcelain pavers, kitchen countertops, cabinetry, induction cooktops and outdoor surfaces. Bathroom introductions include integrated washbasins, vanities, wall-mounted sinks, bathtubs and advanced shower drainage systems.\n\nProgramming: a curated conference schedule covering architecture, sustainability, material innovation and technical advancements, headlined by a keynote from Pritzker Prize winning architect Alejandro Aravena on Thursday, September 24. The Tiling Town program offers live tile installation demonstrations by international professionals, with emphasis on best practices for installing large-format porcelain slabs and other new materials. Winners of the 2026 Ceramics of Italy International Tile Competition will also be announced, recognizing international projects that show the creative and technical range of Italian ceramic tile.\n\nRelevance is limited to facilities and building materials procurement; the piece contains no workplace technology, visitor management, desk or room booking, hybrid policy or workplace analytics content.",
+ "claims": [
+  {
+   "claim": "CERSAIE 2026 runs September 21 to 25, 2026 in Bologna, Italy",
+   "stat": "Sept 21-25, 2026",
+   "attribution": "FMLink / CERSAIE"
+  },
+  {
+   "claim": "The exhibition will bring together manufacturers and visitors from many countries",
+   "stat": "more than 600 manufacturers, 100,000 visitors, over 160 countries",
+   "attribution": "FMLink / CERSAIE"
+  },
+  {
+   "claim": "Pritzker Prize winning architect Alejandro Aravena will deliver a keynote lecture",
+   "stat": "Thursday, September 24",
+   "attribution": "FMLink / CERSAIE"
+  }
+ ],
+ "vocabulary": [
+  "CERSAIE",
+  "International Exhibition of Ceramic Tile and Bathroom Furnishings",
+  "sanitaryware",
+  "facility managers",
+  "ultra-thin slabs",
+  "2cm porcelain pavers",
+  "large-format porcelain slabs",
+  "non-porous",
+  "naturally hygienic",
+  "Tiling Town",
+  "Ceramics of Italy International Tile Competition",
+  "Pritzker Prize",
+  "material innovation",
+  "shower drainage systems",
+  "integrated washbasins"
+ ],
+ "topics_covered": []
+}

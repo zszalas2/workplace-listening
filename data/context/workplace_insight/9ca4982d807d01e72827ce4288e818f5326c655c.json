@@ -1,0 +1,75 @@
+{
+ "id": "9ca4982d807d01e72827ce4288e818f5326c655c",
+ "source_id": "workplace_insight",
+ "url": "https://workplaceinsight.net/how-msps-are-shaping-the-future-of-the-digital-workplace/?utm_source=rss&utm_medium=rss&utm_campaign=how-msps-are-shaping-the-future-of-the-digital-workplace",
+ "published_at": "2026-08-03",
+ "observed_at": "2026-08-10",
+ "summary": "Opinion piece for Workplace Insight arguing that managed service providers (MSPs) are becoming central to the digital workplace as organisations rush to deploy AI. It cites JLL's 2026 Future of Work Survey, which found most C-suite and corporate real estate leaders expect AI to redesign roles and grow headcount rather than cut it, creating pressure to integrate AI and driving demand for outside expertise.\n\nThe core example is Microsoft Copilot. Buying a licence does not equal readiness: Copilot inherits the environment it sits in, reading whatever each user is already permitted to read and applying existing data protection policies and identity models. Well-governed estates with clean permissions and standardised Microsoft 365 configuration get predictable behaviour. Estates shaped by restructures, acquisitions and one-off exceptions often lack the controls that would stop Copilot surfacing privileged data, so a single prompt can cause a breach.\n\nRecurring patterns in unprepared tenants: legacy sites shared with \"everyone except external users\", folders with broad inherited permissions from a one-off document share, and leaver accounts never deprovisioned. Acquisitions are described as the worst offenders because permissions are imported wholesale during migration and never revisited. Typical consequences are relatively minor (a pilot user seeing a document they should not, a superseded policy summarised as current, an audit that pauses rollout for a quarter), but the reputational damage is lasting: users who see early privacy or security errors distrust the assistant later, hurting adoption and ROI.\n\nThe author contrasts traditional reactive break-fix IT, where success was measured by ticket closure speed, with the modern managed service model covering identity architecture, sharing defaults, device compliance, data lifecycles and policy configuration as ongoing work. MSPs must do this across dozens or hundreds of tenants, each with its own configuration drift, which does not scale through separate admin portals. Many are adopting multi-tenant management platforms giving single-pane visibility to apply security baselines, spot drift and remediate at scale.",
+ "claims": [
+  {
+   "claim": "Most C-suite and corporate real estate leaders now expect AI to redesign roles and grow headcount rather than reduce it.",
+   "stat": "most respondents",
+   "attribution": "JLL 2026 Future of Work Survey"
+  },
+  {
+   "claim": "Microsoft Copilot operates within existing permissions, data protection policies and identity models, so a licence alone does not guarantee readiness.",
+   "stat": "",
+   "attribution": "Article author"
+  },
+  {
+   "claim": "Almost every unprepared Microsoft 365 tenant the author has seen contains at least one legacy site shared with everyone except external users, over-broad inherited folder permissions, or accounts of departed staff never deprovisioned.",
+   "stat": "almost every tenant",
+   "attribution": "Article author, from personal experience"
+  },
+  {
+   "claim": "Acquisitions are the worst offenders for permission sprawl because permissions are imported wholesale during migration and not revisited after the deal closes.",
+   "stat": "",
+   "attribution": "Article author"
+  },
+  {
+   "claim": "An internal audit conversation about permissions can stop a Copilot rollout for a quarter.",
+   "stat": "one quarter",
+   "attribution": "Article author"
+  },
+  {
+   "claim": "Users who see an AI assistant make privacy or security errors soon after launch remain less likely to rely on it weeks or months later, hampering adoption and ROI.",
+   "stat": "",
+   "attribution": "Article author"
+  },
+  {
+   "claim": "In traditional break-fix IT support, success was measured by how quickly an engineer closed the ticket.",
+   "stat": "",
+   "attribution": "Article author"
+  }
+ ],
+ "vocabulary": [
+  "managed service provider (MSP)",
+  "digital workplace",
+  "Microsoft Copilot",
+  "Microsoft 365",
+  "tenant",
+  "multi-tenant management platform",
+  "single-pane visibility",
+  "security baselines",
+  "configuration drift",
+  "remediate at scale",
+  "identity architecture",
+  "sharing defaults",
+  "device compliance",
+  "data lifecycles",
+  "policy configuration",
+  "permissions",
+  "deprovisioning",
+  "governance",
+  "break-fix support",
+  "ticket",
+  "corporate real estate",
+  "Future of Work Survey",
+  "pilot user",
+  "ROI",
+  "admin portals"
+ ],
+ "topics_covered": [
+  "support_desk_metrics_quality"
+ ]
+}

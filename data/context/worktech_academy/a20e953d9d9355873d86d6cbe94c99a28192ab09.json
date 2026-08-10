@@ -1,0 +1,27 @@
+{
+ "id": "a20e953d9d9355873d86d6cbe94c99a28192ab09",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQWkxR2M1ZHZscDV2S3BXR1hhUFdZSC1sTjhhbGlabXpCbzFPdHlmQXlsT3BtaXFSUWNpODhCQ2lLMFNXVFBRRk4tWHRqQ3JCc19FckxkZGtiZG41RXlPX0I4RXZja3ZUUXJRQUpxeFNhbUh5a29JTkpJUDVUMnNkV0w4X201NmxiWmRValdUMWxSQlM3R1lGbQ?oc=5",
+ "published_at": "2023-05-04",
+ "observed_at": "2026-08-10",
+ "summary": "This item is a very short WORKTECH Academy news notice, effectively only a headline with no substantive body text. It announces that MillerKnoll, described as a modern design pioneer, has joined the WORKTECH Academy \"inner circle,\" which in WORKTECH's model typically denotes a top tier of corporate members or partners that support and contribute to the Academy's workplace research and knowledge network. The item is sourced via a Google News RSS redirect and the supplied text repeats the title verbatim, so no details are given about the terms of the partnership, its start date, what MillerKnoll will contribute (research, content, events, funding), or what benefits either party expects. No named spokespeople, quotes, statistics, or research findings are included. There is also no discussion of workplace practice themes such as hybrid work policy, desk booking, occupancy analytics, visitor management, or facilities operations, beyond the implicit context that MillerKnoll is a furniture and workplace design company and WORKTECH Academy is a workplace innovation research platform. For a listening pipeline, the only usable signal is a vendor and industry-body relationship data point: a major furniture manufacturer aligning itself with a workplace research network. Any further analysis would require the full article body, which is not present in the provided text.",
+ "claims": [
+  {
+   "claim": "MillerKnoll has joined the WORKTECH Academy inner circle",
+   "stat": "",
+   "attribution": "WORKTECH Academy"
+  },
+  {
+   "claim": "MillerKnoll is characterized as a modern design pioneer",
+   "stat": "",
+   "attribution": "WORKTECH Academy"
+  }
+ ],
+ "vocabulary": [
+  "MillerKnoll",
+  "WORKTECH Academy",
+  "inner circle",
+  "modern design pioneer"
+ ],
+ "topics_covered": []
+}

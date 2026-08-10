@@ -1,0 +1,45 @@
+{
+ "id": "8207b3bdb904969e77d0a70932647cc3c104c657",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/how-to-pitch-ai-more-effectively-to-workers/",
+ "published_at": "2026-08-06",
+ "observed_at": "2026-08-10",
+ "summary": "Charter interviews Debbie Lovich, a longtime BCG management consultant and author of the forthcoming book Make Work Work, on how leaders should communicate about AI adoption to employees. Her core argument: framing AI purely as a productivity play is \"dead on arrival\" because it signals to workers that the tool will lead to their own replacement. Employees hear \"use the tool, and you'll fire me,\" so they have no incentive to engage.\n\nLovich argues the goals set for AI transformation, not just the messaging around them, must be broader and include what is in it for employees alongside benefits for shareholders and customers. She claims 90% of organizations are getting this wrong.\n\nHer second point is that leaders over-index on the technology itself rather than the harder, messier work of changing how people, teams, and technology operate together. She cites a former peer who posted on LinkedIn a list of seven things needed to capture value from AI spending, all of which were technical; being employee-centric was absent, which Lovich adds as an eighth item.\n\nLovich's background spans two decades on the human side of transformation, including digital initiatives and hybrid work, and now generative AI. The remarks come from a recent Charter webinar and Forum session.\n\nThe piece is a change-management and internal-communications argument rather than a workplace operations or facilities item. It does not address visitor management, desk or room booking, RTO policy specifics, workplace analytics, or facilities operations.",
+ "claims": [
+  {
+   "claim": "Most organizations are framing AI transformation incorrectly by failing to articulate employee benefit alongside shareholder and customer benefit",
+   "stat": "90% of organizations",
+   "attribution": "Debbie Lovich, BCG management consultant and author of Make Work Work"
+  },
+  {
+   "claim": "Positioning AI purely as a productivity initiative fails with employees because it implies job loss",
+   "stat": "",
+   "attribution": "Debbie Lovich"
+  },
+  {
+   "claim": "A former BCG peer listed seven requirements for getting value from AI spending, all technical, with no employee-centric item",
+   "stat": "7 technical items",
+   "attribution": "Debbie Lovich, recounting a LinkedIn post"
+  },
+  {
+   "claim": "Lovich has spent roughly two decades focused on the human side of transformation across digital initiatives, hybrid work, and generative AI",
+   "stat": "two decades",
+   "attribution": "Charter"
+  }
+ ],
+ "vocabulary": [
+  "AI transformation",
+  "generative AI",
+  "productivity",
+  "employee-centric",
+  "change management",
+  "hybrid work",
+  "digital initiatives",
+  "transformation messaging",
+  "Charter webinar",
+  "Forum session",
+  "shareholders and customers",
+  "AI spending"
+ ],
+ "topics_covered": []
+}

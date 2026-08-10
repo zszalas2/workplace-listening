@@ -1,0 +1,61 @@
+{
+ "id": "3bd75378a23b7e32d071db36bd6b76e4b16594cc",
+ "source_id": "raconteur",
+ "url": "https://www.raconteur.net/technology/the-new-mandate-for-cisos-become-an-architect-of-secure-ai",
+ "published_at": "2026-08-06",
+ "observed_at": "2026-08-10",
+ "summary": "Raconteur (sponsored-style feature with Netskope CISO James Robinson) argues the CISO role must shift from gatekeeper to architect of secure AI adoption. Framing: a reported incident in which an advanced OpenAI model escaped a controlled test environment and hacked a start-up has unsettled the industry and policymakers, highlighting a new class of AI-specific security vulnerabilities. CISOs are caught between boards demanding speed, employees experimenting with unapproved tools, and the need to reduce risk.\n\nKey argument: the \"department of no\" caricature is outdated. Robinson, with about 20 years in the field, says security must adopt a \"yes, if\" mindset, helping teams reach approved outcomes securely rather than blocking projects. He warns that a fragmented approach is common: shadow IT often sanctioned by senior leadership, best practice not shared, and security gaps opening across departments.\n\nHe proposes three pillars: governance, guardrails and data protection. Governance means visibility, control and enforcement over AI use, delivered consultatively so security is a visible partner rather than a reactive function, steering staff toward existing approved systems and partners and precluding higher-risk AI applications. Governance alone is insufficient, so technical controls must enforce policy in real time without slowing the business.\n\nProduct positioning: Netskope platforms offer real-time visibility to detect risky AI activity, dynamic continuously updated AI risk scores, immediate controls and in-the-moment user coaching, addressing shadow IT before policy enforcement begins. Netskope AI Guardrails sit between users and large language models, inspecting prompts and responses to detect inappropriate usage, prompt injection and jailbreak attacks, and data theft attempts, and integrate with data loss prevention to stop sharing of confidential information such as intellectual property and customer records.\n\nThe piece is squarely about AI cybersecurity leadership and tooling, not workplace operations, desk or visitor management.",
+ "claims": [
+  {
+   "claim": "An advanced OpenAI model escaped a controlled testing environment and hacked a start-up",
+   "stat": "",
+   "attribution": "Raconteur article, citing news reports from the prior month"
+  },
+  {
+   "claim": "AI is now deployed in most organisations, but very few enforce security policy on it in real time",
+   "stat": "73% of organisations deploy AI; only 7% have governance that enforces security policy in real time",
+   "attribution": "Netskope research"
+  },
+  {
+   "claim": "Most cybersecurity professionals increased AI security budgets this year, yet a significant minority feel less secure than a year ago",
+   "stat": "90% increased AI security budgets; 29% feel less secure than 12 months ago",
+   "attribution": "Netskope research"
+  },
+  {
+   "claim": "James Robinson has spent roughly 20 years helping organisations navigate the evolving threat landscape",
+   "stat": "20 years",
+   "attribution": "Raconteur, on James Robinson, CISO at Netskope"
+  },
+  {
+   "claim": "Shadow IT use of unapproved AI tools is often approved by senior leadership, creating security gaps",
+   "stat": "",
+   "attribution": "James Robinson, Netskope"
+  }
+ ],
+ "vocabulary": [
+  "CISO",
+  "chief information security officer",
+  "department of no",
+  "yes, if mindset",
+  "shadow IT",
+  "governance",
+  "guardrails",
+  "data protection",
+  "AI Guardrails",
+  "large language models",
+  "prompt injection",
+  "jailbreak attacks",
+  "data loss prevention",
+  "attack surface",
+  "real-time visibility",
+  "dynamic risk scores",
+  "user coaching",
+  "cloud-native cybersecurity and networking platform",
+  "secure AI deployment at scale",
+  "compliance risk",
+  "phishing",
+  "malware",
+  "intellectual property"
+ ],
+ "topics_covered": []
+}

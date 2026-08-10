@@ -1,0 +1,98 @@
+{
+ "id": "d77f5163c90d3df09b6ea966fea38b737a71c3f8",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/08/5-evolving-coworking-markets-that-caught-our-eye-in-2026/",
+ "published_at": "2026-08-09",
+ "observed_at": "2026-08-10",
+ "summary": "Allwork.space profiles five coworking and flexible workspace markets it considers notable in 2026, arguing that flex space now spans private offices, enterprise suites, meeting rooms and managed offices used by companies of all sizes rather than just freelance day desks.\n\nIndia is presented as the clearest case of flex becoming a corporate real estate strategy. The sector passed 100 million square feet in 2026, driven by enterprise demand, longer contracts and managed workspace adoption. In Q2 2026 flex providers were the country's largest office occupiers at 27% of gross office leasing, ahead of tech (21%) and BFSI (13%). Delhi-NCR saw flex operators take 45% of regional office transactions, a record quarterly share, followed by Pune (38%), Bengaluru (26%) and Hyderabad (24%). First-half 2026 coworking leasing hit a record 8.6 million square feet across the seven largest markets, up 32% year over year (Colliers India via Outlook Business), with Bengaluru, Delhi-NCR and Hyderabad making up nearly two-thirds. National operators such as WeWork India, Awfis, Smartworks, 91Springboard and Innov8 command 19% higher pricing than independents, reflecting a premium for standardized, multi-city experience.\n\nKenya is framed as a mobility-driven growth market: Nairobi's startup ecosystem plus a new digital nomad permit pathway for foreign remote workers, with IWG planning to double its Kenyan locations.\n\nSingapore is described as Asia's premium market, with flex demand up 5% year over year last year and inquiries up 37% quarter over quarter in early 2025, plus pricing premiums for higher-end space, driven by multinationals and regional headquarters.\n\nThe United States remains the largest market, reaching 9,136 locations and 163.9 million square feet by the end of Q1 2026, with growth spreading into mid-sized markets alongside innovation hubs including San Francisco, New York, Boston, Austin, Seattle and Chicago. The U.K. and Ireland section is truncated but positioned as an example of mature flex.",
+ "claims": [
+  {
+   "claim": "India's flex office sector surpassed 100 million square feet in 2026",
+   "stat": "100 million sq ft",
+   "attribution": "Allwork.space"
+  },
+  {
+   "claim": "Flexible workspace providers were India's largest office occupiers in Q2 2026",
+   "stat": "27% of gross office leasing, vs tech 21% and BFSI 13%",
+   "attribution": "Allwork.space"
+  },
+  {
+   "claim": "Delhi-NCR recorded its highest quarterly flex leasing share",
+   "stat": "45% of regional office transactions",
+   "attribution": "Allwork.space"
+  },
+  {
+   "claim": "Other Indian city flex leasing shares",
+   "stat": "Pune 38%, Bengaluru 26%, Hyderabad 24%",
+   "attribution": "Allwork.space"
+  },
+  {
+   "claim": "Coworking operators leased a record volume across India's seven largest office markets in H1 2026",
+   "stat": "8.6 million sq ft, up 32% year over year",
+   "attribution": "Colliers India data reported by Outlook Business"
+  },
+  {
+   "claim": "Three cities dominated Indian coworking leasing activity",
+   "stat": "nearly two-thirds (Bengaluru, Delhi-NCR, Hyderabad)",
+   "attribution": "Colliers India / Outlook Business"
+  },
+  {
+   "claim": "National Indian operators price above independent providers",
+   "stat": "19% higher price",
+   "attribution": "Allwork.space"
+  },
+  {
+   "claim": "Kenya introduced a digital nomad permit pathway for foreign nationals working remotely for overseas employers or clients",
+   "stat": "",
+   "attribution": "Allwork.space"
+  },
+  {
+   "claim": "IWG announced plans to double its flexible office locations in Kenya",
+   "stat": "double locations",
+   "attribution": "IWG"
+  },
+  {
+   "claim": "Singapore flexible workspace demand grew year over year last year",
+   "stat": "5% YoY",
+   "attribution": "Allwork.space"
+  },
+  {
+   "claim": "Singapore flexible workspace inquiries rose in early 2025",
+   "stat": "37% quarter over quarter",
+   "attribution": "Allwork.space"
+  },
+  {
+   "claim": "U.S. coworking sector size at end of Q1 2026",
+   "stat": "9,136 locations and 163.9 million sq ft",
+   "attribution": "Allwork.space"
+  }
+ ],
+ "vocabulary": [
+  "coworking space",
+  "flexible workspace",
+  "flex office",
+  "managed office",
+  "enterprise suites",
+  "private offices",
+  "corporate real estate strategy",
+  "gross office leasing",
+  "office occupiers",
+  "BFSI",
+  "digital nomad permit",
+  "digital nomads",
+  "remote workers",
+  "gateway cities",
+  "innovation hubs",
+  "premium flexible offices",
+  "long-term leases",
+  "multi-city availability",
+  "WeWork India",
+  "Awfis",
+  "Smartworks",
+  "91Springboard",
+  "Innov8",
+  "IWG",
+  "Colliers India"
+ ],
+ "topics_covered": []
+}

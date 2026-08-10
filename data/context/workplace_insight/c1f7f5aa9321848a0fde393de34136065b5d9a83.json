@@ -1,0 +1,69 @@
+{
+ "id": "c1f7f5aa9321848a0fde393de34136065b5d9a83",
+ "source_id": "workplace_insight",
+ "url": "https://workplaceinsight.net/the-erp-innovations-worth-paying-attention-to-right-now/?utm_source=rss&utm_medium=rss&utm_campaign=the-erp-innovations-worth-paying-attention-to-right-now",
+ "published_at": "2026-08-06",
+ "observed_at": "2026-08-10",
+ "summary": "A Workplace Insight opinion piece arguing that ERP systems are shifting from record-keeping to execution, with consequences beyond finance for headcount planning, office layout, onboarding and training.\n\nFour shifts are identified. First, systems that execute rather than report: vendors are embedding AI agents directly into core workflows instead of adding chatbots. SAP's Business AI portfolio is said to span several hundred embedded use cases across forecasting, inventory and customer service, while Priority Software's aiERP embeds agents in finance, sales and supply chain modules that can post receipts, match invoices and generate purchase orders without manual keying. The author frames the distinction as reporting software telling you what happened versus executing software acting and asking a human to approve the significant calls, noting most finance and operations job descriptions have not caught up.\n\nSecond, composable ERP replaces the single monolithic platform. Businesses keep a core system for financials and identity, then plug in specialised tools (warehouse management, scheduling) via open APIs. Two-tier strategies, where a corporate parent runs one system and subsidiaries run lighter cloud platforms, follow the same logic. This matters most for businesses growing by acquisition or entering new markets, avoiding forcing every new office onto legacy software.\n\nThird, industry-specific builds are replacing generic packages that customers had to customise, cutting implementation time and custom code, which in turn shrinks retraining disruption and productivity dips.\n\nFourth, real-time operations data: IoT sensors on warehouse floors, shop-floor equipment and delivery fleets feed ERP directly, and mobile-first design lets plant managers and field engineers act on live data on the floor rather than waiting for a report.\n\nThe conclusion: these shifts change how quickly a new office location goes live, how long onboarding takes, what entry-level finance roles consist of, and who needs to be physically near the floor. Treating ERP selection as purely procurement misses the workplace planning implications.",
+ "claims": [
+  {
+   "claim": "SAP's Business AI portfolio now spans several hundred embedded use cases across forecasting, inventory and customer service.",
+   "stat": "several hundred embedded use cases",
+   "attribution": "Workplace Insight article, referencing SAP"
+  },
+  {
+   "claim": "Priority Software's aiERP platform embeds agents into finance, sales and supply chain modules capable of posting receipts, matching invoices and generating purchase orders without manual keying.",
+   "stat": "",
+   "attribution": "Workplace Insight article, referencing Priority Software"
+  },
+  {
+   "claim": "Generative AI and predictive analytics will be standard in roughly four out of five ERP systems by 2028.",
+   "stat": "~80% by 2028",
+   "attribution": "Gartner"
+  },
+  {
+   "claim": "Gartner has advised large organisations to assess whether a single-tier ERP approach still serves them, versus two-tier strategies.",
+   "stat": "",
+   "attribution": "Gartner"
+  },
+  {
+   "claim": "Industry-specific ERP builds cut implementation time and reduce the amount of custom code a business must maintain and replace.",
+   "stat": "",
+   "attribution": "Workplace Insight article (author assertion)"
+  },
+  {
+   "claim": "IoT sensors on warehouse floors, shop-floor equipment and delivery fleets increasingly feed straight into ERP platforms, giving real-time stock counts and maintenance flags.",
+   "stat": "",
+   "attribution": "Workplace Insight article (author assertion)"
+  }
+ ],
+ "vocabulary": [
+  "ERP",
+  "AI agents",
+  "agentic automation",
+  "SAP Business AI",
+  "aiERP",
+  "Priority Software",
+  "generative AI",
+  "predictive analytics",
+  "composable ERP",
+  "two-tier ERP",
+  "monolithic platform",
+  "open APIs",
+  "warehouse management system",
+  "industry-specific builds",
+  "implementation cycle",
+  "IoT sensors",
+  "mobile-first design",
+  "real-time data",
+  "workplace planning",
+  "headcount planning",
+  "office layout",
+  "onboarding",
+  "procurement decision",
+  "month-end report",
+  "ledger",
+  "payroll"
+ ],
+ "topics_covered": []
+}

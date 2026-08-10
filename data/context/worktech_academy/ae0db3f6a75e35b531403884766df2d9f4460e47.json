@@ -1,0 +1,14 @@
+{
+ "id": "ae0db3f6a75e35b531403884766df2d9f4460e47",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNGFha2ZYWFV1S3NuZkw5VnloSDRiVFI0bzlHR2NXWEdXSy1YVDdoOXhnUUdzdnEtbWRUT0FHYlJydFQ4NVItRTVvY3J2bnFrbWk0TDNCTS04T0pocGY2MDg2NGhZYWEzaHp3emtWZXl4U3pkU1ZBUG9vOVpxaUE5Ny1ZblB1X1V1dmtCVDRIZ3RKTUwzT2VMV1R3?oc=5",
+ "published_at": "2025-04-09",
+ "observed_at": "2026-08-10",
+ "summary": "This item is a headline-only RSS stub from WORKTECH Academy, surfaced via Google News. The title, \"Financial firms are setting the pace for the future workplace,\" suggests an article arguing that banks, asset managers, insurers and other financial services organisations are leading the way in workplace strategy and future-of-work experimentation. However, the captured body text contains nothing beyond a repetition of the headline and the publication name, so no argument, evidence, examples, named firms, data points or quotations are available to summarise.\n\nBecause no substantive content was retrieved, it is not possible to determine which specific workplace themes the piece addresses. Plausible directions implied by the headline alone include financial sector real estate and portfolio decisions, premium office design and amenities intended to attract staff back on site, attendance expectations in a sector known for stricter in-office requirements, and technology investment in workplace experience. None of this can be confirmed from the text provided.\n\nRecommendation for the pipeline: treat this as an unusable stub and re-fetch the full article from the WORKTECH Academy site before scoring it for theme saturation. No claims, statistics or vendor or category vocabulary can be extracted from the current capture, and no theme tags should be applied on the basis of a headline alone, since doing so would inflate saturation scores without supporting evidence. If the full text becomes available, the most likely candidate themes to re-check are those relating to mandatory in-office days and employee reaction to return-to-office policies, and to unassigned or shared desk arrangements, both of which are frequently discussed in financial sector workplace coverage.",
+ "claims": [],
+ "vocabulary": [
+  "future workplace",
+  "financial firms"
+ ],
+ "topics_covered": []
+}

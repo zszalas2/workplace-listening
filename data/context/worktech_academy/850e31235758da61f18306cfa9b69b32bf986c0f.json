@@ -1,0 +1,14 @@
+{
+ "id": "850e31235758da61f18306cfa9b69b32bf986c0f",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xcHpvRGRWbEcySVhiM3M1RWY2OHR1LWVuTTFZcXI2VjdpSC1zNWVWb1FtUGh3QThUNjU1ZGsxR0RTaTJ4MWdwWGl6STE1cldKZFRDdkdUeE1vUzNpWmZCZ09pZ1puQVZLMXQ3UFRsUjI3Zw?oc=5",
+ "published_at": "2026-07-14",
+ "observed_at": "2026-08-10",
+ "summary": "This item is effectively a headline-only record with no substantive body text. The entry is titled \"Design Alphabet\" and is attributed to WORKTECH Academy, a workplace research and innovation publisher that covers workplace design, technology and the future of work. The captured text field repeats only the title and source name (\"Design Alphabet WORKTECH Academy\"), and the URL is a Google News RSS redirect rather than a direct article link, so the underlying content could not be retrieved or analyzed.\n\nBased on the title alone, the piece appears to be a glossary or A-to-Z style feature on workplace design terminology, a common editorial format for WORKTECH Academy. However, no themes, arguments, data points, vendor references or category vocabulary are present in the supplied material, so any characterization beyond the title would be speculation.\n\nNo factual claims, statistics, named sources or quotations are available. No discussion of visitor management, desk or room booking, hybrid and return-to-office policy, workplace analytics, facilities operations, support desk metrics or vendor risk review appears in the captured text.\n\nRecommendation for the listening pipeline: treat this as an incomplete capture. The item should be re-fetched from the resolved destination URL before it is scored or tagged, since the current record cannot support theme assignment or claim extraction. As supplied, it contributes nothing to saturation measurement and should not be counted toward coverage of any registry theme.",
+ "claims": [],
+ "vocabulary": [
+  "design",
+  "WORKTECH Academy"
+ ],
+ "topics_covered": []
+}

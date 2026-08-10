@@ -1,0 +1,16 @@
+{
+ "id": "6ccda5e822ddbfe31c2c88bfdc34f7da5593ad76",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeFJLc3JhdElRM3FBUGpBaEN4SVdJZWdHZnVFdXY5RTlLWUJWRG42R3FVbFB5QVp2Unlyc3RXNXNHODE0ekFPZHRLX3poaUhaVDA5b1UzS1czdmpCWl9RRHpZYVcyQTdjaGdIemxOZzRKWDI5NXdjaHN5YVJYTXBJb2JmdUJMempidUVyMlJlNTJhYTda?oc=5",
+ "published_at": "2023-07-01",
+ "observed_at": "2026-08-10",
+ "summary": "This item is a Google News RSS stub for a WORKTECH Academy article titled \"New research supports power of proximity in the workplace.\" The captured text contains only the headline and publication name repeated, with no article body, byline, date, or research details available in the supplied payload.\n\nBased on the headline alone, the piece appears to report on new research about the \"power of proximity,\" a concept generally used to argue that physical co-location in the workplace produces benefits such as faster mentoring, informal knowledge transfer, stronger team ties, innovation through chance encounters, and career advancement for junior staff. Coverage of this type is typically cited in debates about hybrid work and return-to-office policy, since proximity research is often used to justify in-person attendance requirements or to encourage voluntary office presence.\n\nHowever, no specific findings, sample sizes, institutions, authors, or statistics are present in the provided text. There is no information about which research body conducted the study, what methodology was used, what the effect sizes were, or how WORKTECH Academy framed the implications for workplace strategy, office design, or facilities planning.\n\nBecause the substantive content is absent, no verifiable claims can be extracted and no theme can be tagged with confidence. The headline suggests adjacency to hybrid and RTO policy discussion, but the item does not actually discuss mandatory in-office days, employee reaction, mandates, or pushback, so a strict tagging yields no theme matches. Retrieval of the full article would be required to assess relevance to workplace analytics, hybrid policy, or space planning themes.",
+ "claims": [],
+ "vocabulary": [
+  "power of proximity",
+  "workplace",
+  "WORKTECH Academy",
+  "research"
+ ],
+ "topics_covered": []
+}

@@ -1,0 +1,58 @@
+{
+ "id": "6f8c6fc1038caf774ebb29d6b891c6354fbf25ed",
+ "source_id": "workplace_insight",
+ "url": "https://workplaceinsight.net/barbican-centre-launches-search-for-furniture-designer-as-part-of-231m-renewal/?utm_source=rss&utm_medium=rss&utm_campaign=barbican-centre-launches-search-for-furniture-designer-as-part-of-231m-renewal",
+ "published_at": "2026-08-08",
+ "observed_at": "2026-08-10",
+ "summary": "The Barbican Centre has opened an international competition for a designer or design team to create a new furniture strategy for its public spaces, part of a wider 231 million pound Barbican Renewal programme. The commission covers a bespoke range of up to 500 pieces for the Grade II-listed arts centre, plus identifying chances to reuse existing furniture and add suitable off-the-shelf products. The appointment is expected to run from 2026 to 2029.\n\nThe competition is open globally, with proposals due 28 August, a shortlist proceeding to full tender in September, and appointment planned for November. Possible items include armchairs, sofas, coffee tables, bar stools, communal benches with parasols and stackable chairs for larger events. Accessibility, flexibility and sustainability are central to the brief. Areas covered include the Lakeside, Sculpture Court and Learning Spaces, plus redesigned foyers being developed by Allies and Morrison and Asif Khan Studio.\n\nThe Barbican cited recent audience feedback, inclusive design work and co-design with visitors as showing a need for furniture that is more welcoming, cohesive, accessible and adaptable to the range of activities across the centre. Furniture has been part of the Barbican identity since it opened in 1982, when Robin Day produced bespoke seating, sofas, chairs and tables, most of which has since been replaced.\n\nPhilippa Simpson, chief operating officer, said furniture has always shaped how people experience the building and that the aim is objects of quality and comfort responding to the architecture and artistic purpose, ensuring every visitor feels welcome. Alex Watt, architect at Asif Khan Studio, said the commission extends design thinking applied to the foyers while retaining the original architecture's character.\n\nThe renewal programme aims to conserve and upgrade the building before its 50th anniversary, improving accessibility, sustainability and future suitability. The centre receives more than 30,000 visitors on an average day.",
+ "claims": [
+  {
+   "claim": "The Barbican Renewal programme is a major capital upgrade of the arts centre",
+   "stat": "£231 million",
+   "attribution": "Workplace Insight / Barbican Centre"
+  },
+  {
+   "claim": "The commission involves a bespoke furniture range",
+   "stat": "up to 500 pieces",
+   "attribution": "Barbican Centre"
+  },
+  {
+   "claim": "The designer appointment period is set",
+   "stat": "2026 to 2029",
+   "attribution": "Barbican Centre"
+  },
+  {
+   "claim": "Proposals deadline, shortlist and appointment timeline",
+   "stat": "proposals by 28 August; tender in September; appointment in November",
+   "attribution": "Barbican Centre"
+  },
+  {
+   "claim": "The Barbican opened with bespoke furniture by Robin Day",
+   "stat": "1982",
+   "attribution": "Workplace Insight"
+  },
+  {
+   "claim": "Average daily footfall at the centre",
+   "stat": "more than 30,000 visitors",
+   "attribution": "Barbican Centre"
+  }
+ ],
+ "vocabulary": [
+  "furniture strategy",
+  "public spaces",
+  "Grade II-listed",
+  "renewal programme",
+  "off-the-shelf products",
+  "full tender process",
+  "inclusive design",
+  "co-design",
+  "accessibility",
+  "sustainability",
+  "foyers",
+  "Learning Spaces",
+  "stackable chairs",
+  "communal benches",
+  "chief operating officer"
+ ],
+ "topics_covered": []
+}

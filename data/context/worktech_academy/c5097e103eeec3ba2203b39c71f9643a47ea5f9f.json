@@ -1,0 +1,13 @@
+{
+ "id": "c5097e103eeec3ba2203b39c71f9643a47ea5f9f",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRQzRaaHg5VHVnZ3FHUlZmM0ktTWY4MlNfZDkwSzhuVlhVbmxaWXloN1c3cmRkaWlsVHRvQ1dTeEZYTTNyWEhMcDg4M2gyY29LbVBFRlUwRzlkRjRkVjVvU19sclFfbldmSkE?oc=5",
+ "published_at": "2025-04-02",
+ "observed_at": "2026-08-10",
+ "summary": "This item is effectively a stub with no substantive content. The record consists of a Google News RSS redirect link, a title identifying \"Gabriela Białkowska - WORKTECH Academy,\" and a body that merely repeats the same string: \"Gabriela Białkowska WORKTECH Academy.\" There is no article text, abstract, date, or descriptive metadata beyond the person's name and the publisher name.\n\nWhat can be inferred: WORKTECH Academy is a workplace research and knowledge platform associated with the WORKTECH conference series, which covers workplace innovation, real estate, technology and people topics. The page appears to be a contributor, speaker or author profile rather than an editorial article, which is why the extracted text is limited to a name and site title.\n\nBecause no claims, statistics, sources, or arguments are present, nothing can be summarized about hybrid work policy, desk booking, visitor management, workplace analytics or facilities operations. No vendor or category language appears in the captured text.\n\nRecommended handling for the listening pipeline: treat this as a low-value or failed extraction. If coverage of WORKTECH Academy material is desired, the source should be re-crawled at the canonical URL rather than the Google News redirect, or the specific underlying article should be located. Tagging against the theme registry is not possible without content, so no themes are assigned. Flagging the item for re-fetch would avoid it counting toward saturation scoring in either direction.",
+ "claims": [],
+ "vocabulary": [
+  "WORKTECH Academy"
+ ],
+ "topics_covered": []
+}

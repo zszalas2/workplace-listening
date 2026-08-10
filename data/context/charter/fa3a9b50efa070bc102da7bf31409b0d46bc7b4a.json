@@ -1,0 +1,36 @@
+{
+ "id": "fa3a9b50efa070bc102da7bf31409b0d46bc7b4a",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/ai-tip-of-the-week-designate-ai-free-days/",
+ "published_at": "2026-08-06",
+ "observed_at": "2026-08-10",
+ "summary": "A short workplace-AI tip item from Charter arguing that organizations should schedule recurring \"AI-free\" days to protect skill development, especially among junior employees.\n\nCore concern: a recent BCG report found more than half of leaders worry that AI use will slow the development of junior workers. The mechanism described is employees going on \"autopilot\" and offloading cognitive tasks to AI tools, which slows learning and leads to skill erosion. The risk is framed as applying to both juniors who never build the underlying capabilities and senior workers who lose skills they already had.\n\nRecommendation: BCG managing director and senior partner David Martin suggests designating regular AI-free days on which no one uses AI and staff complete work \"the way you used to.\" He compares the practice to calculator-free math tests in school, where students must write out long division by hand in order to practice a fundamental skill. The stated goal is regular deliberate practice of creativity, analysis, and problem-solving.\n\nThe piece is prescriptive and brief, offering no implementation detail, measurement approach, or evidence that AI-free days work. It does not address workplace or facilities topics such as office attendance, desk and room booking, visitor management, hybrid policy, or workplace analytics. Relevance to a workplace-technology listening pipeline is limited to the broader theme of how AI adoption reshapes day-to-day working norms and manager expectations.",
+ "claims": [
+  {
+   "claim": "More than half of leaders are concerned that AI use will lead to slower development of junior workers.",
+   "stat": "over half of leaders",
+   "attribution": "BCG report, cited by Charter"
+  },
+  {
+   "claim": "As employees go on \"autopilot\" and offload cognitive tasks to AI, learning slows and skill erosion follows.",
+   "stat": "",
+   "attribution": "BCG report"
+  },
+  {
+   "claim": "Organizations should launch regular \"AI-free\" days where no one uses AI, analogous to calculator-free math tests.",
+   "stat": "",
+   "attribution": "David Martin, managing director and senior partner, BCG"
+  }
+ ],
+ "vocabulary": [
+  "AI-free days",
+  "autopilot",
+  "cognitive tasks",
+  "skill erosion",
+  "junior workers",
+  "creativity, analysis, and problem-solving",
+  "calculator-free math tests",
+  "managing director and senior partner"
+ ],
+ "topics_covered": []
+}

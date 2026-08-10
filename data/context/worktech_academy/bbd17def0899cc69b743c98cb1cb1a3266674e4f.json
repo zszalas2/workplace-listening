@@ -1,0 +1,14 @@
+{
+ "id": "bbd17def0899cc69b743c98cb1cb1a3266674e4f",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCUVFoMU1sM25HMVJIaW1CUm1Od093eV9SRDFLYlF2bkZ3dGI4Y3BBbFhaWktxVDhIeldfR2tuVzdjSWF2YTBObU5TVU9PSWs2b3gzNWlSQ29HQ3Nxd2IweVZtclJSXzJlYU93U2E5aV9Xdw?oc=5",
+ "published_at": "2018-11-08",
+ "observed_at": "2026-08-10",
+ "summary": "This item is not a substantive article. It is an author archive listing page from WORKTECH Academy (\"Academy Reporting, Author at WORKTECH Academy - Page 3 of 26\"), retrieved via a Google News RSS redirect link. The captured text contains only the page title and site name, with no body copy, no article content, no named sources, and no data. There is nothing describing visitor management, desk or room booking, hybrid and return-to-office policy, workplace analytics, or facilities operations, even though WORKTECH Academy as a publisher generally covers workplace innovation and future-of-work research. Because the payload is a paginated author index rather than an individual piece, no claims, statistics, vendor language, or category terminology can be extracted. No themes from the registry can be responsibly tagged. Recommended handling for the listening pipeline: treat this as a crawl artifact, discard or requeue for re-fetch against the resolved canonical URL of a specific article, and consider adding a filter that drops author archive and pagination pages (URL patterns containing /author/ or /page/) before summarization. If the underlying content is desired, individual article URLs listed on that archive page would need to be fetched separately.",
+ "claims": [],
+ "vocabulary": [
+  "WORKTECH Academy",
+  "Academy Reporting"
+ ],
+ "topics_covered": []
+}

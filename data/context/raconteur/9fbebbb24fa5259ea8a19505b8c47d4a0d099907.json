@@ -1,0 +1,45 @@
+{
+ "id": "9fbebbb24fa5259ea8a19505b8c47d4a0d099907",
+ "source_id": "raconteur",
+ "url": "https://www.raconteur.net/finance/cfo-on-the-spot-five-minutes-with-martin-edstrom-cfo-of-paragon",
+ "published_at": "2026-08-06",
+ "observed_at": "2026-08-10",
+ "summary": "A short Raconteur \"CFO on the Spot\" Q&A profile of Martin Edstrom, Chief Financial Officer of Paragon, a global business services and outsourcing company that supports large global brands and financial institutions with marketing services and customer communications.\n\nBackground: Edstrom has more than two decades of experience across corporate finance, strategy and investment banking. Before Paragon he led the corporate finance function at Royal Mail Group, and prior to that spent nine years in investment banking at Goldman Sachs.\n\nThemes touched: his route into finance leadership, how the CFO role and its responsibilities are evolving, and where technology could create opportunity for the finance function and the wider industry.\n\nMain substantive point: asked about his biggest frustration, Edstrom names the regulatory and audit burden. He acknowledges the tightening regulatory environment is understandable but says it consumes a significant amount of his time. He argues for simplifying compliance processes without weakening necessary oversight, which would free capacity to focus on growth and operating efficiency.\n\nThe excerpt contains no statistics, no workplace or facilities content, and no discussion of office attendance, desk or room booking, visitor management, workplace analytics or hybrid policy. It is finance leadership trade press rather than workplace technology coverage, and offers little for a workplace listening pipeline beyond a general signal that compliance and audit workload is a recognised drag on senior leadership time.",
+ "claims": [
+  {
+   "claim": "Edstrom has more than two decades of experience in corporate finance, strategy and investment banking",
+   "stat": "20+ years",
+   "attribution": "Raconteur"
+  },
+  {
+   "claim": "Edstrom spent nine years in investment banking at Goldman Sachs before leading corporate finance at Royal Mail Group",
+   "stat": "9 years",
+   "attribution": "Raconteur"
+  },
+  {
+   "claim": "The regulatory and audit burden is his biggest frustration and takes up a significant amount of time",
+   "stat": "",
+   "attribution": "Martin Edstrom, CFO of Paragon"
+  },
+  {
+   "claim": "Simplifying compliance processes without reducing necessary oversight would free up time to focus on growth and efficiency",
+   "stat": "",
+   "attribution": "Martin Edstrom, CFO of Paragon"
+  }
+ ],
+ "vocabulary": [
+  "CFO",
+  "business services",
+  "outsourcing solutions",
+  "marketing services",
+  "customer communications",
+  "corporate finance",
+  "investment banking",
+  "regulatory and audit burden",
+  "compliance processes",
+  "oversight",
+  "growth and efficiency",
+  "finance leadership"
+ ],
+ "topics_covered": []
+}

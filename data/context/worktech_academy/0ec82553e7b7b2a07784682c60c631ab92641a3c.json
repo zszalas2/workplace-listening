@@ -1,0 +1,15 @@
+{
+ "id": "0ec82553e7b7b2a07784682c60c631ab92641a3c",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRkJyenVna2Qxd3dONlotb19sWWhzQ0ZMMHZsZUdpVjQ2aUFlMTBxWVNSZV80a09VMGgtLUhCOHNJckcxcEdYakhfUG5VQWFjcy14YTZ2aEpLRFRRQ1lPaEEzNWdPZ0VKa2JwMzMwejQ0NEpWRmZPU1R5RlBGSkdlcmF0Y3gwdmd6QVZlYw?oc=5",
+ "published_at": "2018-11-08",
+ "observed_at": "2026-08-10",
+ "summary": "This item is effectively a headline-only entry from WORKTECH Academy, surfaced via a Google News RSS redirect link. The title, \"The evolution of workplace behaviours, attitudes and technology,\" is repeated as the entire body text, and no article copy, byline, date, quotes, data or supporting detail is present in the supplied record.\n\nBased on the title alone, the piece appears to belong to WORKTECH Academy's ongoing coverage of how workplace behaviour and employee attitudes are shifting alongside workplace technology adoption, a subject area that typically spans hybrid working patterns, occupancy and utilisation data, employee experience expectations and the technology stack used to manage offices. However, none of that can be verified from the text provided, so any thematic assignment would be speculative.\n\nNo factual claims, statistics, named sources, vendors, product categories or research findings can be extracted. There is no discussion of visitor management, desk or room booking, return-to-office policy, workplace analytics or facilities operations in the available text.\n\nRecommended handling for the listening pipeline: treat this as an unusable stub pending retrieval of the full article from the WORKTECH Academy site. The Google News redirect URL should be resolved to the canonical publisher URL so the body copy can be fetched and re-summarised. Until then the item should not contribute to saturation scoring, because tagging it would introduce false coverage signals for themes the piece may or may not actually address. If refetched, likely areas to check for relevance are hybrid attendance expectations, employee sentiment toward office mandates, and technology used to measure workplace behaviour.",
+ "claims": [],
+ "vocabulary": [
+  "workplace behaviours",
+  "workplace attitudes",
+  "workplace technology"
+ ],
+ "topics_covered": []
+}

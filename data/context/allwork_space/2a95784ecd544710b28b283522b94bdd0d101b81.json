@@ -1,0 +1,54 @@
+{
+ "id": "2a95784ecd544710b28b283522b94bdd0d101b81",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/08/why-organizations-need-to-stop-building-work-around-employees-alone/",
+ "published_at": "2026-08-10",
+ "observed_at": "2026-08-10",
+ "summary": "Opinion piece arguing that organizations still design work around employees even though work has become \"unbundled.\" Capability now arrives through employees plus an extended workforce of independent professionals, specialist firms, platform workers, ecosystem partners and AI, and individuals often hold several of these identities at once (an employee with a side consultancy, a retiree turned part-time entrepreneur, a freelancer becoming a strategic partner).\n\nEvidence offered: MBO Partners' 2025 State of Independence research reports 72.9 million Americans in independent work, and more than a third of traditional employees also run a side business or gig. The Registered Agents Business Formation Report counts 2.9 million new US businesses formed in 2026, on pace for a record year. Independent work is framed as a hedge against AI-driven labor market disruption, giving workers income diversification and career resilience.\n\nOn the employer side, the author cites Deloitte's reduction of benefits for some US employees as a signal that firms are separating capabilities they want to retain through long-term employment from those they can access another way. Leading organizations are said to ask which capabilities to build internally, bring in per project, access through partners, or hand to AI. Nearly every organizational system (recruitment, career development, performance management, benefits, leadership pipelines, workforce planning, engagement, retention) was designed around the single employer-employee relationship and therefore hides much of the talent the business already depends on.\n\nThe closing argument reframes loyalty. Retention became the central success metric because only one relationship was seen as valuable, but that no longer fits placing the right people on the right work at the right time. Professional services firms modeled the alternative with alumni networks, treating former employees as ongoing assets who may return as clients, partners, contractors or senior hires. The author calls this \"loyalty without longevity,\" where purpose, trust and meaningful work matter more than tenure, and organizations build talent pools without assuming ownership.",
+ "claims": [
+  {
+   "claim": "Americans participating in independent work",
+   "stat": "72.9 million",
+   "attribution": "MBO Partners 2025 State of Independence research"
+  },
+  {
+   "claim": "Traditional employees who also maintain a side business or side gig alongside their primary role",
+   "stat": "more than one-third",
+   "attribution": "MBO Partners 2025 State of Independence research"
+  },
+  {
+   "claim": "New businesses established in the United States in 2026, putting the country on course for another record-setting year",
+   "stat": "2.9 million",
+   "attribution": "Registered Agents Business Formation Report"
+  },
+  {
+   "claim": "Deloitte moved to reduce benefits for certain employees in the United States, signaling employers distinguishing between capabilities retained via employment and those accessed other ways",
+   "stat": "",
+   "attribution": "Author, citing Deloitte"
+  }
+ ],
+ "vocabulary": [
+  "unbundled work",
+  "extended workforce",
+  "independent work",
+  "independent professionals",
+  "platform workers",
+  "ecosystem partners",
+  "side business",
+  "side gig",
+  "AI transformation",
+  "workforce planning",
+  "performance management",
+  "leadership pipelines",
+  "retention",
+  "alumni networks",
+  "loyalty without longevity",
+  "talent pools",
+  "employee experience",
+  "digital collaboration",
+  "hybrid schedules",
+  "headcount",
+  "career resilience"
+ ],
+ "topics_covered": []
+}

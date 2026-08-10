@@ -1,0 +1,59 @@
+{
+ "id": "e6a5adbb9eb8b67b5cf6db9f1ef0754be54d3d16",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/08/manhattan-office-market-surges-as-july-leasing-climbs-39-above-normal-levels/",
+ "published_at": "2026-08-07",
+ "observed_at": "2026-08-10",
+ "summary": "Allwork.Space reports on a CBRE update showing Manhattan office leasing accelerated in July, with demand running ahead of historical averages and available space shrinking.\n\nKey data points: July leasing hit 2.98 million square feet, 39% above the five-year monthly average. Year-to-date leasing reached 17.87 million square feet, a 2% increase over the same period the prior year. Office availability fell to 14.0%, down 40 basis points from June and 320 basis points year over year.\n\nNet absorption was positive at 1.5 million square feet for the month and 6.58 million square feet year to date, meaning more space is being occupied than vacated.\n\nOn pricing, average asking rents held steady at $80.20 per square foot, flat versus June but up 4% year over year. The sublease market tightened, with sublease availability falling to 2.4% and average sublease asking rents flat year over year at $58.74 per square foot.\n\nRenewals stayed active: 427,000 square feet in July and 6.36 million square feet year to date, which the piece reads as a sign that many companies are renewing existing space rather than relocating.\n\nThe item is a short market-statistics brief. It does not discuss workplace operations topics such as desk booking, hot desking, visitor management, RTO mandates or policy reaction, admin workload, or vendor procurement. Its relevance is limited to macro context on office demand recovery in a major US market.",
+ "claims": [
+  {
+   "claim": "Manhattan office leasing in July exceeded the five-year monthly average",
+   "stat": "2.98 million sq ft, 39% above the five-year monthly average",
+   "attribution": "CBRE report, via Allwork.Space"
+  },
+  {
+   "claim": "Year-to-date Manhattan leasing rose versus the prior year",
+   "stat": "17.87 million sq ft, up 2%",
+   "attribution": "CBRE report"
+  },
+  {
+   "claim": "Office availability rate declined",
+   "stat": "14.0% in July, down 40 bps from June and 320 bps year over year",
+   "attribution": "CBRE report"
+  },
+  {
+   "claim": "Positive net absorption recorded",
+   "stat": "1.5 million sq ft in July; 6.58 million sq ft year to date",
+   "attribution": "CBRE report"
+  },
+  {
+   "claim": "Average asking rents were stable but up annually",
+   "stat": "$80.20 per sq ft, flat vs June, up 4% year over year",
+   "attribution": "CBRE report"
+  },
+  {
+   "claim": "Sublease market tightened",
+   "stat": "Sublease availability 2.4%; sublease asking rents flat at $58.74 per sq ft",
+   "attribution": "CBRE report"
+  },
+  {
+   "claim": "Renewal activity remained active",
+   "stat": "427,000 sq ft in July; 6.36 million sq ft year to date",
+   "attribution": "CBRE report"
+  }
+ ],
+ "vocabulary": [
+  "office leasing",
+  "net absorption",
+  "office availability rate",
+  "basis points",
+  "asking rents",
+  "sublease availability rate",
+  "sublease asking rents",
+  "renewal activity",
+  "five-year monthly average",
+  "year-to-date leasing",
+  "square feet"
+ ],
+ "topics_covered": []
+}

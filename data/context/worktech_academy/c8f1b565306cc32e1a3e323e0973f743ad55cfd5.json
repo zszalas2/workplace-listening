@@ -1,0 +1,15 @@
+{
+ "id": "c8f1b565306cc32e1a3e323e0973f743ad55cfd5",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPanI3NHJxSUhPRVFDVENFbFQtcFZPeEotaFZaelN0cXMtUldsUEY4S1JXRmJwLWo2ek9Qb2tYNTBrNDVSZGxaMHhPM3Q4UVNMUW02U2ktZFd6TmFtVVcxTUFJM2tibmxmS2R2aGhXNXU0OUM0T184eG93Uk5BY2VLQ0FJVGE1Yzlab2xsb2Y5RUhrNWt2SzdSYjlSZVdDWTI0cDVhOHhPU081SW1xeEJr?oc=5",
+ "published_at": "2024-07-02",
+ "observed_at": "2026-08-10",
+ "summary": "This item is a headline-only record from WORKTECH Academy, surfaced through a Google News RSS redirect. The title, \"Pioneering a culture of radical change: a new approach for the legal workplace,\" is repeated as the entire body text, meaning no article content, quotes, data, or author attribution was captured in the feed payload.\n\nBased on the title alone, the piece appears to belong to WORKTECH Academy's ongoing coverage of workplace design and culture change, with a specific focus on the legal sector. Law firm workplaces are a recurring subject in that publication because of well documented tensions between traditional cellular office layouts, partner status hierarchies tied to private offices, hybrid attendance expectations, and newer open or activity based settings. The framing of \"radical change\" and \"a new approach\" suggests the article likely discusses a firm or group of firms departing from legacy office norms, but this cannot be verified from the available text.\n\nNo verifiable claims, statistics, vendor names, product categories, or interview subjects are present in the captured content. There is not enough substance to determine whether the article addresses unassigned seating, mandated office days, administrative workload, multi site operations, service desk metrics, or vendor risk review processes.\n\nRecommended handling: treat this as a stub requiring full text retrieval before it can support any theme scoring or citation. The canonical URL should be resolved from the Google News redirect so the original WORKTECH Academy page can be fetched. Until then, no themes should be tagged, since assigning topics from a title inference would inflate saturation scores without evidence. The only usable metadata is the source (WORKTECH Academy), the sector focus (legal), and the general subject area (workplace culture and change management).",
+ "claims": [],
+ "vocabulary": [
+  "legal workplace",
+  "culture of radical change",
+  "workplace"
+ ],
+ "topics_covered": []
+}
