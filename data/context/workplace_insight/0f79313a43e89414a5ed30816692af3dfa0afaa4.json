@@ -1,0 +1,54 @@
+{
+ "id": "0f79313a43e89414a5ed30816692af3dfa0afaa4",
+ "source_id": "workplace_insight",
+ "url": "https://workplaceinsight.net/workplace-ai-productivity-gains-mean-little-if-they-erase-professional-judgment/?utm_source=rss&utm_medium=rss&utm_campaign=workplace-ai-productivity-gains-mean-little-if-they-erase-professional-judgment",
+ "published_at": "2026-08-12",
+ "observed_at": "2026-08-17",
+ "summary": "An opinion piece arguing that workplace AI's time savings can mask erosion of professional judgment, and that most organisations measure the wrong things.\n\nCore argument: AI's strongest case is mundane time savings (faster drafts, quicker first passes), but speed becomes a poor proxy for value if leaders stop asking what happened to the judgment behind the work. A cited RIBA survey of architecture practices found AI adoption rising sharply with reported productivity gains, but far fewer respondents believed design quality improved, and many feared early-career staff would not develop essential skills. The author says this gap generalises to HR screening, contract review, forecasting, design and management recommendations.\n\nThe wrong scoreboard: organisations count licences, active users, AI-assisted tasks, hours saved and output volume. Those metrics show presence, not improvement. Costs land downstream: the author of an AI-assisted analysis logs a productivity gain while a colleague reconstructs evidence, challenges logic or repairs tone. Only the first event is measured, producing a misleading business case that hides rework, review fatigue, brittle skills and dependence on a system that cannot hold professional responsibility.\n\nRecommendations: define the decisions that require human judgment first, then give AI a bounded role (generate alternatives, retrieve information, flag inconsistencies, produce preliminary drafts). Replace \"did a human check it?\" with questions about what the reviewer tested, examined, changed and what uncertainty remains. Apply proportionate review: light sense checks for low-risk internal drafts, a visible chain of reasoning for decisions touching safety, employment, customers, money or reputation.\n\nProtect the learning loop: judgment grows through imperfect attempts, feedback and consequences. Suggested practices include juniors outlining recommendations before using AI to test them, comparing team reasoning with AI alternatives, and asking employees what they accepted, rejected or changed. Measure capability over time alongside quality, rework, review burden, error detection and skill development.",
+ "claims": [
+  {
+   "claim": "AI adoption among architecture practices rose sharply and many users reported productivity improvements, but far fewer believed AI improved design quality and many worried early-career professionals would struggle to develop essential skills.",
+   "stat": "",
+   "attribution": "RIBA survey, cited by Workplace Insight"
+  },
+  {
+   "claim": "Most organisations measure AI through activity metrics such as licences, active users, AI-assisted tasks, hours saved and output volume, which cannot show whether the work improved.",
+   "stat": "",
+   "attribution": "Workplace Insight author"
+  },
+  {
+   "claim": "A manager may save an hour drafting a proposal while spending two hours verifying weak assumptions.",
+   "stat": "1 hour saved vs 2 hours verifying",
+   "attribution": "Workplace Insight author (illustrative)"
+  }
+ ],
+ "vocabulary": [
+  "workplace AI",
+  "productivity gains",
+  "professional judgment",
+  "the wrong scoreboard",
+  "activity metrics",
+  "licences",
+  "active users",
+  "AI-assisted tasks",
+  "hours saved",
+  "output volume",
+  "correction burden",
+  "rework",
+  "review fatigue",
+  "review burden",
+  "brittle skills",
+  "judgment points",
+  "bounded role",
+  "proportionate review",
+  "chain of reasoning",
+  "approval by appearance",
+  "human accountability",
+  "learning loop",
+  "capability over time",
+  "error detection",
+  "skill development",
+  "early-career professionals"
+ ],
+ "topics_covered": []
+}

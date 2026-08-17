@@ -1,0 +1,105 @@
+{
+ "id": "3f316d715c95a26d4749f5a35e741fc5f1e41613",
+ "source_id": "workplace_insight",
+ "url": "https://workplaceinsight.net/ai-could-increase-the-relevance-of-the-physical-workplace-gensler-report-suggests/?utm_source=rss&utm_medium=rss&utm_campaign=ai-could-increase-the-relevance-of-the-physical-workplace-gensler-report-suggests",
+ "published_at": "2026-08-14",
+ "observed_at": "2026-08-17",
+ "summary": "Gensler's Global Workplace Survey 2026 argues that AI adoption may raise rather than reduce the importance of the physical office. The firm classifies 30 per cent of workers as \"AI power users\" who regularly use AI at work and at home, while 36 per cent are late adopters who rarely or never use it. Power users spend less of the week working alone (37 per cent versus 42 per cent) and more time on learning (12 versus 8 per cent) and socialising (11 versus 9 per cent). They also report stronger workplace relationships: 85 per cent say they have formed meaningful friendships at work versus 70 per cent of late adopters, and they are more likely to enjoy their team's company and trust colleagues' work quality.\n\nLearning is central. Seventy per cent of power users see learning and development as highly critical to performance versus 44 per cent of late adopters. Workers who value learning spend 12 per cent of the week on it (versus 7 per cent) and are more likely to experiment with new ways of working (60 versus 41 per cent). Learning-supportive space features include look and feel, noise levels, rearrangeable meeting room furniture, current technology and places to recharge.\n\nThe survey also flags space failings: two-thirds of employees make DIY changes to workspaces for ergonomics, temperature, privacy and storage, and over 60 per cent take calls at desks, in hallways or staircases, or cancel meetings, for lack of suitable meeting space. Of the 17 per cent working with unassigned seating, 59 per cent would prefer an assigned desk.\n\nWork patterns look stable: 55 per cent of time in the office, flat on 2025 and up from 51 per cent in 2024; home working down to 18 per cent. Desired amenities: wellbeing (46 per cent), outdoor areas and nature views (43 per cent), quiet focus space and training space (40 per cent each). Based on 16,459 office workers across 16 countries, July to September 2025.",
+ "claims": [
+  {
+   "claim": "Thirty per cent of workers are AI power users, using AI tools regularly in professional and personal life, while 36 per cent are late adopters",
+   "stat": "30% power users; 36% late adopters",
+   "attribution": "Gensler Global Workplace Survey 2026"
+  },
+  {
+   "claim": "AI power users spend less of their working week working alone than late adopters",
+   "stat": "37% vs 42% of the week",
+   "attribution": "Gensler Global Workplace Survey 2026"
+  },
+  {
+   "claim": "Power users spend more time on learning and professional development",
+   "stat": "12% vs 8%",
+   "attribution": "Gensler Global Workplace Survey 2026"
+  },
+  {
+   "claim": "Power users spend more time socialising",
+   "stat": "11% vs 9%",
+   "attribution": "Gensler Global Workplace Survey 2026"
+  },
+  {
+   "claim": "Power users are more likely to report meaningful friendships at work",
+   "stat": "85% vs 70%",
+   "attribution": "Gensler Global Workplace Survey 2026"
+  },
+  {
+   "claim": "Power users rate learning and development as highly critical to performance more often",
+   "stat": "70% vs 44%",
+   "attribution": "Gensler Global Workplace Survey 2026"
+  },
+  {
+   "claim": "Employees who highly value learning spend more of the week learning and are more likely to experiment with new ways of working",
+   "stat": "12% vs 7% of week; 60% vs 41% experimenting",
+   "attribution": "Gensler Global Workplace Survey 2026"
+  },
+  {
+   "claim": "Two-thirds of employees make DIY changes to their workspaces to overcome design problems such as ergonomics, temperature, privacy and storage",
+   "stat": "about 66%",
+   "attribution": "Gensler Global Workplace Survey 2026"
+  },
+  {
+   "claim": "More than 60 per cent take calls at their desks, in hallways or staircases, or cancel meetings, because they cannot find suitable meeting space",
+   "stat": ">60%",
+   "attribution": "Gensler Global Workplace Survey 2026"
+  },
+  {
+   "claim": "Of the 17 per cent of respondents with unassigned seating, 59 per cent would prefer an assigned desk",
+   "stat": "17% unassigned; 59% of them prefer assigned",
+   "attribution": "Gensler Global Workplace Survey 2026"
+  },
+  {
+   "claim": "Employees spend an average of 55 per cent of working time in the office, unchanged from 2025 and up from 51 per cent in 2024",
+   "stat": "55% (2026), 55% (2025), 51% (2024)",
+   "attribution": "Gensler Global Workplace Survey 2026"
+  },
+  {
+   "claim": "Home working has fallen from 20 per cent in 2024 and 2025 to 18 per cent this year",
+   "stat": "20% to 18%",
+   "attribution": "Gensler Global Workplace Survey 2026"
+  },
+  {
+   "claim": "Desired future workplace features: wellbeing amenities 46 per cent, outdoor areas and nature views 43 per cent, quiet focus spaces 40 per cent, training and coaching spaces 40 per cent",
+   "stat": "46/43/40/40%",
+   "attribution": "Gensler Global Workplace Survey 2026"
+  },
+  {
+   "claim": "Half of respondents want their future workplace to feel productive, 45 per cent professional, 42 per cent creative and 42 per cent inspiring",
+   "stat": "50%/45%/42%/42%",
+   "attribution": "Gensler report, chart on page nine"
+  },
+  {
+   "claim": "Findings are based on an online survey of 16,459 full-time office-based workers in 16 countries, July to September 2025, at organisations with at least 100 employees (50 in legal), with country-level margin of error of plus or minus three percentage points",
+   "stat": "16,459 respondents; 16 countries; +/-3pp",
+   "attribution": "Gensler"
+  }
+ ],
+ "vocabulary": [
+  "AI power users",
+  "late adopters",
+  "unassigned seating",
+  "assigned desk",
+  "hybrid working",
+  "return-to-office mandates",
+  "quiet spaces for focused work",
+  "learning and professional development",
+  "DIY changes to workspaces",
+  "ergonomics",
+  "amenities",
+  "people transition",
+  "Global Workplace Survey"
+ ],
+ "topics_covered": [
+  "hot_desking_backlash",
+  "hybrid_rto_mandate_pushback",
+  "quiet_space_calls_and_coworking_choice"
+ ]
+}

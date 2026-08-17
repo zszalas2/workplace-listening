@@ -1,0 +1,15 @@
+{
+ "id": "94fc9dc192c8422ca13308135b2d7ad1e7f79ba6",
+ "source_id": "facility_executive",
+ "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeklIV3NaUUZ0d05qcm1mdl94OEp3eDdINnZUR3Fkc1ZOcExnTjM3QTJSOGNNVFlHTEdVUFBsR01sSVBkU1VDbVc3eVBUOEI5X0JFYkdPX1NlX2FwaThkT0ZabFJ5b2tiRWFvUzBwdkMwS0N1M3ZIc1EwTlZSX1EzRE1DSGtsWXMxZkVuZjUwd2VTUzFtZDdxOQ?oc=5",
+ "published_at": "2026-08-10",
+ "observed_at": "2026-08-17",
+ "summary": "This item is an RSS stub from Facility Executive Magazine, headlined \"Workers Are Adopting AI Faster Than Employers Are Guiding Them.\" The captured text consists only of the headline and publication name repeated, with the link routed through a Google News redirect URL. No article body, byline, date, survey source, or supporting data was retrieved, so the substance of the reporting cannot be summarized.\n\nBased on the headline alone, the piece appears to address a gap between employee-led adoption of AI tools at work and the pace at which employers are issuing policy, training, or governance guidance. Typical coverage in this vein for a facilities and workplace audience would touch on shadow AI use, the absence of formal acceptable-use policies, security and data privacy exposure, and the role of workplace and facilities leaders in setting expectations. None of that can be confirmed from the text supplied here.\n\nFor the purposes of this listening pipeline, the item carries no verifiable claims, statistics, or attributed quotes. It does not use category or vendor language relevant to visitor management, desk and room booking, hybrid and return-to-office policy, workplace analytics, or facilities operations tooling. The only vocabulary present is AI adoption and employer guidance, which sit outside the supplied theme registry.\n\nRecommended handling: treat as a low-value stub. If the topic is of interest, re-fetch the full article from the publisher to determine whether it references a named survey, sample size, or workplace policy findings that would justify tagging. As captured, it should not contribute to saturation scoring on any registry theme, and no theme_ids are assigned.",
+ "claims": [],
+ "vocabulary": [
+  "AI adoption",
+  "employer guidance",
+  "workers"
+ ],
+ "topics_covered": []
+}

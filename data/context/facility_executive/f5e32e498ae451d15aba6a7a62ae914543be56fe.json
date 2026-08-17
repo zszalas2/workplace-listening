@@ -1,0 +1,15 @@
+{
+ "id": "f5e32e498ae451d15aba6a7a62ae914543be56fe",
+ "source_id": "facility_executive",
+ "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU3AwdWhZMm52dW0zb01BM2FLYnk4WUZWaWVudjB2dFRla3p6MDYyZks0d0FjU3gyQTFUYmdGcDdNaWtzRE9RU0h6UndnNnRVWXRuN2lUTEt6cHI3VWFhWUhqcGVmcjZnQnFwWC02Z2NvUFhsUGY5YVpGc1Z4UjFVVm5jSlgxMHBp?oc=5",
+ "published_at": "2026-07-27",
+ "observed_at": "2026-08-17",
+ "summary": "This item is a headline-only entry from Facility Executive Magazine, surfaced through a Google News RSS link. The title asks whether AI advances accessibility in work and learning. No article body, byline, date, or supporting detail was captured in the feed payload beyond the repeated title and publication name, so the substance of the piece cannot be summarized.\n\nBased on the title alone, the likely subject matter is the intersection of artificial intelligence and accessibility across workplace and educational settings, a topic that would typically touch on assistive technology, accommodation for employees and students with disabilities, and how facilities and learning environments adopt AI tools. However, none of that can be confirmed from the available text.\n\nNo factual claims, statistics, quotes, or named sources are present in the captured content. No vendor names, product categories, or workplace technology terminology appear. There is no discussion of visitor management, desk or room booking, hybrid or return-to-office policy, workplace analytics, support desk operations, attendance tracking, or procurement and risk review workload.\n\nFor pipeline purposes this should be treated as an unusable stub. If the topic is of interest, the full article would need to be retrieved from the publisher before any coverage assessment or theme tagging can be performed. As captured, the item contributes no evidence toward any registry theme and should not count toward saturation for any theme.",
+ "claims": [],
+ "vocabulary": [
+  "AI",
+  "accessibility",
+  "work and learning"
+ ],
+ "topics_covered": []
+}

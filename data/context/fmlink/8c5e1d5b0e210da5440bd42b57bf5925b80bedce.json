@@ -1,0 +1,47 @@
+{
+ "id": "8c5e1d5b0e210da5440bd42b57bf5925b80bedce",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/do-you-know-your-state-requirements-for-pesticide-registration-including-many-cleaning-products-see-issas-resource/",
+ "published_at": "2026-08-14",
+ "observed_at": "2026-08-17",
+ "summary": "FMLink reports that ISSA-The Association for Cleaning & Facility Solutions has released its 2026 State Pesticide Registration Survey to ISSA members. The resource compiles pesticide registration requirements for every U.S. state plus Washington, DC, Puerto Rico, the Virgin Islands and Guam. New for 2026 is an interactive map feature intended to help members find the requirements most relevant to their companies more quickly.\n\nThe piece frames pesticide registration as a critical compliance area for the cleaning and facility solutions industry because many cleaning products fall under that regulatory category. Understanding state-specific rules is presented as essential for compliance and for avoiding costly penalties. The survey covers fees, renewal deadlines, penalties, and contact information for state regulatory agencies.\n\nUpdates since the 2025 edition: registration fees have increased in Illinois, Nebraska, New Mexico and Oregon, and ISSA expects Delaware fees to rise soon. Registration authority references have also been updated throughout the 2026 survey.\n\nISSA encourages relevant members to use the resource and to give feedback on its usefulness, and directs questions to ISSA Senior Government Affairs Manager Stacy Seiden. The item is a short association resource announcement aimed at facilities and cleaning industry compliance audiences, with no data on workplace occupancy, hybrid work, or workplace technology.",
+ "claims": [
+  {
+   "claim": "The 2026 State Pesticide Registration Survey is available to ISSA members and covers all U.S. states plus Washington, DC, Puerto Rico, the Virgin Islands and Guam",
+   "stat": "",
+   "attribution": "ISSA"
+  },
+  {
+   "claim": "The 2026 survey adds an interactive map feature for faster access to relevant state information",
+   "stat": "",
+   "attribution": "ISSA"
+  },
+  {
+   "claim": "Pesticide registration fees increased in four states since the 2025 update",
+   "stat": "Illinois, Nebraska, New Mexico and Oregon",
+   "attribution": "ISSA"
+  },
+  {
+   "claim": "ISSA anticipates a pesticide registration fee increase in Delaware soon",
+   "stat": "",
+   "attribution": "ISSA"
+  },
+  {
+   "claim": "The survey includes data on fees, renewal deadlines, penalties and state regulatory agency contacts",
+   "stat": "",
+   "attribution": "ISSA"
+  }
+ ],
+ "vocabulary": [
+  "pesticide registration",
+  "State Pesticide Registration Survey",
+  "ISSA",
+  "cleaning and facility solutions",
+  "regulatory compliance",
+  "renewal deadlines",
+  "registration authority references",
+  "interactive map",
+  "Government Affairs"
+ ],
+ "topics_covered": []
+}

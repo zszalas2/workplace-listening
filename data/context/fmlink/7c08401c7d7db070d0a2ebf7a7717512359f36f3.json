@@ -1,0 +1,67 @@
+{
+ "id": "7c08401c7d7db070d0a2ebf7a7717512359f36f3",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/closed-loop-systems-tackling-a-hidden-legionella-threat/",
+ "published_at": "2026-08-13",
+ "observed_at": "2026-08-17",
+ "summary": "An FMJ/FMLink article (with Hydrosense imagery and data) argues that closed-loop water systems, often assumed low risk for Legionella because they are sealed and do not normally aerosolize water, carry overlooked hazards for facilities managers as water systems grow more complex and climate patterns shift.\n\nRisk factors identified:\n- Materials: polymers such as EPDM, PEX, PVC and polypropylene leach biodegradable organic carbon that feeds early microbial colonisation; surface chemistry and roughness aid bacterial attachment and biofilm formation.\n- Geometry and flow: oversized pipework lowers velocity and shear stress needed to disrupt biofilm; dead legs from redundant pipework, bypass lines and poorly flushed components trap stagnant water where disinfectant residuals disappear. Expansion vessels, strainers, balancing valves and plate heat exchangers create warm, low-flow microbial reservoirs.\n- Temperature: many low-temperature closed-loop systems run at 68-113 F (20-45 C), ideal for Legionella growth; poor insulation, intermittent use and standby periods let systems drift into this range for hours or days.\n- Corrosion and dirt: rust from carbon steel, magnetite and sediment create protected pockets that shield biofilms from routine heat and chemical control.\n\nBest practice recommendations: design out stagnation and nutrient accumulation (remove dead legs, ensure consistent circulation, avoid oversized pipework); select low-corrosion materials and avoid fiber washers or natural rubber; add high-quality filtration and magnetic dirt separation; provide flushing points, drain valves and accessible dosing ports. At commissioning, clean before filling, apply controlled biocide treatment, run initial water quality tests (Legionella plus iron and suspended solids) and verify temperature control. Establish a management plan from day one covering flushing, inspection, cleaning and timed chemical dosing, plus regular team training.\n\nEmerging technology: advanced filtration and magnetic dirt separation, automated biocide dosing driven by real-time indicators such as ATP, continuous temperature and flow sensors to catch drift and stagnation zones, AI and predictive analytics to flag high-risk conditions, and rapid on-site Legionella testing.",
+ "claims": [
+  {
+   "claim": "Closed-loop systems are commonly found in building heating, air-conditioning and cooling systems and some heat pumps, and are often wrongly assumed to be low Legionella risk because they are sealed and do not normally aerosolize water.",
+   "stat": "",
+   "attribution": "FMJ / Hydrosense article"
+  },
+  {
+   "claim": "Common polymers used in these systems leach small amounts of biodegradable organic carbon that feed early microbial colonisation.",
+   "stat": "EPDM, PEX, PVC, polypropylene",
+   "attribution": "FMJ / Hydrosense article"
+  },
+  {
+   "claim": "Many low-temperature closed-loop systems operate in the ideal temperature range for Legionella growth.",
+   "stat": "68-113 F (20-45 C)",
+   "attribution": "FMJ / Hydrosense article"
+  },
+  {
+   "claim": "Global Legionella counts are rising rapidly and the public health threat from Legionnaires' disease will likely escalate without decisive action at scale and pace.",
+   "stat": "",
+   "attribution": "FMJ / Hydrosense article"
+  },
+  {
+   "claim": "Some automated biocide-delivery platforms adjust dosing based on real-time microbial activity indicators, improving efficacy and reducing chemical overuse.",
+   "stat": "",
+   "attribution": "FMJ / Hydrosense article"
+  }
+ ],
+ "vocabulary": [
+  "closed-loop water systems",
+  "Legionella",
+  "Legionnaires' disease",
+  "biofilm",
+  "dead legs",
+  "stagnation zones",
+  "disinfectant residual",
+  "EPDM",
+  "PEX",
+  "PVC",
+  "polypropylene",
+  "biodegradable organic carbon",
+  "shear stress",
+  "expansion vessels",
+  "strainers",
+  "balancing valves",
+  "plate heat exchangers",
+  "magnetite",
+  "magnetic dirt separation",
+  "biocide dosing",
+  "ATP",
+  "commissioning",
+  "water quality testing",
+  "suspended solids",
+  "continuous temperature and flow sensors",
+  "predictive analytics",
+  "rapid on-site testing",
+  "FMs (facilities managers)",
+  "built environment"
+ ],
+ "topics_covered": []
+}

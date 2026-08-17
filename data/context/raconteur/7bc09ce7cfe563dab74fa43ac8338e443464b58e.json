@@ -1,0 +1,81 @@
+{
+ "id": "7bc09ce7cfe563dab74fa43ac8338e443464b58e",
+ "source_id": "raconteur",
+ "url": "https://www.raconteur.net/ai/enterprise-ais-second-act-from-automation-to-augmentation",
+ "published_at": "2026-08-17",
+ "observed_at": "2026-08-17",
+ "summary": "Raconteur argues enterprise AI is entering a \"second act\" that shifts from automation to augmentation. Many leaders cut hiring or headcount after adopting generative AI, assuming routine work could be automated. Two years on, the piece says that assumption was only partly right: AI makes generating text and code nearly free, but verifying output still requires experienced human judgement, which is expensive and now the scarce resource rather than computation.\n\nEvidence cited includes SAP and Oxford Economics research: UK businesses report average annual AI returns of 2.7 million pounds and expect investment to rise 40% over the next two years, yet only 7% have a comprehensive enterprise-wide AI strategy and 60% say employees lack adequate AI training.\n\nCase examples: Klarna pursued an AI-first strategy and shrank its workforce through natural attrition, later acknowledging the approach prioritised cost over quality and reinvesting in human customer support. Lloyds Banking Group plans to recruit more than 1,000 AI specialists and is expanding workforce development via its AI Academy, reflecting demand for engineers, data scientists and AI governance specialists. At Standard Chartered, CEO Bill Winters sparked debate over AI-driven workforce change before reaffirming commitment to reskilling; chief strategy and talent officer Tanuj Kapilashrami wrote on LinkedIn that businesses must focus on employability rather than just employment, and predicted new global hubs for \"hot skills\" beyond traditional financial centres.\n\nThe piece closes with a pipeline warning: entry-level roles are where future managers, engineers and specialists build professional judgement. If AI absorbs too much of that early work, organisations may face a shortage of experienced professionals able to verify increasingly autonomous systems. Competitive advantage, it concludes, will come from knowing who and what to trust rather than generating more output.\n\nNo workplace, facilities, visitor management or hybrid attendance content appears in the item.",
+ "claims": [
+  {
+   "claim": "UK businesses report average annual AI returns of 2.7 million pounds",
+   "stat": "£2.7m average annual AI returns",
+   "attribution": "SAP and Oxford Economics research"
+  },
+  {
+   "claim": "UK businesses expect AI investment to rise over the next two years",
+   "stat": "40% increase expected",
+   "attribution": "SAP and Oxford Economics research"
+  },
+  {
+   "claim": "Few organisations have a comprehensive enterprise-wide AI strategy",
+   "stat": "7%",
+   "attribution": "SAP and Oxford Economics research"
+  },
+  {
+   "claim": "Most businesses say employees lack adequate AI training",
+   "stat": "60%",
+   "attribution": "SAP and Oxford Economics research"
+  },
+  {
+   "claim": "Klarna adopted an AI-first strategy and shrank headcount via natural attrition, later acknowledging it prioritised cost over quality and investing in human customer support",
+   "stat": "",
+   "attribution": "Raconteur, describing Klarna"
+  },
+  {
+   "claim": "Lloyds Banking Group plans to recruit AI specialists and expand its AI Academy",
+   "stat": "more than 1,000 AI specialists",
+   "attribution": "Raconteur, describing Lloyds Banking Group"
+  },
+  {
+   "claim": "Businesses must focus not just on employment but on employability as technology disrupts work",
+   "stat": "",
+   "attribution": "Tanuj Kapilashrami, chief strategy and talent officer, Standard Chartered (LinkedIn blog post)"
+  },
+  {
+   "claim": "New global hubs for 'hot skills' will emerge beyond traditional financial centres",
+   "stat": "",
+   "attribution": "Tanuj Kapilashrami, Standard Chartered"
+  },
+  {
+   "claim": "Standard Chartered CEO Bill Winters sparked debate over AI-driven workforce changes then reaffirmed commitment to reskilling",
+   "stat": "",
+   "attribution": "Raconteur, describing Standard Chartered"
+  },
+  {
+   "claim": "Automating entry-level work risks a future shortage of experienced professionals able to verify autonomous systems",
+   "stat": "",
+   "attribution": "Raconteur"
+  }
+ ],
+ "vocabulary": [
+  "enterprise AI",
+  "generative AI",
+  "AI rehire",
+  "augmentation",
+  "augmented workforce",
+  "AI-first strategy",
+  "natural attrition",
+  "human judgement",
+  "verification of AI output",
+  "AI governance specialists",
+  "AI Academy",
+  "reskilling",
+  "employability",
+  "hot skills",
+  "data scientists",
+  "entry-level roles",
+  "autonomous systems",
+  "enterprise-wide AI strategy"
+ ],
+ "topics_covered": []
+}

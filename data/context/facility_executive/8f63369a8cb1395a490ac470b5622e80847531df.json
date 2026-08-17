@@ -1,0 +1,22 @@
+{
+ "id": "8f63369a8cb1395a490ac470b5622e80847531df",
+ "source_id": "facility_executive",
+ "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdkpsY0lVRnpFSVBwaU5hY09aODZlM2RUQXZPVW42RzN3WTJfV2xlLWJBX3I4emFCVXk4YnItWlpjTjhXLUpTWDdlTHlCNW8wVmh2dkdIa1ZkNXVOQzNuWVF2Rjh3bGVqRi1IMXdxb3JRM0ZUdFdGTG9vVUtwS2ZlOU5hOWxCWDhfQnBGRnpLU2tHM0Nsb21Lbw?oc=5",
+ "published_at": "2026-08-12",
+ "observed_at": "2026-08-17",
+ "summary": "Headline-only item from Facility Executive Magazine, surfaced via a Google News RSS link. The title states that generative AI adoption is rising across organizations, but that measurable productivity gains remain elusive. No body text was included in the item beyond a repetition of the headline and publication name, so the underlying data, survey source, sample size, and any facilities or workplace-specific findings cannot be verified or summarized. The implied angle, based on the outlet's focus on facility management and workplace operations, is that enterprises are deploying GenAI tools faster than they are able to demonstrate returns, a gap that would matter to facilities and workplace leaders evaluating technology investments. Without the full article, it is not possible to identify named vendors, cited researchers, adoption percentages, or recommendations. Treat this as a topical signal rather than a source of claims. Follow-up retrieval of the full Facility Executive article would be needed to extract statistics, attribution, and any connection to workplace analytics, space utilization, or facilities operations. As presented, the item does not address visitor management, desk or room booking, hybrid and return-to-office policy, attendance tracking, support desk metrics, or vendor risk assessment, and therefore does not map to any theme in the supplied registry.",
+ "claims": [
+  {
+   "claim": "Generative AI adoption is rising among organizations while productivity gains remain elusive",
+   "stat": "",
+   "attribution": "Facility Executive Magazine headline"
+  }
+ ],
+ "vocabulary": [
+  "GenAI",
+  "generative AI adoption",
+  "productivity gains",
+  "facility executive"
+ ],
+ "topics_covered": []
+}

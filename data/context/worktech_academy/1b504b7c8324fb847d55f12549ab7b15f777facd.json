@@ -1,0 +1,15 @@
+{
+ "id": "1b504b7c8324fb847d55f12549ab7b15f777facd",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdTEzSlZQM2c3REhyZ0lITm5nX2xoVEJpc2R0QXAtNDBMVXo5M2NsVC1ZSVBJdGFQMWhxU2hrQmxENU9UWUJDMVdWVFZQaUtwQ201RmQzNGpjbEdubnBOZUdQM3BMWHhMZWdWb2FkQnAxTUFaNzNLcEtRZi1HQ3BlaTZvRkVVdUc5TDQ0WlVzdi1HN2dvLXBMMkFLb3ZvZw?oc=5",
+ "published_at": "2026-04-15",
+ "observed_at": "2026-08-17",
+ "summary": "This item is a headline-only entry from WORKTECH Academy titled \"Designing for introverts: the workplace tips that feel 'just right'.\" The retrieved content consists solely of the title and publication name via a Google News RSS redirect link, with no article body, byline, quotes, or data available for review. Based on the title alone, the piece appears to address workplace design considerations for introverted employees, likely covering how office environments can better accommodate people who need lower-stimulation settings, and offering practical design guidance framed as getting the balance \"just right\" rather than swinging between fully open and fully enclosed layouts. Typical WORKTECH Academy coverage in this vein would be expected to touch on themes such as sensory load, acoustic and visual privacy, choice and control over where people work, and the provision of quiet or retreat spaces alongside collaborative zones, but none of this can be confirmed from the material supplied. No statistics, research citations, vendor references, or named experts are present in the captured text. No claims can be extracted and no category or vendor vocabulary is available beyond the words in the title itself. Because the substantive content is unavailable, this entry cannot be reliably tagged against the theme registry; while the subject matter plausibly overlaps with discussions of quiet space, open plan design and choice of work setting, tagging on a title inference alone would inflate saturation scores without evidence. Recommendation for the pipeline: re-fetch the full article from the canonical WORKTECH Academy URL before scoring, then re-evaluate for themes relating to quiet space and workplace layout preference. Until then this item should be treated as an unprocessed stub rather than a scored source, and it should not contribute to coverage counts for any registry theme.",
+ "claims": [],
+ "vocabulary": [
+  "designing for introverts",
+  "workplace tips",
+  "workplace design"
+ ],
+ "topics_covered": []
+}

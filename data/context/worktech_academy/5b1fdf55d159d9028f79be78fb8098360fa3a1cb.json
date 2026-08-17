@@ -1,0 +1,14 @@
+{
+ "id": "5b1fdf55d159d9028f79be78fb8098360fa3a1cb",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1oVlNpUDhBTktJMGRlWFh1UllRbGFuMFV6U0htQTlQYUhvLTV1RUxBdHhyX2VEd3VsZjFEdmp2Qkd3c3JZZlNYbXU4bTBPaEFBV0JCeENKUHREd1RhN3FmN1VkMDBiYTVqYlJsZjZBbWZoelRadGVB?oc=5",
+ "published_at": "2025-08-14",
+ "observed_at": "2026-08-17",
+ "summary": "This item is effectively empty content. The record consists of a WORKTECH Academy asset reference titled \"nuvolo logo\" with body text repeating \"nuvolo logo WORKTECH Academy.\" There is no article, interview, or show-note substance to summarize, no argument, and no data. The only inferable signals are organizational: Nuvolo, a vendor known for connected workplace and workplace service management software built on ServiceNow, appears in association with WORKTECH Academy, a research and knowledge platform covering the future of work and workplace innovation. The pairing suggests a sponsorship, partner listing, or logo image asset that was picked up by an RSS or news aggregator rather than an editorial piece. No claims about visitor management, desk or room booking, hybrid and return to office policy, workplace analytics, or facilities operations are made. No statistics, sources, or named speakers are present. For the listening pipeline, this should be treated as a non-substantive crawl artifact and excluded from saturation scoring or trend analysis. If coverage of Nuvolo or WORKTECH Academy is desired, a follow-up fetch of the parent page or the associated editorial article would be needed, since the aggregator link resolves to an image or asset URL rather than a story. Recommended handling: mark as low value, deduplicate against other WORKTECH Academy asset entries, and do not use for quote extraction or competitor claim tracking.",
+ "claims": [],
+ "vocabulary": [
+  "Nuvolo",
+  "WORKTECH Academy"
+ ],
+ "topics_covered": []
+}

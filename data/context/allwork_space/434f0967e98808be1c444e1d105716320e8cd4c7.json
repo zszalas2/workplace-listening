@@ -1,0 +1,58 @@
+{
+ "id": "434f0967e98808be1c444e1d105716320e8cd4c7",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/08/what-clive-davis-can-teach-employers-about-finding-standout-talent-for-the-future/",
+ "published_at": "2026-08-17",
+ "observed_at": "2026-08-17",
+ "summary": "Allwork.space uses record executive Clive Davis as an analogy for modern talent management, arguing employers should hire for potential rather than treating a resume as proof of future readiness. Davis became president of Columbia Records in 1967 despite being a Harvard-trained lawyer who joined as legal counsel, and went on to shape the careers of Janis Joplin, Santana, Bruce Springsteen, Billy Joel, Whitney Houston and Alicia Keys. The piece frames his record as a lesson in spotting unusual potential before the market has language for it, then building conditions that let that potential become visible and sustainable.\n\nThe article positions hiring for potential as the next step beyond skills-based hiring, especially as AI redefines roles. It contends most recruitment systems are built to recognize candidates resembling those previously hired, promoted or rewarded, and struggle with nontraditional profiles: someone who moved across functions for ten years, a professional returning after a career pause, or a worker whose role is being automated but whose domain knowledge could seed something new. Matching job titles to job codes misses these people.\n\nA second argument is that potential is produced by an ecosystem, not an individual trait. Davis did not stop at signing artists; he helped select material, assembled creative teams, shaped market positioning and supported reinvention. After signing Whitney Houston at 19 he stayed involved in nearly every album and secured a television appearance within weeks. Companies, by contrast, often celebrate the hire and underinvest in the environment for success. The recommended internal equivalent is not another onboarding course but an intentional system: stretch assignments before the resume justifies them, managers who stretch without abandoning people, and project-based work demonstrating adjacent capability.\n\nFinally, the piece stresses sponsorship and career development, noting Davis backed non-obvious commercial choices using judgment and conviction before proof. It asks whether managers are rewarded for developing talent that may leave, and whether workers get visible, capability-expanding opportunities.",
+ "claims": [
+  {
+   "claim": "Clive Davis became president of Columbia Records in 1967 without a traditional music-industry background, having joined as legal counsel",
+   "stat": "1967",
+   "attribution": "Allwork.space"
+  },
+  {
+   "claim": "Davis helped shape the careers of performers including Janis Joplin, Santana, Bruce Springsteen, Billy Joel, Whitney Houston and Alicia Keys",
+   "stat": "",
+   "attribution": "Allwork.space"
+  },
+  {
+   "claim": "Davis signed Whitney Houston at 19, remained involved in nearly every album of her career, and secured a television appearance for her within weeks",
+   "stat": "age 19",
+   "attribution": "Allwork.space"
+  },
+  {
+   "claim": "Davis recognized Bruce Springsteen as an original artist rather than another version of Bob Dylan",
+   "stat": "",
+   "attribution": "Allwork.space"
+  },
+  {
+   "claim": "Most recruitment systems are designed to recognize candidates who resemble people previously hired, promoted or rewarded, and match job titles to job codes",
+   "stat": "",
+   "attribution": "Allwork.space"
+  },
+  {
+   "claim": "The labor market is shaped by shorter tenure, contingent work and constant reskilling",
+   "stat": "",
+   "attribution": "Allwork.space"
+  }
+ ],
+ "vocabulary": [
+  "talent management",
+  "hiring for potential",
+  "skills-based hiring",
+  "recruitment systems",
+  "job titles and job codes",
+  "onboarding",
+  "stretch assignments",
+  "project-based experiences",
+  "sponsorship",
+  "career development",
+  "reskilling",
+  "contingent work",
+  "AI-enabled workplace",
+  "domain knowledge",
+  "market positioning"
+ ],
+ "topics_covered": []
+}

@@ -1,0 +1,67 @@
+{
+ "id": "4fe34cc12640ff33595095cf92ee4d383a6dfc43",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/08/coworkings-biggest-economic-impact-may-be-the-hardest-to-measure/",
+ "published_at": "2026-08-16",
+ "observed_at": "2026-08-17",
+ "summary": "Allwork.Space argues that coworking's most significant economic contribution, the creation of social capital, resists the standard metrics operators report: desk occupancy rates, revenue, and membership renewals. As remote and hybrid work reshape how professionals connect, the informal conversations and introductions that once happened by default in traditional offices now need environments deliberately designed to produce them.\n\nThe piece draws on interviews with two University of Bath professors, Felicia Fai (Innovation and Regional Growth) and Phil Tomlinson (Industrial Strategy and Regional Development), both Co-Directors of the Centre for Governance, Regions and Industrial Strategy (CGRIS) in the UK. Their research with Dr. Mariachiara Barzotto finds coworking spaces can drive social capital, supporting innovation, skills development, and broader economic activity.\n\nFai defines social capital as a resource individuals use to support the growth of their interests, essentially \"who you know,\" but stresses that value depends on network strength: trust, shared experience, and genuine connection. Critically, she says a physical space in and of itself does not create social capital. Tomlinson agrees that collocating people is insufficient; value arises when coworkers form meaningful relationships enabling trust, reciprocity, knowledge exchange, idea experimentation, and access to wider networks.\n\nThe article traces social capital to coworking's origins. Bernard DeKoven coined \"coworking\" in 1999 around equality, participation, and collaboration rather than workplace hierarchy, with emphasis on exchange rather than the desk. Berlin's C-Base, established in the 1990s, saw computer enthusiasts sharing technical knowledge and equipment. Seats2meet, a Dutch initiative founded in 2006, lets coworkers access workspace by contributing knowledge and willingness to help instead of paying for a desk.\n\nOn design, Tomlinson says coworking is less about physical infrastructure (desks, monitors, Wi-Fi) and more about social infrastructure, delivered via deliberate activities such as lunch and learn events, with the owner, manager, or administrator facilitating. Cat Johnson, founder of Coworking Convos and the Coworking Creators Lab, is cited on intentional community-building.",
+ "claims": [
+  {
+   "claim": "Coworking spaces can be powerful drivers of social capital, supporting innovation, skills development, and wider economic activity",
+   "stat": "",
+   "attribution": "University of Bath research by Felicia Fai, Phil Tomlinson and Dr. Mariachiara Barzotto"
+  },
+  {
+   "claim": "A physical space, in and of itself, does not create social capital",
+   "stat": "",
+   "attribution": "Felicia Fai, Professor of Innovation and Regional Growth, University of Bath"
+  },
+  {
+   "claim": "Simply collocating people in the same physical environment is not enough; meaningful social relationships enabling trust, reciprocity and knowledge exchange are what matter",
+   "stat": "",
+   "attribution": "Phil Tomlinson, Professor of Industrial Strategy and Regional Development, University of Bath"
+  },
+  {
+   "claim": "Bernard DeKoven coined the term coworking, envisioning work based on equality, participation and collaboration",
+   "stat": "1999",
+   "attribution": "Allwork.Space"
+  },
+  {
+   "claim": "Berlin's C-Base was an early example of shared technical knowledge and equipment among computer enthusiasts",
+   "stat": "established in the 1990s",
+   "attribution": "Allwork.Space"
+  },
+  {
+   "claim": "Seats2meet, a Dutch initiative, built a model letting coworkers access workspace by contributing knowledge and willingness to help rather than paying for a desk",
+   "stat": "founded 2006",
+   "attribution": "Allwork.Space"
+  },
+  {
+   "claim": "The role of coworking is less about physical infrastructure such as desks, monitors and Wi-Fi and more about social infrastructure and fostering social capital",
+   "stat": "",
+   "attribution": "Phil Tomlinson"
+  }
+ ],
+ "vocabulary": [
+  "coworking spaces",
+  "desk occupancy rates",
+  "membership renewals",
+  "social capital",
+  "remote and hybrid work",
+  "community-building practices",
+  "community managers",
+  "coworking operators",
+  "flexible offices",
+  "membership models",
+  "social infrastructure",
+  "lunch and learn",
+  "knowledge exchange",
+  "reciprocity",
+  "collocating",
+  "Seats2meet",
+  "C-Base",
+  "Coworking Convos",
+  "Coworking Creators Lab"
+ ],
+ "topics_covered": []
+}

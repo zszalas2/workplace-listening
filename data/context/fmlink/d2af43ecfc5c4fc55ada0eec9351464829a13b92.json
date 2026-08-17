@@ -1,0 +1,80 @@
+{
+ "id": "d2af43ecfc5c4fc55ada0eec9351464829a13b92",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/track-based-education-is-a-key-feature-at-world-workplace-2026-with-b-j-novak-as-keynote/",
+ "published_at": "2026-08-13",
+ "observed_at": "2026-08-17",
+ "summary": "FMLink previews IFMA's World Workplace 2026, held in Anaheim, California, November 18-20, at the Anaheim Convention Center. The headline change is a new track-based education format intended to let attendees build a personalized learning journey. Eight curated tracks are offered: Connected Buildings; Digital Futures: Facility Fusion; Leading Change; Facility Operations; Resilient Facilities; Future Workplaces; World Workplace Live; and Partner Perspectives. IFMA also supplies a supervisor justification letter to help facility managers get approval to attend, and FMLink's editors say they plan to cover sessions across all tracks.\n\nThe program includes facility tours led by the managers who operate the sites: the LEED-certified Anaheim Convention Center (1.8 million sq ft, over 1 million sq ft of exhibit space, a 7,500-seat arena, 94 meeting rooms totaling 352,000 sq ft, 138,000 sq ft of ballroom space, 176,000 sq ft of pre-function lobby, over 200,000 sq ft of outdoor event space); Park Place Irvine, a 2.1-million-sq-ft campus-style office environment on a 105-acre mixed-use development notable for a single central plant serving multiple building types; and ARTIC, Anaheim's steel-and-glass regional transportation hub.\n\nThe keynote is a moderated conversation between B.J. Novak, comedian, author and The Office actor who played Ryan Howard, and IFMA host Eddy Wagoner, covering collaboration, adaptability and creative breakthroughs.\n\nContent focus areas include practical application of AI in the built environment, such as AI plug-ins for OpenBlue Workplace (for example \"Ask FM\") that use conversational AI to retrieve space utilization metrics, predict maintenance issues and parse facility data governance guidelines. The article states hybrid workplace models are now fully solidified, so sessions shift from how-to-manage toward advanced space optimization, IWMS and CAFM modernization, and right-sizing real estate portfolios with real-time spatial analytics. An exposition, product demos, one-on-one meetings and networking events round out the agenda.",
+ "claims": [
+  {
+   "claim": "World Workplace 2026 takes place in Anaheim, California, November 18-20, sponsored by IFMA",
+   "stat": "November 18-20, 2026",
+   "attribution": "FMLink / IFMA"
+  },
+  {
+   "claim": "The conference introduces a new track-based education experience with eight curated tracks",
+   "stat": "8 tracks",
+   "attribution": "FMLink / IFMA"
+  },
+  {
+   "claim": "The Anaheim Convention Center is LEED-certified and spans 1.8 million sq ft, including over 1 million sq ft of exhibit space, a 7,500-seat arena and 94 meeting rooms totaling 352,000 sq ft",
+   "stat": "1.8M sq ft; 7,500-seat arena; 94 meeting rooms / 352,000 sq ft",
+   "attribution": "FMLink"
+  },
+  {
+   "claim": "Park Place Irvine is a 2.1-million-sq-ft campus-style office environment within a 105-acre mixed-use development, served by a single central plant",
+   "stat": "2.1M sq ft; 105 acres",
+   "attribution": "FMLink"
+  },
+  {
+   "claim": "B.J. Novak, who played Ryan Howard on The Office, is keynote speaker in a moderated conversation with IFMA host Eddy Wagoner",
+   "stat": "",
+   "attribution": "FMLink / IFMA"
+  },
+  {
+   "claim": "AI plug-ins for OpenBlue Workplace such as \"Ask FM\" let teams use conversational AI to fetch space utilization metrics, predict maintenance issues and parse facility data governance guidelines",
+   "stat": "",
+   "attribution": "FMLink"
+  },
+  {
+   "claim": "Hybrid workplace models are fully solidified, so sessions move past how-to-manage toward advanced space optimization",
+   "stat": "",
+   "attribution": "FMLink"
+  }
+ ],
+ "vocabulary": [
+  "facility management",
+  "IFMA",
+  "World Workplace",
+  "track-based education",
+  "supervisor justification letter",
+  "Connected Buildings",
+  "Digital Futures: Facility Fusion",
+  "Leading Change",
+  "Facility Operations",
+  "Resilient Facilities",
+  "Future Workplaces",
+  "Partner Perspectives",
+  "facility tours",
+  "LEED-certified",
+  "central plant",
+  "built environment",
+  "Artificial Intelligence",
+  "OpenBlue Workplace",
+  "Ask FM",
+  "conversational AI",
+  "space utilization metrics",
+  "predictive maintenance",
+  "facility data governance",
+  "hybrid workplace models",
+  "space optimization",
+  "Integrated Workplace Management Systems (IWMS)",
+  "Computer-Aided Facility Management (CAFM)",
+  "right-size real estate portfolios",
+  "real-time spatial analytics",
+  "exposition",
+  "product demos",
+  "networking"
+ ],
+ "topics_covered": []
+}

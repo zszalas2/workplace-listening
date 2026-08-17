@@ -1,0 +1,65 @@
+{
+ "id": "c96d285652711ad6dd4607b6d9f8a3c41144cb7c",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/08/wework-access-cut-for-revolut-premium-customers-after-costs-rise/",
+ "published_at": "2026-08-14",
+ "observed_at": "2026-08-17",
+ "summary": "Allwork.Space reports, citing the Financial Times, that some Revolut subscribers have lost WeWork access across parts of Europe after WeWork sought higher fees for the partnership. Affected locations span Paris, Brussels, Milan, London, Edinburgh, Dublin and Prague; in Brussels, Edinburgh and Milan subscribers reportedly have no remaining WeWork access. Paris was removed even as Revolut prepares to open a new European headquarters there.\n\nRather than scrapping the benefit or passing the full cost increase to subscribers, the two companies negotiated a new arrangement effective at the start of August. Under it, eligible Revolut customers can access roughly 265 WeWork locations globally, more than half of them in the U.S.\n\nWeWork day passes have been a feature of Revolut's higher-tier plans: the GBP 55 per month Ultra plan includes three one-day passes monthly, and the GBP 14.99 per month Metal plan includes one. The perk fits Revolut's approach of bundling third-party services, alongside gym, dating app and media benefits, into paid memberships. Revolut reported more than GBP 700 million in subscription revenue in 2025, up nearly 70% year over year.\n\nWeWork attributed the change to economic conditions plus increased occupancy and demand at some locations, and said Revolut remains a partner whose customers will still have access to flexible workspace across its global network. Revolut said individual benefit availability can change but that it remains committed to premium workspace and lifestyle benefits.\n\nThe piece frames the renegotiation as a broader warning: when demand for physical workspace rises, the economics of bundled coworking access as an employee or customer perk can shift quickly, leaving perk providers renegotiating or narrowing coverage. It is primarily a flexible workspace and coworking market story rather than a workplace operations or policy story.",
+ "claims": [
+  {
+   "claim": "Some Revolut subscribers lost access to WeWork locations across Europe after WeWork raised the fees it sought for the partnership",
+   "stat": "",
+   "attribution": "Financial Times, cited by Allwork.Space"
+  },
+  {
+   "claim": "Subscribers in Brussels, Edinburgh and Milan no longer have access to any WeWork locations",
+   "stat": "3 cities with no remaining access",
+   "attribution": "people familiar with the matter, per the Financial Times"
+  },
+  {
+   "claim": "The new agreement took effect at the beginning of August and gives eligible Revolut customers access to WeWork locations globally, more than half in the U.S.",
+   "stat": "about 265 locations",
+   "attribution": "Allwork.Space report"
+  },
+  {
+   "claim": "Revolut's Ultra plan includes three one-day WeWork passes each month",
+   "stat": "GBP 55 per month; 3 passes",
+   "attribution": "Allwork.Space"
+  },
+  {
+   "claim": "Revolut's Metal plan includes one one-day WeWork pass each month",
+   "stat": "GBP 14.99 per month; 1 pass",
+   "attribution": "Allwork.Space"
+  },
+  {
+   "claim": "Revolut's subscription revenue grew sharply in 2025",
+   "stat": "more than GBP 700 million, up nearly 70% year over year",
+   "attribution": "Allwork.Space"
+  },
+  {
+   "claim": "The access changes were driven by economic conditions and increased occupancy and demand at some locations",
+   "stat": "",
+   "attribution": "WeWork"
+  },
+  {
+   "claim": "Availability of individual benefits can change, but the company remains committed to premium workspace benefits",
+   "stat": "",
+   "attribution": "Revolut"
+  }
+ ],
+ "vocabulary": [
+  "coworking",
+  "WeWork day passes",
+  "flexible workspace",
+  "premium workspace",
+  "occupancy",
+  "bundled perk",
+  "subscription plans",
+  "Ultra plan",
+  "Metal plan",
+  "European headquarters",
+  "workspace partnership",
+  "lifestyle benefits"
+ ],
+ "topics_covered": []
+}

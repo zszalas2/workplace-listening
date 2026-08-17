@@ -1,0 +1,92 @@
+{
+ "id": "5bd0153f05119e2bc8f332d7a8137056002ceb8f",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/pathmaker-table-series-wins-awards-across-best-of-neocon-categories-juror-accolades-go-to-haskell-education-for-ada-compliant-and-inclusive-design/",
+ "published_at": "2026-08-12",
+ "observed_at": "2026-08-17",
+ "summary": "Trade press announcement (dated August 12, 2026) covering awards for the Pathmaker Table Series from Haskell Education at Best of NeoCon 2026. The product won in two categories: the Education Solutions jury awarded Silver, Business Impact, and People's Choice, while the Tables: Height-Adjustable jury awarded Silver and Innovation.\n\nPositioning: Pathmaker is presented as the first truly ADA-compliant large-format table collection purpose-built for hands-on learning environments, designed around universal design (UD) principles so accessibility is integrated rather than added as a separate modification. The piece frames the problem: ADA and local codes require a share of classroom tables be wheelchair accessible, but most large-format tables are not height adjustable, and those that are often need one or two able-bodied people to adjust them, do not match surrounding furniture, and end up in a corner, leaving students isolated.\n\nFeatures cited: height range of 29 in. to 42 in., cord-free battery power system offering days of adjustability per charge, self-controlled height adjustment, up to three ADA-compliant seating areas in the cantilevered design and up to four in the full table design, four top finishes (butcher block, stainless steel, solid surface, epoxy), full mobility, rounded corners, integrated top power, built-in storage, and an accompanying charging cart.\n\nSpecification context: STEM/STEAM labs, makerspaces, CTE classrooms and flex labs, including schools without budget for floor boxes that still want powered furniture.\n\nDevelopment and sustainability: three years of testing and development, responsibly sourced wood, low-VOC finishes, designed for longevity, repairability and refurbishment; energy-efficient production, renewable energy, water-based adhesives and finishes, waste reduction, and recycled raw materials.\n\nQuotes come from Dr. Rosemarie Rossetti on UD reducing barriers to engagement, Education Wellness Consultant Anna Iversen on learner dignity, and NeoCon jurors, who also requested more leg options and a sleeker storage look.",
+ "claims": [
+  {
+   "claim": "Pathmaker Table Series won multiple Best of NeoCon 2026 awards across two categories",
+   "stat": "Education Solutions jury: Silver, Business Impact, People's Choice; Tables: Height-Adjustable jury: Silver and Innovation",
+   "attribution": "Best of NeoCon 2026 competition, as reported by Haskell Education"
+  },
+  {
+   "claim": "ADA and most local building codes require a minimum percentage of classroom tables be wheelchair accessible",
+   "stat": "at least 5% of classroom tables",
+   "attribution": "Article, citing ADA and local building codes"
+  },
+  {
+   "claim": "The table's height range supports both children and adults at ADA height",
+   "stat": "29 in. to 42 in.",
+   "attribution": "Haskell Education"
+  },
+  {
+   "claim": "Integrated battery system provides cord-free height adjustability",
+   "stat": "days of height adjustability on a single charge",
+   "attribution": "Haskell Education"
+  },
+  {
+   "claim": "Design provides multiple fully ADA-compliant seating areas",
+   "stat": "up to three with cantilevered design, up to four with full table design",
+   "attribution": "Haskell Education"
+  },
+  {
+   "claim": "Product development involved extended testing",
+   "stat": "three years of rigorous testing and development",
+   "attribution": "Haskell Education"
+  },
+  {
+   "claim": "Building universal design principles into the environment reduces barriers to engagement",
+   "stat": "",
+   "attribution": "Dr. Rosemarie Rossetti"
+  },
+  {
+   "claim": "The table lets every learner perform to their potential while safeguarding personal dignity",
+   "stat": "",
+   "attribution": "Anna Iversen, Education Wellness Consultant"
+  },
+  {
+   "claim": "Four top finish options are available",
+   "stat": "butcher block, stainless steel, solid surface, epoxy",
+   "attribution": "Best of NeoCon jurors"
+  }
+ ],
+ "vocabulary": [
+  "Best of NeoCon",
+  "Education Solutions",
+  "Tables: Height-Adjustable",
+  "Business Impact Award",
+  "People's Choice Award",
+  "Innovation Award",
+  "ADA-compliant",
+  "Americans with Disabilities Act",
+  "universal design (UD)",
+  "inclusive design",
+  "equity",
+  "height-adjustable table",
+  "large-format table",
+  "cord-free",
+  "integrated battery power system",
+  "top power",
+  "floor boxes",
+  "powered furniture",
+  "cantilevered design",
+  "charging cart",
+  "STEM/STEAM labs",
+  "makerspaces",
+  "CTE classrooms",
+  "flex labs",
+  "NextGen learning environments",
+  "specified/specification",
+  "low-VOC finishes",
+  "responsibly sourced wood",
+  "repairability",
+  "refurbishment",
+  "recycled raw materials",
+  "water-based adhesives",
+  "separate seating",
+  "wheelchair accessible"
+ ],
+ "topics_covered": []
+}

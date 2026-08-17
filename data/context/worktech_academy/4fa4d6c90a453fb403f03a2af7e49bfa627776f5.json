@@ -1,0 +1,16 @@
+{
+ "id": "4fa4d6c90a453fb403f03a2af7e49bfa627776f5",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8ySVVHVU1XeVNnb19fdk40SWhDMURsanpwM29xb1RUTHBOMHJYVkdKeTlfaW9YaDA2UE9zN1VFanpSZUttU09XSmFZZUI5WXJ1bG90c1h1VkM0b2puRTlNck1OcUQ4VWRHaHVaOTkxZ3BtcjNTbnc?oc=5",
+ "published_at": "2026-08-12",
+ "observed_at": "2026-08-17",
+ "summary": "This item is a headline-only entry from WORKTECH Academy, surfaced via a Google News RSS link. The title, \"Sensory touchpoint: a desk for the neurodiverse worker,\" indicates the piece concerns workplace furniture or desk design intended to support neurodiverse employees, framing the desk as a sensory touchpoint within the office environment. No body text, quotes, statistics, vendor names, or product details were included in the supplied record, so the substance of the argument cannot be verified or summarized in detail. Based on the title alone, the likely subject matter sits in the workplace design and inclusive-design space: sensory considerations such as acoustics, lighting, tactile materials, visual stimulation and personal control over one's immediate work setting, applied to individual desk products rather than whole-floor strategy. There is a plausible adjacency to desk allocation debates, since sensory needs and personalization are frequently cited arguments in favor of assigned rather than unassigned seating, but the excerpt provides no evidence that the article addresses hot desking, booking systems, attendance, or hybrid policy. For the listening pipeline, this should be treated as a low-confidence stub. Recommended follow-up is to retrieve the full WORKTECH Academy article to determine whether it includes vendor or designer attribution, research citations on neurodiversity prevalence in the workforce, or specific product specifications. Until then no claims, statistics or category vocabulary beyond the title terms can be extracted, and no theme in the registry can be confidently assigned.",
+ "claims": [],
+ "vocabulary": [
+  "sensory touchpoint",
+  "neurodiverse worker",
+  "desk",
+  "WORKTECH Academy"
+ ],
+ "topics_covered": []
+}

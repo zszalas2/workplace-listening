@@ -1,0 +1,56 @@
+{
+ "id": "88e64bd7042808df7bc6db4bd2ac0476cf5a7122",
+ "source_id": "workplace_insight",
+ "url": "https://workplaceinsight.net/work-beyond-walls-is-an-event-that-promises-to-shift-the-way-we-talk-about-offices/?utm_source=rss&utm_medium=rss&utm_campaign=work-beyond-walls-is-an-event-that-promises-to-shift-the-way-we-talk-about-offices",
+ "published_at": "2026-08-12",
+ "observed_at": "2026-08-17",
+ "summary": "Workplace Insight promotes Work in Motion, a six-part documentary podcast series written and presented by Ian Ellison and produced by Dave Crackles, which follows the making of Work Beyond Walls, a new workplace event at the Grade II listed Boiler Shop in Newcastle on 9 and 10 September. The framing argument is that the workplace sector mostly publishes content after outcomes are known: case studies appear once a move-in has succeeded, award entries once risks are mitigated, producing a library of polished endings. The podcast instead documents an attempt while the outcome remains uncertain.\n\nWork Beyond Walls is the idea of Paul Glaister, co-founder of Gateshead-based workspace interiors and design business Workpattern. He booked the venue, part of the former Robert Stephenson and Company site where Rocket was built, before the event had a name, brand, website, speaker, budget or a single registration. Philippa Lobb, Workpattern's newest recruit, canvassed regional architects and designers; Beth Lawford, an interior designer at GT3 Architects who returned to Newcastle after working at Gensler and Fletcher Priest in London, suggested filling a railway arch near the station with furniture for a couple of days.\n\nThe event now involves over twenty brand partners, a talks programme and a real-time data insights experiment, and is positioned as neither an expo, trade show nor conference. Glaister calls it the North East's first living workplace event, where the building becomes a free-to-attend workspace visitors can work from across two days. His motivation is escaping industry self-talk and reaching beyond the sector bubble.\n\nWorkpattern commissioned the podcast on the basis that it would not be a glossy advert and registration numbers would not be hidden. When recording began in July there was one registration against a target of 500; by episode two, sign-ups had risen but remained well short. Episode two features Herb Kim, Dave James, Terry McStea, Katie Richardson, Will Easton and Mark Eltringham.",
+ "claims": [
+  {
+   "claim": "Work Beyond Walls had one registration against a target of five hundred when podcast recording began in July",
+   "stat": "1 registration vs 500 target",
+   "attribution": "Ian Ellison, Work in Motion / Workplace Insight"
+  },
+  {
+   "claim": "By the time episode two was nearing completion, sign-ups had increased but remained well short of the target",
+   "stat": "",
+   "attribution": "Ian Ellison"
+  },
+  {
+   "claim": "The event involves well over twenty brand partners, a talks programme and a real-time data insights experiment",
+   "stat": "20+ brand partners",
+   "attribution": "Workplace Insight article"
+  },
+  {
+   "claim": "Work Beyond Walls is described as the North East's first 'living workplace' event, free to attend, where visitors can work from the venue across two days",
+   "stat": "2 days, 9-10 September",
+   "attribution": "Paul Glaister, Workpattern"
+  },
+  {
+   "claim": "The workplace industry mainly talks to itself rather than reaching outside its bubble",
+   "stat": "",
+   "attribution": "Paul Glaister, Workpattern"
+  },
+  {
+   "claim": "The venue is a Grade II listed building, part of what remains of Robert Stephenson and Company where Rocket was built",
+   "stat": "",
+   "attribution": "Workplace Insight article"
+  }
+ ],
+ "vocabulary": [
+  "living workplace event",
+  "workspace interiors and design",
+  "real-time data insights",
+  "expo",
+  "trade show",
+  "conference",
+  "free-to-attend workspace",
+  "brand partners",
+  "documentary podcast series",
+  "case studies",
+  "award entries",
+  "registrations",
+  "talks programme"
+ ],
+ "topics_covered": []
+}

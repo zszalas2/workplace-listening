@@ -1,0 +1,67 @@
+{
+ "id": "3ea1d258919c928baf1e593db9210ae3cf3ee5e7",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/why-leaders-should-ignore-predictions-about-ai/",
+ "published_at": "2026-08-16",
+ "observed_at": "2026-08-17",
+ "summary": "A Charter newsletter issue focused on AI and work, anchored by an interview with Oxford philosopher and AI ethicist Carissa Veliz about her book Prophecy.\n\nAI and Work Radar items:\n- An updated Stanford Digital Economy Lab paper finds the employment gap for young workers in occupations highly exposed to AI has widened to 19%, up from 15% a year earlier, though the researchers say they do not see widespread economy-wide AI job displacement.\n- AT&T plans to shift the bulk of its AI workload away from proprietary models from OpenAI and Anthropic toward open-source and open-weight alternatives, per The Wall Street Journal, part of a broader push to control costs and reduce AI vendor dependency.\n- EY is hiring a head of agent economics to lead a new AI value realization office; its consulting vice chair told Bloomberg the unit is needed to manage a workforce of AI agents that do not fit existing corporate structure.\n- Workers in India are paid to wear head-mounted cameras while sorting recycling or packing warehouse goods, generating training footage for humanoid robotics companies that need real video of human hand movements.\n\nThe Veliz interview argues predictions are not facts: an assertion about the future can be an estimate, desire, or warning but never a fact. She frames AI as the new Oracle of Delphi, with AI CEOs acting as prophets whose forecasts ripple through the economy while they hold financial stakes and are actually building the future they describe. Risks of over-trusting predictions include simply being wrong and passively following others' visions. Her advice to workers: act with agency, ask what you love, what you are good at, and what the world needs, and be excellent (be Marcel Marceau). Uncertainty is good news because the future is unwritten and serendipity has value. Leaders who base decisions on predictions are behaving as followers rather than leaders.",
+ "claims": [
+  {
+   "claim": "The employment gap for young workers in occupations highly exposed to AI has widened",
+   "stat": "19%, up from 15% a year ago",
+   "attribution": "Updated paper from Stanford's Digital Economy Lab"
+  },
+  {
+   "claim": "Researchers do not observe broad AI-driven job displacement across the economy",
+   "stat": "",
+   "attribution": "Stanford Digital Economy Lab researchers"
+  },
+  {
+   "claim": "AT&T plans to move most of its AI workload from proprietary models to open-source and open-weight alternatives",
+   "stat": "",
+   "attribution": "The Wall Street Journal"
+  },
+  {
+   "claim": "EY is hiring a head of agent economics to lead an AI value realization office to manage a workforce of AI agents",
+   "stat": "",
+   "attribution": "EY consulting vice chair, via Bloomberg"
+  },
+  {
+   "claim": "Workers in India are paid to wear head-mounted cameras while sorting recycling and packing warehouse goods to create robotics training footage",
+   "stat": "",
+   "attribution": "Charter newsletter"
+  },
+  {
+   "claim": "Predictions are not facts; an assertion about the future can be an estimate, desire, or warning but never a fact",
+   "stat": "",
+   "attribution": "Carissa Veliz, in Prophecy"
+  },
+  {
+   "claim": "Artificial intelligence is the new Oracle of Delphi",
+   "stat": "",
+   "attribution": "Carissa Veliz"
+  }
+ ],
+ "vocabulary": [
+  "AI and Work Radar",
+  "open-source models",
+  "open-weight",
+  "AI vendors",
+  "agent economics",
+  "value realization office",
+  "AI agents",
+  "humanoid robots",
+  "large language models",
+  "head-mounted cameras",
+  "AI ethics",
+  "prophecy",
+  "prediction",
+  "uncertainty",
+  "serendipity",
+  "knowledge work",
+  "entry level jobs",
+  "middle managers",
+  "job displacement"
+ ],
+ "topics_covered": []
+}

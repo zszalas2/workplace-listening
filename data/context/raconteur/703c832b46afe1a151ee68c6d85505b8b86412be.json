@@ -1,0 +1,75 @@
+{
+ "id": "703c832b46afe1a151ee68c6d85505b8b86412be",
+ "source_id": "raconteur",
+ "url": "https://www.raconteur.net/global-business/avani-prabhakar-interview",
+ "published_at": "2026-08-13",
+ "observed_at": "2026-08-17",
+ "summary": "Raconteur interviews Avani Prabhakar, who until April 2025 was Atlassian's Chief People Officer and whose role has since expanded to Chief People and AI Enablement Officer. The change reflects Atlassian's view that talent management is central to productive AI deployment. Prabhakar joined Atlassian in July 2019 and began her career at GE Capital in 2001, where a leadership rotation programme gave her a cross-functional perspective. Her stated thesis for HR leaders: be able to discuss the product like a salesperson, know the end customer deeply, and explain the business through a profit-and-loss lens.\n\nThe core argument concerns enterprise AI's ROI problem. Prabhakar says C-suite leaders across large enterprises have spent heavily on AI over the past 12 to 18 months without seeing returns. Atlassian research found only 6% of Fortune 500 companies have clear evidence of AI-related ROI. She attributes much of this to a 'fragmentation tax': individual employees building their own agents and personal operating systems in isolation, so that instead of three employees talking to each other you get 30 agents trying to talk to each other, producing redundancy and duplication. Atlassian's report estimates Fortune 500 firms lose $161bn per year to fragmentation.\n\nHer remedy is structural and procedural. She now oversees the people organisation plus internal IT engineering, data science and customer tech support, arguing proximity enables end-to-end transformation. Teams must also redesign entire workflows end-to-end rather than automating isolated tasks, per Atlassian's State of Teams 2026 report. A third element is building a context layer or organisational memory so data is agent-ready. Atlassian's Teamwork Graph, a unified channel across workplace tools and databases, is credited with improving AI answer quality by 44% while using 48% fewer tokens.\n\nOn skilling, Prabhakar rejects formal structured learning for AI, favouring side-by-side, hands-on workflow redesign. The piece also gestures at AI potentially increasing rather than decreasing graduate demand.",
+ "claims": [
+  {
+   "claim": "Only a small minority of Fortune 500 companies have clear evidence of AI-related return on investment",
+   "stat": "6%",
+   "attribution": "Atlassian research, cited by Avani Prabhakar"
+  },
+  {
+   "claim": "Fortune 500 firms lose money each year due to organisational fragmentation in AI deployment",
+   "stat": "$161bn per year",
+   "attribution": "Atlassian report"
+  },
+  {
+   "claim": "Atlassian's Teamwork Graph improved AI answer quality while reducing token usage",
+   "stat": "44% better answer quality, 48% fewer tokens",
+   "attribution": "Atlassian / Avani Prabhakar"
+  },
+  {
+   "claim": "Every large enterprise has spent heavily on AI deployment recently without seeing ROI",
+   "stat": "last 12 to 18 months",
+   "attribution": "Avani Prabhakar, Atlassian"
+  },
+  {
+   "claim": "Fragmented individual AI adoption multiplies agents rather than coordination, e.g. three employees becoming 30 agents attempting to communicate",
+   "stat": "3 employees vs 30 agents",
+   "attribution": "Avani Prabhakar, Atlassian"
+  },
+  {
+   "claim": "Prabhakar's expanded remit covers the people organisation, internal IT engineering, data science teams and customer tech support teams",
+   "stat": "",
+   "attribution": "Avani Prabhakar, Atlassian"
+  },
+  {
+   "claim": "Prabhakar joined Atlassian in July 2019 and her role changed in April of this year",
+   "stat": "",
+   "attribution": "Raconteur"
+  },
+  {
+   "claim": "Structured, classroom-style learning does not work for AI skilling; hands-on side-by-side workflow redesign does",
+   "stat": "",
+   "attribution": "Avani Prabhakar, Atlassian"
+  }
+ ],
+ "vocabulary": [
+  "Chief People Officer",
+  "Chief People and AI Enablement Officer",
+  "enterprise AI",
+  "AI ROI",
+  "fragmentation tax",
+  "agents",
+  "organisational memory",
+  "context layer",
+  "context graph",
+  "agent-ready data",
+  "Teamwork Graph",
+  "State of Teams 2026",
+  "end-to-end workflow redesign",
+  "people-led transformation",
+  "AI enablement",
+  "reskilling",
+  "profit-and-loss lens",
+  "internal IT engineering",
+  "customer tech support",
+  "tokens",
+  "Fortune 500",
+  "C-suite"
+ ],
+ "topics_covered": []
+}

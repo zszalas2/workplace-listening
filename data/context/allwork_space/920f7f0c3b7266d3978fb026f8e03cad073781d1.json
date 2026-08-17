@@ -1,0 +1,91 @@
+{
+ "id": "920f7f0c3b7266d3978fb026f8e03cad073781d1",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/08/u-s-employers-are-finally-ready-to-hire-again-these-workers-are-in-highest-demand/",
+ "published_at": "2026-08-14",
+ "observed_at": "2026-08-17",
+ "summary": "A syndicated Fortune piece (via Allwork.Space) reports that after a weak start to 2026, U.S. hiring intentions are rebounding. Robert Half data shows 66% of U.S. employers plan to increase permanent hiring in the second half of 2026, up from 60% in H1 and 57% a year earlier. Additionally 56% say they will add contract talent to access specialized skills, and nearly half have canceled projects because of skills gaps. Michelle Reisdorf of Robert Half says employers have hit a boiling point where waiting to hire is no longer an option, and that they are investing in talent tied to business priorities rather than adding headcount for its own sake.\n\nDemand by function: technology (78%), healthcare (75%), finance and accounting (74%), marketing and creative (65%), legal (58%), human resources (56%), and administration and customer support (52%). Despite AI-driven cuts to support roles, HR and admin/customer support remain in demand. Hardest skills to find are industry-specific knowledge (47%), software proficiency (42%), and leadership (40%).\n\nThe labor market backdrop remains grim. June added only 57,000 roles, under half the prior month. Challenger, Gray & Christmas reported 1.2 million announced job cuts last year, up 58% from roughly 760,000 in 2024, the highest level since 2020 and comparable to 2008's 1.22 million. New York Fed data shows the average perceived probability of finding a job after job loss fell to 43.1% in December 2025, down 4.2% year over year and a record low since tracking began in 2013. Glassdoor chief economist Daniel Zhao says lower-income and non-degree workers feel the market is not working for them. WSJ analysis found workers aged 25 to 34 averaged 19 weeks unemployed versus 26 weeks for those 55 to 64; 24% of laid-off Gen X and boomer workers never found a new job, and 11% took a pay cut.",
+ "claims": [
+  {
+   "claim": "Two-thirds of U.S. employers plan to increase permanent hiring in the second half of 2026, up from 60% in H1 and 57% a year ago",
+   "stat": "66%",
+   "attribution": "Robert Half"
+  },
+  {
+   "claim": "American employers plan to add contract talent to unlock specialized skills",
+   "stat": "56%",
+   "attribution": "Robert Half"
+  },
+  {
+   "claim": "Nearly half of employers have canceled projects due to a skills gap",
+   "stat": "~50%",
+   "attribution": "Robert Half"
+  },
+  {
+   "claim": "Employers have reached a boiling point where waiting longer to hire is not an option",
+   "stat": "",
+   "attribution": "Michelle Reisdorf, district director, Robert Half"
+  },
+  {
+   "claim": "Top hiring specializations for the rest of 2026 by employer demand",
+   "stat": "Technology 78%, Healthcare 75%, Finance and accounting 74%, Marketing and creative 65%, Legal 58%, HR 56%, Administration and customer support 52%",
+   "attribution": "Robert Half"
+  },
+  {
+   "claim": "Hardest skills to find are industry-specific knowledge, software proficiency, and leadership abilities",
+   "stat": "47%, 42%, 40%",
+   "attribution": "Robert Half"
+  },
+  {
+   "claim": "U.S. employers added only 57,000 open roles in June, less than half the previous month's total",
+   "stat": "57,000",
+   "attribution": "Fortune/Allwork.Space article"
+  },
+  {
+   "claim": "1.2 million job cuts were announced last year, up 58% from roughly 760,000 in 2024",
+   "stat": "1.2M; +58%",
+   "attribution": "Challenger, Gray & Christmas 2026 report"
+  },
+  {
+   "claim": "2025 had the highest level of workforce reductions since 2020, close to 2008's 1.22 million",
+   "stat": "1.22M in 2008",
+   "attribution": "Challenger, Gray & Christmas"
+  },
+  {
+   "claim": "Average perceived probability of finding a job after job loss fell to a record low",
+   "stat": "43.1% in December 2025, down 4.2% year over year; record low since 2013",
+   "attribution": "Federal Reserve Bank of New York (2026 data)"
+  },
+  {
+   "claim": "Americans don't feel the current job market is working for them, especially lower-income and non-degree workers",
+   "stat": "",
+   "attribution": "Daniel Zhao, chief economist, Glassdoor"
+  },
+  {
+   "claim": "Workers aged 25-34 were unemployed an average of 19 weeks; those 55-64 averaged 26 weeks",
+   "stat": "19 weeks vs 26 weeks",
+   "attribution": "2025 WSJ analysis"
+  },
+  {
+   "claim": "Among Gen X and boomers laid off at least once, 24% could not find a new job and 11% took a pay cut",
+   "stat": "24%; 11%",
+   "attribution": "2025 WSJ analysis"
+  }
+ ],
+ "vocabulary": [
+  "permanent hiring",
+  "contract talent",
+  "skills gap",
+  "headcount",
+  "job specializations",
+  "administration and customer support",
+  "backfill",
+  "software proficiency",
+  "workforce reductions",
+  "layoffs",
+  "perceived probability of finding a job",
+  "AI efficiencies",
+  "staffing firm"
+ ],
+ "topics_covered": []
+}

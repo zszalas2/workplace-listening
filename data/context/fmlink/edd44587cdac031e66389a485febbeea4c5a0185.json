@@ -1,0 +1,99 @@
+{
+ "id": "edd44587cdac031e66389a485febbeea4c5a0185",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/look-up-for-a-passive-thermal-storage-device-and-meet-templok-energy-saving-ceilings-from-armstrong/",
+ "published_at": "2026-08-12",
+ "observed_at": "2026-08-17",
+ "summary": "FMLink profiles Templok Energy Saving Ceilings from Armstrong World Industries (AWI), a ceiling panel system that doubles as a passive thermal storage device using integrated phase change material (PCM), described as a salt-and-water solution that melts and freezes at 72F to passively regulate indoor temperature.\n\nHow it works: during occupied hours, as internal temperatures climb above 72F from solar gain, equipment and occupants, the PCM absorbs up to 50 BTUs per square foot of thermal energy, delaying and reducing mechanical cooling demand. Overnight the material refreezes, releasing stored heat and reducing morning warm-up energy.\n\nProduct range and aesthetics: three product lines (Calla, Ultima, School Zone Fine Fissured), multiple textures from smooth to medium fissured, varied edge profiles, and high light reflectance of 82 to 88 percent to boost lighting efficiency.\n\nPerformance claims: case studies show up to 20 percent reduction in peak afternoon HVAC demand and 7 percent total cooling energy reduction; desert climate classrooms stayed 4F cooler at peak heat. Energy modeling predicts annual cooling savings above 7 percent and heating savings above 30 percent, with overall heating and cooling energy consumption cut up to 15 percent. The piece frames this as addressing operational carbon, which it says accounts for 80 to 90 percent of lifetime building emissions.\n\nDurability: washable, impact, scratch and soil resistant finishes; part of the Armstrong CleanAssure family, tolerating EPA-approved disinfectants via fogging or spraying for healthcare and education; BioBlock mold/mildew resistance and HumiGuard Plus sag resistance.\n\nRecognition and tooling: Best of NeoCon 2026 jurors gave Templok Innovation and Business Impact Awards in Interior Products and Solutions, praising acoustics plus energy savings and noting full ROI in one to three years, but flagging that installers cannot cut into the gel and questioning accommodation of lighting, sprinkler and mechanical components. AWI says Templok is the first PCM ceiling system integrated into IES Virtual Environment (IESVE) software for design-phase modeling of energy and carbon savings.",
+ "claims": [
+  {
+   "claim": "PCM in Templok panels melts and freezes at 72F to passively regulate indoor temperatures",
+   "stat": "72F phase change point",
+   "attribution": "Armstrong World Industries via FMLink"
+  },
+  {
+   "claim": "Panels absorb thermal energy during occupied hours",
+   "stat": "up to 50 BTUs/SF",
+   "attribution": "Armstrong World Industries"
+  },
+  {
+   "claim": "Light reflectance of the panel finishes enhances lighting efficiency",
+   "stat": "82-88% reflectance",
+   "attribution": "Armstrong World Industries"
+  },
+  {
+   "claim": "Case studies show reduced peak afternoon HVAC demand and total cooling energy",
+   "stat": "up to 20% peak demand reduction; 7% total cooling energy reduction",
+   "attribution": "AWI case studies cited by FMLink"
+  },
+  {
+   "claim": "Desert climate classrooms stayed cooler during peak heat",
+   "stat": "4F cooler",
+   "attribution": "AWI"
+  },
+  {
+   "claim": "Energy modeling predicts annual savings",
+   "stat": "cooling savings exceeding 7%; heating savings exceeding 30%",
+   "attribution": "Energy modeling studies cited by AWI"
+  },
+  {
+   "claim": "Passive thermal storage reduces heating and cooling energy consumption",
+   "stat": "up to 15%",
+   "attribution": "AWI"
+  },
+  {
+   "claim": "Building operation phase is responsible for the majority of lifetime emissions",
+   "stat": "80-90% of total building emissions",
+   "attribution": "FMLink/AWI"
+  },
+  {
+   "claim": "Templok delivers full return on investment",
+   "stat": "1-3 years",
+   "attribution": "Best of NeoCon 2026 jurors"
+  },
+  {
+   "claim": "Templok is the first PCM ceiling system integrated into IES Virtual Environment software",
+   "stat": "",
+   "attribution": "AWI"
+  },
+  {
+   "claim": "Templok won awards at Best of NeoCon 2026",
+   "stat": "Innovation and Business Impact Awards, Interior Products and Solutions category",
+   "attribution": "Best of NeoCon 2026 jurors"
+  },
+  {
+   "claim": "Installers cannot cut into the gel, so standard tiles must be used for penetrations",
+   "stat": "",
+   "attribution": "Best of NeoCon 2026 jurors"
+  }
+ ],
+ "vocabulary": [
+  "passive thermal storage device",
+  "phase change material (PCM)",
+  "Templok Energy Saving Ceilings",
+  "Armstrong World Industries (AWI)",
+  "BTUs/SF",
+  "light-reflective finishes",
+  "peak HVAC demand",
+  "thermal buffering",
+  "operational carbon",
+  "lifecycle emissions",
+  "IES Virtual Environment (IESVE)",
+  "energy modeling",
+  "CleanAssure",
+  "BioBlock",
+  "HumiGuard Plus",
+  "sag resistance",
+  "EPA-approved disinfectants",
+  "fogging",
+  "acoustic performance",
+  "Calla",
+  "Ultima",
+  "School Zone Fine Fissured",
+  "edge profiles",
+  "ceiling grid systems",
+  "Best of NeoCon 2026",
+  "ROI"
+ ],
+ "topics_covered": []
+}

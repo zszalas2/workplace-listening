@@ -1,0 +1,56 @@
+{
+ "id": "2f8ea341ed054782a2730fe3e708c611869306cc",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/a-new-social-contract-that-helps-all-workers-benefit-from-ai/",
+ "published_at": "2026-08-13",
+ "observed_at": "2026-08-17",
+ "summary": "This Charter piece argues for a new \"social contract\" so AI gains reach workers rather than only owners and executives. It opens with polling evidence of rising worker pessimism: Gallup finds 39% of Americans now say AI does more harm than good, up from 27% two years earlier. A separate poll from Groundwork Collaborative, described as a left-leaning think tank, finds more than half of workers expect AI adoption at work to benefit only or mostly business owners and executives, while only 6% believe all or most benefits will flow to workers. Skepticism is concentrated among lower-income workers and those without a college degree, suggesting the distrust is rooted in distributional fear rather than technology aversion alone.\n\nThe article then turns to MIT professors Thomas A. Kochan and Erin L. Kelly, co-authors of a new research report on AI negotiations at Kaiser Permanente. They contend the pessimistic outcome is not inevitable. The framing context: labor productivity has risen to record highs in recent years while workers' share of GDP has fallen to record lows. Kochan argues AI is an opportunity to reconnect productivity growth with worker income, reversing that decoupling. The Kaiser Permanente case is presented as an example of negotiated AI adoption, implying that labor-management bargaining over how AI is deployed is a mechanism for broader benefit sharing.\n\nThe piece is short and framing-oriented rather than prescriptive; it does not detail specific contract terms, bargaining outcomes, or implementation steps. It contains no discussion of workplace operations topics such as space usage, attendance, visitor processes, or facilities tooling. Its relevance is to the broader future-of-work and AI-and-labor policy conversation.",
+ "claims": [
+  {
+   "claim": "Americans saying AI does more harm than good has risen",
+   "stat": "39%, up from 27% two years ago",
+   "attribution": "Gallup poll"
+  },
+  {
+   "claim": "More than half of workers predict AI adoption at work will only or mostly benefit business owners and executives",
+   "stat": "more than 50%",
+   "attribution": "Groundwork Collaborative poll"
+  },
+  {
+   "claim": "Only a small share of workers believe all or most AI benefits will go to workers",
+   "stat": "6%",
+   "attribution": "Groundwork Collaborative poll"
+  },
+  {
+   "claim": "AI skepticism is concentrated among lower-income workers and those without a college degree",
+   "stat": "",
+   "attribution": "Groundwork Collaborative poll"
+  },
+  {
+   "claim": "Labor productivity has risen to record highs while workers' share of GDP has fallen to record lows",
+   "stat": "",
+   "attribution": "Charter, citing MIT professors Kochan and Kelly"
+  },
+  {
+   "claim": "AI is an opportunity to bring productivity and worker income back together",
+   "stat": "",
+   "attribution": "Thomas A. Kochan, MIT"
+  },
+  {
+   "claim": "A new research report examines AI negotiations at Kaiser Permanente",
+   "stat": "",
+   "attribution": "Thomas A. Kochan and Erin L. Kelly, MIT"
+  }
+ ],
+ "vocabulary": [
+  "social contract",
+  "AI adoption",
+  "worker pessimism",
+  "labor productivity",
+  "workers' share of GDP",
+  "AI negotiations",
+  "left-leaning think tank",
+  "lower-income workers"
+ ],
+ "topics_covered": []
+}

@@ -1,0 +1,70 @@
+{
+ "id": "43947aa80bed99abe8c4770f640f26d094496f8d",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/how-the-machine-pace-of-work-is-burning-out-your-best-employees/",
+ "published_at": "2026-08-11",
+ "observed_at": "2026-08-17",
+ "summary": "An essay from Charter, written by a facilitator of off-the-record chief people officer forums, argues that AI-era \"machine pace\" is burning out the highest performers companies fought hardest to retain. One CPO describes top performers as \"trying to outrace irrelevance.\" The author says this moment differs from prior disruptions in three ways: there is no defined end state (employees at Zapier ask \"transformation into what? When are we done?\"), even habitual fast learners cannot keep up with learning new ways of working on top of existing jobs, and the pain is no longer shared because the disruption is internally driven by leaders who sit furthest from the fallout.\n\nThe piece traces how pressure travels: boards question why AI investment is not paying off faster, which becomes HR-enforced mandates to use AI on every project. A product designer recounts spending one hour building a Figma prototype and fifteen hours fighting an AI tool to reproduce it, and being told to build everything as AI prototypes to prove AI's worth to an investor; she left tech.\n\nThe author argues executives do not see the maintenance tail of AI output, the code that must be secured, documented and maintained, and cites SurveyMonkey data showing leaders query AI three times as often as reports and are three times as likely to accept answers without validation. Managers under deadline choose to fix AI errors themselves rather than coach juniors, so apprenticeship stops.\n\nThe conclusion frames burnout as a design choice, referencing BCG's \"AI brain fry\" and a Gensler finding on heavy AI users. Passing mentions include office attendance mandates, always-on messaging and 9-9-6 culture as symptoms of the same pace pressure. No workplace-technology, visitor management, or space booking content of substance.",
+ "claims": [
+  {
+   "claim": "Moderate or higher burnout rose among tech workers year over year",
+   "stat": "56% this year, up from 45% a year earlier",
+   "attribution": "unattributed, cited by the author"
+  },
+  {
+   "claim": "Two-thirds of all workers, beyond tech, say they have experienced burnout",
+   "stat": "two-thirds",
+   "attribution": "unattributed, cited by the author"
+  },
+  {
+   "claim": "Only about a fifth of people worry about losing a job to AI",
+   "stat": "~20%",
+   "attribution": "unattributed, cited by the author"
+  },
+  {
+   "claim": "Heavy AI users say their role has expanded",
+   "stat": "96%",
+   "attribution": "unattributed, cited by the author"
+  },
+  {
+   "claim": "CEOs fear for their own jobs, driving internal AI disruption",
+   "stat": "80% of CEOs",
+   "attribution": "unattributed, cited by the author"
+  },
+  {
+   "claim": "Leaders feed questions to AI far more often than their reports and are more likely to accept answers without validation",
+   "stat": "three times as often; three times as likely",
+   "attribution": "SurveyMonkey report"
+  },
+  {
+   "claim": "Cognitive load of running at hyperspeed, or 'AI brain fry', increases intent to quit",
+   "stat": "39% more likely to want to quit",
+   "attribution": "BCG"
+  },
+  {
+   "claim": "A product designer spent one hour on a Figma prototype versus fifteen hours reproducing it with an AI tool",
+   "stat": "1 hour vs 15 hours",
+   "attribution": "product designer interviewed by the author"
+  }
+ ],
+ "vocabulary": [
+  "machine pace",
+  "chief people officer (CPO)",
+  "burnout",
+  "change fatigue",
+  "tokenmaxxing leaderboards",
+  "productivity quotas",
+  "office attendance mandates",
+  "always-on messaging apps",
+  "9-9-6 culture",
+  "maintenance tail",
+  "AI brain fry",
+  "cognitive load",
+  "AI-first",
+  "apprenticeship",
+  "learning and development",
+  "retention plan",
+  "heavy AI users"
+ ],
+ "topics_covered": []
+}

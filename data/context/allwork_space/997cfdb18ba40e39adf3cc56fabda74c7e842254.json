@@ -1,0 +1,111 @@
+{
+ "id": "997cfdb18ba40e39adf3cc56fabda74c7e842254",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/08/more-workers-see-outdoor-lunch-breaks-as-a-workplace-priority/",
+ "published_at": "2026-08-14",
+ "observed_at": "2026-08-17",
+ "summary": "Allwork.Space reports on survey research from Talker Research, commissioned by seafood brand Wild Planet, polling 2,000 US hybrid workers about lunch breaks and time outdoors during in-office workdays.\n\nKey findings: 56% of respondents stay indoors all day beyond their morning and evening commute, and 85% sometimes skip their lunch break entirely. Despite that, 91% say taking a lunch break is essential, 63% think more highly of colleagues who take a real lunch break, and 78% would prefer to eat outdoors most workdays.\n\nThe research claims mental and emotional benefits from outdoor eating. Only 51% rate their happiness 4 or 5 out of 5 before lunch, rising to 66% after eating lunch outdoors. Workers eat lunch at their desk roughly 2.5 days per week while working, plus another 2.6 days per week eating at the desk while not working.\n\nMotivations for going outside include the belief that fresh air resets focus (64%) and that screen breaks aid mental clarity (58%). Barriers are structural and cultural: too many meetings or tasks (29%) and constant pressure to stay available to colleagues (25%).\n\nEven during breaks, unplugging is difficult. Respondents spend 61% of their lunch break on a device. Activities include scrolling social media (41%), responding to nonwork messages (37%), reading them (35%), and life admin like bill paying or scheduling appointments (31%). Work bleeds in too: 32% read work email, 28% respond, and 25% leave their work computer active.\n\nOutside work, 67% say they are prioritizing outdoor time more than a few years ago, via walking (67%), time with family and friends (49%), and pet care (38%).\n\nSue Thanavaro, Brand Marketing Director at Wild Planet, frames outdoor meals as a low-effort mental and physical reset that encourages slowing down and disconnecting from screens.",
+ "claims": [
+  {
+   "claim": "A majority of hybrid workers stay indoors during an in-office workday beyond their commute",
+   "stat": "56%",
+   "attribution": "Talker Research survey of 2,000 hybrid workers on behalf of Wild Planet"
+  },
+  {
+   "claim": "Most workers skip their lunch break entirely at least occasionally",
+   "stat": "85%",
+   "attribution": "Talker Research / Wild Planet survey"
+  },
+  {
+   "claim": "Nearly all respondents believe taking a lunch break during work is essential",
+   "stat": "91%",
+   "attribution": "Talker Research / Wild Planet survey"
+  },
+  {
+   "claim": "Workers have a higher opinion of colleagues who prioritize taking a real lunch break",
+   "stat": "63%",
+   "attribution": "Talker Research / Wild Planet survey"
+  },
+  {
+   "claim": "Workers would prefer to eat lunch outdoors for a majority of workdays in an ideal world",
+   "stat": "78%",
+   "attribution": "Talker Research / Wild Planet survey"
+  },
+  {
+   "claim": "Happiness ratings of 4 or 5 out of 5 rise after eating lunch outdoors",
+   "stat": "from 51% before lunch to 66% after outdoor lunch",
+   "attribution": "Talker Research / Wild Planet survey"
+  },
+  {
+   "claim": "Average worker eats lunch at their desk while working about three days per week",
+   "stat": "2.5 days",
+   "attribution": "Talker Research / Wild Planet survey"
+  },
+  {
+   "claim": "Workers also eat lunch at their desk while not working several days per week",
+   "stat": "2.6 days",
+   "attribution": "Talker Research / Wild Planet survey"
+  },
+  {
+   "claim": "Workers believe fresh air resets their focus",
+   "stat": "64%",
+   "attribution": "Talker Research / Wild Planet survey"
+  },
+  {
+   "claim": "Workers believe screen breaks are essential for mental clarity",
+   "stat": "58%",
+   "attribution": "Talker Research / Wild Planet survey"
+  },
+  {
+   "claim": "Top barriers to getting outdoors are too many meetings or tasks, and pressure to stay available",
+   "stat": "29% meetings/tasks; 25% availability pressure",
+   "attribution": "Talker Research / Wild Planet survey"
+  },
+  {
+   "claim": "Workers spend most of their lunch break on a device",
+   "stat": "61% of the break",
+   "attribution": "Talker Research / Wild Planet survey"
+  },
+  {
+   "claim": "Lunch break device activities include social media scrolling, reading and responding to nonwork messages, and life admin",
+   "stat": "41% social media; 35% read messages; 37% respond; 31% life admin",
+   "attribution": "Talker Research / Wild Planet survey"
+  },
+  {
+   "claim": "Work bleeds into lunch breaks via email and active computers",
+   "stat": "32% read work email; 28% respond; 25% leave work computer active",
+   "attribution": "Talker Research / Wild Planet survey"
+  },
+  {
+   "claim": "Most workers are prioritizing outdoor time more than a few years ago",
+   "stat": "67%",
+   "attribution": "Talker Research / Wild Planet survey"
+  },
+  {
+   "claim": "Outdoor activities workers do frequently include walking, socializing and pet care",
+   "stat": "67% walk; 49% family and friends; 38% pets",
+   "attribution": "Talker Research / Wild Planet survey"
+  },
+  {
+   "claim": "Taking a meal outside forces workers to slow down and disconnect from the screen, providing a mental and physical reset",
+   "stat": "",
+   "attribution": "Sue Thanavaro, Brand Marketing Director, Wild Planet"
+  }
+ ],
+ "vocabulary": [
+  "hybrid workers",
+  "in-office workday",
+  "lunch break",
+  "desk lunch",
+  "screen breaks",
+  "daily grind",
+  "commute",
+  "always available culture",
+  "life admin",
+  "unplugging",
+  "workplace priority",
+  "mental clarity",
+  "outdoor breaks"
+ ],
+ "topics_covered": []
+}

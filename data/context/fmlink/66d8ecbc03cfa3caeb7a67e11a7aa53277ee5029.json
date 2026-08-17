@@ -1,0 +1,75 @@
+{
+ "id": "66d8ecbc03cfa3caeb7a67e11a7aa53277ee5029",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/20-billion-dulles-airport-transformation-will-modernize-facilities-and-elevate-experience/",
+ "published_at": "2026-08-14",
+ "observed_at": "2026-08-17",
+ "summary": "FMLink reports that the Metropolitan Washington Airports Authority (MWAA), United Airlines and the U.S. Department of Transportation have announced a capital investment program of more than $20 billion to transform Washington Dulles International Airport over the next decade. The stated goal is a modern, world-class gateway to the nation's capital that improves the experience for travelers and employees while preserving Eero Saarinen's iconic Main Terminal design.\n\nScope includes more than 5 million square feet of new or renovated space: new and modernized concourses (including replacement of the C/D Concourse), an expanded Main Terminal with more walkable gate access, and new train service that will retire Dulles' mobile lounge vehicles.\n\nTraveler-facing upgrades listed: improved airport entry and close-in parking, state-of-the-art check-in areas, more efficient security screening, additional gates with more spacious seating, dedicated work areas and amenities, new AeroTrain connections plus a central walking tunnel, a walkable path to a new large U.S. Customs facility, improved baggage handling systems, and more concessions and lounges including additional United Club space and plans for one of the largest United Polaris lounges in the world.\n\nThe program stems from a December 2025 DOT request for information; the government reviewed more than 30 proposals. It accelerates a capital improvement program already underway under the Airports Authority's Master Plan and an earlier airline agreement. The $20 billion figure is a significant increase over the $7 billion previously allocated. Financing will rely largely on municipal bonds, which carry significantly lower interest rates than private-sector bonds. Work will be phased while the airport continues normal operations. Concourse E opens later this year with 14 new United gates, direct AeroTrain access, and enhanced passenger lounges.\n\nThe piece is a facilities and capital-projects announcement with no content on hybrid work, desk booking, visitor management or workplace analytics.",
+ "claims": [
+  {
+   "claim": "The Dulles transformation carries a capital investment program of more than $20 billion",
+   "stat": "more than $20 billion",
+   "attribution": "Metropolitan Washington Airports Authority, United Airlines and U.S. Department of Transportation announcement"
+  },
+  {
+   "claim": "The project spans the next decade",
+   "stat": "10 years",
+   "attribution": "FMLink article"
+  },
+  {
+   "claim": "Travelers will get new or renovated space",
+   "stat": "more than 5 million square feet",
+   "attribution": "FMLink article"
+  },
+  {
+   "claim": "The new figure is a significant increase over prior allocation for Dulles modernization",
+   "stat": "$20 billion vs $7 billion previously allocated",
+   "attribution": "FMLink article"
+  },
+  {
+   "claim": "The DOT issued a request for information in December 2025 and reviewed proposals to modernize the airport",
+   "stat": "more than 30 proposals",
+   "attribution": "FMLink article"
+  },
+  {
+   "claim": "Concourse E will open later this year with new United gates and direct AeroTrain access",
+   "stat": "14 new United gates",
+   "attribution": "FMLink article"
+  },
+  {
+   "claim": "Much of the project will be financed through municipal bonds, which offer significantly lower interest rates than private-sector bonds",
+   "stat": "",
+   "attribution": "Metropolitan Washington Airports Authority"
+  },
+  {
+   "claim": "New train service will allow retirement of Dulles' mobile lounge vehicles",
+   "stat": "",
+   "attribution": "FMLink article"
+  }
+ ],
+ "vocabulary": [
+  "capital investment program",
+  "Dulles Master Plan",
+  "capital improvement program",
+  "request for information (RFI)",
+  "municipal bonds",
+  "concourse",
+  "Main Terminal",
+  "AeroTrain",
+  "mobile lounges",
+  "central walking tunnel",
+  "baggage handling systems",
+  "security screening",
+  "check-in areas",
+  "U.S. Customs facility",
+  "dedicated work areas",
+  "United Club",
+  "United Polaris lounge",
+  "curb to gate",
+  "phased construction",
+  "conceptual rendering",
+  "facilities modernization",
+  "passenger experience"
+ ],
+ "topics_covered": []
+}

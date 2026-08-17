@@ -1,0 +1,38 @@
+{
+ "id": "56e0a594702d9a292ead67bd55a5f1d59c86b85e",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/08/how-to-access-the-hidden-job-market/",
+ "published_at": "2026-08-15",
+ "observed_at": "2026-08-17",
+ "summary": "An Allwork.Space careers advice piece arguing that many jobs are filled before being publicly advertised, through referrals, internal candidates, former colleagues, and existing professional connections, which the author calls the hidden job market. The framing is that employers are not trying to maximize application volume; they want to make the right hire quickly and with less risk, so they start with recommendations from employees and trusted contacts. A referral carries trust that a resume or CV cannot convey because someone stakes their own reputation on the recommendation.\n\nThe article cites a LiveCareer U.K. Hidden Job Market study reporting that referred candidates are hired at roughly 30%, versus 7% for candidates applying through traditional job advertisements, making referred candidates about five times more likely to be hired. It also cites that 82% of recruiters say employee referrals deliver the best return on investment.\n\nThree tactics are offered. First, make referrals part of the search: contact people you know at target employers, supply a short passable summary of your experience, and look for mutual LinkedIn connections for introductions. Second, stop networking only when you need a job; build relationships in advance by following leaders and companies, commenting thoughtfully, congratulating people on promotions and milestones, sharing relevant insights, and keeping in touch with former colleagues and classmates so a hiring manager already recognizes your name. Third, reach out before a posting exists: identify the hiring manager or team leader, avoid opening with \"Are you hiring?\", and instead request a short virtual coffee to learn what skills and experiences they value.\n\nThe conclusion advises continuing to apply for advertised roles while investing in conversations, reconnections, and introductions, since the next opportunity may never be posted. No workplace technology, facilities, or hybrid policy content is discussed.",
+ "claims": [
+  {
+   "claim": "Referred candidates are hired at a much higher rate than candidates applying via traditional job advertisements",
+   "stat": "about 30% vs 7%, roughly five times more likely",
+   "attribution": "LiveCareer U.K. Hidden Job Market study, cited by Allwork.Space"
+  },
+  {
+   "claim": "Recruiters view employee referrals as the highest-ROI hiring source",
+   "stat": "82% of recruiters",
+   "attribution": "Allwork.Space (source unspecified)"
+  },
+  {
+   "claim": "Many open positions are filled before being advertised publicly, via employee referrals, internal candidates, and former colleagues",
+   "stat": "",
+   "attribution": "Allwork.Space"
+  }
+ ],
+ "vocabulary": [
+  "hidden job market",
+  "employee referrals",
+  "internal candidates",
+  "hiring manager",
+  "return on investment",
+  "LinkedIn mutual connections",
+  "virtual coffee",
+  "job boards",
+  "resume or CV",
+  "networking"
+ ],
+ "topics_covered": []
+}

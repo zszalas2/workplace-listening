@@ -1,0 +1,59 @@
+{
+ "id": "0143920cac11faeb35b90c253a4db6fea38a326a",
+ "source_id": "workplace_insight",
+ "url": "https://workplaceinsight.net/hubflow-acquires-37-lombard-street-as-it-expands-london-office-portfolio/?utm_source=rss&utm_medium=rss&utm_campaign=hubflow-acquires-37-lombard-street-as-it-expands-london-office-portfolio",
+ "published_at": "2026-08-11",
+ "observed_at": "2026-08-17",
+ "summary": "Flexible workspace provider Hubflow has acquired the freehold of its flagship 37 Lombard Street site in the City of London, marking a shift toward an owner-operator model rather than the lease-based approach used by most flex operators. The freehold was purchased through a dedicated investment vehicle set up with Hubflow's investment partners, a structure the company says will supply long-term capital for further expansion.\n\nHubflow also confirmed plans to open more than 25,000 sq ft of additional flexible workspace next month across two central London locations: 60 New Broad Street and 71 Queen Victoria Street. The Lombard Street building, already operated by Hubflow, offers self-contained offices for teams of up to 30 people plus coworking facilities and meeting rooms.\n\nThe company is weighing further central London property acquisitions to grow both its operated workspace count and its owned real estate assets. The article frames this against flexible workspace operators trying to capitalise on shifting corporate occupier requirements after the widespread adoption of hybrid working. Hubflow is targeting the premium end of the market, wagering that demand for higher-quality, hospitality-led flexible space will keep growing.\n\nChief executive Gary McCausland called the deal \"a significant milestone,\" arguing that while operators have long focused on leasing buildings, the future lies in combining strong operations with selective ownership of outstanding real estate. He said the company remains confident in London's office market and intends to keep investing across the capital.\n\nThe piece is short corporate news with no data on occupancy, pricing or utilisation, and includes an apparent editorial artefact offering to rewrite the story with a sharper intro and more flex-office and London property market context. It touches hybrid working only as background market rationale rather than addressing workplace operations, booking or attendance themes.",
+ "claims": [
+  {
+   "claim": "Hubflow acquired the freehold of its 37 Lombard Street site in the City of London",
+   "stat": "",
+   "attribution": "Hubflow / Workplace Insight"
+  },
+  {
+   "claim": "Hubflow plans to open additional flexible workspace across two central London locations next month",
+   "stat": "more than 25,000 sq ft",
+   "attribution": "Hubflow"
+  },
+  {
+   "claim": "The Lombard Street building provides self-contained offices alongside coworking facilities and meeting rooms",
+   "stat": "teams of up to 30 people",
+   "attribution": "Hubflow"
+  },
+  {
+   "claim": "The freehold was acquired through a dedicated investment vehicle established with Hubflow's investment partners, providing long-term capital for expansion",
+   "stat": "",
+   "attribution": "Hubflow"
+  },
+  {
+   "claim": "Flexible workspace operators are seeking to capitalise on changes in corporate occupier requirements following widespread adoption of hybrid working",
+   "stat": "",
+   "attribution": "Workplace Insight"
+  },
+  {
+   "claim": "The future of flex workspace lies in combining exceptional operations with selective ownership of outstanding real estate, rather than leasing buildings",
+   "stat": "",
+   "attribution": "Gary McCausland, Chief Executive, Hubflow"
+  }
+ ],
+ "vocabulary": [
+  "flexible workspace provider",
+  "freehold",
+  "owner-operator model",
+  "lease-based approach",
+  "coworking",
+  "meeting rooms",
+  "self-contained offices",
+  "flagship location",
+  "investment vehicle",
+  "hybrid working",
+  "corporate occupier requirements",
+  "hospitality-led flexible space",
+  "premium flexible workspace",
+  "flex-office market",
+  "London office market",
+  "real estate assets"
+ ],
+ "topics_covered": []
+}

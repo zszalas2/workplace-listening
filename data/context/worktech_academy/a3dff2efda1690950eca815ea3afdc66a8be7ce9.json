@@ -1,0 +1,16 @@
+{
+ "id": "a3dff2efda1690950eca815ea3afdc66a8be7ce9",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYk1OSFljeGlpWExHN0h4S3VkLXR6aE8tZHJqa0J1ZzFLSmZLN1hCcGZmZkxwb0lFSTI0Vml1R3EzRDkxSEZ1azdfWWRGNkhuN3ZpbmJTV09SR0VUZGhDcndDclUwSU9lTnZFenRLTmlVQ1h2ZXJSb3dKbGotdW5ZN1hYTjhQSWRKcnB3TlNsd3U?oc=5",
+ "published_at": "2026-08-08",
+ "observed_at": "2026-08-17",
+ "summary": "This item is effectively a headline-only entry from WORKTECH Academy titled \"Signal File: the connective tissue of workplace culture.\" The supplied text contains no article body, only a repetition of the title and publisher name, delivered via a Google News RSS redirect link. As such, no substantive argument, data, interviews, or vendor references can be extracted. Based on the title alone, the piece appears to belong to WORKTECH Academy's \"Signal File\" series and to address workplace culture as a connective or binding force across an organisation, likely in the context of distributed and hybrid work where shared physical presence no longer carries culture by default. However, this reading is inference from the title rather than reporting on the content. No claims, statistics, sources, or named experts are available. No specific coverage of visitor management, desk or room booking, attendance tracking, admin overhead, support desk metrics, procurement and risk review workload, or coworking and quiet space choice can be confirmed. Recommendation for the listening pipeline: treat this as an unresolved stub and re-fetch the full article from the WORKTECH Academy site before scoring it for theme saturation, since the title suggests possible relevance to hybrid culture and return-to-office themes but nothing in the captured text supports a tag.",
+ "claims": [],
+ "vocabulary": [
+  "Signal File",
+  "connective tissue",
+  "workplace culture",
+  "WORKTECH Academy"
+ ],
+ "topics_covered": []
+}

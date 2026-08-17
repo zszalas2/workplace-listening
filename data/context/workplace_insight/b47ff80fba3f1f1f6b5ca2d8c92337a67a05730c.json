@@ -1,0 +1,47 @@
+{
+ "id": "b47ff80fba3f1f1f6b5ca2d8c92337a67a05730c",
+ "source_id": "workplace_insight",
+ "url": "https://workplaceinsight.net/is-resilience-a-personality-trait-or-a-flaw-in-workplace-design/?utm_source=rss&utm_medium=rss&utm_campaign=is-resilience-a-personality-trait-or-a-flaw-in-workplace-design",
+ "published_at": "2026-08-16",
+ "observed_at": "2026-08-17",
+ "summary": "An opinion piece in Workplace Insight argues that low resilience at work is a symptom of poor workplace design rather than a personal failing. The author says leaders routinely tell struggling employees to be tougher, manage stress or build grit, and that framing damages people who are already trying hard. Signs like tiredness that a weekend cannot fix, feedback landing as a threat, and change met with a sigh get logged as poor personal resilience.\n\nThe piece cites UK Civil Service data: in the year to March 2025, mental ill-health accounted for 47.1 percent of long-term sickness absence, the single largest cause. The author argues the striking part is the spread across ages, grades and job types, which undermines the idea that a generation has gone soft and points instead to something structural.\n\nMuch of how work is organised, the author says, assumed steady attention, predictable routines, clear hierarchies and slowly formed organisational identity. None of that holds now: attention is fragmented, the work/life line has gone, and roles demand judgement and emotional regulation. AI adds anticipatory strain, roles moving, skills revalued, status renegotiated, plus the ache of feeling a step behind. Unprocessed identity threat produces avoidance, rigidity, self-protection, anxiety and exhaustion.\n\nHumans normally adapt through a loop of pressure, context, self-awareness, recovery and learning, but modern work strips out the conditions that loop needs: constant switching, vague requests, and the loss of informal cues like corridor conversations and reading a face. Stress becomes the weather rather than an event.\n\nGood hospitality teams build resilience by accident through micro-stress and micro-recovery, instant feedback and small wins. Corporate environments have engineered that out, swapping informal conversation for scheduled calls and breaks for quick check-ins. Warning signs include meetings to prepare for meetings, reopened decisions, slow belonging for new starters, and change met with \"here we go again.\" The remedy is redesign, not another bolted-on wellbeing initiative.",
+ "claims": [
+  {
+   "claim": "Mental ill-health was the single largest cause of long-term sickness absence in the UK Civil Service, and the pattern was spread across age groups, grades and job types.",
+   "stat": "47.1 percent of long-term sickness absence in the year to March 2025",
+   "attribution": "Article author, citing UK Civil Service figures"
+  },
+  {
+   "claim": "Ambiguity, criticism and social uncertainty trigger the brain's threat response, but time, context and self-awareness let people reframe pressure as challenge and convert it into learning.",
+   "stat": "",
+   "attribution": "Article author"
+  },
+  {
+   "claim": "Hospitality teams build resilience almost by accident through continuous micro-stress and micro-recovery, instant feedback and small wins, whereas many corporate environments have engineered those moments out.",
+   "stat": "",
+   "attribution": "Article author"
+  }
+ ],
+ "vocabulary": [
+  "resilience",
+  "workplace design",
+  "personal resilience",
+  "long-term sickness absence",
+  "mental ill-health",
+  "UK Civil Service",
+  "wellbeing initiative",
+  "threat response",
+  "working memory",
+  "micro-stress and micro-recovery",
+  "informal cues",
+  "corridor conversation",
+  "quick check-ins",
+  "annual review",
+  "identity threat",
+  "emotional regulation",
+  "scheduled calls",
+  "rhythms of work",
+  "ambiguity"
+ ],
+ "topics_covered": []
+}

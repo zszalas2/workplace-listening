@@ -1,0 +1,75 @@
+{
+ "id": "7f2f75422a6e169858a7e8a06b207a360372e457",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/between-amfp-ifhe-programming-healthcare-design-new-orleans-is-the-premier-conference-for-hospital-facility-executives-and-planners/",
+ "published_at": "2026-08-14",
+ "observed_at": "2026-08-17",
+ "summary": "FMLink, a partner of the International Federation of Healthcare Engineering (IFHE), promotes the co-located IFHE 29th World Congress and Healthcare Design (HCD) Conference + Expo, held October 17-20, 2026 at the Ernest N. Morial Convention Center in New Orleans. The article positions the event as the premier gathering for hospital facility executives and planners, noting dedicated facility management tracks plus IFHE programming that spans healthcare facility design, construction, engineering, operations and real estate management.\n\nThe IFHE World Congress is hosted by the Association of Medical Facility Professionals (AMFP), the U.S. representative to IFHE, in partnership with Emerald, the events and content parent company of HCD. IFHE membership spans more than 35 countries, which the piece says creates potential for diverse international perspectives at a U.S. event. This is the first time the two events share a single venue, described as a unified platform connecting professionals who design and build healthcare environments with those who operate them.\n\nAll registration pass types include IFHE sessions, but access to the full HCD program of 110+ sessions requires the IFHE + HCD Full Conference Pass. More than 100 educational sessions are offered, with AIA, IDCEC, EDAC and nursing learning units available. Tracks include Advancements in Evidence-Based Design Research, Behavioral Health Practices, Technology & Innovation, and Clinical Perspectives. Show features include networking lounges, the OM Seating hosted HCD Power Lounge, facility tours, keynotes, an exhibit hall, and a $10,000 cash giveaway.\n\nThe piece also details the Nightingale Awards, presented by Healthcare Design magazine in partnership with the HCD Conference + Expo, recognizing product design and innovation contributing to healing. A jury of healthcare design professionals and facility managers reviews entries digitally then visits exhibitor booths before the expo hall opens. Regular entry deadline is Aug. 31 ($695); late entry deadline is Sept. 28 ($795). The awards are named for Florence Nightingale.\n\nFMLink links to prior articles on capital investment strategies, project team trust, medical campus construction, AI-enabled hospital efficiency and healthcare security.",
+ "claims": [
+  {
+   "claim": "IFHE membership spans more than 35 countries",
+   "stat": "35+ countries",
+   "attribution": "FMLink article"
+  },
+  {
+   "claim": "The IFHE World Congress and HCD Conference + Expo share a single venue for the first time",
+   "stat": "first time",
+   "attribution": "FMLink article"
+  },
+  {
+   "claim": "Full HCD conference program access requires the IFHE + HCD Full Conference Pass",
+   "stat": "110+ sessions",
+   "attribution": "FMLink article"
+  },
+  {
+   "claim": "The conference offers more than 100 educational sessions with AIA, IDCEC, EDAC and nursing LUs",
+   "stat": "100+ sessions",
+   "attribution": "FMLink article"
+  },
+  {
+   "claim": "Nightingale Awards entry fees and deadlines",
+   "stat": "Regular entry deadline Aug. 31 at $695; late entry deadline Sept. 28 at $795",
+   "attribution": "FMLink article"
+  },
+  {
+   "claim": "Show features include a cash giveaway",
+   "stat": "$10,000",
+   "attribution": "FMLink article"
+  },
+  {
+   "claim": "Event dates and venue",
+   "stat": "October 17-20, 2026, Ernest N. Morial Convention Center, New Orleans",
+   "attribution": "FMLink article"
+  },
+  {
+   "claim": "The conference convenes thousands of professionals involved in healthcare facility design, construction and management",
+   "stat": "thousands",
+   "attribution": "FMLink article"
+  }
+ ],
+ "vocabulary": [
+  "facility management (FM) tracks",
+  "healthcare facility manager",
+  "hospital planning executive",
+  "IFHE World Congress",
+  "Association of Medical Facility Professionals (AMFP)",
+  "International Federation of Healthcare Engineering (IFHE)",
+  "Healthcare Design (HCD) Conference + Expo",
+  "Emerald",
+  "evidence-based design",
+  "behavioral health practices",
+  "real estate management",
+  "facility operations",
+  "Nightingale Awards",
+  "AIA, IDCEC, EDAC and nursing LUs",
+  "exhibit hall",
+  "Power Lounge",
+  "facility tours",
+  "AI-enabled solutions",
+  "healthcare capital investment strategies",
+  "medical campus construction",
+  "healthcare security",
+  "product-sourcing event"
+ ],
+ "topics_covered": []
+}
