@@ -1,0 +1,81 @@
+{
+ "id": "dc25108870f4c2fe31cd4e3ea810661993968806",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/mri-software-updates-deliver-ai-powered-recommendations-and-workflow-execution-for-real-estate-management/",
+ "published_at": "2026-08-17",
+ "observed_at": "2026-08-24",
+ "summary": "MRI Software announced two new solutions within MRI Agora, its AI-powered real estate platform: MRI Agora Intelligence and MRI Agora Orchestrator, both now available to MRI clients globally across commercial, multifamily, residential, social housing, local authority and occupier sectors.\n\nMRI Agora is positioned as a way for real estate teams across commercial, residential, subsidized housing, facilities management and corporate occupier sectors to operationalize AI safely and at scale. Built on a shared real estate data foundation, it bundles intelligence, workflow execution and governance in one platform, with every recommendation traceable to source. The pitch is that clients do not need to build their own semantic layers, validation rules, governance frameworks or automation logic. The architecture is model-agnostic, using the most appropriate model per workload behind a consistent governance, security and orchestration layer.\n\nMRI Agora Intelligence builds on Agora Insights, a cross-product data and analytics dashboarding solution. It monitors workflows across leasing, finance and operations daily and delivers role-specific briefings covering what changed, why, and what to do. Findings are classified as risks, trends, watches or opportunities, ranked by business impact, and accompanied by confidence levels and data completeness scores. Ask Agora lets users interrogate findings in plain language and drill into records without leaving the finding view. Outputs respect role-level permissions.\n\nMRI Agora Orchestrator moves from recommendation to automated execution via agentic workflows. Users deploy agents from a pre-built catalog refined across the MRI client base and configure them for their operation. The platform reads situational context, for example distinguishing a hesitant renewal from a committed one. For judgment-heavy work it walks teams through complex cases step by step, surfacing context and making reasoning visible while decisions stay with the responsible person. All agent actions are logged with a searchable, exportable audit trail.\n\nCEO Patrick Ghilani framed trust, not connectivity, as the core AI challenge. Chief Innovation Officer Nihar Malik cited MRI's specialization depth as the source of contextual accuracy.",
+ "claims": [
+  {
+   "claim": "MRI Agora Intelligence and MRI Agora Orchestrator are now available to MRI clients globally across commercial, multifamily, residential, social housing, local authority and occupier sectors",
+   "stat": "2 new solutions",
+   "attribution": "MRI Software announcement"
+  },
+  {
+   "claim": "MRI Agora Intelligence can monitor every workflow across leasing, finance and operations daily, delivering role-specific briefings based on function, properties and priorities",
+   "stat": "daily monitoring",
+   "attribution": "MRI Software"
+  },
+  {
+   "claim": "Every signal is traceable back to the underlying MRI data that generated it, with confidence levels and data completeness scores accompanying each finding",
+   "stat": "",
+   "attribution": "MRI Software"
+  },
+  {
+   "claim": "The real estate data, domain expertise and workflow intelligence powering MRI Agora stem from specialization in all real estate asset classes globally",
+   "stat": "55 years of specialization",
+   "attribution": "Nihar Malik, Chief Innovation Officer at MRI Software"
+  },
+  {
+   "claim": "Connecting AI agents to systems is becoming easier; the bigger challenge is ensuring those agents operate in ways organizations can trust",
+   "stat": "",
+   "attribution": "Patrick Ghilani, CEO of MRI Software"
+  },
+  {
+   "claim": "Every agent action, whether automated or human-approved, is fully logged and traceable with a searchable, exportable audit trail",
+   "stat": "",
+   "attribution": "MRI Software"
+  },
+  {
+   "claim": "Agora Intelligence builds on its predecessor Agora Insights, a cross-product data and analytics dashboarding solution",
+   "stat": "",
+   "attribution": "MRI Software"
+  }
+ ],
+ "vocabulary": [
+  "MRI Agora",
+  "MRI Agora Intelligence",
+  "MRI Agora Orchestrator",
+  "Agora Insights",
+  "Ask Agora",
+  "agentic workflows",
+  "AI agents",
+  "audit trail",
+  "governance framework",
+  "semantic layer",
+  "validation rules",
+  "automation logic",
+  "shared real estate data foundation",
+  "role-specific briefings",
+  "role-level permissions",
+  "confidence levels",
+  "data completeness scores",
+  "risks, trends, watches, opportunities",
+  "pre-built agent catalog",
+  "guardrails",
+  "human-approved",
+  "explainable recommendations",
+  "corporate occupier",
+  "facilities management",
+  "subsidized housing",
+  "social housing",
+  "local authority",
+  "multifamily",
+  "leasing, finance and operations",
+  "renewal",
+  "portfolio signals",
+  "workflow execution",
+  "real estate software"
+ ],
+ "topics_covered": []
+}

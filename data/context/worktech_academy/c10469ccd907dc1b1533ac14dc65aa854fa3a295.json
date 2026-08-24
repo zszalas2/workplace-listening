@@ -1,0 +1,15 @@
+{
+ "id": "c10469ccd907dc1b1533ac14dc65aa854fa3a295",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOXlUWkJBd0RiMWUzMXJxQjM1cWNvR2lnYmRWQjl3Mlc4elkxWUxldUd0aUczVzNqVEJ6QThmeXhCU2hCQVQ5ZGRLUG1fNjg2ZFJfVW13X2Utb1R1UngtUDJ2TkhyQ21nMEhramQyOE41ZUl5THBMMWYwQTFsU2VpV3JwdFZCRFE?oc=5",
+ "published_at": "2026-02-09",
+ "observed_at": "2026-08-24",
+ "summary": "This item is a headline-only entry from WORKTECH Academy, surfaced via a Google News RSS link. The title is \"The workplace innovations that defined ISE 2026.\" No article body, byline, date or supporting detail was included in the supplied text, which repeats the headline and publication name only.\n\nBased on the title alone, the piece appears to be a trade-press roundup of workplace technology innovations showcased at ISE 2026 (Integrated Systems Europe), an audiovisual and systems integration trade show that has increasingly featured workplace and meeting room technology. Likely subject matter would include meeting room AV, collaboration and conferencing hardware, digital signage, room scheduling displays, and workplace experience platforms, but none of this can be confirmed from the text provided.\n\nNo factual claims, statistics, vendor names, product categories or attributed quotes are present in the item as supplied. There is no discussion of hybrid or return-to-office policy, desk booking, visitor management, attendance tracking, facilities operations or workplace analytics in the available text.\n\nRecommendation for the pipeline: treat this as an unresolved stub. The full article should be retrieved from the WORKTECH Academy site before any thematic tagging, claim extraction or saturation scoring is applied. Tagging it against the registry now would risk assigning themes on the basis of assumption rather than evidence, so no theme IDs have been assigned.",
+ "claims": [],
+ "vocabulary": [
+  "ISE 2026",
+  "workplace innovations",
+  "WORKTECH Academy"
+ ],
+ "topics_covered": []
+}

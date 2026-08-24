@@ -1,0 +1,70 @@
+{
+ "id": "dee08cb1fa203974d003e5d3508ea73863754565",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/08/nearly-1-in-5-job-ads-may-be-fake-ghost-jobs/",
+ "published_at": "2026-08-21",
+ "observed_at": "2026-08-24",
+ "summary": "Allwork.Space reports, citing The Wall Street Journal, that nearly 1 in 5 online job advertisements may never lead to a hire. Data from hiring platform Greenhouse classified roughly 19% of jobs advertised on digital job boards in the second quarter as \"ghost jobs,\" defined as postings that received at least one application but generated no hiring activity such as interviews or job tests. Employers keep such listings live for several reasons: building a pipeline of future candidates, pausing hiring after posting, or deciding to fill the role internally.\n\nLawmakers are responding. New York passed legislation requiring employers to state when advertised positions are expected to be filled and to remove listings once filled, with fines for violations. In Pennsylvania, a bill from state Rep. Jim Prokopiak would require accurate hiring plan information and timelines for removing postings. Texas Attorney General Ken Paxton has opened an investigation into LinkedIn over whether its job listings mislead users about genuine opportunities. LinkedIn responded that its policies require postings to be authentic and accurately represented, and noted that some listings display employer response times and whether candidates are being reviewed.\n\nThe article illustrates job seeker frustration through Heather Sanford, an Austin-area marketing professional who says she has applied to more than 3,000 jobs since her contract ended in May 2025 and has seen roles reposted after no response.\n\nGhost jobs also distort labor market data. The Labor Department's definition of a job opening requires active recruiting for a role that could begin within 30 days, so ghost listings are excluded from official figures. Economic uncertainty compounds the issue: employers may pause approved roles, reconsider external hiring, or fill positions internally, leaving stale postings online.\n\nThe piece does not address workplace operations topics such as desk booking, visitor management, or return-to-office policy.",
+ "claims": [
+  {
+   "claim": "About 19% of jobs advertised on digital job boards in Q2 were classified as ghost jobs",
+   "stat": "19%",
+   "attribution": "Greenhouse"
+  },
+  {
+   "claim": "Nearly 1 in 5 jobs posted online may not lead to a hire",
+   "stat": "1 in 5",
+   "attribution": "The Wall Street Journal"
+  },
+  {
+   "claim": "Ghost jobs were counted as postings that received at least one application but produced no hiring activity such as interviews or job tests",
+   "stat": "",
+   "attribution": "Greenhouse"
+  },
+  {
+   "claim": "New York passed legislation requiring employers to provide information about when advertised positions are expected to be filled and to remove listings after they are filled, with fines for violations",
+   "stat": "",
+   "attribution": "Allwork.Space"
+  },
+  {
+   "claim": "Pennsylvania legislation would require employers to provide accurate hiring plan information and establish timelines for removing postings",
+   "stat": "",
+   "attribution": "State Rep. Jim Prokopiak"
+  },
+  {
+   "claim": "Texas has opened an investigation into LinkedIn over whether its job listings could mislead users about genuine hiring opportunities",
+   "stat": "",
+   "attribution": "Texas Attorney General Ken Paxton"
+  },
+  {
+   "claim": "LinkedIn policies require job postings to be authentic and accurately represented",
+   "stat": "",
+   "attribution": "LinkedIn"
+  },
+  {
+   "claim": "A marketing professional has applied for more than 3,000 jobs since her contract ended in May 2025",
+   "stat": "3,000+ applications since May 2025",
+   "attribution": "Heather Sanford, marketing professional, Austin area"
+  },
+  {
+   "claim": "Government employment data does not capture ghost jobs because the definition of a job opening requires active recruiting for a position that could begin within 30 days",
+   "stat": "30 days",
+   "attribution": "US Labor Department definition, as reported"
+  }
+ ],
+ "vocabulary": [
+  "ghost jobs",
+  "job boards",
+  "hiring platform",
+  "hiring activity",
+  "job postings",
+  "candidate pool",
+  "job opening",
+  "Greenhouse",
+  "LinkedIn",
+  "Labor Department",
+  "JOLTS-style job opening definition",
+  "hiring transparency legislation"
+ ],
+ "topics_covered": []
+}

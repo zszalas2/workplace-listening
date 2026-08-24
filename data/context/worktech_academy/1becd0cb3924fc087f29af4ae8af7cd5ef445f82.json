@@ -1,0 +1,14 @@
+{
+ "id": "1becd0cb3924fc087f29af4ae8af7cd5ef445f82",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55UmxINWNRU3dYOXRwWXRHQTF4Rm9Ld2QzdC1tOHdvX181cXdqN3RKNk92M1RVeUVxaEZXZUNZZlZSeHJOWVpMaFctWnJHZWpOMnlWcHB3?oc=5",
+ "published_at": "2018-11-07",
+ "observed_at": "2026-08-24",
+ "summary": "This item is effectively a headline-only entry with no substantive body text. The record consists of a title, \"Welcome to the INNOVATION ZONE,\" attributed to WORKTECH Academy, and a Google News RSS redirect URL. The accompanying text field simply repeats the title verbatim, offering no article content, quotes, data, or narrative.\n\nWORKTECH Academy is a workplace research and knowledge platform covering the future of work, workplace design, and workplace technology, so an \"Innovation Zone\" is most plausibly a curated hub or content section showcasing new workplace technology products, vendors, or research. However, that inference cannot be verified from the supplied material.\n\nBecause no claims, statistics, sources, or thematic discussion are present, nothing can be responsibly summarized about visitor management, desk or room booking, hybrid and return-to-office policy, workplace analytics, or facilities operations. No vendor names, category terminology, or interviewees appear.\n\nRecommendation for the listening pipeline: treat this as a non-substantive stub. It should not contribute to saturation scoring on any registry theme, and it should be re-fetched from the canonical WORKTECH Academy URL rather than the Google News redirect if the underlying content is needed. If the full page turns out to be a landing or index page rather than an article, it can be deprioritized entirely.",
+ "claims": [],
+ "vocabulary": [
+  "INNOVATION ZONE",
+  "WORKTECH Academy"
+ ],
+ "topics_covered": []
+}

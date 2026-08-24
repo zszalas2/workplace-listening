@@ -1,0 +1,16 @@
+{
+ "id": "6e65eb5e51844d1be4ed943321625167c5094173",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeDVrR0JMdEFZMDdyT3g2ZE1KbldKVG9MZWMxUVd6ZjlBVFVMSTZ4d3lXWFNaTThMWVJLZTBNSXNnTjhYT1hiNDlycGp1dUpRTF9DaE9tSXhxVVN4RUhFY256NDBRLV92bVl0T1lSRHdZejRGT283WktfakpSX3Zlc193NXBxQ3l2R0JqZWxoTlEtbGJ1?oc=5",
+ "published_at": "2023-11-16",
+ "observed_at": "2026-08-24",
+ "summary": "This item is a headline-only entry from WORKTECH Academy, surfaced via a Google News RSS link. The title, \"Designing for diversity: healthy culture, healthy employees,\" indicates an article about workplace design that supports diverse employee needs and links inclusive culture to employee health and wellbeing. No body text, author, publication date, quotes, data or examples were included in the supplied item, so the substance of the argument cannot be summarized. Based on the title alone, the likely subject matter sits in the workplace strategy and design space, covering inclusive design, neurodiversity or accessibility considerations, culture building, and employee wellbeing outcomes. There is no visible discussion of visitor management, desk or room booking, hybrid and return-to-office policy specifics, workplace analytics, attendance tracking, or facilities operations tooling. Because the available text is a duplicated title string with no supporting content, no factual claims or statistics can be extracted, and no vendor or category terminology beyond the publisher name and the general concepts of diversity, culture and employee health appears. For pipeline purposes this should be treated as a stub requiring full-text retrieval before it can be scored or tagged with confidence. If retrieved in full, the piece may prove relevant to workplace experience and inclusive design themes, but on current evidence it does not map to any theme in the provided registry.",
+ "claims": [],
+ "vocabulary": [
+  "designing for diversity",
+  "healthy culture",
+  "healthy employees",
+  "WORKTECH Academy"
+ ],
+ "topics_covered": []
+}

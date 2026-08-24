@@ -1,0 +1,22 @@
+{
+ "id": "162e354a739d00dc4a9630a617d1cef9c64f4646",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ2NKLVhMcHhkQUd0TDBEb1JwcDBtUGItRW51NzNMSGk0RElGMjlUZmJBVVJkUFM5NEtWTHZBa1dIdjNteWwtcUNRZmJNS0RWVzdtXzJMb1lSdUNSX3ZsQ2gwNzJScUxfUFVqc3FOQmI3QUxXYVZvbEctVGo4MXpjWEJ5MnhpX0pIS0NzVExrU1JMVGZpam00NVFqNA?oc=5",
+ "published_at": "2025-10-23",
+ "observed_at": "2026-08-24",
+ "summary": "This item is a headline-only entry from WORKTECH Academy, surfaced via a Google News RSS link. The title states that GSK's London headquarters has been named the healthiest workplace in a city award scheme. No body text is available beyond the repeated headline, so there is no detail on the awarding organisation, the criteria used, the building's design or wellbeing features, competing entries, or any commentary from GSK or the scheme organisers.\n\nBased on the headline alone, the subject matter sits in the workplace wellbeing and building certification area: recognition programmes that benchmark corporate offices on health-related measures such as air quality, lighting, movement, amenities and occupant experience. GSK's London HQ is a large corporate campus-style office, and the award suggests it performed strongly against other buildings in the city.\n\nBecause the supplied text contains only the title, no verifiable statistics, quotes, dates, or methodology can be extracted, and no vendor or product category language appears. Readers seeking substantive information would need to consult the original WORKTECH Academy article.\n\nFor tagging purposes, the item does not touch on visitor management, desk or room booking, hot desking policy, hybrid or return-to-office mandates, admin and executive assistant workload, attendance tracking, support desk metrics, vendor risk assessment, or coworking and quiet space choice. None of the registry themes are covered, so the topics list is empty rather than speculatively assigned. If the full article were retrieved, it might touch adjacent workplace experience themes, but the available text does not support any theme assignment.",
+ "claims": [
+  {
+   "claim": "GSK's London headquarters was named the healthiest workplace in a city award scheme.",
+   "stat": "",
+   "attribution": "WORKTECH Academy headline"
+  }
+ ],
+ "vocabulary": [
+  "healthiest workplace",
+  "award scheme",
+  "London HQ",
+  "workplace"
+ ],
+ "topics_covered": []
+}

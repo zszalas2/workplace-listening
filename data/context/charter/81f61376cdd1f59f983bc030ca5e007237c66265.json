@@ -1,0 +1,35 @@
+{
+ "id": "81f61376cdd1f59f983bc030ca5e007237c66265",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/why-it-helps-to-acknowledge-the-bosss-emotions/",
+ "published_at": "2026-08-20",
+ "observed_at": "2026-08-24",
+ "summary": "Charter examines whether attention to emotions at work is a distraction or a performance driver. The piece frames a post-pandemic shift: while COVID-era workplaces emphasized wellbeing and bringing your authentic self to work, a renewed leadership focus on performance and measurable business goals has many executives ready to drop what they see as touchy-feely rhetoric. The article argues that framing is a mistake. It cites a recent research paper finding a correlation between acknowledging colleagues' emotions and improved team performance, including acknowledging the emotions of a manager or boss rather than only peers or direct reports. Christina Bradley, a professor of management at Boston College and a co-author of the paper, is quoted saying that emotional acknowledgment is not a diversion away from the task and that it actually enhances the work. The implication for leaders is that emotional acknowledgment should be treated as a performance lever rather than a soft-skills nicety competing with business outcomes. The excerpt is brief and does not detail methodology, sample size, effect sizes, or specific practices for acknowledging emotions, nor does it address workplace operations topics such as office attendance, space usage, visitor management, or facilities. Its relevance to workplace technology audiences is indirect, touching on management culture and team effectiveness rather than tooling or policy mechanics.",
+ "claims": [
+  {
+   "claim": "A recent research paper shows a correlation between acknowledging colleagues' emotions and improved team performance",
+   "stat": "",
+   "attribution": "Research paper co-authored by Christina Bradley, referenced by Charter"
+  },
+  {
+   "claim": "Acknowledging emotions is not a diversion away from the task but enhances the work",
+   "stat": "",
+   "attribution": "Christina Bradley, professor of management at Boston College"
+  },
+  {
+   "claim": "The pandemic brought a focus on wellbeing and bringing your authentic self to work, but a renewed focus on performance has many leaders ready to abandon that rhetoric in favor of measurable business goals",
+   "stat": "",
+   "attribution": "Charter"
+  }
+ ],
+ "vocabulary": [
+  "wellbeing",
+  "authentic self at work",
+  "emotional acknowledgment",
+  "team performance",
+  "measurable business goals",
+  "touchy-feely rhetoric",
+  "management research"
+ ],
+ "topics_covered": []
+}

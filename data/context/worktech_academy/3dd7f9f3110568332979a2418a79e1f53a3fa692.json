@@ -1,0 +1,13 @@
+{
+ "id": "3dd7f9f3110568332979a2418a79e1f53a3fa692",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1nbWFjdEt3SW1pR3JzX2tTMHpFSF9NTGRKVGlJM3VGdkJSZkhSaW1VRWpvd0w0MlZMRk1kMjRJQk1IZWk5RkJBQVVaMm5HNE51NXF1U2VfZ3pvOFZzQ3JMVEsza1lHQQ?oc=5",
+ "published_at": "2024-08-19",
+ "observed_at": "2026-08-24",
+ "summary": "This item is effectively an empty record. The entry consists only of a name and publication label, \"Simona Melville - WORKTECH Academy,\" retrieved via a Google News RSS redirect link. The body text repeats the title verbatim with no article content, no byline description, no date, and no substantive discussion. It appears to be an author or contributor profile page stub from WORKTECH Academy, a workplace innovation research and knowledge platform, rather than a full article.\n\nBecause no narrative, argument, data, or quotation is present, nothing can be summarized about workplace technology topics. There is no coverage of visitor management, desk or room booking, hybrid and return to office policy, workplace analytics, or facilities operations. No vendors, products, surveys, or practitioners are named beyond the single personal name and the publisher.\n\nRecommended handling for the listening pipeline: treat this as a non-substantive capture, likely the result of an RSS feed indexing a contributor or tag page. It should not contribute to saturation scoring for any theme, and it carries no extractable claims or statistics. If the underlying WORKTECH Academy page contains articles authored by or about Simona Melville, a re-crawl of the resolved destination URL rather than the Google News redirect may yield usable content. Until then, the item should be flagged for enrichment or discarded to avoid diluting theme coverage metrics with empty records.",
+ "claims": [],
+ "vocabulary": [
+  "WORKTECH Academy"
+ ],
+ "topics_covered": []
+}

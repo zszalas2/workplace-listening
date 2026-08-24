@@ -1,0 +1,14 @@
+{
+ "id": "99e142d37f540348599fac9e5030086b332029cc",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9IQzd5d1N2UUVlQzJKUHdyZi04dmViYTBuY0d4YTh5aDljZERaQ0lpcm56TUR5SFY0Z2lsRlpiS01CdFprU0ZDUWhIY2ZfVGk1VWhrazlvbDlpcU5iSlhkMzVQTy1SMlU3MEdV?oc=5",
+ "published_at": "2025-10-06",
+ "observed_at": "2026-08-24",
+ "summary": "This item is effectively a stub with no substantive content. The entry consists of a title, \"Humanscale - WORKTECH Academy,\" a Google News RSS redirect URL, and body text that simply repeats the title: \"Humanscale WORKTECH Academy.\" No article body, byline, date, statistics, quotes or argument is present in the supplied material.\n\nWhat can be inferred is limited to context rather than content. WORKTECH Academy is a workplace research and knowledge platform covering the future of work, workplace design and workplace technology, and it maintains partner or member profile pages for industry organisations. Humanscale is an ergonomic furniture and workplace equipment manufacturer known for task seating, sit-stand desking and monitor arms. The page referenced is most likely a partner or profile listing rather than an editorial feature.\n\nBecause no narrative text was provided, no claims can be extracted, no vendor or category language beyond the two proper nouns can be captured, and no reliable theme tagging is possible. Assigning themes such as hot desking, RTO mandates or visitor management would be speculation, since none of those subjects appear in the text.\n\nRecommended handling for the listening pipeline: mark this item as low value or incomplete, and either re-crawl the destination URL to resolve the Google News redirect and capture the full page, or suppress it from saturation scoring so that an empty record does not dilute theme coverage metrics. If a re-crawl returns a full Humanscale profile or WORKTECH Academy feature, it may then be worth reassessing for ergonomics, workplace design or furniture-related coverage, which are adjacent to but not identical with the current theme registry.",
+ "claims": [],
+ "vocabulary": [
+  "Humanscale",
+  "WORKTECH Academy"
+ ],
+ "topics_covered": []
+}

@@ -1,0 +1,93 @@
+{
+ "id": "14332886b1f1c7f8dea419eaa2ea9e9dbd619336",
+ "source_id": "workplace_insight",
+ "url": "https://workplaceinsight.net/third-of-people-think-ai-would-do-a-better-job-than-their-human-manager/?utm_source=rss&utm_medium=rss&utm_campaign=third-of-people-think-ai-would-do-a-better-job-than-their-human-manager",
+ "published_at": "2026-08-19",
+ "observed_at": "2026-08-24",
+ "summary": "Workplace Insight reports on polling commissioned by Careerminds UK covering 600 UK full-time employees, examining attitudes toward replacing human line managers with AI.\n\nHeadline finding: 36.7 percent of employees said an AI manager would make them more productive, while 25.5 percent expected a decline and 37.8 percent said it would make no difference. However, when asked who they would prefer performance feedback from, 74.2 percent chose their human line manager versus 14.2 percent choosing AI, with 11.7 percent expressing no preference. The report frames this as openness to AI absorbing management functions but not the human relational aspects.\n\nSeniority is the strongest dividing line. 64 percent of director-level and above respondents said an AI manager would boost productivity, including 28 percent expecting a significant increase, compared with 42.6 percent of senior employees, 38.5 percent of managers, 27.6 percent of mid-level and 26.2 percent of entry-level staff. Just over half of entry-level workers expected no difference. On feedback, 26 percent of directors and above would prefer AI versus 8 percent of mid-level workers.\n\nAge also divides opinion: 50.6 percent of 25 to 34 year olds expected productivity gains versus 14.4 percent of 55 to 64 year olds. Preference for AI feedback fell from 18.2 percent among 25 to 34s to 8.9 percent among 55 to 64s, with no respondents aged 61 or above choosing AI. Gender differences were smaller.\n\nContext cited includes CMI research that 82 percent of UK managers receive no formal management or leadership training, and a Gartner prediction that through 2026 one in five organisations will use AI to flatten structures, potentially eliminating more than half of middle-management roles.\n\nAmanda Augustine of Careerminds UK cautioned against reading the data as a desire to replace managers, noting middle managers are squeezed between senior leadership expectations and team needs, and that employees still value human judgement and context.",
+ "claims": [
+  {
+   "claim": "More than a third of UK employees believe replacing their line manager with AI would improve their productivity",
+   "stat": "36.7 percent",
+   "attribution": "Careerminds UK polling of 600 UK full-time employees"
+  },
+  {
+   "claim": "A quarter of employees expected productivity to decline under an AI manager",
+   "stat": "25.5 percent",
+   "attribution": "Careerminds UK survey"
+  },
+  {
+   "claim": "Employees expecting no productivity difference from an AI manager",
+   "stat": "37.8 percent",
+   "attribution": "Careerminds UK survey"
+  },
+  {
+   "claim": "A large majority prefer performance feedback from their human line manager",
+   "stat": "74.2 percent versus 14.2 percent preferring AI, 11.7 percent no preference",
+   "attribution": "Careerminds UK survey"
+  },
+  {
+   "claim": "Enthusiasm for AI management rises with seniority",
+   "stat": "64 percent of directors and above, including 28 percent expecting a significant increase; 42.6 percent senior employees; 38.5 percent managers; 27.6 percent mid-level; 26.2 percent entry-level",
+   "attribution": "Careerminds UK survey"
+  },
+  {
+   "claim": "Senior staff are more willing to receive AI feedback",
+   "stat": "26 percent of directors and above versus 8 percent of mid-level workers",
+   "attribution": "Careerminds UK survey"
+  },
+  {
+   "claim": "Younger employees are more positive about AI management",
+   "stat": "50.6 percent of 25-34 year olds versus 14.4 percent of 55-64 year olds",
+   "attribution": "Careerminds UK survey"
+  },
+  {
+   "claim": "Preference for AI-delivered feedback declines with age",
+   "stat": "18.2 percent of 25-34s versus 8.9 percent of 55-64s; zero among respondents aged 61 or above",
+   "attribution": "Careerminds UK survey"
+  },
+  {
+   "claim": "Gender differences in expectations were small",
+   "stat": "37.3 percent of men versus 35.8 percent of women expected productivity gains; 28 percent of women versus 23.6 percent of men expected a decline; 16.6 percent of men versus 10.9 percent of women preferred AI feedback",
+   "attribution": "Careerminds UK survey"
+  },
+  {
+   "claim": "Most UK managers receive no formal management or leadership training before taking up their roles",
+   "stat": "82 percent",
+   "attribution": "Chartered Management Institute"
+  },
+  {
+   "claim": "Through 2026, one in five organisations will use AI to flatten organisational structures, potentially eliminating more than half of existing middle-management positions",
+   "stat": "one in five organisations; more than 50 percent of middle-management roles",
+   "attribution": "Gartner"
+  },
+  {
+   "claim": "Employees seeing productivity gains from AI should not be read as wanting managers replaced; middle managers are squeezed between senior leader expectations and team needs",
+   "stat": "",
+   "attribution": "Amanda Augustine, resident careers expert, Careerminds UK"
+  },
+  {
+   "claim": "Seniority differences may reflect leaders viewing AI through an efficiency and decision-making lens while earlier-career staff focus on day-to-day guidance and development",
+   "stat": "",
+   "attribution": "Amanda Augustine, Careerminds UK"
+  }
+ ],
+ "vocabulary": [
+  "AI manager",
+  "line manager",
+  "performance feedback",
+  "middle managers",
+  "flatten organisational structures",
+  "generative AI",
+  "management and leadership training",
+  "productivity gains",
+  "organisational hierarchy",
+  "entry-level",
+  "mid-level",
+  "director level",
+  "Chartered Management Institute",
+  "Gartner",
+  "Careerminds UK"
+ ],
+ "topics_covered": []
+}

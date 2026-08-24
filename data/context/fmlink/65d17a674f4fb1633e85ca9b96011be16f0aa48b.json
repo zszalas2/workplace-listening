@@ -1,0 +1,52 @@
+{
+ "id": "65d17a674f4fb1633e85ca9b96011be16f0aa48b",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/agf-manufacturing-introduces-drytest-model-5600-valve-to-simplify-dry-sprinkler-system-trip-testing/",
+ "published_at": "2026-08-19",
+ "observed_at": "2026-08-24",
+ "summary": "AGF Manufacturing, a fire protection products supplier, has launched the DRYTEST Model 5600, a compact valve intended to simplify trip testing for dry and preaction fire sprinkler systems. The product combines the test connection valve and orifice manifold into a single purpose-built assembly, replacing a traditional arrangement of multiple components and field installed connections. AGF says this can shorten installation time for contractors, reduce potential leak points, and produce a cleaner system layout, while giving inspection, testing and maintenance (ITM) teams a convenient, accessible point for performing required trip tests.\n\nJim McHugh, President at AGF Manufacturing, said trip test assemblies should be straightforward to install, operate and verify, and that DRYTEST brings the essential functions into one compact valve, reducing installation complexity and providing a clear, efficient way to perform the code required trip test.\n\nTechnical details: the Model 5600 is designed to meet NFPA 13 Section 8.2.4.4 requirements and allows testing directly at the valve. An integrated sight glass gives visual confirmation of water flow, and a precision brass orifice insert supports accurate testing matched to the sprinkler system. Four brass orifice configurations are offered: 5.6K, 5.6K times two, 8.0K, and 8.0K times two. The one-inch valve has a female threaded NPT inlet, male threaded NPT outlet, brass valve body and steel sight glass.\n\nAGF positions the product as developed with contractors and inspectors in mind, consistent with its focus on practical products improving installation, testing and maintenance of sprinkler systems. Distribution is through AGF's network of authorized distributors, with product information, technical data and distributor resources available from the company. The item is a vendor product announcement published by FMLink, dated August 19, 2026, with no independent testing data or pricing disclosed.",
+ "claims": [
+  {
+   "claim": "The DRYTEST Model 5600 combines the test connection valve and orifice manifold into a single purpose-built assembly, helping shorten installation time and reduce leak points",
+   "stat": "",
+   "attribution": "AGF Manufacturing"
+  },
+  {
+   "claim": "Trip test assemblies should be simple to install, operate and verify; DRYTEST consolidates essential functions in one compact valve",
+   "stat": "",
+   "attribution": "Jim McHugh, President, AGF Manufacturing"
+  },
+  {
+   "claim": "The Model 5600 is designed to meet NFPA 13 Section 8.2.4.4 requirements and permits testing directly at the valve",
+   "stat": "NFPA 13 Section 8.2.4.4",
+   "attribution": "AGF Manufacturing"
+  },
+  {
+   "claim": "DRYTEST is available in four brass orifice configurations",
+   "stat": "5.6K, 5.6K x2, 8.0K, 8.0K x2",
+   "attribution": "AGF Manufacturing"
+  },
+  {
+   "claim": "The valve is one inch with female threaded NPT inlet, male threaded NPT outlet, brass body and steel sight glass",
+   "stat": "1 inch",
+   "attribution": "AGF Manufacturing"
+  }
+ ],
+ "vocabulary": [
+  "trip testing",
+  "dry sprinkler system",
+  "preaction fire sprinkler system",
+  "test connection valve",
+  "orifice manifold",
+  "ITM teams",
+  "inspection, testing and maintenance",
+  "NFPA 13",
+  "sight glass",
+  "brass orifice insert",
+  "NPT inlet/outlet",
+  "K-factor",
+  "authorized distributors",
+  "fire protection solutions"
+ ],
+ "topics_covered": []
+}

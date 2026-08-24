@@ -1,0 +1,15 @@
+{
+ "id": "f7e7f543249960066c526dbbcf9aeb1cdcada71c",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObXo0YXE3cllZd3FnaHRveGpZUHFrRzdhQVg5bDhQVHVaOTRCUk1kUUNLZFlBd1o4VzMydkMtQmlNc0F2SXNqT2FzWUJrd2VuZi1XVy14MHpKQVROYTRlSVh0UzFxdTQyUkdiZ1J5cEVIdzN1Nm9PMVZ5ODFwUTFmRzRkYUR0Z0kzcmxvbDNod3Q?oc=5",
+ "published_at": "2024-03-17",
+ "observed_at": "2026-08-24",
+ "summary": "This item is a headline-only entry from WORKTECH Academy titled \"3D printed lighting: join the sustainability revolution.\" No article body was supplied beyond the repeated title and source attribution, so the substance of the piece cannot be summarized in any detail. Based on the title alone, the article appears to concern additive manufacturing (3D printing) applied to lighting products, framed as part of a sustainability movement within the workplace design and built environment sector that WORKTECH Academy covers. Likely angles, though unverified from the text provided, would include reduced material waste, on-demand or localized production, recyclable or bio-based filaments, circular economy design for luminaires, and specification considerations for workplace and facilities teams. No named sources, vendors, statistics, case studies, or research findings are present in the supplied text. No claims can be extracted. For the purposes of the listening pipeline, this item touches on workplace design and sustainability in fit-out and facilities products rather than any of the registered themes concerning desk booking, hybrid and return-to-office policy, visitor sign-in, attendance monitoring, admin overhead, support desk metrics, or vendor risk assessment workload. It should be treated as low signal unless the full article text is retrieved, at which point it may be relevant to a facilities, sustainability, or workplace design theme if such a theme is later added to the registry.",
+ "claims": [],
+ "vocabulary": [
+  "3D printed lighting",
+  "sustainability",
+  "WORKTECH Academy"
+ ],
+ "topics_covered": []
+}

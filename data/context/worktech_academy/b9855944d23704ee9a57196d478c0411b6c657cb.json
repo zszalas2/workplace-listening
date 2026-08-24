@@ -1,0 +1,15 @@
+{
+ "id": "b9855944d23704ee9a57196d478c0411b6c657cb",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY3UyTnk2cU8zMXkwV3IwMlpwT09MNFUtdmNPR2JIY0l0ZjNvNmFURUhfbjd1R0FvM3pIM2d1MTdFbGgyNEtkS2ZqVTRpLUkzZzl0QVprMURWd0llZGJ3OEVpVDZ1eW1NcUdkSHZya0tiTWJ1OURVOVI2NVhsVmlmZlRsU2RjeWFqZDNaY2lZUjUtMmkxOXRLNkhPZzhBbWM?oc=5",
+ "published_at": "2026-08-12",
+ "observed_at": "2026-08-24",
+ "summary": "This item is a headline-only entry from WORKTECH Academy titled \"Connecting the dots: Chicago makes the case for human-centred work.\" The retrieved record contains no article body, only the title repeated alongside the publication name and a Google News redirect URL, so no substantive content is available to summarize. Based on the title alone, the piece appears to be event or conference coverage tied to a WORKTECH Chicago gathering, framed around the theme of human-centred work, a common workplace-strategy framing that covers workplace experience, design, culture and the role of the office in supporting people rather than purely space efficiency. Without the full text it is not possible to confirm which specific subtopics are addressed, whether hybrid attendance policy, workplace design, technology, analytics or real estate portfolio decisions are discussed, or which speakers and organizations are quoted. No statistics, survey findings, vendor claims or named sources can be extracted. No verifiable factual claims are present in the available record. Recommend re-fetching the full article from the WORKTECH Academy site before assigning themes or scoring saturation, since the title suggests possible relevance to hybrid workplace and workplace experience themes but provides no evidence to support a confident tag. Treat this record as incomplete rather than as a low-relevance item.",
+ "claims": [],
+ "vocabulary": [
+  "human-centred work",
+  "WORKTECH Academy",
+  "WORKTECH Chicago"
+ ],
+ "topics_covered": []
+}

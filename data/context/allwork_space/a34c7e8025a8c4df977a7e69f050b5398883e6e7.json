@@ -1,0 +1,114 @@
+{
+ "id": "a34c7e8025a8c4df977a7e69f050b5398883e6e7",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/08/ai-use-is-surging-at-big-companies-while-smaller-businesses-hold-back/",
+ "published_at": "2026-08-21",
+ "observed_at": "2026-08-24",
+ "summary": "Allwork.Space reports on AI adoption data (attributed to a new WeWork report) showing U.S. business AI use rose from 17.7% in January to 21.7% in July 2026, but unevenly. Expectations have cooled: in January firms expected a 4.7 percentage point increase over six months; by July that expectation fell to 2.8 points.\n\nCompany size is the sharpest divide. Only 20.8% of businesses with one to four employees used AI in July, versus 38.8% of those with 250 or more employees. In the Information sector, firms with 250+ employees hit 77% adoption, the highest in the data. By office-based industry: Information 43.7%, Professional, Scientific & Technical Services 37.6%, Finance & Insurance 36%, Real Estate 29%, Health Care 24.7%.\n\nGeography also varies. Fifteen of the 25 largest metros exceeded the 21.7% national rate. Tampa rose 14.9 points to 32%; Detroit rose 11.4 points to 24.5%. Phoenix, January's leader at 30.1%, fell 8.6 points to 21.5%. Baltimore, Houston, Portland and San Diego also declined. New York (17.9%) and Los Angeles (19.7%) sat below the national average.\n\nUse cases skew toward assisting employees: 85.4% use generative AI for writing and editing documents, emails and communications; 49.9% for information searches; 44.6% for summarizing or analyzing documents. By function, sales and marketing led at 14.3%, strategy and business development 12.4%, R&D 11.2%.\n\nEmployment effects appear minimal: 95.7% of AI-using businesses reported no change in total employment, 2% a decrease, 2.3% an increase. AI supplemented or enhanced a task at 43.7% of firms; 10.1% said it performed work previously done by a worker.\n\nAmong non-adopters, 61.6% said AI is not applicable to their business, 22% cited limited understanding, 20.7% cited privacy and security concerns. Among one-to-four-employee firms, 63.3% cited non-applicability.",
+ "claims": [
+  {
+   "claim": "U.S. business AI use rose between January and July 2026",
+   "stat": "17.7% to 21.7%",
+   "attribution": "WeWork report, via Allwork.Space"
+  },
+  {
+   "claim": "Expected six-month growth in AI adoption declined",
+   "stat": "4.7 percentage points expected in January vs 2.8 points in July",
+   "attribution": "WeWork report"
+  },
+  {
+   "claim": "Smallest firms lag largest firms in AI use",
+   "stat": "20.8% (1-4 employees) vs 38.8% (250+ employees)",
+   "attribution": "WeWork report"
+  },
+  {
+   "claim": "Large Information-sector companies have the highest adoption rate in the data",
+   "stat": "77% of Information firms with 250+ employees",
+   "attribution": "WeWork report"
+  },
+  {
+   "claim": "Office-based industry adoption rates",
+   "stat": "Information 43.7%, Professional/Scientific/Technical 37.6%, Finance & Insurance 36%, Real Estate 29%, Health Care 24.7%",
+   "attribution": "WeWork report"
+  },
+  {
+   "claim": "Most large metros exceed the national adoption rate",
+   "stat": "15 of the 25 largest metros above 21.7%",
+   "attribution": "WeWork report"
+  },
+  {
+   "claim": "Tampa posted the largest metro increase",
+   "stat": "up 14.9 points to 32%",
+   "attribution": "WeWork report"
+  },
+  {
+   "claim": "Detroit adoption rose",
+   "stat": "up 11.4 points to 24.5%",
+   "attribution": "WeWork report"
+  },
+  {
+   "claim": "Phoenix adoption fell after leading in January",
+   "stat": "from 30.1% down 8.6 points to 21.5%",
+   "attribution": "WeWork report"
+  },
+  {
+   "claim": "New York and Los Angeles remain below the national average",
+   "stat": "17.9% and 19.7%",
+   "attribution": "WeWork report"
+  },
+  {
+   "claim": "Writing and editing is the most common generative AI use",
+   "stat": "85.4%",
+   "attribution": "WeWork report"
+  },
+  {
+   "claim": "Other common uses are information search and document summarization/analysis",
+   "stat": "49.9% and 44.6%",
+   "attribution": "WeWork report"
+  },
+  {
+   "claim": "Business functions with highest current AI use",
+   "stat": "sales and marketing 14.3%, strategy and business development 12.4%, R&D 11.2%",
+   "attribution": "WeWork report"
+  },
+  {
+   "claim": "AI use has not changed headcount at most adopting firms",
+   "stat": "95.7% no change; 2% decrease; 2.3% increase",
+   "attribution": "WeWork report"
+  },
+  {
+   "claim": "AI more often supplements than replaces tasks",
+   "stat": "43.7% supplemented/enhanced a task; 10.1% performed a task previously done by a worker",
+   "attribution": "WeWork report"
+  },
+  {
+   "claim": "Main barrier for non-adopters is perceived lack of applicability",
+   "stat": "61.6%; 22% limited understanding; 20.7% privacy and security concerns",
+   "attribution": "WeWork report"
+  },
+  {
+   "claim": "Micro-businesses especially see AI as inapplicable",
+   "stat": "63.3% of firms with 1-4 employees",
+   "attribution": "WeWork report"
+  }
+ ],
+ "vocabulary": [
+  "AI adoption",
+  "generative AI",
+  "office-based industries",
+  "Information sector",
+  "Professional, Scientific & Technical Services",
+  "Finance & Insurance",
+  "Real Estate",
+  "Health Care",
+  "metropolitan areas",
+  "adoption rate",
+  "percentage points",
+  "privacy and security concerns",
+  "business functions",
+  "strategy and business development",
+  "research and development",
+  "WeWork"
+ ],
+ "topics_covered": []
+}

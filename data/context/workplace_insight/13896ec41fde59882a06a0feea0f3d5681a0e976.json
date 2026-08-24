@@ -1,0 +1,54 @@
+{
+ "id": "13896ec41fde59882a06a0feea0f3d5681a0e976",
+ "source_id": "workplace_insight",
+ "url": "https://workplaceinsight.net/the-workplace-metric-that-creates-false-confidence/?utm_source=rss&utm_medium=rss&utm_campaign=the-workplace-metric-that-creates-false-confidence",
+ "published_at": "2026-08-23",
+ "observed_at": "2026-08-24",
+ "summary": "Workplace Insight argues that learning and development completion rates create false confidence. A 96 per cent completion figure is precise and easy to report, but it only answers who reached the end of the material, not what people understood, retained or can apply at work. Completion is described as a receipt rather than a result: useful for operational control, reminders and mandatory deadlines, but inadequate as a proxy for capability, especially as organisations push employees to adapt to new systems, regulation and AI-enabled work.\n\nThe piece cites the OECD 2025 Trends in Adult Learning report, noting around two in five adults in participating countries engage in formal or non-formal learning annually, with much of that training short, job-related and compliance or safety driven. In such settings high completion shows reach but not capability evidence. CIPD guidance on learning evaluation, impact and transfer is invoked as a better starting point, beginning with the performance gap and organisational objective.\n\nThe recommended alternative is a short chain of evidence rather than an elaborate analytics programme: keep completion for operational control; add a low-stakes diagnostic check requiring application (scenario, prioritisation task, brief explanation); revisit key topics after a delay to separate familiarity from retention; then look for a proportionate workplace signal such as manager observation, quality review or fewer repeated errors. Topic-level results beat a single average. Application evidence must not become blanket surveillance or punitive individual ranking.\n\nConfidence ratings paired with questions add signal: wrong answers with low confidence indicate simple knowledge gaps, while wrong answers with high confidence are more urgent because learners may act on a misunderstanding.\n\nReporting should be honest about limits. Knowledge checks do not prove behaviour change, and lower error rates do not prove causation. Dashboards should separate completion, understanding, delayed recall and application, break down by topic, location or role only where groups are large enough to be fair and privacy-safe, and include date, sample size and gaps in evidence.",
+ "claims": [
+  {
+   "claim": "Around two in five adults across participating countries engage in formal or non-formal learning each year, and much adult training is short, job-related and compliance or safety driven.",
+   "stat": "about 2 in 5 adults annually",
+   "attribution": "OECD 2025 Trends in Adult Learning report, cited by Workplace Insight"
+  },
+  {
+   "claim": "Useful learning evaluation starts with the performance gap and the organisational objective, testing whether the intended change occurred rather than counting activity.",
+   "stat": "",
+   "attribution": "CIPD guidance on learning evaluation, impact and transfer"
+  },
+  {
+   "claim": "Organisations should combine evidence from several sources and appraise its quality rather than relying on a single convenient indicator.",
+   "stat": "",
+   "attribution": "CIPD evidence-based practice guidance"
+  },
+  {
+   "claim": "A learning dashboard showing 96 per cent completion feels reassuring but may answer the least useful question.",
+   "stat": "96 per cent completion",
+   "attribution": "Workplace Insight (illustrative example)"
+  }
+ ],
+ "vocabulary": [
+  "learning dashboard",
+  "completion rate",
+  "capability evidence",
+  "chain of evidence",
+  "low-stakes check",
+  "diagnostic check",
+  "delayed check",
+  "retention",
+  "application evidence",
+  "manager observation",
+  "quality review",
+  "confidence-weighted assessment",
+  "evidence-based practice",
+  "learning evaluation, impact and transfer",
+  "performance gap",
+  "blanket surveillance",
+  "privacy-safe reporting",
+  "sample size",
+  "non-formal learning",
+  "compliance training",
+  "AI-enabled work"
+ ],
+ "topics_covered": []
+}

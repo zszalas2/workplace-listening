@@ -1,0 +1,69 @@
+{
+ "id": "c6d5a9a9832f71b63ee719629dbd20b3e8813713",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/08/commercial-real-estate-sales-jump-nearly-30-in-the-first-half-of-2026/",
+ "published_at": "2026-08-21",
+ "observed_at": "2026-08-24",
+ "summary": "Allwork.Space reports that US commercial real estate transaction activity accelerated in the first half of 2026, citing Green Street data. Sales of larger commercial properties (valued at $25 million or more) reached $164 billion between January and June, up nearly 30% from $126 billion in the first half of 2025. Smaller property transactions, in the $5 million to $25 million range, totaled $57.1 billion, a 9.3% increase over $52.3 billion a year earlier. Deals involving a sell-side adviser grew fastest, up 39.3% year over year. Green Street compiled the figures from roughly 40 brokerages plus property records, published reports and press releases.\n\nFinancing conditions have loosened somewhat. Major banks have expanded CRE lending, with Goldman Sachs issuing $40 billion in commercial real estate loans in the second quarter, a 21% year-over-year increase, per BisNow.\n\nTwo drivers stand out. First, construction of AI data centers has become a significant source of transaction and financing activity as large financial institutions seek exposure to the sector. Second, distress: office buildings hit by reduced post-pandemic demand and properties facing loan maturities continue to trade as owners and lenders work through higher borrowing costs.\n\nThe rate environment remains a constraint. The Federal Reserve has held its benchmark rate unchanged for five consecutive meetings, keeping pressure on financing costs even as deal volume improves. Some investors are actively hunting opportunities created by distressed sales and discounted assets.\n\nGreen Street's midyear read is that buyers and sellers are becoming more active while staying cautious about the broader economy. The piece is a market-level CRE investment story rather than a workplace operations story, with no coverage of workplace technology, occupancy tooling, or hybrid policy specifics beyond a passing reference to reduced office demand since the pandemic.",
+ "claims": [
+  {
+   "claim": "Sales of commercial properties valued at $25 million or more rose sharply in H1 2026",
+   "stat": "$164 billion in H1 2026 vs $126 billion in H1 2025, up nearly 30%",
+   "attribution": "Green Street"
+  },
+  {
+   "claim": "Smaller commercial property transactions also increased",
+   "stat": "$57.1 billion, up 9.3% from $52.3 billion",
+   "attribution": "Green Street"
+  },
+  {
+   "claim": "Transactions involving a sell-side adviser grew fastest",
+   "stat": "up 39.3% year over year",
+   "attribution": "Green Street"
+  },
+  {
+   "claim": "Green Street's figures were compiled from brokerage responses plus property records, published reports and press releases",
+   "stat": "roughly 40 brokerages",
+   "attribution": "Green Street"
+  },
+  {
+   "claim": "Major banks have increased commercial real estate lending",
+   "stat": "Goldman Sachs issued $40 billion in CRE loans in Q2, a 21% increase year over year",
+   "attribution": "BisNow"
+  },
+  {
+   "claim": "AI data center construction has become an important source of transaction and financing activity",
+   "stat": "",
+   "attribution": "Allwork.Space"
+  },
+  {
+   "claim": "The Federal Reserve has held its benchmark interest rate unchanged, maintaining pressure on financing costs",
+   "stat": "five consecutive meetings",
+   "attribution": "Allwork.Space"
+  },
+  {
+   "claim": "Office buildings affected by reduced demand since the pandemic and properties facing loan maturities continue to trade",
+   "stat": "",
+   "attribution": "Allwork.Space"
+  }
+ ],
+ "vocabulary": [
+  "commercial real estate",
+  "CRE",
+  "transaction activity",
+  "sell-side adviser",
+  "brokerages",
+  "CRE lending",
+  "loan maturities",
+  "distressed properties",
+  "discounted assets",
+  "AI data centers",
+  "benchmark interest rate",
+  "Federal Reserve",
+  "Green Street",
+  "BisNow",
+  "midyear findings",
+  "borrowing costs"
+ ],
+ "topics_covered": []
+}

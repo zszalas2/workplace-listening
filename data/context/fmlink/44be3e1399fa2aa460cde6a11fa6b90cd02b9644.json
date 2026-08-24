@@ -1,0 +1,63 @@
+{
+ "id": "44be3e1399fa2aa460cde6a11fa6b90cd02b9644",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/beyond-physical-security-why-fms-are-strategic-risk-leaders/",
+ "published_at": "2026-08-21",
+ "observed_at": "2026-08-24",
+ "summary": "An FMJ/FMLink thought-leadership piece arguing that facility management has evolved from asset upkeep into strategic risk and resilience leadership. It frames the operating environment as shaped by climate emergencies, geopolitical instability, cyber-physical threats, workplace violence concerns, supply chain disruption and tightening regulation. Facilities are positioned as critical environments affecting business continuity, workforce well-being, corporate reputation, sustainability performance and organizational preparedness.\n\nThe article describes an expanding risk landscape in which traditional concerns (maintenance, access control, physical safety) persist but now sit alongside interconnected exposures: geopolitical events affecting supply chains, workforce mobility and infrastructure; climate events such as heatwaves and flooding; and cybersecurity incidents that can disrupt building systems, operational technology and access management platforms, illustrating digital and physical convergence. It notes that hybrid work models, evolving employee expectations, health and safety concerns and well-being focus have changed how facilities are used and managed, so FM leaders must support employee confidence, safety, experience and culture as well as efficiency.\n\nIt argues FM and security are converging, with resilience requiring multidisciplinary coordination across FM, security, technology, HR, health and safety, legal and executives, and links this to ESG frameworks demanding governance, workforce protection and crisis preparedness. The strategic FM leader is described as needing competencies in resilience, governance, stakeholder coordination, technology integration and crisis management.\n\nOn technology, it cites smart buildings, connected infrastructure, predictive maintenance, occupancy analytics, integrated monitoring platforms and AI-enabled operational tools as sources of visibility, situational awareness and faster decisions, effective only alongside governance, trained personnel and procedures.\n\nRecommended actions: run integrated risk assessments across FM, security, technology and continuity teams; include FM staff in emergency simulations; build resilience-focused performance indicators beyond traditional metrics; deepen cross-functional collaboration; align operations with ESG; prioritize workforce confidence, well-being, accessibility and preparedness. It cites European FM resilience forums as reinforcing this shift.",
+ "claims": [
+  {
+   "claim": "Facilities are no longer viewed solely as physical assets but as critical environments influencing business continuity, workforce well-being, reputation, sustainability and preparedness",
+   "stat": "",
+   "attribution": "FMJ / FMLink article"
+  },
+  {
+   "claim": "Cybersecurity incidents can disrupt physical building systems, operational technologies and access management platforms, showing digital-physical convergence",
+   "stat": "",
+   "attribution": "FMJ / FMLink article"
+  },
+  {
+   "claim": "Climate-related events such as heatwaves, flooding and severe weather are more common, creating operational disruption and financial pressure",
+   "stat": "",
+   "attribution": "FMJ / FMLink article"
+  },
+  {
+   "claim": "Hybrid work models and evolving employee expectations have transformed how facilities are used and managed",
+   "stat": "",
+   "attribution": "FMJ / FMLink article"
+  },
+  {
+   "claim": "Resilience-focused FM forums and European industry dialogue repeatedly conclude facility leaders are strategic contributors to continuity, not just operational managers",
+   "stat": "",
+   "attribution": "FMJ / FMLink article, citing FM forums in Europe"
+  }
+ ],
+ "vocabulary": [
+  "facility management (FM)",
+  "operational resilience",
+  "business continuity",
+  "crisis preparedness",
+  "cyber-physical threats",
+  "access control",
+  "access management platforms",
+  "operational technology",
+  "ESG frameworks",
+  "governance",
+  "smart buildings",
+  "connected infrastructure",
+  "predictive maintenance",
+  "occupancy analytics",
+  "integrated monitoring platforms",
+  "AI-enabled operational tools",
+  "situational awareness",
+  "integrated risk assessments",
+  "emergency simulations",
+  "resilience-focused performance indicators",
+  "hybrid work models",
+  "workforce well-being",
+  "workplace violence",
+  "supply chain disruption",
+  "cross-functional coordination"
+ ],
+ "topics_covered": []
+}

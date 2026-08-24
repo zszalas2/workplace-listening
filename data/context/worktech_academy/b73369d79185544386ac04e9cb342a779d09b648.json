@@ -1,0 +1,16 @@
+{
+ "id": "b73369d79185544386ac04e9cb342a779d09b648",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTmwxZld1RXVTaE9jUmtRSmRKMVdCUEhwcE1uRENrY2dtN3pGSXZ1cGZIYkhINVJDdU1JQmR0NzlQRUpJaDlHZmJ5MzBCU0dnLUxjLUZYbFo4NXVoc3JqVUgzODUzQXRWOHlXZlBhdjl5UWdrbjF3cmNVc2VLa2ZYR0lSV0hSSUp2Q2tZSk4wQjg5cHdpcmFkTGktbGhfMFFLZHc?oc=5",
+ "published_at": "2025-07-17",
+ "observed_at": "2026-08-24",
+ "summary": "This item is a Google News RSS stub for a WORKTECH Academy article titled \"Thinking space: three innovative uses of AI in the built environment.\" No body text was supplied beyond the repeated headline, so the substance of the piece cannot be summarized. Based on the title alone, the article appears to profile three examples of artificial intelligence being applied within the built environment, which in WORKTECH Academy's usual editorial framing would cover topics such as building design, workplace design and operations, smart building systems, and space usage. No claims, statistics, sources, vendors or named interviewees are available in the provided text. No detail is present about visitor management, desk or room booking, hybrid and return-to-office policy, workplace analytics, or facilities operations, and none of the registry themes can be responsibly assigned from a headline alone. Retrieval of the full article would be required to determine whether it touches on workplace technology categories relevant to this listening pipeline. Recommended handling: mark as insufficient content and re-fetch the source URL, or drop from saturation scoring so that a title-only record does not inflate theme coverage.",
+ "claims": [],
+ "vocabulary": [
+  "AI",
+  "built environment",
+  "thinking space",
+  "WORKTECH Academy"
+ ],
+ "topics_covered": []
+}

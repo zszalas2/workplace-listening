@@ -1,0 +1,55 @@
+{
+ "id": "79d13878de1f00667e16996b5f01be9fd134d7b2",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/08/ai-emotion-tracking-is-taking-employee-monitoring-into-its-most-personal-territory-yet/",
+ "published_at": "2026-08-22",
+ "observed_at": "2026-08-24",
+ "summary": "Allwork.space examines the rise of emotion AI in workplace monitoring, arguing surveillance has moved past desk presence and system logins into inferring how people feel. Drawing on research from Korn Ferry, the piece explains that emotion AI analyzes facial expressions, body language, tone of voice and other behavioral signals to estimate emotional state, with proposed uses in training, workplace safety, hiring and performance management.\n\nThe core problem is interpretive error. An expression read as anxiety may reflect a family issue, a phone call or simple concentration. Korn Ferry offers a scenario in which an employee arrives after a call from their child's teacher, facial recognition flags them as anxious, and the system alerts a manager to check in, turning a private moment into a workplace matter. Dennis Deans, Korn Ferry's vice president of global human resources, is especially concerned about managers treating inferred emotion as evidence of individual performance, converting an uncertain measurement into a consequential judgment.\n\nThe article notes monitoring is already widespread and is expanding from computers into physical space via office cameras, sensors and connected systems that collect data without active employee interaction.\n\nA second section considers flexible and serviced office operators, which already use workspace management systems to track occupancy, meeting room usage, access and traffic patterns. Emotion AI could theoretically extend this to gauge how people respond to an environment, even attempting to quantify community, historically measured only through event attendance, member retention, feedback and participation. The privacy complication is that those analyzed would be members, visitors, guests or employees of many different tenant businesses, not the operator's own staff.\n\nThe piece closes on reliability: a facial expression or tone provides little context, and the same signal could mean frustration, concentration or exhaustion. It draws a line between using data to understand broad patterns versus building individual profiles that drive manager alerts, performance assessments or hiring decisions.",
+ "claims": [
+  {
+   "claim": "More than seven in 10 employees are subject to some form of corporate monitoring",
+   "stat": "more than 70%",
+   "attribution": "Allwork.space, citing research context around Korn Ferry findings"
+  },
+  {
+   "claim": "Emotion AI is being explored for employee training, workplace safety, hiring and performance management",
+   "stat": "",
+   "attribution": "Korn Ferry research"
+  },
+  {
+   "claim": "Managers may wrongly treat emotion AI output as evidence of individual performance, turning an uncertain measurement into a consequential judgment",
+   "stat": "",
+   "attribution": "Dennis Deans, vice president of global human resources, Korn Ferry"
+  },
+  {
+   "claim": "Workspace management systems can already track occupancy, meeting room usage, access and traffic patterns",
+   "stat": "",
+   "attribution": "Allwork.space"
+  }
+ ],
+ "vocabulary": [
+  "emotion AI",
+  "employee monitoring",
+  "workplace surveillance",
+  "facial recognition",
+  "behavioral signals",
+  "sentiment data",
+  "workspace management systems",
+  "occupancy",
+  "meeting room usage",
+  "access",
+  "traffic patterns",
+  "flexible workspace operators",
+  "serviced office",
+  "community management",
+  "member retention",
+  "performance management",
+  "engagement",
+  "connected systems",
+  "sensors",
+  "individual profiles"
+ ],
+ "topics_covered": [
+  "attendance_tracking_and_monitoring_tools"
+ ]
+}

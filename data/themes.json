@@ -6,7 +6,8 @@
   "counts_by_week": {
    "2026-W31": 5,
    "2026-W32": 0,
-   "2026-W33": 0
+   "2026-W33": 0,
+   "2026-W35": 0
   },
   "evidence": [
    {
@@ -60,7 +61,8 @@
   "counts_by_week": {
    "2026-W31": 1,
    "2026-W32": 0,
-   "2026-W33": 1
+   "2026-W33": 1,
+   "2026-W35": 0
   },
   "evidence": [
    {
@@ -90,21 +92,25 @@
    "no written policy",
    "stress risk assessment",
    "voluntary",
-   "Access to Work equipment"
+   "Access to Work equipment",
+   "office mandate",
+   "teleworking",
+   "four days a week on site",
+   "work-life balance"
   ],
   "became_post": null,
   "became_post_at": null,
   "covered_by_context": [
-   "worktech_academy"
+   "allwork_space"
   ],
-  "suggested_angle": "Make the case that unwritten hybrid rules cost more than they save, and show HR how to price and publish an attendance policy people can actually follow.",
-  "current": 1,
-  "trailing_mean": 0.167,
-  "delta_z": 2.236,
-  "demand_score": 0.127,
+  "suggested_angle": "Use the Airbus retreat to show HR leaders how to price and stage an attendance change before announcing it, rather than reversing it under pressure.",
+  "current": 0,
+  "trailing_mean": 0.333,
+  "delta_z": -0.707,
+  "demand_score": 0.0,
   "saturation_score": 1.0,
   "opportunity_score": 0.0,
-  "status": "watching"
+  "status": "steady"
  },
  {
   "theme_id": "admin_ea_operational_overhead",
@@ -113,22 +119,23 @@
   "counts_by_week": {
    "2026-W31": 4,
    "2026-W32": 0,
-   "2026-W33": 8
+   "2026-W33": 8,
+   "2026-W35": 2
   },
   "evidence": [
    {
-    "quote": "Best platforms/resources to prepare for an Executive Assistant to CEO role?",
-    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1vf3ske/best_platformsresources_to_prepare_for_an/",
+    "quote": "I was told I'd be primarily handling scheduling/email/admin/strategy type work. I thrive in the admin space. I started about 4 months ago and let me just say, that is NOT what I've been doing.",
+    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1vlollh/is_this_normal/",
     "source_id": "reddit_executiveassistants"
    },
    {
-    "quote": "Do you think this position is worth for 1097USD?",
-    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1vge5mc/do_you_think_this_position_is_worth_for_1097usd/",
+    "quote": "This is \\*only for internal meetings\\* : if you're scheduling a meeting who gets a calendar invite?",
+    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1vsrvpl/who_gets_a_calendar_invite/",
     "source_id": "reddit_executiveassistants"
    },
    {
-    "quote": "I just realized that Blacklane no longer includes a calendar invite on their confirmation emails.",
-    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1veod8u/blacklane_removing_calendar_invites/",
+    "quote": "I think this keeps a better record of meeting attendance, better confidentiality",
+    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1vsrvpl/who_gets_a_calendar_invite/",
     "source_id": "reddit_executiveassistants"
    }
   ],
@@ -150,19 +157,21 @@
    "restructuring",
    "action items",
    "confidentiality",
-   "Microsoft 365 / Google Workspace"
+   "Microsoft 365 / Google Workspace",
+   "EA",
+   "scheduling"
   ],
   "became_post": null,
   "became_post_at": null,
   "covered_by_context": [],
-  "suggested_angle": "Show HR and office leaders how much of the EA and front desk role is unpaid coordination overhead, and where spend on tooling actually removes work rather than adding another login.",
-  "current": 8,
-  "trailing_mean": 0.667,
-  "delta_z": 4.919,
-  "demand_score": 1.0,
+  "suggested_angle": "Show HR and office leads how much unbudgeted admin work sits behind meeting logistics, and where a small amount of tooling spend removes it instead of adding another seat to buy.",
+  "current": 2,
+  "trailing_mean": 2,
+  "delta_z": 0.0,
+  "demand_score": 0.994,
   "saturation_score": 0.0,
-  "opportunity_score": 1.0,
-  "status": "accelerating"
+  "opportunity_score": 0.994,
+  "status": "gap"
  },
  {
   "theme_id": "multi_site_proof_of_work_tracking",
@@ -171,7 +180,8 @@
   "counts_by_week": {
    "2026-W31": 1,
    "2026-W32": 0,
-   "2026-W33": 0
+   "2026-W33": 0,
+   "2026-W35": 0
   },
   "evidence": [
    {
@@ -212,7 +222,8 @@
   "counts_by_week": {
    "2026-W31": 1,
    "2026-W32": 0,
-   "2026-W33": 3
+   "2026-W33": 3,
+   "2026-W35": 0
   },
   "evidence": [
    {
@@ -245,17 +256,15 @@
   ],
   "became_post": null,
   "became_post_at": null,
-  "covered_by_context": [
-   "workplace_insight"
-  ],
+  "covered_by_context": [],
   "suggested_angle": "Show HR and IT budget owners how thinly stretched internal IT is, and why workplace tools that need constant admin quietly consume the same headcount.",
-  "current": 3,
-  "trailing_mean": 0.167,
-  "delta_z": 7.603,
-  "demand_score": 0.39,
-  "saturation_score": 1.0,
+  "current": 0,
+  "trailing_mean": 0.667,
+  "delta_z": -0.603,
+  "demand_score": 0.0,
+  "saturation_score": 0.0,
   "opportunity_score": 0.0,
-  "status": "watching"
+  "status": "steady"
  },
  {
   "theme_id": "risk_assessment_vendor_review_workload",
@@ -263,7 +272,8 @@
   "first_seen": "2026-08-03",
   "counts_by_week": {
    "2026-W32": 1,
-   "2026-W33": 0
+   "2026-W33": 0,
+   "2026-W35": 0
   },
   "evidence": [
    {
@@ -297,18 +307,24 @@
   "label": "Time, attendance and presence tracking tooling",
   "first_seen": "2026-08-10",
   "counts_by_week": {
-   "2026-W33": 1
+   "2026-W33": 1,
+   "2026-W35": 2
   },
   "evidence": [
    {
-    "quote": "What would be a good software to recommend for a mid-sized office of about 100 employees?",
-    "url": "https://www.reddit.com/r/AdminAssistant/comments/1vgt8jj/need_advice_on_choosing_time_and_attendance/",
-    "source_id": "reddit_adminassistant"
+    "quote": "Company I'm working for has set schedules for salaried exempt employees in project management for 10 hour days, M-F. 6AM to 4PM",
+    "url": "https://www.reddit.com/r/humanresources/comments/1vo6qg7/salaried_exempt_schedule_flexibility_or_lack/",
+    "source_id": "reddit_humanresources"
    },
    {
-    "quote": "Need advice on choosing time and attendance software",
-    "url": "https://www.reddit.com/r/AdminAssistant/comments/1vgt8jj/need_advice_on_choosing_time_and_attendance/",
-    "source_id": "reddit_adminassistant"
+    "quote": "My manager recently told me I've had **19 health-related absences in 2026** and that, because of the number, my attendance is being escalated to HR.",
+    "url": "https://www.reddit.com/r/humanresources/comments/1vqvy23/19_medical_absences_escalated_to_hr_while/",
+    "source_id": "reddit_humanresources"
+   },
+   {
+    "quote": "19 Medical Absences Escalated to HR While Accommodation Is Ongoing — What Should I Expect?",
+    "url": "https://www.reddit.com/r/humanresources/comments/1vqvy23/19_medical_absences_escalated_to_hr_while/",
+    "source_id": "reddit_humanresources"
    }
   ],
   "vocabulary": [
@@ -317,18 +333,30 @@
    "monitor employee attendance",
    "admin officer",
    "front desk",
-   "mid-sized office"
+   "mid-sized office",
+   "salaried exempt",
+   "set schedules",
+   "docking pay",
+   "health-related absences",
+   "attendance escalated to HR",
+   "accommodation case",
+   "disability management",
+   "emotion AI",
+   "employee monitoring",
+   "occupancy"
   ],
   "became_post": null,
   "became_post_at": null,
-  "covered_by_context": [],
-  "suggested_angle": "Explain to HR buyers when attendance tracking is a fairness problem rather than a software problem, and what presence data is actually worth paying for.",
-  "current": 1,
-  "trailing_mean": 0,
-  "delta_z": 0.0,
-  "demand_score": 0.129,
-  "saturation_score": 0.0,
-  "opportunity_score": 0.129,
+  "covered_by_context": [
+   "allwork_space"
+  ],
+  "suggested_angle": "Explain to HR buyers where attendance data becomes a legal and trust liability, and how to keep presence tracking to the minimum needed for space and spend decisions.",
+  "current": 2,
+  "trailing_mean": 0.167,
+  "delta_z": 4.919,
+  "demand_score": 1.0,
+  "saturation_score": 1.0,
+  "opportunity_score": 0.0,
   "status": "watching"
  },
  {
@@ -336,18 +364,24 @@
   "label": "DIY visitor and vendor sign-in versus buying a system",
   "first_seen": "2026-08-10",
   "counts_by_week": {
-   "2026-W33": 1
+   "2026-W33": 1,
+   "2026-W35": 1
   },
   "evidence": [
    {
-    "quote": "Administration asked me to come up with a \"Free digital\" sign in system for visitors with a \"Computer\".",
-    "url": "https://www.reddit.com/r/k12sysadmin/comments/1vepd6x/google_form_for_visitorvendor_sign_in/",
-    "source_id": "reddit_k12sysadmin"
+    "quote": "What visitor management system do you use in your workplace?",
+    "url": "https://www.reddit.com/r/AdminAssistant/comments/1vuqzpj/what_visitor_management_system_do_you_use_in_your/",
+    "source_id": "reddit_adminassistant"
    },
    {
-    "quote": "Was wondering what the end result to revert it back to the beginning for the next user would be.",
-    "url": "https://www.reddit.com/r/k12sysadmin/comments/1vepd6x/google_form_for_visitorvendor_sign_in/",
-    "source_id": "reddit_k12sysadmin"
+    "quote": "What are your recommendations and what features are the most helpful?",
+    "url": "https://www.reddit.com/r/AdminAssistant/comments/1vuqzpj/what_visitor_management_system_do_you_use_in_your/",
+    "source_id": "reddit_adminassistant"
+   },
+   {
+    "quote": "Now I'm given the responsibility to develop a better system in place to track everyone who comes in and out of the building.",
+    "url": "https://www.reddit.com/r/AdminAssistant/comments/1vuqzpj/what_visitor_management_system_do_you_use_in_your/",
+    "source_id": "reddit_adminassistant"
    }
   ],
   "vocabulary": [
@@ -357,26 +391,34 @@
    "free digital sign in system",
    "late students",
    "drop offs",
-   "record the time and date"
+   "record the time and date",
+   "visitor management system",
+   "visitor surveillance",
+   "admin officer",
+   "high-rise commercial establishment",
+   "track everyone who comes in and out",
+   "theft",
+   "features"
   ],
   "became_post": null,
   "became_post_at": null,
   "covered_by_context": [],
-  "suggested_angle": "Cost out the real price of the free Google Form visitor kiosk against a paid visitor management line item, for budget owners who have been told to spend nothing.",
+  "suggested_angle": "Write the buyer checklist for a first visitor management purchase triggered by a security incident, including what it should cost per site and what to skip.",
   "current": 1,
-  "trailing_mean": 0,
-  "delta_z": 0.0,
-  "demand_score": 0.123,
+  "trailing_mean": 0.167,
+  "delta_z": 2.236,
+  "demand_score": 0.544,
   "saturation_score": 0.0,
-  "opportunity_score": 0.123,
-  "status": "watching"
+  "opportunity_score": 0.544,
+  "status": "accelerating"
  },
  {
   "theme_id": "quiet_space_calls_and_coworking_choice",
   "label": "Where to sit for calls: coworking, cubicles and paid desk alternatives",
   "first_seen": "2026-08-10",
   "counts_by_week": {
-   "2026-W33": 2
+   "2026-W33": 2,
+   "2026-W35": 0
   },
   "evidence": [
    {
@@ -410,12 +452,147 @@
   "became_post_at": null,
   "covered_by_context": [],
   "suggested_angle": "Frame coworking stipends and day-pass desks as a managed spend category for HR, with policy on what employees can claim and why call privacy drives the choice.",
-  "current": 2,
-  "trailing_mean": 0,
-  "delta_z": 0.0,
+  "current": 0,
+  "trailing_mean": 0.333,
+  "delta_z": -0.447,
   "demand_score": 0.0,
   "saturation_score": 0.0,
   "opportunity_score": 0.0,
+  "status": "steady"
+ },
+ {
+  "theme_id": "meeting_av_and_offsite_room_kit",
+  "label": "Meeting room audio and AV kit for offsite and board meetings",
+  "first_seen": "2026-08-24",
+  "counts_by_week": {
+   "2026-W35": 1
+  },
+  "evidence": [
+   {
+    "quote": "Individual Mics and Speakers for meetings on the go",
+    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1vrtw6b/individual_mics_and_speakers_for_meetings_on_the/",
+    "source_id": "reddit_executiveassistants"
+   },
+   {
+    "quote": "There is probably a better place to post this, but you are always so helpful and clearly make the world go round at your respective offices.",
+    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1vrtw6b/individual_mics_and_speakers_for_meetings_on_the/",
+    "source_id": "reddit_executiveassistants"
+   }
+  ],
+  "vocabulary": [
+   "individual microphones",
+   "speakers",
+   "voice of god effect",
+   "gently amplify",
+   "in-person Board meetings",
+   "on the go",
+   "different locations",
+   "hearing difficulty"
+  ],
+  "became_post": null,
+  "became_post_at": null,
+  "covered_by_context": [],
+  "suggested_angle": "Cost out portable meeting audio for organisations that gather in person only a few times a year, versus renting AV from the venue each time.",
+  "current": 1,
+  "trailing_mean": 0,
+  "delta_z": 0.0,
+  "demand_score": 0.519,
+  "saturation_score": 0.0,
+  "opportunity_score": 0.519,
+  "status": "watching"
+ },
+ {
+  "theme_id": "it_asset_and_endpoint_baseline_ownership",
+  "label": "IT asset registers and endpoint baselines owned by one generalist",
+  "first_seen": "2026-08-24",
+  "counts_by_week": {
+   "2026-W35": 2
+  },
+  "evidence": [
+   {
+    "quote": "Here's how I'd pick an asset management system — 7 options, honestly compared",
+    "url": "https://www.reddit.com/r/sysadmin/comments/1vqq6rr/what_id_pick_for_asset_management_depending_on/",
+    "source_id": "reddit_sysadmin"
+   },
+   {
+    "quote": "You're the IT person at a mid-sized organisation — a school, a charity, a hotel group, a manu",
+    "url": "https://www.reddit.com/r/sysadmin/comments/1vqq6rr/what_id_pick_for_asset_management_depending_on/",
+    "source_id": "reddit_sysadmin"
+   },
+   {
+    "quote": "Windows 10/11 System Hardening – 32 things I check after a fresh install",
+    "url": "https://www.reddit.com/r/sysadmin/comments/1vlecgo/windows_1011_system_hardening_32_things_i_check/",
+    "source_id": "reddit_sysadmin"
+   }
+  ],
+  "vocabulary": [
+   "asset management system",
+   "I inherited the building along with the server room",
+   "mid-sized organisation",
+   "school, a charity, a hotel group",
+   "system hardening",
+   "CIS Benchmarks",
+   "fresh install",
+   "firewall rules"
+  ],
+  "became_post": null,
+  "became_post_at": null,
+  "covered_by_context": [],
+  "suggested_angle": "Speak to the one person who owns both the building and the laptops, and show how workspace and asset spend can be tracked in one place instead of two tool purchases.",
+  "current": 2,
+  "trailing_mean": 0,
+  "delta_z": 0.0,
+  "demand_score": 0.978,
+  "saturation_score": 0.0,
+  "opportunity_score": 0.978,
+  "status": "watching"
+ },
+ {
+  "theme_id": "agentic_ai_tooling_and_governance",
+  "label": "Agentic AI assistants for teams and who governs them",
+  "first_seen": "2026-08-24",
+  "counts_by_week": {
+   "2026-W35": 2
+  },
+  "evidence": [
+   {
+    "quote": "manage team policy in one place, enforced across every agent in the workspace",
+    "url": "https://github.com/onecli/onecli",
+    "source_id": "hackernews"
+   },
+   {
+    "quote": "deterministic human in the loop approval in the chat itself for things that you need 100% control like sending an email or deleting the Linear ticket",
+    "url": "https://github.com/onecli/onecli",
+    "source_id": "hackernews"
+   },
+   {
+    "quote": "I made Captain to help with everyday travel planning. It can explore an itinerary, check live flight prices, or watch for the right time to book.",
+    "url": "https://www.moonlight.ng/captain/",
+    "source_id": "hackernews"
+   }
+  ],
+  "vocabulary": [
+   "agent harness",
+   "sandboxed agent",
+   "team policy",
+   "human in the loop approval",
+   "workspace",
+   "travel planning agent",
+   "itinerary",
+   "live flight prices",
+   "agentic workflows",
+   "audit trail"
+  ],
+  "became_post": null,
+  "became_post_at": null,
+  "covered_by_context": [],
+  "suggested_angle": "Give HR and workplace buyers a plain test for agent tools that touch spend, travel and calendars: who approves, what is logged, and what it costs per head.",
+  "current": 2,
+  "trailing_mean": 0,
+  "delta_z": 0.0,
+  "demand_score": 0.61,
+  "saturation_score": 0.0,
+  "opportunity_score": 0.61,
   "status": "watching"
  }
 ]

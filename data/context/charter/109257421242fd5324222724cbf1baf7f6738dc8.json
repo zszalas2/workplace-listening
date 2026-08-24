@@ -1,0 +1,81 @@
+{
+ "id": "109257421242fd5324222724cbf1baf7f6738dc8",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/randi-weingarten-ai-schools/",
+ "published_at": "2026-08-23",
+ "observed_at": "2026-08-24",
+ "summary": "A Charter newsletter item combining AI labor-market data points with a Q&A with American Federation of Teachers president Randi Weingarten about AI in schools.\n\nAI and Work Radar highlights: LinkedIn analysis of roughly 15,000 companies across 27 countries found women were only 26% of US AI hires in 2025 versus 50% of hires in non-AI occupations, and hold 20% of head of AI roles, 18% of member of technical staff titles, and 13% of C-suite AI roles at AI companies globally. Pew Research Center data shows a majority of young adults are now more concerned than excited about AI, with the sharpest rise in concern among under-30s and declining concern among those 50 to 64. Bridgewater internal analysis suggests 18% of US jobs could be displaced within five years, with leaders proposing early policy action such as a tax on AI tokens. Goldman Sachs research finds AI already denting hiring in developed economies, most notably in software publishing, consulting, advertising, and call centers. A General Assembly survey says nearly half of leaders factor AI usage into performance evaluations; Gusto labels workers with one of five archetypes in quarterly reviews, and Travelport built a manager dashboard showing whether engineers use certain AI features.\n\nWeingarten argues the labor movement is at a precipice: union approval near 70% while density sits at 10%, and AFT has grown to 1.875 million members. She called for banning student-facing AI tools for elementary students while investing in active learning, warning that early AI use offloads learning and erodes attention, cognition, and persistence, comparing it to screen-time bans at districts including LAUSD. Key skills for an AI economy: critical thinking, communication, persistence, and relational skills, plus AI fluency by junior high. AFT launched the National Academy for AI Instruction, training about 14,000 teachers last year.",
+ "claims": [
+  {
+   "claim": "Women were a minority of US AI hires in 2025 versus non-AI occupations",
+   "stat": "26% of AI hires vs 50% of non-AI hires",
+   "attribution": "LinkedIn analysis of roughly 15,000 companies in 27 countries"
+  },
+  {
+   "claim": "Women hold a small share of senior AI roles globally",
+   "stat": "20% of head of AI roles, 18% of member of technical staff titles, 13% of C-suite AI roles at AI companies",
+   "attribution": "LinkedIn"
+  },
+  {
+   "claim": "For the first time a majority of young adults are more concerned than excited about AI, with the sharpest rise among under-30s",
+   "stat": "",
+   "attribution": "Pew Research Center"
+  },
+  {
+   "claim": "US jobs could be displaced by AI within five years",
+   "stat": "18% of US jobs",
+   "attribution": "Bridgewater internal analysis"
+  },
+  {
+   "claim": "AI is already slowing hiring in developed economies, broadest in software publishing, consulting, advertising, and call centers",
+   "stat": "",
+   "attribution": "Goldman Sachs research"
+  },
+  {
+   "claim": "Leaders factor AI usage into performance evaluations",
+   "stat": "Nearly half of leaders",
+   "attribution": "General Assembly survey"
+  },
+  {
+   "claim": "Gusto labels workers with one of five archetypes during quarterly reviews and Travelport built a dashboard showing whether engineers use certain AI features",
+   "stat": "",
+   "attribution": "Business Insider"
+  },
+  {
+   "claim": "Public approval of unions is high while union density is low",
+   "stat": "about 70% approval; 10% density",
+   "attribution": "Randi Weingarten, AFT president"
+  },
+  {
+   "claim": "AFT has reached its largest membership ever",
+   "stat": "1.875 million members",
+   "attribution": "Randi Weingarten, AFT"
+  },
+  {
+   "claim": "Teachers trained through the National Academy for AI Instruction last year",
+   "stat": "about 14,000 teachers",
+   "attribution": "Randi Weingarten, AFT"
+  }
+ ],
+ "vocabulary": [
+  "AI hires",
+  "head of AI",
+  "member of technical staff",
+  "C-suite AI roles",
+  "job displacement",
+  "tax on AI tokens",
+  "performance evaluations",
+  "archetypes",
+  "manager dashboard",
+  "AI fluency",
+  "student-facing AI tools",
+  "active learning",
+  "screen time",
+  "critical thinking",
+  "relational skills",
+  "union density",
+  "National Academy for AI Instruction",
+  "disinformation and misinformation"
+ ],
+ "topics_covered": []
+}

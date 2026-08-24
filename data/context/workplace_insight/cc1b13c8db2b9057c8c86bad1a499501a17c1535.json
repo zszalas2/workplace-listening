@@ -1,0 +1,72 @@
+{
+ "id": "cc1b13c8db2b9057c8c86bad1a499501a17c1535",
+ "source_id": "workplace_insight",
+ "url": "https://workplaceinsight.net/what-people-from-successful-workplace-events-think-it-takes-to-launch-something-new/?utm_source=rss&utm_medium=rss&utm_campaign=what-people-from-successful-workplace-events-think-it-takes-to-launch-something-new",
+ "published_at": "2026-08-19",
+ "observed_at": "2026-08-24",
+ "summary": "Workplace Insight covers episode two of Work in Motion, a six-part documentary podcast commissioned by Gateshead workspace business Workpattern, written and presented by Ian Ellison and produced by Dave Crackles. The series follows, in real time, the creation of Work Beyond Walls, a new two-day event at Newcastle's Boiler Shop on 9 and 10 September, with free registration.\n\nThe piece gathers advice from organisers of established workplace and design events. Herb Kim, who has run Thinking Digital in Gateshead since 2008, recalls his first year as being on a knife edge between disaster and success and badly undersold, giving the episode its title, Not Embarrassingly Empty. Kim argues that London's density lets mediocre content still draw footfall, while events 250 miles north need genuinely strong content to justify the journey.\n\nOn programming, Katie Richardson, curator of the Clerkenwell Design Week talks programme for seven years, prefers designers' backstories over product pitches, arguing themes such as sustainability emerge naturally from the right speakers. Kim paid for keynotes in early years then stopped, saying they were good but did not make the event. Creative director Darren Richardson, whose agency named Work Beyond Walls, advocates unexpected voices such as artist Morag Myerscough to lift an event above a furniture expo. He also names the closed loop problem: brands need proof of visitors.\n\nWork Beyond Walls has inverted that loop, with more than 23 brand partners committed but, five weeks out, only 51 registrations against founder Paul Glaister's target of 500. Dave James of studio Blokka, which founded ClerkenWales in Cardiff four years ago, has grown supporting manufacturers from six or seven to 23 with a reserve list. The shared goal is stickiness: spaces people settle into rather than walk through. Terry McStea's closing advice is to keep promoting right until the day before.",
+ "claims": [
+  {
+   "claim": "Thinking Digital has run at the Glasshouse in Gateshead since 2008",
+   "stat": "since 2008",
+   "attribution": "Workplace Insight article"
+  },
+  {
+   "claim": "The first year of Thinking Digital was badly undersold and close to disaster",
+   "stat": "",
+   "attribution": "Herb Kim"
+  },
+  {
+   "claim": "Five weeks before the event, Work Beyond Walls registrations stood at 51 against a target of 500",
+   "stat": "51 vs 500 target",
+   "attribution": "Work in Motion episode two / founder Paul Glaister's target"
+  },
+  {
+   "claim": "Work Beyond Walls secured over 23 brand partners before a single public registration",
+   "stat": "23+ brand partners",
+   "attribution": "Workplace Insight article"
+  },
+  {
+   "claim": "London's population density means mediocre events still get footfall, unlike venues 250 miles north",
+   "stat": "250 miles",
+   "attribution": "Herb Kim"
+  },
+  {
+   "claim": "Katie Richardson has curated the official talks programme at Clerkenwell Design Week for seven years",
+   "stat": "7 years",
+   "attribution": "Workplace Insight article"
+  },
+  {
+   "claim": "ClerkenWales has grown from six or seven supporting manufacturers to 23, with a reserve list",
+   "stat": "6-7 to 23",
+   "attribution": "Dave James, Blokka"
+  },
+  {
+   "claim": "To get 20 people to show up you need to sell about 40 to 60 tickets",
+   "stat": "40-60 tickets for 20 attendees",
+   "attribution": "An exhibitor, relayed by Dave James"
+  },
+  {
+   "claim": "Work Beyond Walls takes place at the Boiler Shop in Newcastle on 9 and 10 September with free registration",
+   "stat": "9-10 September",
+   "attribution": "Workplace Insight article"
+  }
+ ],
+ "vocabulary": [
+  "workspace business",
+  "documentary podcast",
+  "registrations",
+  "footfall",
+  "talks programme",
+  "keynotes",
+  "brand partners",
+  "exhibitor",
+  "expo",
+  "sticky space",
+  "immersive exhibition",
+  "closed loop",
+  "reserve list",
+  "curation"
+ ],
+ "topics_covered": []
+}

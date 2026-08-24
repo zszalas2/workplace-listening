@@ -1,0 +1,78 @@
+{
+ "id": "af869554bc8e6835f4868e2cb7d156dbe1f3c5b3",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/08/cfo-turnover-on-track-to-hit-18-3-highest-since-pandemic/",
+ "published_at": "2026-08-21",
+ "observed_at": "2026-08-24",
+ "summary": "An Allwork.Space republication (originally Fortune, via Reuters Connect syndication) reports on Crist Kolder Associates' mid-year 2026 Volatility Report, which studied leadership at 665 Fortune 500 and S&P 500 companies. CFO turnover for full-year 2026 is projected at 18.3%, the highest since the pandemic, versus 18.2% in 2020 and 19.3% in 2019, against a 10-year historical average of 16%. Scott W. Simmons, co-managing partner at Crist Kolder, attributes the churn to expanding job demands, with some CFOs retiring and others recruited to lead turnarounds or AI initiatives.\n\nThe piece lists notable first-half Fortune 500 moves: AT&T's Pascal Desroches retiring Dec. 31 with Jennifer Biry (20-year AT&T finance veteran, ex-CFO/COO of McAfee) named deputy CFO effective July 6 and succeeding him Jan. 1, 2027; Caterpillar's Andrew Bonfield retiring Oct. 1 after eight years, with Kyle Epley taking over May 1 and Bonfield advising through transition; Oracle hiring Hilary Maxson (formerly Schneider Electric) in April, tied to Oracle's AI and cloud infrastructure buildout; Nike hiring Pfizer's David Denton on Aug. 17 amid a turnaround; and Pfizer naming Cecile Guegan interim CFO Aug. 16 while running an internal and external search.\n\nThe report, based on data through July 31, also finds newly appointed CFOs are getting younger: average CFO age is projected at 48 in 2026 versus 52 in 2025. Simmons notes average sitting CFO tenure is 4.5 years and only about 25% of new CFOs come from another sitting CFO role, suggesting companies must tap younger, less experienced talent.\n\nThe item is executive-search and finance-leadership news with no coverage of workplace technology, visitor management, desk or room booking, hybrid policy, workplace analytics, or facilities operations.",
+ "claims": [
+  {
+   "claim": "CFO turnover at the largest US public companies is projected to reach its highest rate since the pandemic in 2026",
+   "stat": "18.3% projected for 2026, vs 18.2% in 2020 and 19.3% in 2019",
+   "attribution": "Crist Kolder Associates mid-year 2026 Volatility Report"
+  },
+  {
+   "claim": "The 10-year historical average for CFO turnover is lower than the 2026 projection",
+   "stat": "16% 10-year average",
+   "attribution": "Crist Kolder Associates"
+  },
+  {
+   "claim": "The report studied corporate leadership at Fortune 500 and S&P 500 companies",
+   "stat": "665 companies",
+   "attribution": "Crist Kolder Associates Volatility Report"
+  },
+  {
+   "claim": "Newly appointed CFOs are getting younger",
+   "stat": "Average CFO age projected at 48 in 2026 vs 52 in 2025",
+   "attribution": "Crist Kolder Associates mid-year 2026 Volatility Report (data through July 31)"
+  },
+  {
+   "claim": "Average tenure of a sitting CFO is short and most new CFOs are not previously sitting CFOs",
+   "stat": "4.5 years average tenure; roughly 25% come from another sitting CFO position",
+   "attribution": "Scott W. Simmons, co-managing partner, Crist Kolder Associates"
+  },
+  {
+   "claim": "Expanding job demands drive continued CFO churn, including turnaround and AI mandates",
+   "stat": "",
+   "attribution": "Scott W. Simmons, Crist Kolder Associates"
+  },
+  {
+   "claim": "AT&T CFO Pascal Desroches will retire and be succeeded by Jennifer Biry",
+   "stat": "Retires Dec. 31; Biry deputy CFO July 6, CFO Jan. 1, 2027",
+   "attribution": "Allwork.Space / Fortune report"
+  },
+  {
+   "claim": "Caterpillar CFO Andrew Bonfield is retiring after eight years, replaced by Kyle Epley",
+   "stat": "Retirement effective Oct. 1; Epley CFO effective May 1",
+   "attribution": "Allwork.Space / Fortune report"
+  },
+  {
+   "claim": "Oracle hired Hilary Maxson as CFO in April, tied to its AI and cloud infrastructure buildout",
+   "stat": "",
+   "attribution": "Allwork.Space / Fortune report"
+  },
+  {
+   "claim": "Nike hired Pfizer's David Denton as CFO amid a turnaround, and Pfizer named Cecile Guegan interim CFO",
+   "stat": "Denton joined Nike Aug. 17; Guegan interim from Aug. 16",
+   "attribution": "Allwork.Space / Fortune report"
+  }
+ ],
+ "vocabulary": [
+  "CFO turnover",
+  "Volatility Report",
+  "executive search firm",
+  "Fortune 500",
+  "S&P 500",
+  "finance chiefs",
+  "deputy CFO",
+  "interim CFO",
+  "average tenure",
+  "sitting CFO",
+  "turnarounds",
+  "AI initiatives",
+  "cloud infrastructure buildout",
+  "co-managing partner",
+  "syndication agreement"
+ ],
+ "topics_covered": []
+}

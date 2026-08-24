@@ -1,0 +1,14 @@
+{
+ "id": "760268e567ced8dc82a52b622720100131b1e3b0",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12eUlDNk1SalMwNHg4STlQN3BEbGhnbnd1d3NPZVREdTJLLXJadG15Vk1wRXM2cmJXTmtkdVFLZnhiM2U5ZzA5ZkM2RWRKR21uSVJJMExLdWZEdm1NUklaczU1eTNGNU5CS0lZMWN1RQ?oc=5",
+ "published_at": "2020-07-29",
+ "observed_at": "2026-08-24",
+ "summary": "This item is not substantive editorial content. It is an archive listing page from WORKTECH Academy, specifically page 7 of 8 of the site's \"Uncategorised\" category archive. The captured text consists solely of the page title repeated, with no article body, byline, date, or supporting detail. No workplace technology topics are discussed, no data or research findings are presented, and no vendors, products, or practitioners are named. Because the crawl returned only navigational boilerplate rather than any underlying posts, there is nothing to summarize about visitor management, desk or room booking, hybrid and return-to-office policy, workplace analytics, or facilities operations. The URL is a Google News RSS redirect, suggesting the item was surfaced through an aggregator feed that pointed at a paginated taxonomy archive rather than a single story. For pipeline purposes this should be treated as a non-article artifact and excluded from theme saturation scoring. If the underlying archive contains relevant posts, they would need to be fetched individually at their canonical article URLs. No claims can be extracted and no category vocabulary appears beyond the publisher name.",
+ "claims": [],
+ "vocabulary": [
+  "WORKTECH Academy",
+  "Uncategorised Archives"
+ ],
+ "topics_covered": []
+}

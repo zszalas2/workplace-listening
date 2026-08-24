@@ -1,0 +1,16 @@
+{
+ "id": "c2a2ebde40ccc7e204dc41feb371af2453ea4190",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZHVHWlZpRGE2OUhxUWlvXzh2V0Z3VUxxTHJZNEFjVTJxR2stS2lPU2F4UXk1dG9yTy1FVXVVSEM3TTNDUV9iYVVNV3dwLXR6ZVJvYVc4eWtYQjVmS3VJa09wT3BjQkdIemw0dHJBMmFJdWU2UVRScU1IWTNqdVE3THNtMDdYYTNQcTQtaVlvS1FkMEk?oc=5",
+ "published_at": "2023-05-16",
+ "observed_at": "2026-08-24",
+ "summary": "This item is a headline-only entry from WORKTECH Academy with no accompanying article body in the supplied text. The title, \"Foster's Centre Pompidou retrospective has a future focus,\" indicates coverage of a retrospective exhibition of the work of architect Norman Foster (Foster + Partners) at the Centre Pompidou in Paris, framed as forward-looking rather than purely historical. Beyond the title, the item contains only a Google News RSS redirect URL and a duplicated headline string, so no substantive detail is available about the exhibition's content, dates, curation, or any workplace design arguments the article may draw from it.\n\nFor the purposes of this B2B listening pipeline, the piece appears to sit in the architecture and built-environment commentary space that WORKTECH Academy regularly publishes, rather than in the operational workplace-technology categories tracked here. There is no discussion of visitor management, desk or room booking, hybrid and return-to-office policy, workplace analytics, attendance monitoring, facilities operations, or vendor procurement in the material provided. No statistics, survey findings, named sources, or vendor references are present.\n\nAny thematic tagging would require retrieving the full article text. On the evidence supplied, the item is not scoreable against the registry and should be treated as low-signal or as a candidate for re-crawl to obtain the body copy. If the full piece does connect Foster's design legacy to contemporary questions about office layout, flexibility, or the future of the workplace, it could later become marginally relevant to workplace design themes, but that cannot be assumed from a headline alone.",
+ "claims": [],
+ "vocabulary": [
+  "retrospective",
+  "future focus",
+  "Centre Pompidou",
+  "Foster"
+ ],
+ "topics_covered": []
+}

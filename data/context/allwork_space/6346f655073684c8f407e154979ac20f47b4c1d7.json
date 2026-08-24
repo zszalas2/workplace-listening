@@ -1,0 +1,56 @@
+{
+ "id": "6346f655073684c8f407e154979ac20f47b4c1d7",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/08/the-recalibration-of-coworking/",
+ "published_at": "2026-08-23",
+ "observed_at": "2026-08-24",
+ "summary": "An opinion essay by Cat Johnson, republished by Allwork.Space, arguing that the coworking industry is recalibrating back toward its community roots. The author traces coworking from its 2012 origins as a small, scrappy global movement built on the insight that laptop-enabled workers preferred working together to working alone. Early spaces were modest, offering coffee, occasional events, and varied work areas, with a distinctly human vibe. Growth attracted big money, large operators, and commercial real estate players, and for years the discourse was dominated by a bigger-is-better mindset in which independent spaces were dismissed as unprofitable and community-focused spaces as unserious, producing what the author calls a race to the top of white sofas and chandeliers. Despite that, the author maintains connection and community remained the core of strong coworking brands. Earlier in the year the author publicly called for reclaiming the word coworking and realigning the industry around its human aspects. She reports growing agreement, citing LinkedIn conversations and the tone at a recent GCUC event in New York City, where the consensus was that space alone is insufficient and that collective loneliness is rising. She paraphrases the president of a major coworking brand saying it is not about the space but about what happens in the space. The essay frames this as validation for long-time advocates of community-focused coworking and as a call to action to dig deeper and carry lessons from coworking's evolution from movement to global industry into the future. The closing argument is that coworking is not about dividing real estate for profit but about creating connection, belonging, and mutual support, one person and one connection at a time, quoting one space operator: relationships over transactions, forever. The piece is manifesto-style commentary rather than reporting, with no data, operator economics, or occupancy figures presented.",
+ "claims": [
+  {
+   "claim": "Coworking began as a small, scrappy global movement of laptop workers who preferred working together to working alone",
+   "stat": "",
+   "attribution": "Cat Johnson, writing in Allwork.Space (originally catjohnson.co)"
+  },
+  {
+   "claim": "The author has been writing about coworking since 2012",
+   "stat": "since 2012",
+   "attribution": "Cat Johnson"
+  },
+  {
+   "claim": "For several years industry conversation was dominated by a bigger-is-better view in which indie spaces were written off as unprofitable and community-focused spaces as unserious",
+   "stat": "",
+   "attribution": "Cat Johnson"
+  },
+  {
+   "claim": "The tone at the recent GCUC event in New York City was that space alone is not enough and that people are collectively lonelier than ever",
+   "stat": "",
+   "attribution": "Cat Johnson, reporting on GCUC New York City"
+  },
+  {
+   "claim": "It is not about the space, it is about what happens in the space",
+   "stat": "",
+   "attribution": "Paraphrased by Cat Johnson from the president of a major coworking brand (unnamed)"
+  },
+  {
+   "claim": "Relationships over transactions. Forever.",
+   "stat": "",
+   "attribution": "An unnamed coworking space operator, quoted by Cat Johnson"
+  }
+ ],
+ "vocabulary": [
+  "coworking",
+  "indie spaces",
+  "community-focused coworking",
+  "commercial real estate",
+  "big coworking",
+  "amenities",
+  "space operator",
+  "GCUC",
+  "connection and community",
+  "belonging",
+  "mutual support",
+  "reclaiming the word coworking",
+  "relationships over transactions"
+ ],
+ "topics_covered": []
+}

@@ -1,0 +1,86 @@
+{
+ "id": "7d0a0780e88461dbaac75725fa743363a23730f8",
+ "source_id": "workplace_insight",
+ "url": "https://workplaceinsight.net/ai-use-surges-across-property-and-construction-but-firms-struggle-beyond-pilot-studies/?utm_source=rss&utm_medium=rss&utm_campaign=ai-use-surges-across-property-and-construction-but-firms-struggle-beyond-pilot-studies",
+ "published_at": "2026-08-19",
+ "observed_at": "2026-08-24",
+ "summary": "Workplace Insight reports on the RICS AI in Commercial Property and Construction Report 2026, based on more than 3,100 responses from industry professionals worldwide. AI adoption across construction and commercial property has accelerated over the past year, but firms are struggling to move from pilot studies to routine practice.\n\nKey findings: roughly two thirds of construction professionals now use AI in some form, up from just over half in 2025. In commercial property, more than three quarters report some level of AI use. Both sectors have the same share of organisations running early stage pilots at 39 percent, but commercial property converts pilots into regular use more successfully, with regular use at 29 percent versus 19 percent in construction.\n\nInvestment intent points to continued growth: 47 percent of commercial property respondents plan to increase AI investment over the next 12 months, against 37 percent in construction. Construction has still progressed, with the share of organisations reporting no AI use falling by more than a third since 2025 and regular use rising from 12 percent to 19 percent.\n\nBarriers persist. A shortage of skilled personnel remains a major issue, and privacy and security concerns in construction rose from 22 percent to 30 percent year on year.\n\nRICS argues the industry challenge has shifted from encouraging experimentation to embedding AI into professional practice, and urges organisations to plan from the outset for the data, integration, professional supervision and governance needed to make pilots routine. The report also promotes the RICS professional standard, Responsible Use of Artificial Intelligence in Surveying Practice, effective March 2026.\n\nMaureen Ehrenberg FRICS CRE, President Elect of RICS, said last year's report described an industry approaching an inflection point and that this year's data shows the point has been crossed, adding that the standard gives members a well defined framework and that this is the moment for the profession to lead, not follow.",
+ "claims": [
+  {
+   "claim": "Report is based on responses from industry professionals worldwide",
+   "stat": "more than 3,100 responses",
+   "attribution": "RICS AI in Commercial Property and Construction Report 2026"
+  },
+  {
+   "claim": "About two thirds of construction professionals use AI in some form, up from just over half in 2025",
+   "stat": "~66% vs just over 50%",
+   "attribution": "RICS"
+  },
+  {
+   "claim": "More than three quarters of commercial property respondents report some level of AI use",
+   "stat": ">75%",
+   "attribution": "RICS"
+  },
+  {
+   "claim": "Both sectors have the same proportion of organisations running early-stage AI pilots",
+   "stat": "39%",
+   "attribution": "RICS"
+  },
+  {
+   "claim": "Regular AI use is higher in commercial property than construction",
+   "stat": "29% vs 19%",
+   "attribution": "RICS"
+  },
+  {
+   "claim": "Commercial property respondents plan to increase AI investment over next 12 months more than construction",
+   "stat": "47% vs 37%",
+   "attribution": "RICS"
+  },
+  {
+   "claim": "Construction organisations reporting no AI use fell by more than a third since 2025",
+   "stat": "down more than one third",
+   "attribution": "RICS"
+  },
+  {
+   "claim": "Regular AI use in construction rose year on year",
+   "stat": "12% to 19%",
+   "attribution": "RICS"
+  },
+  {
+   "claim": "Privacy and security concerns in construction increased over the past year",
+   "stat": "22% to 30%",
+   "attribution": "RICS"
+  },
+  {
+   "claim": "RICS professional standard Responsible use of artificial intelligence in surveying practice came into effect in March 2026",
+   "stat": "",
+   "attribution": "RICS"
+  },
+  {
+   "claim": "The industry has crossed the inflection point on AI adoption described a year ago",
+   "stat": "",
+   "attribution": "Maureen Ehrenberg FRICS CRE, President Elect of RICS"
+  }
+ ],
+ "vocabulary": [
+  "AI adoption",
+  "pilot studies",
+  "early-stage AI pilots",
+  "regular use",
+  "commercial property",
+  "construction",
+  "RICS",
+  "Royal Institution of Chartered Surveyors",
+  "professional standard",
+  "Responsible Use of Artificial Intelligence in Surveying Practice",
+  "governance",
+  "professional supervision",
+  "data integration",
+  "privacy and security concerns",
+  "skilled personnel",
+  "AI investment",
+  "surveying practice",
+  "inflection point"
+ ],
+ "topics_covered": []
+}

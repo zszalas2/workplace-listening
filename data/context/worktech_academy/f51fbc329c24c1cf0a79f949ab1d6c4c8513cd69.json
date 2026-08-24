@@ -1,0 +1,15 @@
+{
+ "id": "f51fbc329c24c1cf0a79f949ab1d6c4c8513cd69",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcHNkd0ZGZlI0a2NCb1VzY3hVZkpsR3lGb2Z2QXd0cXFabktUdGlMNklHdnRpQlBjdTBFTzNLVGtpelB6Q2JwaFpLM0IzWHcxMTZzRnNSSDVGLXIyenZpbjAwNXNsMWl6aHlSX2RUR3Z2ZTByRWpUbWQxSElkYUwxTWxhZHMweGFJendua3dfeTA5UQ?oc=5",
+ "published_at": "2026-01-13",
+ "observed_at": "2026-08-24",
+ "summary": "This item is a Google News RSS entry pointing to a WORKTECH Academy article titled \"World of Work in 2026: our top trends for the year ahead.\" The captured text contains only the headline and publisher name, with no article body, byline, date, or supporting detail available in the supplied record. Based on the title alone, the piece appears to be WORKTECH Academy's annual forward-looking trends roundup, a format that typically forecasts developments across workplace strategy, real estate, technology, and employee experience for the coming year. However, no specific trends, predictions, statistics, quotes, case studies, or vendor references can be extracted from what was provided. The URL is a redirect wrapper rather than a direct link to the source page, so the underlying content was not retrieved. No claims can be verified or attributed, and no category or vendor vocabulary beyond the publisher name and the generic phrase \"world of work\" is present. For the purposes of theme tagging and saturation scoring, this item should be treated as a stub. It cannot responsibly be mapped to any registry theme such as hot desking backlash, RTO mandates, attendance tracking, or visitor sign-in, because none of those topics is evidenced in the available text. If this source is important to the pipeline, the recommended next step is to re-fetch the article body from the canonical WORKTECH Academy URL and re-run summarization, at which point the trends list would likely yield taggable material on hybrid working, workplace analytics, and facilities technology. Until then, the item contributes no substantive coverage.",
+ "claims": [],
+ "vocabulary": [
+  "world of work",
+  "top trends",
+  "WORKTECH Academy"
+ ],
+ "topics_covered": []
+}
