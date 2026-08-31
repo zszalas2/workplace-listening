@@ -1,0 +1,42 @@
+{
+ "id": "9da8be6dd25ae44568f5208a83558dcb899c6528",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/why-the-office-isnt-a-cure-for-loneliness/",
+ "published_at": "2026-08-27",
+ "observed_at": "2026-08-31",
+ "summary": "Charter argues that return-to-office memos lean on \"connection and culture\" as justification, and that summer headlines linking remote work to a loneliness epidemic gave leaders fresh ammunition for mandates. The piece counters that a newly released study, read alongside those widely shared research headlines, shows the physical location of an employee's desk is not always what determines loneliness or a sense of belonging at work. Other factors are usually driving the experience, and an office mandate rarely resolves the underlying problem. The excerpt is framing rather than data-heavy: it sets up a skeptical reading of the remote-work-causes-loneliness narrative and warns leaders against treating in-office attendance as a cure for disconnection. No specific study figures, sample sizes, authors, or company examples appear in the provided text, and no operational guidance on hybrid scheduling, attendance measurement, or workplace design is included. The implicit recommendation is that organizations diagnose the actual causes of low belonging before defaulting to mandated in-office days.",
+ "claims": [
+  {
+   "claim": "Most return-to-office memos justify mandates using the language of connection and culture",
+   "stat": "",
+   "attribution": "Charter"
+  },
+  {
+   "claim": "A rash of summer headlines pointed to remote work as a cause of the loneliness epidemic, giving leaders new ammunition for mandates",
+   "stat": "",
+   "attribution": "Charter, citing unnamed research headlines"
+  },
+  {
+   "claim": "The location of people's desks is not always what drives their sense of loneliness or belonging at work; other factors are usually at play",
+   "stat": "",
+   "attribution": "Charter, citing a newly released study"
+  },
+  {
+   "claim": "An office mandate rarely fixes loneliness or belonging problems",
+   "stat": "",
+   "attribution": "Charter"
+  }
+ ],
+ "vocabulary": [
+  "return-to-office memos",
+  "RTO mandates",
+  "connection and culture",
+  "loneliness epidemic",
+  "remote work",
+  "belonging at work",
+  "office mandate"
+ ],
+ "topics_covered": [
+  "hybrid_rto_mandate_pushback"
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "id": "4b5b9c73ceef655ded922835d6f81d518ad29fee",
+ "source_id": "facility_executive",
+ "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVlZnbHExZ0FSanh0czRfN0lrelo1Z20xTEhCZ1hZZDJEWVBuMXZlWjFGVGw5Nmxid2NGcDVQdHQxaGhkUnpqWURzcjZDcGRYNEY5ak4wUTl3MG9pM2dxWDRoM0Q3VWxOSExKd2VpWDlFSnlIcmVwdElyTk5MdldobzAxNA?oc=5",
+ "published_at": "2022-12-15",
+ "observed_at": "2026-08-31",
+ "summary": "This item is a headline-only entry from Facility Executive Magazine, surfaced via a Google News RSS link. The title is \"What Is Biophilic Design? A Guide for Facility Managers.\" No article body was included in the feed payload beyond a repetition of the headline and publication name, so the substance of the piece cannot be summarized with confidence.\n\nBased on the title alone, the piece appears to be an explainer or primer aimed at facility managers, defining biophilic design and presumably covering how natural elements such as daylight, plants, natural materials, views of nature, water features and organic forms can be incorporated into built environments. Trade press guides of this type typically discuss claimed benefits for occupant wellbeing, productivity, comfort and retention, along with practical implementation considerations for existing buildings and retrofits.\n\nNo statistics, named sources, vendor mentions, case studies or quotations are available in the supplied text. No claims can be extracted.\n\nFor the listening pipeline, this item sits in the workplace design and facilities wellbeing area rather than in any of the registry themes covering visitor management, desk and room booking, hybrid and return to office policy, attendance tracking, support desk metrics, vendor risk review, AV kit, IT asset ownership or agentic AI governance. It is therefore tagged with no themes. If coverage of workplace design, wellbeing or sustainability becomes a tracked theme, this item would be a candidate. Retrieval of the full article would be needed to assess whether it touches adjacent topics such as space planning, desk layout or occupancy, which could create partial overlap with desk and space themes.",
+ "claims": [],
+ "vocabulary": [
+  "biophilic design",
+  "facility managers"
+ ],
+ "topics_covered": []
+}

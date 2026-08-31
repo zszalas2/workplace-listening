@@ -1,0 +1,16 @@
+{
+ "id": "9a5607a3d4002daa5b9ea8dea9ed6357ceb5a293",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbnhZcjdXUWVuaVMxdUxkMExvSWN6UmNQNHA0UjZEaU5kTjVCQ3BlU1RDa3Bpa25kbE55YjZsQWRTd0tYRjVtb0NEYWhDLW45cDRZdzRmNUd1dF9yUWdrN0FlaWlKNF9MNWw2UndxQzdCN3RWazJVZHFSR2pTZVBjM3dvb2ljYjlXeG1GdkRQekcwUQ?oc=5",
+ "published_at": "2025-11-13",
+ "observed_at": "2026-08-31",
+ "summary": "This item is a headline-only entry from WORKTECH Academy, surfaced via a Google News RSS link. The title is \"How the neuroscience behind wayfinding can build belonging.\" No article body, byline, date, or supporting detail was captured in the supplied text, so the substance of the piece cannot be summarized beyond its stated subject.\n\nBased on the title alone, the piece appears to argue that wayfinding in the workplace, meaning how people navigate and orient themselves within a building or campus, has a neuroscientific basis, and that designing for legible navigation can strengthen employees' sense of belonging and attachment to a workplace. Likely adjacent themes for a piece of this type would include spatial cognition, environmental psychology, workplace experience design, signage and navigation cues, inclusion and neurodiversity in the built environment, and the link between physical design choices and cultural outcomes such as community and connection.\n\nNo statistics, research citations, named researchers, vendor mentions, or case studies are present in the captured text. No claims can be extracted and attributed with confidence.\n\nFor pipeline purposes this should be treated as a stub requiring full-text retrieval before it can contribute to saturation scoring or claim extraction. Against the supplied theme registry, the topic of wayfinding neuroscience and belonging does not map to any of the listed themes, which center on desk booking and hot desking, RTO mandates, admin overhead, proof of work, support desk metrics, vendor risk review, attendance tracking, visitor sign-in, coworking and call spaces, meeting AV, IT asset baselines, and agentic AI governance. It is therefore tagged with no themes. If retrieved in full, it would most plausibly sit in a workplace design and experience theme not currently represented in the registry.",
+ "claims": [],
+ "vocabulary": [
+  "wayfinding",
+  "neuroscience",
+  "belonging",
+  "WORKTECH Academy"
+ ],
+ "topics_covered": []
+}

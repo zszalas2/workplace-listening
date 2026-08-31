@@ -1,0 +1,16 @@
+{
+ "id": "c47c36f4cc161cfa4dd07a4ef1da3ffa3f61b29b",
+ "source_id": "facility_executive",
+ "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeHRfUTd3cjUzVjg0Q3hOcVVVZTJCMS1PLUhUYnJESGoyZUVKUGJZRzlFd2xHVHdqdmdxWkE1U1RQZDBhY1M0OGRCOFR4TGFEcmY5cXJkU0lBZGhPZnFLOGZ2dGUyZzEyNzhMMER2NmszU2RKeGxQZGhmbnJtLTNTZ3F2NnFvbWhublBnRFd1ZVFDZw?oc=5",
+ "published_at": "2026-08-26",
+ "observed_at": "2026-08-31",
+ "summary": "This item is a Google News RSS stub for a Facility Executive Magazine article titled \"Building A Stronger Safety Culture Starts With Leadership.\" No article body was included in the payload; the text field simply repeats the headline and publication name, so no substantive content, argument, data or sourcing can be summarized.\n\nBased on the headline alone, the piece appears to be a facilities management leadership commentary arguing that workplace safety culture is driven from the top, likely covering themes such as leadership modeling of safe behavior, accountability, communication with frontline staff, training, and embedding safety into operational routines. Facility Executive typically publishes such pieces for facility managers, EHS leaders and building operations professionals.\n\nBecause the retrieved content contains only the title, there are no verifiable claims, statistics, quotes, vendor mentions or category vocabulary to extract. Any summary of the argument would be speculative. Recommended handling: re-fetch the full article text from the canonical Facility Executive URL before scoring, or drop the item from the listening pipeline as a content-empty record.\n\nRelevance note for the pipeline: safety culture and EHS leadership sit adjacent to facilities and workplace operations coverage but do not map to any of the supplied theme_ids, which focus on desk booking and hot desking, hybrid and RTO mandates, admin overhead, proof of work tracking, support desk metrics, vendor risk assessment, attendance tracking, visitor sign-in, quiet space and coworking choice, meeting AV kit, IT asset ownership, and agentic AI governance. No theme tags are applied.",
+ "claims": [],
+ "vocabulary": [
+  "safety culture",
+  "leadership",
+  "facility executive",
+  "facilities management"
+ ],
+ "topics_covered": []
+}

@@ -1,0 +1,56 @@
+{
+ "id": "9ab175cfd1b744d613665fd3049b705db998b4c6",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/hyphyn-biodegradable-vinyl-is-proven-safe-for-incineration/",
+ "published_at": "2026-08-27",
+ "observed_at": "2026-08-31",
+ "summary": "FMLink product news item on Hyphyn, a biodegradable vinyl upholstery material from manufacturer Nassimi, positioned for high-traffic hospitality, healthcare, education, office and retail interiors.\n\nMain announcement: newly published test results confirm the material is safe for incineration, adding another end-of-life disposal option. Dioxin content analysis recorded an overall I-TEQ toxicity level of less than 0.001 ng/g, which Nassimi presents as validation of environmental safety.\n\nSecond update: the material backing has been improved and is now made from recycled plastic bottles containing the same enzyme embedded in the vinyl itself, which the company says further reduces landfill waste.\n\nTechnology: Hyphyn uses a patented enzyme system and a proprietary resin formulation. Nassimi claims it biodegrades by more than 90% within two years under landfill conditions, leaving no microplastics or toxins behind and contributing to healthy soil.\n\nPositioning: the company claims Hyphyn matches conventional vinyl on durability, cleanability and price point while meeting eco-conscious specification standards. Listed benefits include proven biodegradability, exceptional durability, bleach cleanability, superior stain resistance and uncompromised performance. The piece closes with a pointer to Nassimi for more information.\n\nRelevance note: this is a facilities and interiors materials/sustainability product release. It does not address visitor management, desk or room booking, hybrid and RTO policy, workplace analytics, admin overhead, IT service desk, or AI tooling. No theme registry entries apply.",
+ "claims": [
+  {
+   "claim": "Dioxin content analysis of Hyphyn recorded an overall I-TEQ toxicity level below the stated threshold, validating safety for incineration",
+   "stat": "less than 0.001 ng/g I-TEQ",
+   "attribution": "Nassimi, citing recently published test results"
+  },
+  {
+   "claim": "Hyphyn biodegrades under landfill conditions leaving no microplastics or toxins",
+   "stat": "more than 90% within two years",
+   "attribution": "Nassimi"
+  },
+  {
+   "claim": "Hyphyn is the first-of-its-kind biodegradable vinyl for high-traffic commercial environments",
+   "stat": "",
+   "attribution": "Nassimi"
+  },
+  {
+   "claim": "Hyphyn maintains durability, cleanability and a comparable price point to conventional vinyl",
+   "stat": "",
+   "attribution": "Nassimi"
+  },
+  {
+   "claim": "The improved material backing is made from recycled plastic bottles containing the same enzyme embedded in the vinyl",
+   "stat": "",
+   "attribution": "Nassimi"
+  }
+ ],
+ "vocabulary": [
+  "biodegradable vinyl",
+  "upholstery materials manufacturer",
+  "high-traffic environments",
+  "hospitality, healthcare, education, office and retail",
+  "incineration",
+  "dioxin content analysis",
+  "I-TEQ toxicity level",
+  "patented enzyme system",
+  "proprietary resin formulation",
+  "landfill conditions",
+  "microplastics",
+  "recycled plastic bottles",
+  "bleach cleanability",
+  "stain resistance",
+  "end-of-life option",
+  "eco-conscious standards",
+  "Hyphyn",
+  "Nassimi"
+ ],
+ "topics_covered": []
+}

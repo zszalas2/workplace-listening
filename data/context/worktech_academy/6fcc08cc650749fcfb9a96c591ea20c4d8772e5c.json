@@ -1,0 +1,16 @@
+{
+ "id": "6fcc08cc650749fcfb9a96c591ea20c4d8772e5c",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPU0R0b2h1WFlfeGNZRDkwWUpoTlNYUTZCWVE2bnZSMEU1Q0NFalJBd3UyQW9VMDdEejZMRWZEWUk1eDdjMWdqcDVWYUJ6NzdOMk9qSFJfUm1LVE16NzNTZlljVHYwc0dPang3azlGZU9ZN0JYMzlwT2hEMWN1RGdfZEJrLThkWjdLQWc?oc=5",
+ "published_at": "2023-04-12",
+ "observed_at": "2026-08-31",
+ "summary": "This item is a Google News RSS stub for a WORKTECH Academy article titled \"How to scale and manage a smart office using data.\" The captured text contains only the headline repeated alongside the publisher name, with no article body, byline, date, quotes, or data available in the supplied payload. As a result, no substantive content can be summarized and no factual claims, statistics, or attributions can be extracted.\n\nBased on the title alone, the piece appears to address smart building and smart office management, specifically how organizations use workplace data to scale smart office deployments and operate them over time. Likely adjacent subject matter, inferred rather than confirmed, would include sensors and occupancy data, building systems integration, workplace analytics platforms, and governance of data collection across a portfolio. None of this can be verified from the text provided.\n\nBecause the theme registry requires strict tagging against evidence in the item, and the only evidence is a headline that does not clearly map to any registered theme (hot desking backlash, RTO mandates, admin overhead, multi-site proof of work, support desk metrics, vendor risk review, attendance tracking, visitor sign-in build versus buy, quiet space and coworking choice, meeting AV kit, IT asset baselines, or agentic AI governance), no themes are tagged. The closest conceptual neighbor would be workplace analytics, which is not present as a theme_id in the registry.\n\nRecommended handling for the listening pipeline: flag this record as a truncated feed item and re-fetch the canonical URL to retrieve the full article text before scoring. If the full text becomes available, reassess for possible overlap with attendance and presence tracking or occupancy monitoring themes, since smart office data articles frequently touch sensor-based utilization measurement and the privacy questions that follow.",
+ "claims": [],
+ "vocabulary": [
+  "smart office",
+  "scale and manage",
+  "data",
+  "WORKTECH Academy"
+ ],
+ "topics_covered": []
+}

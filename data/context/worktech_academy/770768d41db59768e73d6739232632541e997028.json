@@ -1,0 +1,15 @@
+{
+ "id": "770768d41db59768e73d6739232632541e997028",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ3BYSzMyRFhBTzVTR2EyMHJna1JyRE1mX2IyVGJIcmxvVnIzc2g3cWhLQjFhVnVVenBZOFBvRXZTVkIyeW1UMnhTUVdCVl9vcWVtcTY2V2Nxam5rMkZkb2Y0WEV2QmgwNWhmQkl2YzczZmxNYmNjaVI3ODlTMXRZemdB?oc=5",
+ "published_at": "2025-09-24",
+ "observed_at": "2026-08-31",
+ "summary": "This item is a headline-only entry from WORKTECH Academy, surfaced via a Google News RSS redirect. The title is \"The microgeography of new innovation spaces\" and the body text available in the feed simply repeats the title plus the publisher domain (worktechacademy.com). No article text, author, interviewee, data or supporting detail was included in the item, so the substance of the piece cannot be summarized or verified.\n\nWhat can be inferred is limited to the framing of the title. \"Microgeography\" suggests a piece about the fine-grained spatial organisation of innovation districts, campuses or buildings, likely discussing how proximity, adjacency and the placement of spaces influence collision, collaboration and knowledge exchange. \"New innovation spaces\" points to typologies such as labs, incubators, accelerators, university-industry clusters or corporate innovation hubs. WORKTECH Academy typically publishes research-led commentary on workplace design, technology and the future of work, so the piece is plausibly a research summary or think piece rather than vendor content.\n\nNo claims, statistics, vendor names, product categories or policy positions are present in the retrieved text. There is no discussion of visitor management, desk or room booking, hybrid and return-to-office policy, workplace analytics tooling, attendance tracking, service desk operations, or AI governance. As a result, no theme tags from the registry can be applied with confidence, and no vocabulary beyond the title terms can be extracted.\n\nRecommendation for the pipeline: treat this as an unresolved stub and re-fetch the canonical URL behind the Google News redirect before scoring. If full text becomes available, the item may be relevant to workplace design and space typology themes, but assigning tags now would introduce noise into saturation scoring.",
+ "claims": [],
+ "vocabulary": [
+  "microgeography",
+  "innovation spaces",
+  "WORKTECH Academy"
+ ],
+ "topics_covered": []
+}

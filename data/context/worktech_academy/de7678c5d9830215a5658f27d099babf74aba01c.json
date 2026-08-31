@@ -1,0 +1,23 @@
+{
+ "id": "de7678c5d9830215a5658f27d099babf74aba01c",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB6NW1fTDZWc1NKUmRUOU5rVDdKbXRiSXNaSjRORkhGcUpYTkNsbFRKS2x6SjJJMmNzUWFLRzJqOW5zTXFuVTBxdklrc3ktemhVeXZDeWs4VXNOdTBxaEtGZEIwNA?oc=5",
+ "published_at": "2018-11-07",
+ "observed_at": "2026-08-31",
+ "summary": "This item is a Google News RSS stub for a WORKTECH Academy article titled \"Robot reboot: why AI might create more jobs than it destroys.\" The available payload contains only the headline, the publisher name (worktechacademy.com), and a redirect URL; no body text, author, quotes, or data were included in the feed.\n\nBased on the headline alone, the piece appears to argue against the prevailing narrative that artificial intelligence and automation will produce net job losses, suggesting instead that AI may generate more roles than it eliminates. The framing (\"robot reboot\") implies a revisiting of earlier automation anxiety cycles, likely touching on job creation, role redesign, and reskilling in the future of work. WORKTECH Academy typically covers workplace strategy, technology and the changing office, so the article probably situates the AI labour market question within broader workplace and workforce planning themes.\n\nWithout the full text, no specific claims, statistics, research citations, or expert attributions can be extracted or verified. There is no discussion available on the registry themes relevant to this listening pipeline: nothing on visitor management, desk or room booking, hybrid and return-to-office policy, attendance tracking, workplace analytics, facilities operations, or AI agent governance in a workplace tooling context. The headline signals a macro labour market and AI employment topic rather than any of the operational workplace technology themes in the registry.\n\nRecommendation: retrieve the full article before scoring, since the AI employment angle could potentially intersect with agentic AI tooling themes if the body discusses agents doing work inside teams. As supplied, the item is a title-only fragment and should be treated as low-value for saturation purposes.",
+ "claims": [
+  {
+   "claim": "AI might create more jobs than it destroys",
+   "stat": "",
+   "attribution": "WORKTECH Academy (article headline)"
+  }
+ ],
+ "vocabulary": [
+  "AI",
+  "robot reboot",
+  "automation",
+  "job creation",
+  "future of work"
+ ],
+ "topics_covered": []
+}

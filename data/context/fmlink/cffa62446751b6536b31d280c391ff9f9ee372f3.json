@@ -1,0 +1,85 @@
+{
+ "id": "cffa62446751b6536b31d280c391ff9f9ee372f3",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/most-organizations-are-preparing-workers-for-todays-ai-not-tomorrows/",
+ "published_at": "2026-08-28",
+ "observed_at": "2026-08-31",
+ "summary": "The Conference Board, a nonpartisan not-for-profit think tank, published research finding that most organizations are training employees for their current roles rather than preparing them for AI-driven workforce transformation. The report draws on interviews with 35 enterprise leaders and a global survey of nearly 1,300 workers.\n\nKey findings: AI adoption is outpacing formal training. About 55% of workers use generative AI or AI agents daily or weekly, but only 33% have taken employer-provided AI training in the past six months, and 28% say their employer offers no AI training at all. Fewer than half of workers say they get sufficient time during work hours (48%) or sufficient tools, access and resources (47.6%) to build AI skills.\n\nOrganizations concentrate on foundational skills such as AI literacy and basic prompting, with far less attention to advanced capabilities like managing AI agents, integrating AI into workflows, or applying AI to strategic business problems. This creates a widening gap between what the technology can do and what employees can do with it.\n\nThe report argues traditional learning approaches are insufficient, recommending a blend of formal, social and experiential learning, plus hands-on experimentation and managerial support. It calls for enterprise-wide learning and adoption ecosystems aligned across strategy, governance, learning, workflow redesign, culture and skills measurement, with involvement from HR, L&D, technology, legal and business units, and reinforcement across the employee life cycle from talent acquisition to performance management.\n\nMost organizations are not yet preparing for large-scale reskilling and redeployment. Employees who trust their employer to help them adapt are far more likely to expect AI to improve their jobs.\n\nRecommendations for CHROs and business leaders: prioritize applied capability over literacy, provide time and tools, build blended learning architectures, align skilling with business strategy and assign clear ownership, prepare for reskilling now, and strengthen employee confidence.",
+ "claims": [
+  {
+   "claim": "The report is based on interviews with enterprise leaders and a global worker survey",
+   "stat": "35 enterprise leaders; nearly 1,300 workers",
+   "attribution": "The Conference Board"
+  },
+  {
+   "claim": "Workers use generative AI or AI agents daily or weekly",
+   "stat": "55.1%",
+   "attribution": "The Conference Board"
+  },
+  {
+   "claim": "Workers who have used organization-provided AI training in the past six months",
+   "stat": "33.3%",
+   "attribution": "The Conference Board"
+  },
+  {
+   "claim": "Workers say their organization provides no AI training at all",
+   "stat": "28.3%",
+   "attribution": "The Conference Board"
+  },
+  {
+   "claim": "Workers agree their organization provides sufficient time during work hours for AI skills development",
+   "stat": "48.0%",
+   "attribution": "The Conference Board"
+  },
+  {
+   "claim": "Workers agree they have sufficient tools, access and resources to build AI capabilities",
+   "stat": "47.6%",
+   "attribution": "The Conference Board"
+  },
+  {
+   "claim": "AI literacy alone will not create business value; value comes from helping employees apply AI in their work",
+   "stat": "",
+   "attribution": "Matt Rosenbaum, Principal Researcher, Human Capital, The Conference Board"
+  },
+  {
+   "claim": "Employees are far more optimistic about AI when they believe their organization will help them adapt",
+   "stat": "",
+   "attribution": "Marion Devine, Principal Researcher, Human Capital, Europe, The Conference Board"
+  },
+  {
+   "claim": "Organizations that navigate AI successfully will treat workforce transformation as a leadership priority",
+   "stat": "",
+   "attribution": "Diana Scott, U.S. Human Capital Center Leader, The Conference Board"
+  },
+  {
+   "claim": "Few organizations help workers develop advanced capabilities such as managing AI agents or integrating AI into workflows",
+   "stat": "",
+   "attribution": "The Conference Board"
+  }
+ ],
+ "vocabulary": [
+  "AI literacy",
+  "upskilling",
+  "reskilling",
+  "redeployment",
+  "AI agents",
+  "generative AI",
+  "basic prompting techniques",
+  "workflow redesign",
+  "skills measurement",
+  "learning architectures",
+  "formal, social, and experiential learning",
+  "enterprise-wide learning and adoption ecosystems",
+  "employee life cycle",
+  "talent acquisition",
+  "performance management",
+  "CHRO",
+  "human capital",
+  "workforce transformation",
+  "governance",
+  "applied capabilities"
+ ],
+ "topics_covered": [
+  "agentic_ai_tooling_and_governance"
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "id": "354b5da66d299ffa65365b1071fc477a609e8b17",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/boma-offers-legionella-guidance-to-help-assess-and-mitigate-risks-following-new-york-city-outbreak/",
+ "published_at": "2026-08-26",
+ "observed_at": "2026-08-31",
+ "summary": "FMLink reports that BOMA International, the commercial real estate trade association, is promoting its Legionella / Legionnaires' disease guidance following a Legionnaires' outbreak in New York City. City health officials say the outbreak source has been identified and remediated after extensive testing and disinfection. The outbreak produced dozens of reported cases and several deaths, which BOMA frames as evidence of the need for proactive building water system management.\n\nBOMA Chair and Chief Elected Officer Kjersten Jaeb (BOMA Fellow, RPA, LEED GA) says that although health officials have contained the immediate threat, Legionella prevention requires ongoing vigilance, and that building owners and managers play a critical role in maintaining safe water systems. BOMA positions itself as committed to supplying supporting resources.\n\nThe article explains the underlying condition: Legionnaires' disease is a serious form of pneumonia caused by Legionella bacteria. It is not transmitted person to person and cannot be contracted by drinking water. Infection happens when people inhale aerosolized water droplets containing the bacteria. Those droplets can form in building systems such as cooling towers, hot water systems, decorative fountains, and other water features.\n\nBOMA stresses that despite the outbreak being localized to New York City, Legionella risk management is a nationwide concern for building owners and operators. The association offers comprehensive guidance and best practices for preventing, identifying, and responding to Legionella-related risks, published as a downloadable Legionella Guidance Document linked from the piece.\n\nThe item is essentially an industry association resource announcement aimed at facilities, property management, and commercial real estate audiences, tying a public health incident to routine water management compliance and preventive maintenance responsibilities. It contains no product, technology, workplace-policy, or workplace-experience content beyond building operations and environmental health and safety.",
+ "claims": [
+  {
+   "claim": "The New York City Legionnaires' disease outbreak source was identified and remediated after extensive testing and disinfection",
+   "stat": "",
+   "attribution": "New York City health officials, via FMLink/BOMA"
+  },
+  {
+   "claim": "The outbreak resulted in reported cases and deaths",
+   "stat": "dozens of reported cases and several deaths",
+   "attribution": "FMLink article citing New York City health officials"
+  },
+  {
+   "claim": "Legionella prevention requires ongoing vigilance even after an immediate threat is contained, and building owners and managers play a critical role in maintaining safe water systems",
+   "stat": "",
+   "attribution": "Kjersten Jaeb, Chair & Chief Elected Officer, BOMA International"
+  },
+  {
+   "claim": "Legionnaires' disease is not spread person to person and cannot be contracted through drinking water; infection occurs by inhaling aerosolized water droplets containing the bacteria",
+   "stat": "",
+   "attribution": "BOMA International"
+  },
+  {
+   "claim": "Legionella can develop in building systems including cooling towers, hot water systems, decorative fountains, and other water features",
+   "stat": "",
+   "attribution": "BOMA International"
+  },
+  {
+   "claim": "Legionella risk management is a nationwide concern for building owners and operators, not only in New York City",
+   "stat": "",
+   "attribution": "BOMA International"
+  }
+ ],
+ "vocabulary": [
+  "Legionella",
+  "Legionnaires' disease",
+  "water management practices",
+  "building water system management",
+  "cooling towers",
+  "hot water systems",
+  "decorative fountains",
+  "aerosolized water droplets",
+  "commercial real estate",
+  "building owners and managers",
+  "Legionella Guidance Document",
+  "best practices",
+  "risk management",
+  "BOMA Fellow",
+  "RPA",
+  "LEED GA"
+ ],
+ "topics_covered": []
+}

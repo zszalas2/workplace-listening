@@ -1,0 +1,13 @@
+{
+ "id": "4c9a01cc17d7b2068f0bcff7a0a334fefafb6251",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZkVIVXppUVhIeXUwbzNzaXpsMGNsT0dTMDNYRGN5VHRsMElUZ1o0T2pSTE5CMVRyNnY4NUFSaW41RE4zVFg2VjRQMEloUmRZUnltaTkwRkZnSkpKc21YckY4S3RBQ3hlM3NkQTVnbm8zNjh6Qm1PMmlkLXlTRVhWTE1kUGpjYkd5RkwtZkZ3bEh0YkZPUUFoTE5SdC1UZXpIWVlhUi1FbjNWVURZbGl4WDRucWdjVzVrYktOSVhsMU9ndjRaQ3pJc3VzRElVYmNkVG5NRUV3?oc=5",
+ "published_at": "2022-08-01",
+ "observed_at": "2026-08-31",
+ "summary": "This item contains no usable editorial content. The record is a Google News RSS redirect link attributed to WORKTECH Academy (worktechacademy.com), with a title that is only the publication name and body text that repeats that name. There is no headline topic, byline, date, or article body available in the supplied payload, so no workplace-technology subject matter can be identified. Nothing can be determined about whether the underlying piece addresses visitor management, desk or room booking, hybrid and return-to-office policy, workplace analytics, or facilities operations. No factual claims, statistics, quotations, or named sources are present. No category or vendor terminology appears beyond the publisher name itself. Recommended handling: treat as a retrieval or scraping failure rather than a substantive article, and requeue for fetching from the resolved destination URL before summarization or theme tagging. Because the theme registry requires evidence of subject coverage, no theme_ids are assigned. If a later fetch resolves the full text, the piece should be re-evaluated, since WORKTECH Academy typically publishes on workplace design, hybrid working, and workplace technology research, any of which could map to registry themes such as hot desking backlash or hybrid RTO mandate pushback. As supplied, however, there is insufficient signal to support any tagging, saturation scoring, or claim extraction.",
+ "claims": [],
+ "vocabulary": [
+  "WORKTECH Academy"
+ ],
+ "topics_covered": []
+}

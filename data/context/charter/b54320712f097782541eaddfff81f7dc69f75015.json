@@ -1,0 +1,48 @@
+{
+ "id": "b54320712f097782541eaddfff81f7dc69f75015",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/steal-this-idea-how-wiley-is-building-a-homegrown-coaching-army/",
+ "published_at": "2026-08-28",
+ "observed_at": "2026-08-31",
+ "summary": "Charter's \"Steal this idea\" column profiles how Wiley, a 5,000-person publishing company, is expanding access to personalized coaching without a large budget by building an internal, homegrown pool of coaches.\n\nContext: Charter previously covered LinkedIn's \"coaching for all\" benefit, which extended access to a human coach to all 17,500 LinkedIn employees. The question the piece raises is what employers can do if they want similar breadth of coaching access but lack LinkedIn-scale budget.\n\nWiley's approach is layered. Like many employers, it pays for external professional coaches for some senior or high-level employees. It has also added an AI coaching platform through an external vendor, AceUp. On top of those two paid layers, it is developing its own internal \"coaching army\" of employee coaches who can be deployed across the organization, which addresses the cost problem cited by David Smolski, Wiley's director of learning and development, who notes that sending people to professional coaches is expensive.\n\nThe framing is a talent development and L and D cost-efficiency play: internal coaching capacity as a scalable alternative to per-seat external coaching spend, with AI coaching tools filling a middle tier. The excerpt is brief and does not detail selection, training, certification, matching, or measurement of the internal coach program, nor does it give cost comparisons or outcome data.\n\nNo workplace-experience, facilities, visitor management, desk or room booking, attendance, or hybrid policy content appears in this item. It is a people and learning development story rather than a workplace-technology or space-operations story.",
+ "claims": [
+  {
+   "claim": "LinkedIn's \"coaching for all\" benefit gave all of the company's employees access to a human coach",
+   "stat": "17,500 employees",
+   "attribution": "Charter (prior coverage)"
+  },
+  {
+   "claim": "Wiley is a publishing company of roughly 5,000 people",
+   "stat": "5,000-person",
+   "attribution": "Charter"
+  },
+  {
+   "claim": "Sending employees to external professional coaches is costly",
+   "stat": "",
+   "attribution": "David Smolski, director of learning and development, Wiley"
+  },
+  {
+   "claim": "Wiley pays for external coaching for some high-level employees and has added an AI coaching platform via external vendor AceUp",
+   "stat": "",
+   "attribution": "Charter"
+  },
+  {
+   "claim": "Wiley is developing its own internal pool of coaches to deploy across the organization",
+   "stat": "",
+   "attribution": "Charter"
+  }
+ ],
+ "vocabulary": [
+  "coaching for all",
+  "human coach",
+  "AI coaching platform",
+  "AceUp",
+  "learning and development",
+  "director of learning and development",
+  "homegrown coaching army",
+  "external coaches",
+  "personalized coaching",
+  "benefit"
+ ],
+ "topics_covered": []
+}

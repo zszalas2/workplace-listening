@@ -1,0 +1,15 @@
+{
+ "id": "0cc41a9b8567823a6aab75b725dd277b07eb8f0e",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPendnLVZMajRtX1pSTFRhaDR2YmdVWk54azFnTEJVb1pJek92Rk1ncERwS1JkcF9zeXh0eGlXWGNrcEJ2VFdBSjlIdWdrWXIzRWZfTG1GbFBXYnlZa1czd0pxSzQ4bGhIdGxGNEZENVRwMzJhWWxyY0x4LVVQTHBDOVQyVHViX1RRZlJxcWRVR1QyaWN2cXc?oc=5",
+ "published_at": "2025-10-02",
+ "observed_at": "2026-08-31",
+ "summary": "This item is a headline-only entry from WORKTECH Academy, surfaced via a Google News RSS link. The title, \"Science in the city: what's next for London's pharma industry?\", suggests coverage of the life sciences and pharmaceutical sector in London, likely touching on lab and science-led real estate, city-based innovation clusters, and the future direction of the industry. However, no body text was supplied beyond the title and source attribution, so the substance, argument, data points and sources of the article cannot be assessed. There is no available detail on workplace technology topics such as visitor management, desk or room booking, hybrid and return-to-office policy, workplace analytics, or facilities operations. No statistics, named experts, vendors or organisations are present in the provided content. Any thematic tagging would be speculative. Recommended action for the listening pipeline: retrieve the full article text before summarising or scoring, as the headline alone is insufficient for extraction of claims or vocabulary. If the full text becomes available, likely relevant angles to check would include science and lab workplace design, London office and lab supply, talent attraction, and cluster development, none of which map cleanly to the current theme registry as provided.",
+ "claims": [],
+ "vocabulary": [
+  "pharma industry",
+  "science in the city",
+  "London"
+ ],
+ "topics_covered": []
+}

@@ -1,0 +1,61 @@
+{
+ "id": "059500d7ce2c451d04bfe0243e8c538bc2f649cb",
+ "source_id": "workplace_insight",
+ "url": "https://workplaceinsight.net/hybrid-working-and-the-hidden-cost-of-being-always-on-at-work/?utm_source=rss&utm_medium=rss&utm_campaign=hybrid-working-and-the-hidden-cost-of-being-always-on-at-work",
+ "published_at": "2026-08-26",
+ "observed_at": "2026-08-31",
+ "summary": "An opinion/research piece in Workplace Insight arguing that hybrid working has blurred the boundary between work and personal time, creating an \"always on\" culture. The author notes that the problem is not confined to remote workers: office-based employees also carry work with them via smartphones and constant digital connectivity, doing small after-hours tasks such as replying to email at 9pm or prepping for a meeting before bed.\n\nCiting Laura Giurge at the London School of Economics, the piece says flexible and remote working can make it harder to disconnect and increase pressure to stay available. The author's own new paper introduces the idea of a \"resource loss spiral\": after-hours connectivity raises mental depletion and work alienation, which then reduces next-day performance. The team tracked employees' after-hours behaviour and next-day performance across a ten-day period and found that on days with more out-of-hours work activity, employees performed worse the next day. Rather than clearing the to-do list, the extra evening hour is \"borrowed against the next morning.\"\n\nThe explanation draws on conservation of resources theory and ego depletion, the feeling of being mentally spent with less willpower and self-control, which in turn feeds work alienation and disengagement. Effects were moderated: employees with high core self-evaluations (confidence, self-esteem, emotional resilience) were less affected, and effects were weaker in lower-complexity roles.\n\nContextually, the piece notes UK proposals for a statutory \"right to switch off\" were rejected, but the debate over after-hours communication continues. Three recommendations for leaders: treat the right to log off as a performance issue rather than a wellbeing perk, since recovery enables sustained productivity; be deliberate about norms, because leaders emailing late at night signal expectations regardless of disclaimers; and attend to job design and support for those in complex, demanding roles. The conclusion is not to reject flexibility but to ensure it serves employees rather than keeping them permanently on call.",
+ "claims": [
+  {
+   "claim": "Flexible and remote working can contribute to an \"always on\" culture, making it harder for employees to disconnect and increasing pressure to remain available outside working hours",
+   "stat": "",
+   "attribution": "Laura Giurge, London School of Economics"
+  },
+  {
+   "claim": "After-hours connectivity triggers a \"resource loss spiral\" of mental depletion and alienation from work, leading to worse performance the following day",
+   "stat": "",
+   "attribution": "The author and colleagues, in their latest paper"
+  },
+  {
+   "claim": "A study tracked employees' after-hours work behaviour and next-day performance; on days with more out-of-hours work activity, employees performed less well the next day",
+   "stat": "ten-day tracking period",
+   "attribution": "The author's research"
+  },
+  {
+   "claim": "After-hours connectivity increased employees' ego depletion, which fed into work alienation and disengagement",
+   "stat": "",
+   "attribution": "The author's research"
+  },
+  {
+   "claim": "Employees with high core self-evaluations were less impacted by after-hours contact, and effects were weaker in roles with lower job complexity",
+   "stat": "",
+   "attribution": "The author's research"
+  },
+  {
+   "claim": "UK proposals for a statutory \"right to switch off\" were rejected",
+   "stat": "",
+   "attribution": "Article author"
+  }
+ ],
+ "vocabulary": [
+  "hybrid working",
+  "always on culture",
+  "after-hours connectivity",
+  "resource loss spiral",
+  "ego depletion",
+  "work alienation",
+  "conservation of resources theory",
+  "core self-evaluations",
+  "job complexity",
+  "job design",
+  "right to switch off",
+  "right to log off",
+  "burnout",
+  "employee wellbeing",
+  "recovery time",
+  "digital connectivity",
+  "remote working",
+  "flexibility"
+ ],
+ "topics_covered": []
+}

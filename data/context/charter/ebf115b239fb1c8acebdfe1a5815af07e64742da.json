@@ -1,0 +1,54 @@
+{
+ "id": "ebf115b239fb1c8acebdfe1a5815af07e64742da",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/as-students-return-to-campus-the-bridge-from-graduation-to-employment-is-breaking-down/",
+ "published_at": "2026-08-28",
+ "observed_at": "2026-08-31",
+ "summary": "An opinion piece by Marian Salzman (SVP, Corporate Development, PMI U.S.) and Dr. Kaleen Love (Chief People and Culture Officer, PMI U.S.) arguing that the traditional bridge between higher education and employment is breaking down. Students apply to hundreds of jobs without response while employers claim they cannot find talent; career services offices and hiring managers are both overwhelmed, and generative AI is worsening the strain.\n\nThe authors frame the core problem not as a skills gap but a translation gap: students are trained to accumulate credentials but not to articulate who they are, how they think, or why they matter. Employers say they want curiosity, resilience, adaptability, ethical judgment, emotional intelligence and communication, yet applicant-tracking systems screen for keywords and filter those qualities out before any human conversation. Students can generate a resume with AI in seconds, and some use AI to supply live interview answers, but many have not learned handshakes, eye contact, ambiguity, or telling their own story unmediated.\n\nBlame is shared. Universities treated career services as an administrative afterthought and behave as though the degree is the finished product rather than a launchpad. This disadvantages first-generation students, veterans, community college graduates and nontraditional learners, who lack the inherited fluency in networking language and workplace etiquette that higher-income, white-collar families pass along. Employers, during and after COVID, dismantled relationship-driven campus recruiting and replaced experienced recruiters with portals, algorithms and efficiency metrics.\n\nPMI U.S. has convened roundtables with career services representatives and reports that the strongest-outcome institutions embed experiential learning and teach professional communication, networking, ethical AI use and adaptive thinking as career skills rather than soft skills. The authors argue technical skills have short shelf lives and that synthesis, judgment, trust-building, leadership and human connection will define the next 20 years. PMI U.S. cites its 10-week paid summer internships for rising seniors aged 21+ and a Senior Fellow leadership program, screening for creative thinking, motivation, tenacity and purpose over GPA.",
+ "claims": [
+  {
+   "claim": "A recent study found nearly half of graduates feel unprepared even to apply for an entry-level role",
+   "stat": "48 percent of graduates",
+   "attribution": "Unnamed recent study, cited by Salzman and Love"
+  },
+  {
+   "claim": "Goldman Sachs' intern acceptance rate hit a record low in 2024",
+   "stat": "315,126 applicants competing for 2,700 spots",
+   "attribution": "Salzman and Love, citing 2024 Goldman Sachs figures"
+  },
+  {
+   "claim": "Most surveyed students say meeting an employer at a career event makes them more likely to apply for a job",
+   "stat": "three-quarters of surveyed students",
+   "attribution": "Unnamed survey cited by Salzman and Love"
+  },
+  {
+   "claim": "Students can generate a resume using AI in under 30 seconds, and some use AI tools to feed them interview answers in real time",
+   "stat": "under 30 seconds",
+   "attribution": "Salzman and Love"
+  },
+  {
+   "claim": "PMI U.S. runs 10-week paid summer internships for rising college seniors aged 21+ plus a Senior Fellow leadership development program",
+   "stat": "10-week paid internships",
+   "attribution": "Salzman and Love, PMI U.S."
+  }
+ ],
+ "vocabulary": [
+  "applicant-tracking systems",
+  "skills gap",
+  "translation gap",
+  "career services",
+  "campus recruiting",
+  "talent pipelines",
+  "experiential learning",
+  "soft skills versus career skills",
+  "generative AI",
+  "early-career programs",
+  "first-generation students",
+  "nontraditional learners",
+  "Senior Fellow leadership development program",
+  "efficiency metrics",
+  "career storytelling",
+  "workplace etiquette"
+ ],
+ "topics_covered": []
+}

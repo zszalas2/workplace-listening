@@ -1,0 +1,15 @@
+{
+ "id": "d098c0a1994a80e97854ad26909d764b13bfb532",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJSWtBZ2l5NFRUSDRucGd4NGpMWnVwVl9Yc2FWUk9ZcGtVQlJPOW1menpvX2ZPcWI1LVBITTBjTGdQNU92NW54eTZ1dC0yWFBmRE5OMVR5cHR0NU5YYnpQcTRtQmg?oc=5",
+ "published_at": "2021-04-14",
+ "observed_at": "2026-08-31",
+ "summary": "This item is not a substantive article. It is an archive listing page from WORKTECH Academy (\"Place Archives - Page 3 of 10\"), surfaced via a Google News RSS redirect link. The retrieved text consists only of the page title and site domain, with no article body, author, date, quotes, statistics, or editorial content available for summarization.\n\nBecause the payload contains no analysis or reporting, no claims can be extracted and no thematic coverage can be assessed. The only inference available is contextual: WORKTECH Academy is a workplace research and insight publisher, and its \"Place\" category typically aggregates content on workplace design, real estate, and the physical office environment. That category signal alone is too thin to support tagging against specific themes such as hot desking, RTO mandates, visitor management, or workplace analytics, since none of those subjects are actually discussed in the captured text.\n\nRecommended handling for the listening pipeline: treat this as a crawl artifact rather than a content item. The underlying Google News link resolves to a paginated taxonomy page rather than a single story, which suggests either a feed misconfiguration or a scraper that followed a category URL instead of an article permalink. Re-crawl of individual article URLs from the WORKTECH Academy \"Place\" section would be needed to obtain usable material. Until then this record should be suppressed from saturation scoring, since including empty archive pages would inflate source volume counts without contributing any evidence, vocabulary, or claims to theme coverage.",
+ "claims": [],
+ "vocabulary": [
+  "Place",
+  "archives",
+  "worktechacademy.com"
+ ],
+ "topics_covered": []
+}

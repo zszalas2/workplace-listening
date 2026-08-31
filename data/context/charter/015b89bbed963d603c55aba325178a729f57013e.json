@@ -1,0 +1,72 @@
+{
+ "id": "015b89bbed963d603c55aba325178a729f57013e",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/what-jared-diamond-says-decides-whether-leaders-actually-matter/",
+ "published_at": "2026-08-30",
+ "observed_at": "2026-08-31",
+ "summary": "Charter's newsletter combines an AI-and-work briefing with an interview with Jared Diamond about when leaders actually matter.\n\nAI + Work Radar items: Bill Gates published a nearly 6,000-word essay arguing leaders have no plan for the AI transition, predicting effects on both white- and blue-collar jobs and calling for AI-specific taxes, retraining programs, and government regulation. He told The New York Times that tech executives are privately worried but discourage each other from saying so publicly because of fundraising ambitions. Harvard Business School launched Foundry, a $699 entrepreneurship boot camp using AI-generated video avatars of its instructors to coach founders on pitching, sales calls, and running board meetings. Senate banking committee Democrats wrote to Fed Chair Kevin Warsh demanding worker perspectives on the central bank's AI task force, noting current members (Marc Andreessen, Microsoft's Asha Sharma, and Anthropic Institute's Charles I. Jones) have financial ties to the AI industry. Unions and construction trade groups are threatening to withhold support from candidates opposing data-center projects, a \"backlash to the backlash\" per The Wall Street Journal, since projects boost labor hours for electricians and HVAC workers.\n\nThe main feature is an edited interview with Jared Diamond, 88, on his book Profits, Prophets, Coaches, and Kings. Diamond declines to offer leadership generalizations but identifies conditions under which leaders make a difference: recognizing and seizing the right time and place (Bill Gates and the 1975 Popular Electronics cover; Churchill and World War II); being a founder or first in a role rather than the 37th CEO in a line; and being able to move people toward things they initially opposed (De Gaulle on Algeria, FDR on entering World War II). He calls discretion the \"magic word\": regulated utility CEOs have little, while a teen t-shirt or perfume or restaurant CEO has enormous latitude to get rich or get fired. He notes there are roughly 15 different ways to be an effective leader, including charisma and fear.",
+ "claims": [
+  {
+   "claim": "Bill Gates warned leaders have no plan for easing the transition to the AI era, affecting white- and blue-collar jobs, and called for AI-specific taxes, retraining, and regulation",
+   "stat": "nearly 6,000-word essay",
+   "attribution": "Bill Gates"
+  },
+  {
+   "claim": "Tech executives are privately worried about AI's threats but tell each other not to say so publicly because it hurts fundraising",
+   "stat": "the next trillion dollars we're trying to raise",
+   "attribution": "Bill Gates, in an interview with The New York Times"
+  },
+  {
+   "claim": "Harvard Business School launched Foundry, an entrepreneurship boot camp using AI-generated video avatars of its instructors to coach founders on pitching, sales calls, and board meetings",
+   "stat": "$699",
+   "attribution": "Charter newsletter"
+  },
+  {
+   "claim": "Senate banking committee Democrats demanded worker perspectives be added to the Fed's AI task force, citing members' financial ties to the AI industry",
+   "stat": "3 named members: Marc Andreessen, Asha Sharma, Charles I. Jones",
+   "attribution": "Democrats on the Senate banking committee, in a letter to Fed Chair Kevin Warsh"
+  },
+  {
+   "claim": "Unions and construction trade groups are threatening to withhold support from candidates who oppose data-center projects, breaking with longtime political allies in states such as Kansas",
+   "stat": "",
+   "attribution": "The Wall Street Journal"
+  },
+  {
+   "claim": "Timing is the dominant factor in business success",
+   "stat": "90%",
+   "attribution": "A friend of Jared Diamond in the business world, quoted by Diamond"
+  },
+  {
+   "claim": "Business schools charge high tuition to teach effective leadership, but there are many different ways to be an effective leader",
+   "stat": "$50,000 to $60,000 a year tuition; about 15 different ways",
+   "attribution": "Jared Diamond"
+  },
+  {
+   "claim": "Founders or first occupants of a role are more likely to be effective leaders than successors deep in a line of CEOs",
+   "stat": "37th CEO in a line of 150",
+   "attribution": "Jared Diamond"
+  },
+  {
+   "claim": "Jared Diamond is 88 years old and is a MacArthur Genius Grant recipient and Pulitzer Prize-winning author of Guns, Germs, and Steel",
+   "stat": "88",
+   "attribution": "Charter"
+  }
+ ],
+ "vocabulary": [
+  "AI + Work Radar",
+  "AI-specific taxes",
+  "retraining programs",
+  "AI task force",
+  "AI-generated video avatars",
+  "entrepreneurship boot camp",
+  "data-center projects",
+  "backlash to the backlash",
+  "discretion",
+  "judgment",
+  "discernment",
+  "effective leader",
+  "founder",
+  "board meetings"
+ ],
+ "topics_covered": []
+}

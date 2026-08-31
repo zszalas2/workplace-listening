@@ -1,0 +1,93 @@
+{
+ "id": "e29e0056e76c8ea40fc07e3de7a3533558d94937",
+ "source_id": "raconteur",
+ "url": "https://www.raconteur.net/risk-regulation/why-europes-fears-of-a-us-tech-kill-switch-could-remain-hard-to-shake",
+ "published_at": "2026-08-28",
+ "observed_at": "2026-08-31",
+ "summary": "Raconteur examines European anxiety about a US-controlled tech \"kill switch\" and finds a large gap between sovereignty ambition and operational readiness.\n\nSurvey evidence: A Proton survey reports 74% of British, German and French companies fear severe disruption if American Big Tech cut off critical digital infrastructure, roughly the same share that fear a cyberattack. Yet 54% of European companies could not stay operational for more than a day without cloud access; only 28% have a cloud outage continuity solution and just 24% have continuity plans for losing access to their usual AI tools. Two thirds say they would switch providers if a foreign government restricted an essential digital service.\n\nVendor view: Proton COO Raphael Auphan says 56% of European firms let geopolitical risk drive purchasing decisions, and that geopolitical issues now carry the same boardroom weight as cyber risk, citing the withdrawal of Fable 5 and the denial of Microsoft services to ICC officials. Proton reports signups up nearly 80% in the Nordics, and buyers arriving with structured dependency-reduction roadmaps stretching up to 24 months. He frames the question as how fast migration happens, not whether.\n\nAnalyst counterpoint: Penny Naas of The German Marshall Fund argues US cloud and tech providers will keep dominating Europe because they invest more in R&D and offer global scale; EU cloud providers are increasingly niche, with even the largest holding under 2% of the European market, while US rivals invest tenfold in R&D and data centres. Microsoft alone invested 3.2bn euros in German data centres over two years versus just under 2bn euros from the entire German cloud industry. She cites permitting, energy prices and chip access, but says the core problem is insufficient European private investment.\n\nPhilipp Eckhardt of the Centre for European Policy sees no significant shift, blaming reluctance to adopt less competitive alternatives, cognitive dissonance about kill-switch exposure, and a free-rider dynamic. The EU Technological Sovereignty Package may shift things only over the medium term.",
+ "claims": [
+  {
+   "claim": "British, German and French companies are concerned their businesses could be severely disrupted by American Big Tech pulling the plug on critical digital infrastructure",
+   "stat": "74%",
+   "attribution": "Proton survey"
+  },
+  {
+   "claim": "European companies could not remain operational for more than a day if they lost access to their cloud service",
+   "stat": "54%",
+   "attribution": "Proton survey"
+  },
+  {
+   "claim": "European firms have a continuity solution in the event of a cloud outage",
+   "stat": "28%",
+   "attribution": "Proton survey"
+  },
+  {
+   "claim": "European firms have continuity plans for being unable to access their usual AI tools",
+   "stat": "24%",
+   "attribution": "Proton survey"
+  },
+  {
+   "claim": "European firms would switch providers if a foreign government restricted access to an essential digital service",
+   "stat": "two thirds",
+   "attribution": "Proton survey"
+  },
+  {
+   "claim": "European firms say geopolitical risk is driving purchasing decisions",
+   "stat": "56%",
+   "attribution": "Raphael Auphan, COO, Proton"
+  },
+  {
+   "claim": "Proton signups surged across Europe, with similar figures across other regions",
+   "stat": "up nearly 80% in the Nordics",
+   "attribution": "Raphael Auphan, COO, Proton"
+  },
+  {
+   "claim": "Organisations are approaching Proton with structured dependency-reduction roadmaps",
+   "stat": "stretching up to 24 months",
+   "attribution": "Raphael Auphan, COO, Proton"
+  },
+  {
+   "claim": "Even the biggest EU-based cloud providers account for a small share of the European market",
+   "stat": "less than 2%",
+   "attribution": "Penny Naas, SVP of Innovation and Competitiveness, The German Marshall Fund"
+  },
+  {
+   "claim": "US providers are outspending European counterparts on R&D and new data centres",
+   "stat": "10-fold",
+   "attribution": "Penny Naas, The German Marshall Fund"
+  },
+  {
+   "claim": "Microsoft investment in Germany-based data centres over the past two years versus total German cloud industry domestic investment",
+   "stat": "3.2bn euros vs just under 2bn euros",
+   "attribution": "Raconteur / Penny Naas"
+  },
+  {
+   "claim": "There is no significant shift away from US providers underway despite growing awareness of dependency and kill-switch scenarios",
+   "stat": "",
+   "attribution": "Philipp Eckhardt, Head of Financial Markets and Information Technologies, Centre for European Policy"
+  }
+ ],
+ "vocabulary": [
+  "kill switch",
+  "tech sovereignty",
+  "technological sovereignty package",
+  "digital infrastructure",
+  "cloud service continuity",
+  "business continuity plan",
+  "geopolitical risk",
+  "dependency-reduction roadmap",
+  "hyperscaler dominance",
+  "AI tools access",
+  "R&D investment",
+  "data centres",
+  "privacy-focused email",
+  "VPN",
+  "password management",
+  "free-rider dynamic",
+  "cognitive dissonance",
+  "gold standard providers",
+  "vendor switching",
+  "supplier concentration risk"
+ ],
+ "topics_covered": []
+}

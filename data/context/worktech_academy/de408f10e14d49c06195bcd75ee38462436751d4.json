@@ -1,0 +1,15 @@
+{
+ "id": "de408f10e14d49c06195bcd75ee38462436751d4",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBraGQ3ZGZ0UmZYVFlyd1NVWFYwMHlGMVdCTGR6Qmh3eDUtSEdTc0VQYU5nUVQ1QUdVN1BtOWk2aTVLSllrbEppd0hUZG5HVm43SmZLN1dtWUloZlRyREs2ZC1wSXZ2WC1HWEVtenpQUTVtMEtsemc?oc=5",
+ "published_at": "2023-12-28",
+ "observed_at": "2026-08-31",
+ "summary": "This item contains no usable editorial content. The record consists of a Google News RSS redirect link and a title that is simply an image filename, \"ANZ-brand.svg,\" attributed to worktechacademy.com. The body text repeats the same string with the domain and nothing more. There is no article prose, no byline, no publication date, no quotes, and no data points to summarize.\n\nWorktech Academy is a workplace research and knowledge platform whose usual subject matter spans hybrid working, workplace design, real estate strategy and workplace technology, so the underlying page might plausibly have related content, but nothing in the supplied item confirms a subject. The reference to an ANZ brand asset suggests the crawled URL resolved to a logo or brand image file, likely a sponsor, partner or member logo on the site rather than a story.\n\nBecause no claims, statistics, vendor language or category terminology are present, no theme tagging can be justified. Assigning any theme from the registry would be speculative and would inflate saturation scores with content that carries no signal. Recommended handling: treat this as a crawl artifact, exclude it from the listening set, and flag the extraction rule so image assets and SVG filenames are filtered before they reach the summarization stage. If coverage of Worktech Academy is desired, refetch the canonical article URL rather than the news aggregator redirect, or pull from the site's article index directly.",
+ "claims": [],
+ "vocabulary": [
+  "Worktech Academy",
+  "ANZ brand asset",
+  "SVG"
+ ],
+ "topics_covered": []
+}

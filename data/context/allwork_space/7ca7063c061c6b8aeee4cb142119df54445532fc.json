@@ -1,0 +1,83 @@
+{
+ "id": "7ca7063c061c6b8aeee4cb142119df54445532fc",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/08/europes-office-return-is-growing-but-poor-workplace-quality-is-holding-it-back/",
+ "published_at": "2026-08-31",
+ "observed_at": "2026-08-31",
+ "summary": "Allwork.Space reports on JLL research showing European and global office attendance rising while workplace quality lags behind, particularly for focused work.\n\nAttendance trends: global office attendance rose to an average of 3.2 days per week, up from 2.7 in 2024. The share of employees who believe the office enables productive work rose to 73% from 70%. Socializing (63%) and internal meetings (55%) are the main drivers of coming in, yet once onsite employees spend roughly 70% of their time on individual work and virtual calls, creating a mismatch between why people come in and what the space must support. Perceived effectiveness of offices for focused work fell from 66% to 64%. Commute time (48%) and cost (29%) remain the leading barriers to attendance.\n\nNoise and acoustics: EMEA recorded the lowest Human Experience score of the measured regions at 88. Acoustics and sound privacy were the two lowest-performing workplace factors in the 2025 research. Employees also flagged problems with meeting rooms and equipment, with meeting rooms ranking seventh among the weakest factors.\n\nRoom demand: the share of required space allocated to rooms for two to four people rose from 39% to 43%, indicating growing demand for smaller meeting rooms. Meeting-room availability is further squeezed when employees occupy rooms for solo work and calls rather than collaboration.\n\nImplications: rising attendance alone does not improve workplace experience. Employers are advised to focus on acoustics, private and quiet areas, meeting-room capacity, technology and amenities so that offices support collaboration, virtual meetings and concentrated individual work. Workplace quality is framed as central to whether employees see the commute as worthwhile.",
+ "claims": [
+  {
+   "claim": "Global office attendance increased year over year",
+   "stat": "3.2 days per week average, up from 2.7 in 2024",
+   "attribution": "JLL"
+  },
+  {
+   "claim": "Share of employees who believe the office enables productive work rose",
+   "stat": "73%, up from 70%",
+   "attribution": "JLL"
+  },
+  {
+   "claim": "Socializing and internal meetings are major reasons for coming into the office",
+   "stat": "63% and 55% of respondents",
+   "attribution": "JLL"
+  },
+  {
+   "claim": "Employees spend most onsite time on solo work and virtual calls",
+   "stat": "about 70% of their time",
+   "attribution": "JLL"
+  },
+  {
+   "claim": "Perceived effectiveness of offices for focused work declined",
+   "stat": "from 66% to 64%",
+   "attribution": "JLL"
+  },
+  {
+   "claim": "Commute time and cost are the biggest obstacles to attendance",
+   "stat": "48% and 29% of respondents",
+   "attribution": "JLL"
+  },
+  {
+   "claim": "EMEA recorded the lowest Human Experience score among regions measured",
+   "stat": "88",
+   "attribution": "JLL"
+  },
+  {
+   "claim": "Acoustics and sound privacy were the two lowest-performing workplace factors",
+   "stat": "",
+   "attribution": "JLL 2025 research"
+  },
+  {
+   "claim": "Meeting rooms ranked seventh among the weakest workplace factors",
+   "stat": "7th",
+   "attribution": "JLL"
+  },
+  {
+   "claim": "Share of required space allocated to rooms for two to four people increased",
+   "stat": "from 39% to 43%",
+   "attribution": "JLL"
+  }
+ ],
+ "vocabulary": [
+  "office attendance",
+  "return to office",
+  "hybrid",
+  "Human Experience score",
+  "acoustics",
+  "sound privacy",
+  "focused work",
+  "individual work",
+  "virtual calls",
+  "meeting rooms",
+  "meeting-room availability",
+  "quiet areas",
+  "space allocation",
+  "amenities",
+  "commute",
+  "workplace experience",
+  "EMEA"
+ ],
+ "topics_covered": [
+  "hybrid_rto_mandate_pushback",
+  "quiet_space_calls_and_coworking_choice"
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "9a234b98e013445dcd4a12727788c7c4c2ecab21",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/08/saudi-arabias-office-market-turns-to-flexible-workspaces-as-riyadh-runs-short-on-premium-space/",
+ "published_at": "2026-08-31",
+ "observed_at": "2026-08-31",
+ "summary": "Allwork.Space, citing Arab News, reports that flexible workspace is taking a larger role in Saudi Arabia's corporate real estate market as Riyadh runs short of high-quality office space amid an influx of international companies.\n\nMarket conditions: CBRE's Q2 2026 Saudi Arabia Real Estate Market Review found prime office rents in Riyadh rose 3% to SR3,320 ($887) per square meter in Q2, with Grade A occupancy near full capacity. Demand is strongest in business districts such as King Abdullah Financial District (KAFD), where international entrants and established Saudi firms compete for limited premium stock.\n\nDemand drivers: More than 600 companies have set up regional headquarters in Riyadh. Established Saudi businesses are also upgrading from lower-grade offices as younger family business leaders seek workplaces meeting international standards. Tenant expectations are shifting toward buildings connected to retail, food and beverage, green space, residential options and public transportation.\n\nSupply response: Developers are designing flexible workspace into commercial projects. Rafal allocates roughly 15% to 20% of gross leasable area in new commercial developments to flexible workspace operators. The main appeal is speed: international entrants can get ready-to-use space without committing to long-term leases and extensive fit-outs, while developers benefit because flex operators absorb fit-out costs and help fill space.\n\nRegional HQ effect: The Regional Headquarters Program continues bringing international businesses to Riyadh and elsewhere in the Kingdom. Flex gives these firms an operating base while they size permanent requirements, and lets them scale footprint up or down with headcount.\n\nLocation and amenities: Riyadh Metro raises the value of transit-adjacent locations, and developers are adding restaurants, gyms, childcare and green areas. For employers competing for talent, accessibility and surrounding environment matter alongside office quality and size. Flex is becoming part of Riyadh's growth accommodation strategy.",
+ "claims": [
+  {
+   "claim": "Prime office rents in Riyadh rose in Q2",
+   "stat": "up 3% to SR3,320 ($887) per square meter",
+   "attribution": "CBRE Q2 2026 Saudi Arabia Real Estate Market Review"
+  },
+  {
+   "claim": "Grade A office occupancy in Riyadh remained close to full capacity",
+   "stat": "near full capacity",
+   "attribution": "CBRE Q2 2026 Saudi Arabia Real Estate Market Review"
+  },
+  {
+   "claim": "Companies have established regional headquarters in Riyadh",
+   "stat": "more than 600 companies",
+   "attribution": "Arab News via Allwork.Space"
+  },
+  {
+   "claim": "Rafal allocates a share of gross leasable area in new commercial developments to flexible workspace operators",
+   "stat": "around 15% to 20%",
+   "attribution": "Rafal, via Arab News"
+  },
+  {
+   "claim": "Flexible operators can take on fit-out costs, giving developers another way to fill space",
+   "stat": "",
+   "attribution": "Allwork.Space"
+  }
+ ],
+ "vocabulary": [
+  "flexible workspace",
+  "corporate real estate",
+  "prime office rents",
+  "Grade A occupancy",
+  "gross leasable area",
+  "fit-out",
+  "long-term leases",
+  "regional headquarters",
+  "Regional Headquarters Program",
+  "King Abdullah Financial District (KAFD)",
+  "flex operators",
+  "footprint",
+  "amenities",
+  "transit connections",
+  "Riyadh Metro",
+  "ready-to-use workplaces"
+ ],
+ "topics_covered": []
+}

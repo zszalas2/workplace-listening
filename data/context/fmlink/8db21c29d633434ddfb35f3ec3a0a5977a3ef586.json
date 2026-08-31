@@ -1,0 +1,82 @@
+{
+ "id": "8db21c29d633434ddfb35f3ec3a0a5977a3ef586",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/miura-lx-300-steam-boiler-delivers-high-capacity-low-nox-performance-for-demanding-industrial-operations/",
+ "published_at": "2026-08-24",
+ "observed_at": "2026-08-31",
+ "summary": "Vendor product announcement from Miura America, promoted via FMLink, on the LX 300 modular on-demand steam boiler for industrial facilities. Positioned within the LX 250/300 line, the unit delivers 250 to 300 BHP with steam output of 8,630 to 10,350 lb/hr, targeting plants with critical steam applications. Configurations include standard pressure from 70 to 150 PSI and high pressure from 170 to 270 PSI, so facilities can match boiler performance to process demand while keeping one consistent platform.\n\nEfficiency and emissions are the main claims: 87% efficiency in standard-pressure applications and 86% in high-pressure, dual fuel capability on natural gas or propane, and NOx emissions as low as 5 ppm standard pressure and 12 ppm high pressure. Miura frames this as helping facilities meet stringent air-quality rules and sustainability goals while cutting resource consumption.\n\nOperationally, the boiler reaches steam production in under five minutes from a cold start, supporting true on-demand operation rather than idling to hold steam. A compact footprint is claimed to either double steam capacity in the same space or halve space requirements in new construction. The LX 300 is compatible with Miura's Multiple Installation system, letting operators combine units for scalable capacity and built-in redundancy or backup.\n\nUnderlying technology includes Miura's once-through watertube design, described as engineered for in-service efficiency, reliability and safety, plus an integrated economizer that preheats feedwater for heat recovery. Miura says these elements together reduce fuel use, improve uptime and align boiler room modernization with both production and environmental priorities, without major building expansion.\n\nThis is facilities and plant equipment content only. It has no bearing on workplace experience topics such as visitor management, desk or room booking, hybrid and RTO policy, attendance tracking, or workplace analytics, so none of the registry themes apply.",
+ "claims": [
+  {
+   "claim": "The LX 300 provides high-capacity steam output within the LX 250/300 offering",
+   "stat": "250-300 BHP; 8,630 to 10,350 lb/hr",
+   "attribution": "Miura America"
+  },
+  {
+   "claim": "Available in standard- and high-pressure configurations",
+   "stat": "70-150 PSI standard; 170-270 PSI high pressure",
+   "attribution": "Miura America"
+  },
+  {
+   "claim": "Platform efficiency levels",
+   "stat": "87% standard-pressure, 86% high-pressure",
+   "attribution": "Miura America"
+  },
+  {
+   "claim": "Low NOx emissions performance",
+   "stat": "as low as 5 ppm NOx standard pressure; 12 ppm high pressure",
+   "attribution": "Miura America"
+  },
+  {
+   "claim": "Rapid startup enables true on-demand steam operation",
+   "stat": "steam production in less than five minutes from cold start",
+   "attribution": "Miura America"
+  },
+  {
+   "claim": "Compact footprint changes space requirements",
+   "stat": "double steam capacity in same space or halve space needs in new construction",
+   "attribution": "Miura (LX Series design claim)"
+  },
+  {
+   "claim": "Units can be combined for scalable capacity and built-in backup via Multiple Installation system",
+   "stat": "",
+   "attribution": "Miura America"
+  },
+  {
+   "claim": "Integrated economizer preheats incoming feedwater to recover heat and improve system performance",
+   "stat": "",
+   "attribution": "Miura America"
+  },
+  {
+   "claim": "Boiler can operate on either natural gas or propane for fuel flexibility",
+   "stat": "",
+   "attribution": "Miura America"
+  }
+ ],
+ "vocabulary": [
+  "modular on-demand steam",
+  "steam boiler",
+  "BHP (boiler horsepower)",
+  "lb/hr steam output",
+  "standard-pressure configuration",
+  "high-pressure configuration",
+  "PSI",
+  "low-NOx",
+  "ppm NOx",
+  "combustion design",
+  "once-through watertube design",
+  "integrated economizer",
+  "heat recovery",
+  "feedwater preheating",
+  "cold start",
+  "boiler room performance",
+  "Multiple Installation system",
+  "built-in backup",
+  "compact footprint",
+  "fuel flexibility",
+  "uptime",
+  "sustainability goals",
+  "air-quality requirements",
+  "industrial facilities"
+ ],
+ "topics_covered": []
+}

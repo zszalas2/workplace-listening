@@ -1,0 +1,22 @@
+{
+ "id": "91dfd66eb895ef04bd6d99f42d5620f93817e666",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNM2lRbUVSV1VtemxPckpPWmczZi1WMnN2emVfTUZoTGo4dDRhRzZ4OTlVTDF5TnVKZVM2Zkh4RWZ1MDZYb0J0NF9haXVtMUVWN3gzQ0UzcFBTMUt1M0h5UmJvc3lnNUxqM2pKUFkzX29Ib2hqX3Q0SXRySDEwUzAwcUd4R1dJNTFvdVZN?oc=5",
+ "published_at": "2024-03-25",
+ "observed_at": "2026-08-31",
+ "summary": "Headline-only item from WORKTECH Academy (via Google News RSS) reporting that the Fitwel certification scheme has launched a new social performance phase. No article body was supplied beyond the title and source line, so no detail is available on what the social performance phase measures, when it takes effect, which building or portfolio types it applies to, how it relates to existing Fitwel health and wellbeing scoring, or who administers and verifies it. Fitwel is a building certification programme associated with occupant health and wellbeing, and the addition of a social performance dimension suggests an expansion toward social value or social sustainability criteria within workplace and real estate certification, but that reading is inference rather than reported fact in this excerpt. No named sources, quotes, statistics, effective dates, pricing, or participating organisations are present in the supplied text. There is nothing here on visitor management, desk or room booking, hybrid and return to office policy, attendance tracking, workplace analytics tooling, IT asset ownership, or AI governance. Treat this as a lead requiring retrieval of the full WORKTECH Academy article before it can be used for analysis, quotation, or competitive positioning. Follow-up would need the source article and Fitwel's own scheme documentation to confirm scope, scoring methodology, and rollout timeline.",
+ "claims": [
+  {
+   "claim": "A new social performance phase has been launched for the Fitwel certification scheme.",
+   "stat": "",
+   "attribution": "worktechacademy.com (headline)"
+  }
+ ],
+ "vocabulary": [
+  "Fitwel certification scheme",
+  "social performance phase",
+  "certification",
+  "WORKTECH Academy"
+ ],
+ "topics_covered": []
+}

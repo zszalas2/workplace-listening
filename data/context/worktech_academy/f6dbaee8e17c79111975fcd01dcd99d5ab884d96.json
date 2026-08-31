@@ -1,0 +1,15 @@
+{
+ "id": "f6dbaee8e17c79111975fcd01dcd99d5ab884d96",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeGVfZUFuZ2N6TmplTUl5SDRYV1lHLUVPVUdGNVFTaTlPR29kVW8tc0d1SXR3Z1R1SmhvZnI2eFlObHNsYVFydTZ3RmNheTFFb014MWRrOHNPZVhYSnhzblQ3V1VETExLYVEwTzV4SjhuSG84X0FvRVVQUnlGVjJJZ25IbUEtRVB0b1NMQzN2T3dQaklpdi1QQW5n?oc=5",
+ "published_at": "2020-05-26",
+ "observed_at": "2026-08-31",
+ "summary": "This item is a Google News RSS stub for a WORKTECH Academy article titled \"Meal for one: how the pandemic has changed how we consume food.\" No article body was included in the feed payload beyond the headline and the publisher name, so no substantive content, argument, data or sourcing can be summarized.\n\nBased on the headline alone, the piece appears to examine how the COVID-19 pandemic altered food consumption behaviour, with an implied focus on solo or individual eating (\"meal for one\") rather than communal or shared dining. Given WORKTECH Academy's editorial remit, the likely angle is workplace food service and hospitality: what changed for staff canteens, catering, shared kitchens, coffee points and food-led amenity strategy when offices emptied and then partially refilled under hybrid patterns. However, none of that can be confirmed from the text provided.\n\nNo statistics, named experts, survey findings, vendor references or case studies are present in the supplied text. There is no discussion of visitor management, desk or room booking, attendance tracking, workplace analytics, facilities operations tooling or hybrid policy mechanics in the available copy.\n\nFor pipeline purposes this should be treated as a low-value, unresolvable stub. If the topic of workplace catering and amenity as an RTO draw is of interest, the full article would need to be retrieved from the publisher directly before any claims, vocabulary or theme tagging could be done with confidence. As supplied, the item does not support tagging against any registry theme, since food consumption behaviour is not covered by the current theme set and the RTO or amenity connection is speculative rather than stated.",
+ "claims": [],
+ "vocabulary": [
+  "pandemic",
+  "food consumption",
+  "WORKTECH Academy"
+ ],
+ "topics_covered": []
+}

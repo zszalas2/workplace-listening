@@ -1,0 +1,21 @@
+{
+ "id": "9dabd71df34c833fe9aabde77943a74b1cecd8d8",
+ "source_id": "facility_executive",
+ "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVmV2bk1JaWx5Y2lsTUx5WXpnWHp5NVlvcXJFcVp1S21JWlZ4aGU0azlRRGw2Z01RU1FudVRoSFNyZ0VBRlVRRWgzcVNjLVdPaHphU1hDVmw2dFdBMVVVdzY4bzJnNTk0VGFpbFBUZTI2TGhLWlE3YUM2NGtmazdRSzlMai1VYWhmQ1JPX0RR?oc=5",
+ "published_at": "2025-12-08",
+ "observed_at": "2026-08-31",
+ "summary": "This item is a Google News RSS stub for a Facility Executive Magazine article headlined \"Workers Prefer Root Canals Over Office Holiday Parties.\" No body text was captured beyond the repeated title and publication name, so the substance of the piece cannot be summarized with confidence. Based on the headline alone, the article appears to report survey findings suggesting that a notable share of employees would rather undergo an unpleasant dental procedure (a root canal) than attend a company holiday party, a framing typically used in workplace trade press to highlight employee ambivalence toward mandatory or semi-mandatory office social events. Facility Executive covers facilities management, workplace operations, and building services, so the likely angle is guidance for facility and workplace teams planning seasonal events, including attendance expectations, event logistics, and cost. No survey sponsor, sample size, methodology, geography, or date is available in the captured text. No vendor names, product categories, or policy details are present. Because the extract contains no verifiable claims, statistics, or quotations, and no discussion of desk booking, visitor management, hybrid or return to office policy, attendance tracking, IT operations, or AI tooling, this item provides no usable signal for the listening pipeline as captured. Recommended action: re-fetch the full article from the publisher to determine whether it includes survey data on event attendance, employee sentiment toward in-person gatherings, or workplace event budgets, any of which could be relevant to hybrid and in-office engagement themes. As it stands, treat this as an unresolved stub rather than a scored source item.",
+ "claims": [
+  {
+   "claim": "Workers would prefer a root canal to attending an office holiday party.",
+   "stat": "",
+   "attribution": "Facility Executive Magazine headline (underlying survey source not identified in captured text)"
+  }
+ ],
+ "vocabulary": [
+  "office holiday parties",
+  "workers",
+  "facility executive"
+ ],
+ "topics_covered": []
+}

@@ -1,0 +1,84 @@
+{
+ "id": "8767f175b1ca84bb9046b68c58bb36443069c762",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/why-you-shouldnt-give-ai-agents-a-name/",
+ "published_at": "2026-08-28",
+ "observed_at": "2026-08-31",
+ "summary": "A Charter bimonthly AI newsletter (partnered with HiBob) argues companies should give AI agents clear owners and defined scopes on the org chart, but should not give them human names. Framing: an agent is software that takes action, not just answers, for example drafting documents, updating records, or booking flights. Okta chief people officer Becks Port argues agents deserve a formal org chart spot and a human name so employees treat them as teammates whose work gets double-checked, and says naming reduces job-loss anxiety and restores healthy skepticism toward otherwise faceless systems. At Okta, agents are treated as another identity type needing credentials.\n\nBCG research complicates this. Managers reviewing identical error-filled documents caught fewer errors and were far more likely to forward flawed work when told it came from an AI employee rather than an AI tool, shifting blame to the technology. Effects were strongest at firms already treating agents like staff.\n\nBCG managing director Julie Bedard says companies chasing individual productivity fall short; gains come from outcome-based workflow reinvention across teams, which is when one agent needs the context of more than one job and ownership gets complicated. An Ask HR agent handling benefits questions, personnel record updates, and PTO requests still needs written policy, error-catching mechanisms, and limits.\n\nPort splits accountability: engineering owns plumbing and technical guardrails, the travel team owns travel policy and escalation approvers, HR owns policy content and refusals such as hiring decisions. Anthropic's Kristen Swanson says effective human-agent teams give agents a clear role, written team context, and human-set goals, so tacit team knowledge must be documented first.\n\nBedard's finding: naming or seating agents did not increase usage, but increased forwarding for manager review while users missed more errors. Managers are unequipped to handle change-related anxiety and grief, and naming sharpens the sense of being replaced.",
+ "claims": [
+  {
+   "claim": "Roughly 31% of organizations already frame AI as a teammate or employee",
+   "stat": "31%",
+   "attribution": "BCG survey of more than 1,200 managers"
+  },
+  {
+   "claim": "23% of organizations list agents on the org chart",
+   "stat": "23%",
+   "attribution": "BCG survey of more than 1,200 managers"
+  },
+  {
+   "claim": "Managers reviewing identical error-filled documents caught about 18% fewer errors when told the work came from an 'AI employee' rather than an 'AI tool'",
+   "stat": "18% fewer errors",
+   "attribution": "BCG study"
+  },
+  {
+   "claim": "Managers were 44% more likely to forward error-filled work to colleagues when it was attributed to an AI employee",
+   "stat": "44%",
+   "attribution": "BCG study"
+  },
+  {
+   "claim": "Managers assigned more blame to 'the technology' and took on less responsibility for uncaught mistakes; effects were highest at companies already treating agents like staff",
+   "stat": "",
+   "attribution": "BCG study"
+  },
+  {
+   "claim": "Companies chasing individual productivity come up short; real gains come from outcome-based workflow reinvention at team or organization level",
+   "stat": "",
+   "attribution": "Julie Bedard, managing director, BCG"
+  },
+  {
+   "claim": "Naming an agent or giving it a seat on the org chart did not increase usage, but increased sending content to managers for review while users missed more errors themselves",
+   "stat": "",
+   "attribution": "Julie Bedard, BCG study"
+  },
+  {
+   "claim": "The best human-agent teams give agents a clear role, access to written team context, and goals set by a human owner; an agent cannot act on what nobody wrote down",
+   "stat": "",
+   "attribution": "Kristen Swanson, Anthropic"
+  },
+  {
+   "claim": "Okta organically treats agents as another identity type, like an employee needing credentials",
+   "stat": "",
+   "attribution": "Becks Port, chief people officer, Okta"
+  },
+  {
+   "claim": "Managers are mostly not equipped to handle the anxiety and grief that comes with change",
+   "stat": "",
+   "attribution": "Julie Bedard, BCG"
+  }
+ ],
+ "vocabulary": [
+  "AI agents",
+  "agentic AI",
+  "agents on the org chart",
+  "AI teammate",
+  "AI employee vs AI tool",
+  "Ask HR bot",
+  "identity type",
+  "technical guardrails",
+  "escalation approvers",
+  "human owner",
+  "scope",
+  "documented job",
+  "workflow reinvention",
+  "personal productivity",
+  "PTO request",
+  "policy content",
+  "accountability",
+  "human-agent teams",
+  "identity management"
+ ],
+ "topics_covered": [
+  "agentic_ai_tooling_and_governance"
+ ]
+}

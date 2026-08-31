@@ -1,0 +1,80 @@
+{
+ "id": "99b47d81945596018145734bea5558e9ed8e3bfe",
+ "source_id": "raconteur",
+ "url": "https://www.raconteur.net/ai/ai-ambition-is-rising-is-workforce-support-keeping-pace",
+ "published_at": "2026-08-26",
+ "observed_at": "2026-08-31",
+ "summary": "Raconteur examines the gap between organisational AI ambition and the workforce support needed to make it work, drawing on a Henley Business School AI pulse check survey and commentary from Professor Keiichi Nakata, Director of AI and Automation at Henley's World of Work Institute.\n\nKey tension: worker confidence is rising (58% feel able to keep pace) yet 61% feel overwhelmed by the speed of change. Only 57% say their employer provides enough support to use AI effectively, and 60% say their organisation lacks AI use guidelines or are unsure whether any exist. Nakata argues employees are outpacing their employers, creating frustration.\n\nRisks of this guidance vacuum: fragmented adoption where employees decide unilaterally how to use AI, inconsistent working practices, security and governance gaps, AI investments that fail to deliver value, and shadow AI as staff turn to accessible but unauthorised tools.\n\nPersistent employee concerns are over-reliance on AI, skills erosion over time, and job security, though 58% remain optimistic about AI at work. Nakata says training must cover critical thinking and broader personal development, not just AI skills; equating AI readiness with technical proficiency alone risks creating new capability gaps.\n\nGenerational nuance: younger workers are more comfortable with AI-led management but more worried about job loss; older workers are less fearful for jobs but less comfortable being managed or directed by AI. Nakata cautions against over-indexing on age, since individual confidence varies. Support should be personalised by confidence, skills and role, with identified capability gaps and development pathways.\n\nWork design: start with the work, then decide where AI fits, co-designing new ways of working rather than designing work around the technology, and clearly defining respective human and AI roles to reduce uncertainty.\n\nTrust is decisive: 61% trust their organisation to consider their interests when introducing AI, but Nakata warns AI amplifies existing distrust, so leaders should build general trust first.",
+ "claims": [
+  {
+   "claim": "Workers feel confident in their ability to keep pace with AI",
+   "stat": "58%",
+   "attribution": "Henley Business School AI pulse check survey"
+  },
+  {
+   "claim": "Workers still feel overwhelmed by the speed of change",
+   "stat": "61%",
+   "attribution": "Henley Business School AI pulse check survey"
+  },
+  {
+   "claim": "Employees say their employer provides enough support to use AI effectively",
+   "stat": "57%",
+   "attribution": "Henley Business School AI pulse check survey"
+  },
+  {
+   "claim": "Employees say their organisation either lacks guidelines for AI use or they are unsure whether any exist",
+   "stat": "60%",
+   "attribution": "Henley Business School AI pulse check survey"
+  },
+  {
+   "claim": "Employees remain optimistic about AI at work despite concerns about over-reliance, skills loss and job security",
+   "stat": "58%",
+   "attribution": "Henley Business School research"
+  },
+  {
+   "claim": "Respondents trust their organisation to take their interests into account when introducing AI",
+   "stat": "61%",
+   "attribution": "Henley Business School AI pulse check survey"
+  },
+  {
+   "claim": "Employees are becoming more confident with AI while feeling their organisations are not keeping up, creating frustration over lack of guidance",
+   "stat": "",
+   "attribution": "Professor Keiichi Nakata, Henley Business School World of Work Institute"
+  },
+  {
+   "claim": "If people do not trust their organisation, AI will amplify that distrust, so leaders should focus on earning trust generally",
+   "stat": "",
+   "attribution": "Professor Keiichi Nakata, Henley Business School"
+  },
+  {
+   "claim": "Younger workers are more comfortable with AI-led management but more concerned about job loss, while older employees are less fearful about job security but less comfortable being managed by AI",
+   "stat": "",
+   "attribution": "Henley Business School research"
+  },
+  {
+   "claim": "Organisations should think about the work first and then how AI fits into it",
+   "stat": "",
+   "attribution": "Professor Keiichi Nakata, Henley Business School"
+  }
+ ],
+ "vocabulary": [
+  "AI ambition",
+  "workforce support",
+  "AI pulse check survey",
+  "AI readiness",
+  "shadow AI",
+  "AI guidelines",
+  "governance gaps",
+  "fragmented AI adoption",
+  "AI enablement",
+  "capability gaps",
+  "development pathways",
+  "AI-led management",
+  "critical thinking training",
+  "co-design new ways of working",
+  "human and AI roles",
+  "employee trust",
+  "World of Work Institute"
+ ],
+ "topics_covered": []
+}

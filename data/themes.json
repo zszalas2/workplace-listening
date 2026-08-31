@@ -7,22 +7,13 @@
    "2026-W31": 5,
    "2026-W32": 0,
    "2026-W33": 0,
-   "2026-W35": 0
+   "2026-W35": 0,
+   "2026-W36": 1
   },
   "evidence": [
    {
-    "quote": "Is hot desking dead in a post-COVID19 work world?",
-    "url": "https://www.itnews.com.au/news/commonwealth-bank-cto-snapped-up-by-google-548236",
-    "source_id": "hackernews"
-   },
-   {
-    "quote": "Ask HN: Viable tech for hotdesking in software dev?",
-    "url": "https://news.ycombinator.com/item?id=15675856",
-    "source_id": "hackernews"
-   },
-   {
-    "quote": "We're about to move into new offices and something that appeals is the potential for developers to work in smaller 'project' areas.",
-    "url": "https://news.ycombinator.com/item?id=15675856",
+    "quote": "Hot desk hell: Staff spend two weeks a year looking for seats in open offices",
+    "url": "https://www.theregister.co.uk/2019/06/21/staff_hot_desk_seats/",
     "source_id": "hackernews"
    }
   ],
@@ -40,17 +31,25 @@
    "activity-based working",
    "dynamic assignment of space",
    "static floor plans",
-   "smart lockers"
+   "smart lockers",
+   "hot desk hell",
+   "looking for seats",
+   "open offices",
+   "desk hoteling",
+   "desk rotation",
+   "unassigned seating"
   ],
   "became_post": null,
   "became_post_at": null,
-  "covered_by_context": [],
-  "suggested_angle": "Put a cost figure on unassigned seating: what companies actually save versus what they spend re-buying storage, quiet rooms and booking tools.",
-  "current": 0,
+  "covered_by_context": [
+   "allwork_space"
+  ],
+  "suggested_angle": "Put a cost figure on time lost hunting for desks and compare it with paying for the space people actually use.",
+  "current": 1,
   "trailing_mean": 0.833,
-  "delta_z": -0.447,
+  "delta_z": 0.089,
   "demand_score": 0.0,
-  "saturation_score": 0.0,
+  "saturation_score": 0.333,
   "opportunity_score": 0.0,
   "status": "steady"
  },
@@ -62,18 +61,19 @@
    "2026-W31": 1,
    "2026-W32": 0,
    "2026-W33": 1,
-   "2026-W35": 0
+   "2026-W35": 0,
+   "2026-W36": 1
   },
   "evidence": [
    {
-    "quote": "Whilst everyone is told this verbally, there is no written policy stating this that I can find that stipulates being in the office once a week.",
-    "url": "https://www.reddit.com/r/HumanResourcesUK/comments/1vg3a9x/hybrid_working_rules_confusing/",
-    "source_id": "reddit_humanresourcesuk"
+    "quote": "What does your hybrid policy and ergonomic assessment process look like, for home workspace? [Canada]",
+    "url": "https://www.reddit.com/r/humanresources/comments/1w05lta/what_does_your_hybrid_policy_and_ergonomic/",
+    "source_id": "reddit_humanresources"
    },
    {
-    "quote": "Hybrid working rules confusing",
-    "url": "https://www.reddit.com/r/HumanResourcesUK/comments/1vg3a9x/hybrid_working_rules_confusing/",
-    "source_id": "reddit_humanresourcesuk"
+    "quote": "policy is at least 2 days in office a week",
+    "url": "https://www.reddit.com/r/humanresources/comments/1w05lta/what_does_your_hybrid_policy_and_ergonomic/",
+    "source_id": "reddit_humanresources"
    }
   ],
   "vocabulary": [
@@ -101,15 +101,16 @@
   "became_post": null,
   "became_post_at": null,
   "covered_by_context": [
-   "allwork_space"
+   "allwork_space",
+   "charter"
   ],
-  "suggested_angle": "Use the Airbus retreat to show HR leaders how to price and stage an attendance change before announcing it, rather than reversing it under pressure.",
-  "current": 0,
+  "suggested_angle": "Show HR how to write a hybrid policy where the home setup allowance and in-office spend are one governed budget rather than ad hoc reimbursements.",
+  "current": 1,
   "trailing_mean": 0.333,
-  "delta_z": -0.707,
-  "demand_score": 0.0,
-  "saturation_score": 1.0,
-  "opportunity_score": 0.0,
+  "delta_z": 1.414,
+  "demand_score": 0.049,
+  "saturation_score": 0.667,
+  "opportunity_score": 0.016,
   "status": "steady"
  },
  {
@@ -120,22 +121,23 @@
    "2026-W31": 4,
    "2026-W32": 0,
    "2026-W33": 8,
-   "2026-W35": 2
+   "2026-W35": 2,
+   "2026-W36": 23
   },
   "evidence": [
    {
-    "quote": "I was told I'd be primarily handling scheduling/email/admin/strategy type work. I thrive in the admin space. I started about 4 months ago and let me just say, that is NOT what I've been doing.",
-    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1vlollh/is_this_normal/",
+    "quote": "typically around how many hours total would it take you to organise a complex international business trip end-to-end?",
+    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1vyi840/how_long_would_this_business_trip_take_you_to/",
     "source_id": "reddit_executiveassistants"
    },
    {
-    "quote": "This is \\*only for internal meetings\\* : if you're scheduling a meeting who gets a calendar invite?",
-    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1vsrvpl/who_gets_a_calendar_invite/",
+    "quote": "Executive/Virtual Assistants: If you were advising a small business owner on hiring their first EA/VA, what would you tell them?",
+    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1vls64n/executivevirtual_assistants_if_you_were_advising/",
     "source_id": "reddit_executiveassistants"
    },
    {
-    "quote": "I think this keeps a better record of meeting attendance, better confidentiality",
-    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1vsrvpl/who_gets_a_calendar_invite/",
+    "quote": "Chicago EA / Sales Operations: What’s a Competitive Starting Salary?",
+    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1vp8cr1/chicago_ea_sales_operations_whats_a_competitive/",
     "source_id": "reddit_executiveassistants"
    }
   ],
@@ -164,14 +166,14 @@
   "became_post": null,
   "became_post_at": null,
   "covered_by_context": [],
-  "suggested_angle": "Show HR and office leads how much unbudgeted admin work sits behind meeting logistics, and where a small amount of tooling spend removes it instead of adding another seat to buy.",
-  "current": 2,
-  "trailing_mean": 2,
-  "delta_z": 0.0,
-  "demand_score": 0.994,
+  "suggested_angle": "Quantify the hidden spend inside EA and office admin work, from multi-hour trip bookings to approval chasing, and show HR leaders where a spend management layer removes the manual steps.",
+  "current": 23,
+  "trailing_mean": 2.333,
+  "delta_z": 7.066,
+  "demand_score": 1.0,
   "saturation_score": 0.0,
-  "opportunity_score": 0.994,
-  "status": "gap"
+  "opportunity_score": 1.0,
+  "status": "accelerating"
  },
  {
   "theme_id": "multi_site_proof_of_work_tracking",
@@ -181,7 +183,8 @@
    "2026-W31": 1,
    "2026-W32": 0,
    "2026-W33": 0,
-   "2026-W35": 0
+   "2026-W35": 0,
+   "2026-W36": 0
   },
   "evidence": [
    {
@@ -223,23 +226,19 @@
    "2026-W31": 1,
    "2026-W32": 0,
    "2026-W33": 3,
-   "2026-W35": 0
+   "2026-W35": 0,
+   "2026-W36": 2
   },
   "evidence": [
    {
-    "quote": "Advice needed - Move to Enterprise from SMB/MSP",
-    "url": "https://www.reddit.com/r/sysadmin/comments/1vhz9nt/advice_needed_move_to_enterprise_from_smbmsp/",
-    "source_id": "reddit_sysadmin"
+    "quote": "I need some entry-level, remote-based work. What should I do? Help desk work seems the most promising / practical",
+    "url": "https://news.ycombinator.com/item?id=26171008",
+    "source_id": "hackernews"
    },
    {
-    "quote": "I essentially manage an entire department's IT while also handling sysadmin duties.",
-    "url": "https://www.reddit.com/r/sysadmin/comments/1viik8l/how_many_times_have_you_jumped_jobs/",
-    "source_id": "reddit_sysadmin"
-   },
-   {
-    "quote": "Looking for Next Career Steps Advice as current Sysadmin. What should I do?",
-    "url": "https://www.reddit.com/r/sysadmin/comments/1vg9r25/looking_for_next_career_steps_advice_as_current/",
-    "source_id": "reddit_sysadmin"
+    "quote": "Does the internet have a 1 star review problem?",
+    "url": "https://news.ycombinator.com/item?id=32052666",
+    "source_id": "hackernews"
    }
   ],
   "vocabulary": [
@@ -252,19 +251,24 @@
    "internal IT department",
    "the do everything guy",
    "account management",
-   "IT leadership and strategy"
+   "IT leadership and strategy",
+   "help desk work",
+   "front desk",
+   "staff visibly shaken",
+   "review platform",
+   "entry-level remote"
   ],
   "became_post": null,
   "became_post_at": null,
   "covered_by_context": [],
-  "suggested_angle": "Show HR and IT budget owners how thinly stretched internal IT is, and why workplace tools that need constant admin quietly consume the same headcount.",
-  "current": 0,
+  "suggested_angle": "Connect front desk and support workload to the tooling budget, showing where automation protects the people absorbing the complaints.",
+  "current": 2,
   "trailing_mean": 0.667,
-  "delta_z": -0.603,
+  "delta_z": 1.206,
   "demand_score": 0.0,
   "saturation_score": 0.0,
   "opportunity_score": 0.0,
-  "status": "steady"
+  "status": "watching"
  },
  {
   "theme_id": "risk_assessment_vendor_review_workload",
@@ -273,7 +277,8 @@
   "counts_by_week": {
    "2026-W32": 1,
    "2026-W33": 0,
-   "2026-W35": 0
+   "2026-W35": 0,
+   "2026-W36": 0
   },
   "evidence": [
    {
@@ -308,23 +313,14 @@
   "first_seen": "2026-08-10",
   "counts_by_week": {
    "2026-W33": 1,
-   "2026-W35": 2
+   "2026-W35": 2,
+   "2026-W36": 1
   },
   "evidence": [
    {
-    "quote": "Company I'm working for has set schedules for salaried exempt employees in project management for 10 hour days, M-F. 6AM to 4PM",
-    "url": "https://www.reddit.com/r/humanresources/comments/1vo6qg7/salaried_exempt_schedule_flexibility_or_lack/",
-    "source_id": "reddit_humanresources"
-   },
-   {
-    "quote": "My manager recently told me I've had **19 health-related absences in 2026** and that, because of the number, my attendance is being escalated to HR.",
-    "url": "https://www.reddit.com/r/humanresources/comments/1vqvy23/19_medical_absences_escalated_to_hr_while/",
-    "source_id": "reddit_humanresources"
-   },
-   {
-    "quote": "19 Medical Absences Escalated to HR While Accommodation Is Ongoing — What Should I Expect?",
-    "url": "https://www.reddit.com/r/humanresources/comments/1vqvy23/19_medical_absences_escalated_to_hr_while/",
-    "source_id": "reddit_humanresources"
+    "quote": "I've been off for three weeks with mental health stuff.",
+    "url": "https://www.reddit.com/r/HumanResourcesUK/comments/1vwkwsh/longterm_sickness/",
+    "source_id": "reddit_humanresourcesuk"
    }
   ],
   "vocabulary": [
@@ -343,21 +339,23 @@
    "disability management",
    "emotion AI",
    "employee monitoring",
-   "occupancy"
+   "occupancy",
+   "long-term sickness",
+   "absence",
+   "Equality Act",
+   "reasonable adjustments"
   ],
   "became_post": null,
   "became_post_at": null,
-  "covered_by_context": [
-   "allwork_space"
-  ],
-  "suggested_angle": "Explain to HR buyers where attendance data becomes a legal and trust liability, and how to keep presence tracking to the minimum needed for space and spend decisions.",
-  "current": 2,
-  "trailing_mean": 0.167,
-  "delta_z": 4.919,
-  "demand_score": 1.0,
-  "saturation_score": 1.0,
-  "opportunity_score": 0.0,
-  "status": "watching"
+  "covered_by_context": [],
+  "suggested_angle": "Explain how absence and attendance records feed workplace spend decisions without turning HR into a surveillance function.",
+  "current": 1,
+  "trailing_mean": 0.5,
+  "delta_z": 0.655,
+  "demand_score": 0.046,
+  "saturation_score": 0.0,
+  "opportunity_score": 0.046,
+  "status": "steady"
  },
  {
   "theme_id": "visitor_signin_diy_vs_buy",
@@ -365,7 +363,8 @@
   "first_seen": "2026-08-10",
   "counts_by_week": {
    "2026-W33": 1,
-   "2026-W35": 1
+   "2026-W35": 1,
+   "2026-W36": 0
   },
   "evidence": [
    {
@@ -404,13 +403,13 @@
   "became_post_at": null,
   "covered_by_context": [],
   "suggested_angle": "Write the buyer checklist for a first visitor management purchase triggered by a security incident, including what it should cost per site and what to skip.",
-  "current": 1,
-  "trailing_mean": 0.167,
-  "delta_z": 2.236,
-  "demand_score": 0.544,
+  "current": 0,
+  "trailing_mean": 0.333,
+  "delta_z": -0.707,
+  "demand_score": 0.0,
   "saturation_score": 0.0,
-  "opportunity_score": 0.544,
-  "status": "accelerating"
+  "opportunity_score": 0.0,
+  "status": "steady"
  },
  {
   "theme_id": "quiet_space_calls_and_coworking_choice",
@@ -418,7 +417,8 @@
   "first_seen": "2026-08-10",
   "counts_by_week": {
    "2026-W33": 2,
-   "2026-W35": 0
+   "2026-W35": 0,
+   "2026-W36": 0
   },
   "evidence": [
    {
@@ -450,13 +450,15 @@
   ],
   "became_post": null,
   "became_post_at": null,
-  "covered_by_context": [],
+  "covered_by_context": [
+   "allwork_space"
+  ],
   "suggested_angle": "Frame coworking stipends and day-pass desks as a managed spend category for HR, with policy on what employees can claim and why call privacy drives the choice.",
   "current": 0,
   "trailing_mean": 0.333,
   "delta_z": -0.447,
   "demand_score": 0.0,
-  "saturation_score": 0.0,
+  "saturation_score": 0.333,
   "opportunity_score": 0.0,
   "status": "steady"
  },
@@ -465,7 +467,8 @@
   "label": "Meeting room audio and AV kit for offsite and board meetings",
   "first_seen": "2026-08-24",
   "counts_by_week": {
-   "2026-W35": 1
+   "2026-W35": 1,
+   "2026-W36": 0
   },
   "evidence": [
    {
@@ -493,20 +496,21 @@
   "became_post_at": null,
   "covered_by_context": [],
   "suggested_angle": "Cost out portable meeting audio for organisations that gather in person only a few times a year, versus renting AV from the venue each time.",
-  "current": 1,
-  "trailing_mean": 0,
-  "delta_z": 0.0,
-  "demand_score": 0.519,
+  "current": 0,
+  "trailing_mean": 0.167,
+  "delta_z": -0.447,
+  "demand_score": 0.0,
   "saturation_score": 0.0,
-  "opportunity_score": 0.519,
-  "status": "watching"
+  "opportunity_score": 0.0,
+  "status": "steady"
  },
  {
   "theme_id": "it_asset_and_endpoint_baseline_ownership",
   "label": "IT asset registers and endpoint baselines owned by one generalist",
   "first_seen": "2026-08-24",
   "counts_by_week": {
-   "2026-W35": 2
+   "2026-W35": 2,
+   "2026-W36": 0
   },
   "evidence": [
    {
@@ -539,35 +543,36 @@
   "became_post_at": null,
   "covered_by_context": [],
   "suggested_angle": "Speak to the one person who owns both the building and the laptops, and show how workspace and asset spend can be tracked in one place instead of two tool purchases.",
-  "current": 2,
-  "trailing_mean": 0,
-  "delta_z": 0.0,
-  "demand_score": 0.978,
+  "current": 0,
+  "trailing_mean": 0.333,
+  "delta_z": -0.447,
+  "demand_score": 0.0,
   "saturation_score": 0.0,
-  "opportunity_score": 0.978,
-  "status": "watching"
+  "opportunity_score": 0.0,
+  "status": "steady"
  },
  {
   "theme_id": "agentic_ai_tooling_and_governance",
   "label": "Agentic AI assistants for teams and who governs them",
   "first_seen": "2026-08-24",
   "counts_by_week": {
-   "2026-W35": 2
+   "2026-W35": 2,
+   "2026-W36": 3
   },
   "evidence": [
    {
-    "quote": "manage team policy in one place, enforced across every agent in the workspace",
-    "url": "https://github.com/onecli/onecli",
-    "source_id": "hackernews"
+    "quote": "How do you use AI in your daily work?",
+    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1vyut9n/ai_uses_and_prompts_for_newbie/",
+    "source_id": "reddit_executiveassistants"
    },
    {
-    "quote": "deterministic human in the loop approval in the chat itself for things that you need 100% control like sending an email or deleting the Linear ticket",
-    "url": "https://github.com/onecli/onecli",
-    "source_id": "hackernews"
+    "quote": "How are y’all doing general ops automation?",
+    "url": "https://www.reddit.com/r/sysadmin/comments/1vyvz5e/lets_talk_ops_automation_and_platforms/",
+    "source_id": "reddit_sysadmin"
    },
    {
-    "quote": "I made Captain to help with everyday travel planning. It can explore an itinerary, check live flight prices, or watch for the right time to book.",
-    "url": "https://www.moonlight.ng/captain/",
+    "quote": "How can I break my workaholic Claude Code addiction?",
+    "url": "https://news.ycombinator.com/item?id=49491745",
     "source_id": "hackernews"
    }
   ],
@@ -581,18 +586,73 @@
    "itinerary",
    "live flight prices",
    "agentic workflows",
-   "audit trail"
+   "audit trail",
+   "Copilot on all Microsoft apps",
+   "paid company version",
+   "prompts",
+   "ops automation",
+   "standardize some processes",
+   "scattered scripts",
+   "poor documentation for gui things",
+   "run those as a team",
+   "Nintex cloud platform",
+   "AI teammate"
+  ],
+  "became_post": null,
+  "became_post_at": null,
+  "covered_by_context": [
+   "allwork_space",
+   "charter",
+   "fmlink"
+  ],
+  "suggested_angle": "Frame AI assistants for admin and workplace tasks as a spend and policy question: who approves what the agent buys or books, and what audit trail HR needs.",
+  "current": 3,
+  "trailing_mean": 0.333,
+  "delta_z": 3.578,
+  "demand_score": 0.126,
+  "saturation_score": 1.0,
+  "opportunity_score": 0.0,
+  "status": "watching"
+ },
+ {
+  "theme_id": "home_workspace_stipend_and_ergonomics",
+  "label": "Home workspace setup, ergonomics and who pays for the desk and chair",
+  "first_seen": "2026-08-31",
+  "counts_by_week": {
+   "2026-W36": 2
+  },
+  "evidence": [
+   {
+    "quote": "we do not provide an allowance for home setup and we don’t provide a desk or chair",
+    "url": "https://www.reddit.com/r/humanresources/comments/1w05lta/what_does_your_hybrid_policy_and_ergonomic/",
+    "source_id": "reddit_humanresources"
+   },
+   {
+    "quote": "What are your favorite home workspace hacks?",
+    "url": "https://news.ycombinator.com/item?id=31523911",
+    "source_id": "hackernews"
+   }
+  ],
+  "vocabulary": [
+   "home workspace",
+   "home setup allowance",
+   "desk or chair",
+   "ergo assessment form",
+   "technical equipment only",
+   "a real DESK",
+   "workspace hacks",
+   "ergonomic issue"
   ],
   "became_post": null,
   "became_post_at": null,
   "covered_by_context": [],
-  "suggested_angle": "Give HR and workplace buyers a plain test for agent tools that touch spend, travel and calendars: who approves, what is logged, and what it costs per head.",
+  "suggested_angle": "Position a managed home workspace stipend as the cheapest way to close the ergonomic liability gap HR keeps discovering in hybrid policies.",
   "current": 2,
   "trailing_mean": 0,
   "delta_z": 0.0,
-  "demand_score": 0.61,
+  "demand_score": 0.049,
   "saturation_score": 0.0,
-  "opportunity_score": 0.61,
+  "opportunity_score": 0.049,
   "status": "watching"
  }
 ]

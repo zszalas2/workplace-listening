@@ -1,0 +1,95 @@
+{
+ "id": "95e3d6a866fb2670779955a511a5b53358e0506f",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/08/iwg-signs-728-new-flex-locations-up-47-in-2026/",
+ "published_at": "2026-08-28",
+ "observed_at": "2026-08-31",
+ "summary": "IWG, the flexible workspace operator behind Regus and Spaces, signed 728 new locations in the first half of 2026, a 47% increase over the 496 signed in H1 2025. It opened 425 locations versus 338 a year earlier. Interim results released August 11 showed revenue of $2.4 billion, up 11% from $2.2 billion.\n\nGrowth is driven by IWG's capital-light managed partnership model, which accounted for roughly 95% of H1 signings. Revenue from managed and franchised locations rose 36% year over year, and recurring management fees climbed 84% to $35 million. Company-owned locations generated $1.865 billion, up 5% from $1.77 billion.\n\nThe U.S. led new signings with 187, followed by the U.K. with 62, India with 45 and China with 42. Asia Pacific contributed 164 signings, more than a fifth of the global total. IWG is deliberately targeting locations beyond major business centers, including suburbs, commuter towns and regional cities. The company estimates roughly 1.2 billion white-collar workers globally represent a market opportunity worth more than $2 trillion.\n\nIn July, IWG acquired French operator Wojo from Bouygues Immobilier and Accor, adding 186 locations and creating a longer-term relationship with Accor that could enable flexible workspace inside additional hotels.\n\nAt the end of H1, IWG had 358,000 rooms open globally with a further 257,000 signed and awaiting opening. Once those are open and mature, IWG expects them to produce more than $2 billion in annual system-wide revenue. The portfolio now exceeds 6,000 locations worldwide, underscoring the strategy of extending flexible workspace well beyond traditional central business districts.",
+ "claims": [
+  {
+   "claim": "IWG signed 728 new flexible workspace locations in H1 2026",
+   "stat": "728 signings, up 47% from 496",
+   "attribution": "IWG interim results"
+  },
+  {
+   "claim": "IWG opened 425 locations in H1 2026",
+   "stat": "425 vs 338 in H1 2025",
+   "attribution": "IWG interim results"
+  },
+  {
+   "claim": "IWG revenue rose in H1 2026",
+   "stat": "$2.4 billion, up 11% from $2.2 billion",
+   "attribution": "IWG interim results released August 11, via Edge Prop"
+  },
+  {
+   "claim": "Most new signings came via the capital-light managed partnership model",
+   "stat": "about 95% of H1 signings",
+   "attribution": "IWG"
+  },
+  {
+   "claim": "Managed and franchised location revenue grew year over year",
+   "stat": "up 36%",
+   "attribution": "IWG"
+  },
+  {
+   "claim": "Recurring management fees increased",
+   "stat": "up 84% to $35 million",
+   "attribution": "IWG"
+  },
+  {
+   "claim": "Company-owned locations revenue grew modestly",
+   "stat": "$1.865 billion, up 5% from $1.77 billion",
+   "attribution": "IWG"
+  },
+  {
+   "claim": "The U.S. led signings, followed by the U.K., India and China",
+   "stat": "187 U.S., 62 U.K., 45 India, 42 China; Asia Pacific 164",
+   "attribution": "IWG"
+  },
+  {
+   "claim": "Global white-collar workforce represents a large addressable market",
+   "stat": "1.2 billion workers, worth more than $2 trillion",
+   "attribution": "IWG estimate"
+  },
+  {
+   "claim": "IWG acquired Wojo from Bouygues Immobilier and Accor in July",
+   "stat": "adds 186 locations",
+   "attribution": "Allwork.Space"
+  },
+  {
+   "claim": "IWG room inventory open and pipeline",
+   "stat": "358,000 rooms open, 257,000 signed and awaiting opening",
+   "attribution": "IWG"
+  },
+  {
+   "claim": "Pipeline expected to generate significant system-wide revenue once mature",
+   "stat": "more than $2 billion annually",
+   "attribution": "IWG"
+  },
+  {
+   "claim": "IWG global footprint",
+   "stat": "more than 6,000 locations",
+   "attribution": "IWG"
+  }
+ ],
+ "vocabulary": [
+  "flexible workspace",
+  "flex locations",
+  "managed partnership model",
+  "capital-light",
+  "franchised locations",
+  "recurring management fees",
+  "company-owned locations",
+  "system-wide revenue",
+  "central business districts",
+  "commuter towns",
+  "white-collar workers",
+  "rooms open",
+  "signings",
+  "Regus",
+  "Spaces",
+  "Wojo",
+  "IWG"
+ ],
+ "topics_covered": []
+}
