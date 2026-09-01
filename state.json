@@ -1922,6 +1922,33 @@
   },
   "yt_running_remote": {
    "seen": []
+  },
+  "paa_seed_keywords": {
+   "seen": []
+  },
+  "capterra_reviews": {
+   "seen": []
+  },
+  "trustradius_reviews": {
+   "seen": []
+  },
+  "trends_seed_keywords": {
+   "seen": []
+  },
+  "reports_gensler": {
+   "seen": []
+  },
+  "reports_jll": {
+   "seen": []
+  },
+  "reports_cbre": {
+   "seen": []
+  },
+  "reports_gallup": {
+   "seen": []
+  },
+  "reports_leesman": {
+   "seen": []
   }
  },
  "runs": [
@@ -3509,6 +3536,61 @@
    "new_items": 73,
    "themes_total": 13,
    "movers": 1
+  },
+  {
+   "run_id": "2026-09-01",
+   "cadence": "monthly",
+   "sources": [
+    {
+     "id": "paa_seed_keywords",
+     "new": 0,
+     "note": "ok"
+    },
+    {
+     "id": "capterra_reviews",
+     "new": 0,
+     "note": "ok"
+    },
+    {
+     "id": "trustradius_reviews",
+     "new": 0,
+     "note": "ok"
+    },
+    {
+     "id": "trends_seed_keywords",
+     "new": 0,
+     "note": "ok"
+    },
+    {
+     "id": "reports_gensler",
+     "new": 0,
+     "note": "ok"
+    },
+    {
+     "id": "reports_jll",
+     "new": 0,
+     "note": "ok"
+    },
+    {
+     "id": "reports_cbre",
+     "new": 0,
+     "note": "ok"
+    },
+    {
+     "id": "reports_gallup",
+     "new": 0,
+     "note": "ok"
+    },
+    {
+     "id": "reports_leesman",
+     "new": 0,
+     "note": "ok"
+    }
+   ],
+   "sources_ok": 9,
+   "sources_error": 0,
+   "sources_skipped": 0,
+   "new_items": 0
   }
  ]
 }
