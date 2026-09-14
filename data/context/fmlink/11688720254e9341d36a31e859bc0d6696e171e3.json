@@ -1,0 +1,60 @@
+{
+ "id": "11688720254e9341d36a31e859bc0d6696e171e3",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/oct-17-20-leading-voices-shaping-health-facilities-converge-at-ifhe-world-congress/",
+ "published_at": "2026-09-10",
+ "observed_at": "2026-09-14",
+ "summary": "FMLink previews the International Federation of Healthcare Engineering (IFHE) World Congress, taking place October 17-20, 2026 in New Orleans, hosted by the Association of Medical Facility Professionals (AMFP), the U.S. representative to IFHE, and co-located with the Healthcare Design (HCD) Conference + Expo. The article frames the event as a global gathering of healthcare facilities and engineering leaders, with scheduled presenters drawn from health systems that collectively report more than 78 million annual patient visits or encounters, and speakers from four continents including Japan, the United Arab Emirates, Burundi, and across the Americas.\n\nSession highlights listed include: \"Two Hemispheres, One Patient: A Global Conversation on the Future of Healthcare Design\" with architects Ray Pentecost and Fabio Bitencourt, covering human-centered design, sustainability, resilience, and emerging technologies; \"$2 Trillion Invested: Why Is the Average Operating Margin Between 1-3%?\" featuring Charles Aunger (Group CIO, American Hospital Dubai), Jess Langerud (UCI Health), Melinda Deholl (Harvard Senior Executive Fellow), and David Tibi (TOCCorp CEO), on modernizing facilities and adopting AI under thin margins; \"Future-Ready Healthcare Campuses by Design\" with Jen Rodesta of Children's Health on flexible, adaptable space; a session with Children's Health leaders Nick Barber and Susan Fowler on mega-project campus development; \"Flexibility, Standardization, and the Cost of Overdesign\" with speakers from AdventHealth, Appalachian Regional Healthcare, and University of Kentucky Healthcare; and \"The Infrastructure of Trust: Engineering the 'Big Blue Chair' Protocol\" with Northwell Health, CommonSpirit Health, and Suffolk Construction, on escalation pathways between clinical, facilities, and vendor teams.\n\nThe piece is promotional conference coverage with a registration call to action. It is oriented to healthcare capital planning, design and construction, and facilities operations rather than workplace experience topics such as desk booking, visitor management, hybrid policy, or attendance tracking.",
+ "claims": [
+  {
+   "claim": "Scheduled presenters represent health systems reporting large patient volumes",
+   "stat": "more than 78 million annual patient visits or encounters",
+   "attribution": "FMLink / AMFP-IFHE event description"
+  },
+  {
+   "claim": "The IFHE World Congress will be held in New Orleans",
+   "stat": "October 17-20, 2026",
+   "attribution": "FMLink"
+  },
+  {
+   "claim": "A conference session frames healthcare capital investment against very thin operating margins",
+   "stat": "$2 trillion invested; average operating margin between 1-3%",
+   "attribution": "IFHE World Congress session title"
+  },
+  {
+   "claim": "Speakers come from health systems and organizations across four continents, including Japan, the UAE, Burundi and the Americas",
+   "stat": "four continents",
+   "attribution": "FMLink"
+  },
+  {
+   "claim": "AMFP is the U.S. representative to IFHE and the congress is co-located with the Healthcare Design Conference + Expo",
+   "stat": "",
+   "attribution": "FMLink"
+  }
+ ],
+ "vocabulary": [
+  "healthcare facilities",
+  "healthcare engineering",
+  "IFHE World Congress",
+  "AMFP",
+  "Healthcare Design (HCD) Conference + Expo",
+  "human-centered design",
+  "sustainability",
+  "resilience",
+  "operating margin",
+  "facilities planning and development",
+  "design and construction",
+  "real estate strategy",
+  "portfolio healthcare planning",
+  "mega-project campus development",
+  "standardization",
+  "overdesign",
+  "future-ready campuses",
+  "flexible adaptable spaces",
+  "escalation pathways",
+  "clinical, facilities, and vendor teams",
+  "Group Chief Information Officer",
+  "AI adoption"
+ ],
+ "topics_covered": []
+}

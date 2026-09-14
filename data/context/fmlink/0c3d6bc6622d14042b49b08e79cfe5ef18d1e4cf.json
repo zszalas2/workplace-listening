@@ -1,0 +1,82 @@
+{
+ "id": "0c3d6bc6622d14042b49b08e79cfe5ef18d1e4cf",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/in-august-13000-healthcare-sector-positions-were-added-jobs-report-was-better-than-july/",
+ "published_at": "2026-09-14",
+ "observed_at": "2026-09-14",
+ "summary": "FMLink reports on August US labor data, framed for facility management professionals in healthcare. The healthcare sector added 13,000 positions in August, growth but well below its trailing 12-month average monthly gain of 32,000. Overall, employers created 162,000 jobs in August, far exceeding forecaster expectations. July was revised upward by 21,000 jobs to a gain of 51,000, reversing the Bureau of Labor Statistics' earlier reading that employers cut 23,000 jobs in July. June payroll gains were also revised higher, indicating the summer job market was stronger than economists had predicted.\n\nADP's National Employment Report, released September 2, gives a different picture: private employers added just 38,000 jobs in August. Within that, education and health services added 45,000 roles, leisure and hospitality gained 16,000, and construction added 12,000.\n\nThe unemployment rate held at 4.1% in August. Labor force participation rose to 61.6% after dipping to 61.4% the prior month. The piece notes spring uncertainty about hiring momentum, with job openings and hiring rates stalling while layoffs stayed exceedingly low, and characterizes the August report as an encouraging sign that a fragile labor market may be on sturdier footing.\n\nMuch of the article is promotional for the FMLink Career Center and Job Board, listing open healthcare facility manager roles including Director Facilities Management at Stanford Health Care, Facilities Management Director positions at HealthSouth and Encompass Health, Facilities Manager at Precision Orthopedics & Sports Medicine, Supervisor of Facilities Management at Ochsner Health, Director of Facilities & Maintenance at Pleasant View Communities, and Veterinary Facilities Coordinator at Thrive Healthcare. FMLink positions the board as connecting facility managers, planners and commercial planning and design professionals with employers, alongside career planning advice.\n\nThere is no coverage of workplace technology, hybrid policy, booking systems or visitor management.",
+ "claims": [
+  {
+   "claim": "The healthcare sector added positions in August, below its trailing average",
+   "stat": "13,000 added vs. average monthly gain of 32,000 over the past year",
+   "attribution": "FMLink, citing jobs report data"
+  },
+  {
+   "claim": "Employers created jobs in August, far surpassing forecaster expectations",
+   "stat": "162,000 jobs",
+   "attribution": "Bureau of Labor Statistics via FMLink"
+  },
+  {
+   "claim": "July figures were revised upward",
+   "stat": "+21,000, bringing July to 51,000; previously reported as a loss of 23,000",
+   "attribution": "Bureau of Labor Statistics"
+  },
+  {
+   "claim": "Private employers added far fewer jobs in August per ADP",
+   "stat": "38,000 jobs",
+   "attribution": "ADP National Employment Report, released September 2"
+  },
+  {
+   "claim": "Education and health services led ADP sector gains",
+   "stat": "45,000 roles",
+   "attribution": "ADP National Employment Report"
+  },
+  {
+   "claim": "Leisure and hospitality gains in August",
+   "stat": "16,000",
+   "attribution": "ADP National Employment Report"
+  },
+  {
+   "claim": "Construction gains in August",
+   "stat": "12,000",
+   "attribution": "ADP National Employment Report"
+  },
+  {
+   "claim": "The unemployment rate was unchanged in August",
+   "stat": "4.1%",
+   "attribution": "Bureau of Labor Statistics"
+  },
+  {
+   "claim": "Labor force participation rate increased in August",
+   "stat": "61.6%, up from 61.4%",
+   "attribution": "Bureau of Labor Statistics"
+  },
+  {
+   "claim": "June payroll gains were revised higher",
+   "stat": "",
+   "attribution": "Bureau of Labor Statistics"
+  },
+  {
+   "claim": "Job openings and hiring rates had stalled while layoffs remained exceedingly low",
+   "stat": "",
+   "attribution": "FMLink"
+  }
+ ],
+ "vocabulary": [
+  "facility manager",
+  "facilities management",
+  "Bureau of Labor Statistics (BLS)",
+  "ADP National Employment Report",
+  "payroll gains",
+  "labor force participation rate",
+  "unemployment rate",
+  "education and health services sector",
+  "leisure and hospitality",
+  "FMLink Career Center",
+  "FMLink Job Board",
+  "commercial planning and design",
+  "Director of Facilities & Maintenance",
+  "Veterinary Facilities Coordinator"
+ ],
+ "topics_covered": []
+}

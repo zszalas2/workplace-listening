@@ -1,0 +1,48 @@
+{
+ "id": "c9c92a18dd9e3f505f0729d44093e0f05826a453",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/oct-17-20-ifhe-world-congress-joins-hcd-expo-for-a-full-healthcare-engineering-and-design-program/",
+ "published_at": "2026-09-14",
+ "observed_at": "2026-09-14",
+ "summary": "FMLink promotes the 2026 International Federation of Healthcare Engineering (IFHE) World Congress, which for the first time will be co-located with the Healthcare Design (HCD) Conference + Expo. The event runs Oct. 17-20, 2026 at the Ernest N. Morial Convention Center in New Orleans. It is hosted by the Association of Medical Facility Professionals and produced by Forge (formerly Emerald) in partnership with IFHE.\n\nThe stated value of the co-location is that facility, engineering and operations professionals can gather in one venue alongside the designers and architects who shape healthcare environments, bridging two audiences that normally attend separate events.\n\nProgram details: the IFHE World Congress track offers more than 30 sessions covering engineering strategy, operational readiness, facility planning and global healthcare perspectives, with content purpose-built for healthcare engineering and facilities professionals. Facility managers wanting broader access can buy the combined IFHE and HCD Full Conference Pass, which opens up HCD's 110-plus session program in addition to the IFHE track.\n\nThe joint full conference pass also includes all keynotes and networking events, such as welcome receptions and the HCD networking party, plus breakfasts and lunches.\n\nThe piece closes with a promotional offer: $300 off the joint full conference pass using promo code MCMORROW300, with registration through HCD Expo. The item is essentially an event listing and registration promotion rather than analysis, and carries no independent data, research findings or commentary on workplace operations, hybrid policy or workplace technology.",
+ "claims": [
+  {
+   "claim": "The 2026 IFHE World Congress will be co-located with the Healthcare Design Conference + Expo for the first time, Oct. 17-20 in New Orleans.",
+   "stat": "Oct. 17-20, 2026",
+   "attribution": "FMLink / HCD Expo"
+  },
+  {
+   "claim": "The IFHE World Congress track includes sessions on engineering strategy, operational readiness, facility planning and global healthcare perspectives.",
+   "stat": "30+ sessions",
+   "attribution": "FMLink / HCD Expo"
+  },
+  {
+   "claim": "The HCD conference program is available to holders of the joint full conference pass.",
+   "stat": "110+ sessions",
+   "attribution": "FMLink / HCD Expo"
+  },
+  {
+   "claim": "A promo code offers a discount on the joint full conference pass.",
+   "stat": "$300 off with code MCMORROW300",
+   "attribution": "FMLink / HCD Expo"
+  }
+ ],
+ "vocabulary": [
+  "IFHE World Congress",
+  "International Federation of Healthcare Engineering",
+  "HCD Expo",
+  "Healthcare Design Conference + Expo",
+  "healthcare engineering",
+  "facility, engineering and operations professionals",
+  "facility managers",
+  "operational readiness",
+  "facility planning",
+  "engineering strategy",
+  "Association of Medical Facility Professionals",
+  "Forge (formerly Emerald)",
+  "full conference pass",
+  "keynotes",
+  "networking events"
+ ],
+ "topics_covered": []
+}

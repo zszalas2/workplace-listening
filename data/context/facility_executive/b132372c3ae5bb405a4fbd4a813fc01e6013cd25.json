@@ -1,0 +1,15 @@
+{
+ "id": "b132372c3ae5bb405a4fbd4a813fc01e6013cd25",
+ "source_id": "facility_executive",
+ "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTm1iRHBNUEx5ZF9wQ3JmR05tYjZJa3ZxemgyWG5kcTZjWUdPalVSSm9CcGY5Z0hlb21JdGxBX192RmdoRkNRdWI5RkVUbjIxTTBWenJ3amp5ejZfTGFXQTBZbGpsME9qd19uSncwU2pRUmZlRzBRWWJ2M0FLcmdybnZYaTYzeTM3TFFyYUVGRDdQazVzb0ZUYWltQm5acWRtY3c?oc=5",
+ "published_at": "2026-06-22",
+ "observed_at": "2026-09-14",
+ "summary": "This item is a headline-only entry from Facility Executive, surfaced via a Google News RSS link. The title, \"Building Smarter Means Rethinking The Rules Of Network Infrastructure,\" indicates a trade press piece about smart building network infrastructure and the idea that delivering smarter, more connected facilities requires rethinking conventional approaches to how building networks are designed, cabled, and managed. No body text was supplied beyond the repeated title and source attribution, so the substantive arguments, examples, vendor references, and any supporting data are unavailable. Based on the title alone, the likely subject matter sits in the facilities and building technology space: converged IP networks, structured cabling, edge connectivity, IoT device density, and the implications for building owners and facility managers who must support an expanding set of connected systems such as HVAC controls, lighting, access control, and sensors. There is no indication of coverage of workplace experience topics such as desk or room booking, visitor management, hybrid and return to office policy, attendance tracking, or workplace analytics. Because the content is not retrievable from the supplied payload, no factual claims, statistics, or attributions can be extracted, and no category or vendor vocabulary can be captured beyond the generic phrase \"network infrastructure.\" Recommend refetching the full article from the publisher before using this item for analysis or saturation scoring. As supplied, it should be treated as a stub with low analytical value.",
+ "claims": [],
+ "vocabulary": [
+  "network infrastructure",
+  "building smarter",
+  "smart building"
+ ],
+ "topics_covered": []
+}

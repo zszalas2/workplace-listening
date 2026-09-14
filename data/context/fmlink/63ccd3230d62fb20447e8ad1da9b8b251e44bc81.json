@@ -1,0 +1,60 @@
+{
+ "id": "63ccd3230d62fb20447e8ad1da9b8b251e44bc81",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/biofilm-the-invisible-barrier-to-a-clean-healthcare-environment/",
+ "published_at": "2026-09-10",
+ "observed_at": "2026-09-14",
+ "summary": "An FMLink/CMM piece explaining biofilm and why it undermines cleaning and disinfection in healthcare environments. Most microbes do not live as free-floating (planktonic) cells; they attach to surfaces and form structured communities encased in a self-produced matrix of extracellular polymeric substances (EPS) made of polysaccharides, proteins, lipids and extracellular DNA. Attachment begins weak and reversible, then becomes irreversible as cells produce adhesins and secrete matrix. Microcolonies mature into three-dimensional biofilms with nutrient and waste channels; cells alter gene expression, slow growth, and coordinate via quorum sensing. In the dispersion stage, cells escape and colonize new surfaces, which is why contamination recurs after cleaning.\n\nBiofilms resist biocides, antibiotics and scrubbing far better than free cells. The EPS matrix slows disinfectant penetration and binds or neutralizes actives. Slower-growing, stress-tolerant cells resist agents targeting rapidly dividing organisms. Mixed-species communities share resistance genes and protect one another. The result is a visually clean surface that still harbors biofilm; vegetative bacteria can persist for weeks or months on hospital surfaces and may not be evenly recovered in environmental sampling.\n\nThe article notes research in the Journal of Hospital Infection finding biofilms also form on dry hospital surfaces, with microbes surviving desiccated in dust and organic residue and using intermittent moisture from cleaning, spills or touch to rebuild. Surface scratches, pores, seams, surface energy, texture and chemistry increase adhesion, especially with organic load. Detergents that remove loose soil but do not disrupt the matrix leave a \"conditioned\" surface that aids future attachment.\n\nRecommendations: shift the question from \"did we wipe the surface?\" to \"did we disrupt and remove the attached community?\"; select surfaces and materials that resist attachment; use chemistries and tools validated against biofilm matrix; emphasize mechanical action, correct contact time, and routine disruption of reservoirs such as sink areas, bed rails and shared equipment. Promotes a Healthcare Surfaces Institute panel at ISSA Show North America, November 16, 11:30 a.m. to 12:30 p.m., with Darrel Hicks and Nancy Schlossberg.",
+ "claims": [
+  {
+   "claim": "Biofilms can form on dry hospital surfaces, not only in wet environments such as drains, tubing and indwelling devices.",
+   "stat": "",
+   "attribution": "Research published in the Journal of Hospital Infection, cited by the article"
+  },
+  {
+   "claim": "Surface-attached cells and biofilms are significantly less susceptible to biocides, antibiotics and physical scrubbing than free-floating cells.",
+   "stat": "",
+   "attribution": "Article author (FMLink/CMM)"
+  },
+  {
+   "claim": "Vegetative bacteria can persist for weeks or months on hospital surfaces and may not be evenly recovered during environmental sampling.",
+   "stat": "weeks or months",
+   "attribution": "Article author (FMLink/CMM)"
+  },
+  {
+   "claim": "Traditional testing methods and product claims based on planktonic microbes do not always reflect real-world performance against surface-attached cells and biofilms.",
+   "stat": "",
+   "attribution": "Article author (FMLink/CMM)"
+  },
+  {
+   "claim": "The Healthcare Surfaces Institute will host a biofilm panel at ISSA Show North America.",
+   "stat": "Monday, November 16, 11:30 a.m. to 12:30 p.m., featuring Darrel Hicks and Nancy Schlossberg",
+   "attribution": "FMLink/Healthcare Surfaces Institute"
+  }
+ ],
+ "vocabulary": [
+  "biofilm",
+  "dry-surface biofilm",
+  "extracellular polymeric substances (EPS)",
+  "planktonic cells",
+  "adhesins",
+  "microcolonies",
+  "quorum sensing",
+  "dispersion",
+  "biocides",
+  "disinfection",
+  "contact time",
+  "mechanical action",
+  "organic load",
+  "conditioned surface",
+  "high-touch surfaces",
+  "environmental sampling",
+  "environmental services (EVS)",
+  "environmental hygiene",
+  "surface design and material selection",
+  "Healthcare Surfaces Institute",
+  "ISSA Show North America",
+  "Journal of Hospital Infection"
+ ],
+ "topics_covered": []
+}

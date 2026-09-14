@@ -1,0 +1,39 @@
+{
+ "id": "77022d7da20cce32ffd0408a25bdbec5772b8917",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/why-meetings-are-the-broccoli-of-work/",
+ "published_at": "2026-09-10",
+ "observed_at": "2026-09-14",
+ "summary": "Charter covers a new working paper from researchers at Harvard University and the Norwegian School of Economics arguing that meetings, despite widespread dislike, are a necessary investment in worker development, particularly in the AI era.\n\nContext: over the past few years meeting fatigue has pushed many leaders to try to reclaim time through tactics such as declaring \"calendar bankruptcy,\" instituting no-meeting days, and venting about low-value gatherings via \"that could have been an email\" memes.\n\nThe research counters that sentiment with an economic framing. It finds that meeting frequency and meeting \"intensity\" (including factors such as meeting duration) are associated with worker wage growth and with greater on-the-job learning. The implication is that meetings function as a channel for skill transfer and career progression rather than purely as lost productive time, so blanket meeting reduction may carry hidden costs.\n\nThe researchers summarize their position with the line that meetings are \"the broccoli of work\" - widely disliked but probably good for us anyway.\n\nThe item is short and does not detail methodology, sample, data sources, or effect sizes, and it does not address workplace operations topics such as room booking, meeting room utilization, AV equipment, hybrid scheduling policy, or attendance tracking. The relevance for workplace technology audiences is mainly as a counterweight to meeting-reduction narratives that often accompany calendar analytics and workplace efficiency pitches.",
+ "claims": [
+  {
+   "claim": "Meeting frequency and meeting intensity, including factors such as meeting duration, are linked with worker wage growth and greater on-the-job learning.",
+   "stat": "",
+   "attribution": "Working paper by researchers at Harvard University and the Norwegian School of Economics"
+  },
+  {
+   "claim": "Meetings are a necessary investment despite being widely disliked, described as \"the broccoli of work.\"",
+   "stat": "",
+   "attribution": "Researchers at Harvard University and the Norwegian School of Economics, quoted by Charter"
+  },
+  {
+   "claim": "Meeting fatigue in recent years has led leaders to declare \"calendar bankruptcy\" and ban meetings on certain days.",
+   "stat": "",
+   "attribution": "Charter"
+  }
+ ],
+ "vocabulary": [
+  "meeting fatigue",
+  "calendar bankruptcy",
+  "no-meeting days",
+  "meeting frequency",
+  "meeting intensity",
+  "meeting duration",
+  "on-the-job learning",
+  "wage growth",
+  "\"that could have been an email\"",
+  "the broccoli of work",
+  "AI era"
+ ],
+ "topics_covered": []
+}

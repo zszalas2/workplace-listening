@@ -1,0 +1,131 @@
+{
+ "id": "f518f04627a3eb9c25d9d7a0655cbf7f9a948641",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/09/72-of-organizations-say-process-related-challenges-have-caused-ai-initiatives-to-fail-and-it-is-costing-them-millions/",
+ "published_at": "2026-09-11",
+ "observed_at": "2026-09-14",
+ "summary": "A press release carried by Allwork.Space covers new Camunda research, The AI Process Gap, arguing that broken or pre-AI business processes are the main reason enterprise AI initiatives fail. Headline finding: 72% of organizations say process-related challenges have caused AI initiatives to fail, at an average cost of $1.55 million per business. The same share say AI costs will spiral without better process control, and 82% believe AI investment is wasted without process re-design. The report frames a choice between bolting AI onto legacy processes (seen as lower-friction by 79%) and outcome-centric redesign; 82% say adapting their most important processes will take up to five years, and 61% say redesign cannot keep pace with AI adoption speed.\n\nOn governance, 40% of organizations had an AI-related compliance or governance issue in the past 12 months, with process issues contributing to 84% of those. 48% fear AI agents going rogue if processes change, 79% of employees fear their AI use will cause a compliance issue, and 96% expect process challenges to contribute to future incidents. Camunda's Kurt Petersen argues compliance fear is itself slowing the redesign work that would reduce exposure.\n\nA leadership-employee perception gap is highlighted: 89% of organizations say AI boosts team productivity versus 64% of employees; 48% of organizations have rolled back AI use due to negative impact on employees' ability to work; 46% of employees would consider changing jobs over poorly implemented AI. Additional employee data: 69% were not fully consulted, 65% say different implementation would help, 44% have manually overridden AI outputs due to faulty underlying process, and 41% have used AI performatively to satisfy an AI mandate.\n\nMethodology: Sapio Research surveyed 1,000 process decision makers and 5,000 employees across US, UK, Germany and France at organizations of 1,000+ employees, online in July and August 2026. Camunda positions itself as an agentic orchestration platform with governance, auditability and human oversight, used by 700+ organizations.",
+ "claims": [
+  {
+   "claim": "Process-related challenges have caused AI initiatives to fail at most organizations, with a measurable average cost",
+   "stat": "72% of organizations; average cost $1.55 million per business",
+   "attribution": "Camunda, The AI Process Gap report"
+  },
+  {
+   "claim": "Organizations expect AI costs to spiral without better process control",
+   "stat": "72%",
+   "attribution": "Camunda report"
+  },
+  {
+   "claim": "Organizations believe AI investments will fail without more investment in process re-design",
+   "stat": "82%",
+   "attribution": "Camunda report"
+  },
+  {
+   "claim": "Adding AI onto existing processes creates less internal resistance",
+   "stat": "79% of organizations",
+   "attribution": "Camunda report"
+  },
+  {
+   "claim": "Adapting the most important processes for AI will take up to five years",
+   "stat": "82%",
+   "attribution": "Camunda report"
+  },
+  {
+   "claim": "Business process re-design cannot keep pace with required AI speed",
+   "stat": "61% of respondents",
+   "attribution": "Kurt Petersen, SVP Customer Success, Camunda"
+  },
+  {
+   "claim": "Organizations suffered an AI-related compliance or governance issue in the past 12 months",
+   "stat": "40%",
+   "attribution": "Camunda report"
+  },
+  {
+   "claim": "Process-related issues contributed to those compliance/governance incidents",
+   "stat": "84%",
+   "attribution": "Camunda report"
+  },
+  {
+   "claim": "Organizations fear AI agents going rogue if they make changes to a process",
+   "stat": "48%",
+   "attribution": "Camunda report"
+  },
+  {
+   "claim": "Employees fear their use of AI will lead to a compliance issue",
+   "stat": "79% of employees",
+   "attribution": "Camunda report"
+  },
+  {
+   "claim": "Expect process challenges will contribute to future AI-related compliance issues",
+   "stat": "96%",
+   "attribution": "Camunda report"
+  },
+  {
+   "claim": "Perception gap on AI productivity between organizations and employees",
+   "stat": "89% of organizations vs 64% of employees",
+   "attribution": "Camunda report"
+  },
+  {
+   "claim": "Organizations have rolled back AI use due to negative impact on employees' ability to do their job",
+   "stat": "48%",
+   "attribution": "Camunda report"
+  },
+  {
+   "claim": "Employees would consider changing jobs due to poorly implemented AI",
+   "stat": "46%",
+   "attribution": "Camunda report"
+  },
+  {
+   "claim": "Employees were not fully consulted about how AI would be used in their day-to-day work",
+   "stat": "69%",
+   "attribution": "Camunda report"
+  },
+  {
+   "claim": "Employees say they could use AI more effectively if implemented differently",
+   "stat": "65%",
+   "attribution": "Camunda report"
+  },
+  {
+   "claim": "Employees have manually overridden AI outputs because the underlying process was not set up correctly",
+   "stat": "44%",
+   "attribution": "Camunda report"
+  },
+  {
+   "claim": "Employees have used AI to artificially comply with an organizational AI mandate when there was no need",
+   "stat": "41%",
+   "attribution": "Camunda report"
+  },
+  {
+   "claim": "Survey scope and method",
+   "stat": "1,000 process decision makers and 5,000 employees across US, UK, Germany, France; organizations with 1,000+ employees; online July-August 2026",
+   "attribution": "Sapio Research, commissioned by Camunda"
+  },
+  {
+   "claim": "Camunda customer base",
+   "stat": "over 700 organizations, including 9 of the top 10 US banks",
+   "attribution": "Camunda"
+  }
+ ],
+ "vocabulary": [
+  "agentic orchestration",
+  "AI agents",
+  "AI Process Gap",
+  "process re-design",
+  "outcome-centric approach",
+  "bolting AI onto existing processes",
+  "governance and compliance exposure",
+  "AI agents going rogue",
+  "human oversight",
+  "auditability",
+  "AI mandate",
+  "manual override of AI outputs",
+  "automation strategy",
+  "process decision makers",
+  "time-to-value",
+  "pilots to production"
+ ],
+ "topics_covered": [
+  "agentic_ai_tooling_and_governance"
+ ]
+}

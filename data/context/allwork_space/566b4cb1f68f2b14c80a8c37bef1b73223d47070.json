@@ -1,0 +1,87 @@
+{
+ "id": "566b4cb1f68f2b14c80a8c37bef1b73223d47070",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/09/women-now-hold-the-majority-of-u-s-payroll-jobs-yet-still-earn-far-less-than-men/",
+ "published_at": "2026-09-11",
+ "observed_at": "2026-09-14",
+ "summary": "Allwork.Space republishes a Fortune piece (by Muskaan Arshad, via Reuters Connect syndication) reporting that women now hold the majority of U.S. payroll jobs for only the third time in history, while still earning substantially less than men.\n\nKey data: a National Association of Colleges and Employers study found class of 2023 bachelor's degree graduates started at an average of $59,778 for women versus $72,190 for men, roughly 83 cents on the dollar before careers begin. Previous female payroll majorities occurred briefly around 2010 during the Great Recession and in early 2020 before the pandemic, both driven by downturns wiping out male-dominated construction and manufacturing work. This crossover is different because it arrived without a recession.\n\nBureau of Labor Statistics figures cited show employed women grew by more than 870,000 over 12 months while men shed nearly 1.5 million jobs. In August, women accounted for 158,000 of 162,000 jobs added, with men just 2%. Roughly 7 million fewer men are employed than in the 1990s, and male labor force participation for those 20 and older fell to 69.4% in August 2026 from 75.8% in August 2006.\n\nExplanations offered include video gaming as a cause of male retreat, and research by University of Connecticut economists Remy Levin and Daniela Vidart arguing that men entering weak labor markets become pessimistic and opt out. Laura Ullrich of the Indeed Hiring Lab calls the decline semi-permanent and structural.\n\nOn pay: women earn 81 cents per male dollar, a gap widening with age, totaling $542,800 less over a 40-year career and more than $1 million for women of color. Female-dominated fields (education, nursing, care work) pay less; women outnumber men 3 to 1 in teaching and 8 to 1 in nursing. Claudia Goldin's Nobel-winning research identifies parenthood as the biggest driver. The piece notes post-pandemic return-to-office mandates have disproportionately hit mothers who are primary caretakers.",
+ "claims": [
+  {
+   "claim": "Women who graduated with a bachelor's degree in the class of 2023 had lower average starting salaries than men with the same degree",
+   "stat": "$59,778 for women vs $72,190 for men, about 83 cents on the dollar",
+   "attribution": "National Association of Colleges and Employers (NACE) study"
+  },
+  {
+   "claim": "Employment grew for women and fell for men over the past 12 months",
+   "stat": "women up more than 870,000; men down nearly 1.5 million",
+   "attribution": "Bureau of Labor Statistics"
+  },
+  {
+   "claim": "Women accounted for nearly all jobs added in the August report",
+   "stat": "158,000 of 162,000 positions; men just 2%",
+   "attribution": "August jobs report cited in article"
+  },
+  {
+   "claim": "Fewer men are employed today than in the 1990s",
+   "stat": "roughly 7 million fewer",
+   "attribution": "article"
+  },
+  {
+   "claim": "Male labor force participation for those aged 20 and older has declined",
+   "stat": "69.4% as of August 2026, down from 75.8% in August 2006",
+   "attribution": "article"
+  },
+  {
+   "claim": "Women hold a payroll job majority for only the third time in U.S. history, previously around 2010 and early 2020",
+   "stat": "third time",
+   "attribution": "article"
+  },
+  {
+   "claim": "The decline in male employment is a long-term, semi-permanent structural shift rather than recession-driven",
+   "stat": "",
+   "attribution": "Laura Ullrich, director of economic research at the Indeed Hiring Lab, former senior regional economist at the Federal Reserve Bank of Richmond, speaking to Fortune"
+  },
+  {
+   "claim": "Women earn 81 cents for every dollar men make, with the gap widening over a career",
+   "stat": "81 cents; $542,800 lost over a 40-year career; more than $1 million for women of color",
+   "attribution": "article"
+  },
+  {
+   "claim": "Women are concentrated in lower-paying fields",
+   "stat": "two-thirds of low-wage workers; outnumber men 3 to 1 in teaching and 8 to 1 in nursing; less than a third of the science and engineering workforce",
+   "attribution": "article"
+  },
+  {
+   "claim": "Early-career pay gaps are small until a woman has her first child, after which earnings never recover parity",
+   "stat": "",
+   "attribution": "Nobel Prize-winning research by economist Claudia Goldin"
+  },
+  {
+   "claim": "Post-pandemic return-to-office mandates have disproportionately affected mothers who are primary caretakers",
+   "stat": "",
+   "attribution": "article"
+  },
+  {
+   "claim": "Young men entering high-unemployment, weak-wage markets grow pessimistic and opt out of work",
+   "stat": "",
+   "attribution": "University of Connecticut economists Remy Levin and Daniela Vidart"
+  }
+ ],
+ "vocabulary": [
+  "payroll jobs",
+  "gender pay gap",
+  "labor force participation rate",
+  "tight labor market",
+  "starting salary",
+  "low-wage jobs",
+  "STEM",
+  "return-to-office mandates",
+  "Bureau of Labor Statistics",
+  "Indeed Hiring Lab",
+  "NACE",
+  "structural decline",
+  "care work",
+  "primary caretakers"
+ ],
+ "topics_covered": []
+}

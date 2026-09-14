@@ -1,0 +1,23 @@
+{
+ "id": "e44f320e882d253fb4507cfe23c90e1da50dc7a3",
+ "source_id": "facility_executive",
+ "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZi05Y0lhck1zaTluSThsa0hYUGx6QzlpT3VUVTZ3MnZyREs1ajdodHh5ZmRJcFRpZkg4UVl1ODZuV2dSRG5nTXVzQThiaWdHSmdVZGI5c3o2bjFDSHZhQmozOG4yMURfdDUwSWk4RXNDZDNYUjByZjhtYjE5RzFISVgwdE9pSDY3RHlVd3AyUFlhQmhkMVJia2xETWxJMFdRc1Q5OW1GZw?oc=5",
+ "published_at": "2026-09-10",
+ "observed_at": "2026-09-14",
+ "summary": "A headline-only item from Facility Executive announcing that Robin, a workplace management platform known for desk and room booking, has released new move management capabilities. The stated benefit is giving teams control of office maps, implying self-service editing of floor plans and seating layouts rather than relying on facilities or CAD/space planning specialists to reconfigure neighborhoods, desks and rooms. No body text, pricing, availability date, customer examples or product detail is available in the supplied content, so the substance of the feature set, how moves are planned and approved, and how the map editing interacts with existing desk booking data cannot be verified from this item. Treat this as a vendor product announcement signal only: it indicates Robin is extending from booking into space planning and move/add/change workflows, a space typically served by IWMS and space management tools. Any claims about outcomes, adoption or differentiation would need the full article or vendor release to confirm.",
+ "claims": [
+  {
+   "claim": "Robin has launched new move management capabilities that let teams control office maps",
+   "stat": "",
+   "attribution": "Facility Executive headline, reporting on Robin"
+  }
+ ],
+ "vocabulary": [
+  "move management",
+  "office maps",
+  "Robin",
+  "workplace management platform",
+  "teams"
+ ],
+ "topics_covered": []
+}

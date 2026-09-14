@@ -8,7 +8,8 @@
    "2026-W32": 0,
    "2026-W33": 0,
    "2026-W35": 0,
-   "2026-W36": 1
+   "2026-W36": 1,
+   "2026-W38": 1
   },
   "evidence": [
    {
@@ -41,17 +42,15 @@
   ],
   "became_post": null,
   "became_post_at": null,
-  "covered_by_context": [
-   "allwork_space"
-  ],
-  "suggested_angle": "Put a cost figure on time lost hunting for desks and compare it with paying for the space people actually use.",
+  "covered_by_context": [],
+  "suggested_angle": "Argue that time lost hunting for a desk is a measurable workspace cost HR can trade against per-seat spend.",
   "current": 1,
-  "trailing_mean": 0.833,
-  "delta_z": 0.089,
+  "trailing_mean": 0.167,
+  "delta_z": 2.236,
   "demand_score": 0.0,
-  "saturation_score": 0.333,
+  "saturation_score": 0.0,
   "opportunity_score": 0.0,
-  "status": "steady"
+  "status": "watching"
  },
  {
   "theme_id": "hybrid_rto_mandate_pushback",
@@ -62,7 +61,8 @@
    "2026-W32": 0,
    "2026-W33": 1,
    "2026-W35": 0,
-   "2026-W36": 1
+   "2026-W36": 1,
+   "2026-W38": 0
   },
   "evidence": [
    {
@@ -100,17 +100,14 @@
   ],
   "became_post": null,
   "became_post_at": null,
-  "covered_by_context": [
-   "allwork_space",
-   "charter"
-  ],
+  "covered_by_context": [],
   "suggested_angle": "Show HR how to write a hybrid policy where the home setup allowance and in-office spend are one governed budget rather than ad hoc reimbursements.",
-  "current": 1,
+  "current": 0,
   "trailing_mean": 0.333,
-  "delta_z": 1.414,
-  "demand_score": 0.049,
-  "saturation_score": 0.667,
-  "opportunity_score": 0.016,
+  "delta_z": -0.707,
+  "demand_score": 0.0,
+  "saturation_score": 0.0,
+  "opportunity_score": 0.0,
   "status": "steady"
  },
  {
@@ -122,22 +119,23 @@
    "2026-W32": 0,
    "2026-W33": 8,
    "2026-W35": 2,
-   "2026-W36": 23
+   "2026-W36": 23,
+   "2026-W38": 6
   },
   "evidence": [
    {
-    "quote": "typically around how many hours total would it take you to organise a complex international business trip end-to-end?",
-    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1vyi840/how_long_would_this_business_trip_take_you_to/",
+    "quote": "What is something the front desk does in your office that makes your job 10x easier?",
+    "url": "https://www.reddit.com/r/AdminAssistant/comments/1w2bepl/what_is_something_the_front_desk_does_in_your/",
+    "source_id": "reddit_adminassistant"
+   },
+   {
+    "quote": "When did being helpful turn into being everyone’s assistant?",
+    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1w52odu/when_did_being_helpful_turn_into_being_everyones/",
     "source_id": "reddit_executiveassistants"
    },
    {
-    "quote": "Executive/Virtual Assistants: If you were advising a small business owner on hiring their first EA/VA, what would you tell them?",
-    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1vls64n/executivevirtual_assistants_if_you_were_advising/",
-    "source_id": "reddit_executiveassistants"
-   },
-   {
-    "quote": "Chicago EA / Sales Operations: What’s a Competitive Starting Salary?",
-    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1vp8cr1/chicago_ea_sales_operations_whats_a_competitive/",
+    "quote": "New EA. Little to no work every day and my executive is extremely difficult to work with.",
+    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1w6qkph/new_ea_little_to_no_work_every_day_and_my/",
     "source_id": "reddit_executiveassistants"
    }
   ],
@@ -166,14 +164,14 @@
   "became_post": null,
   "became_post_at": null,
   "covered_by_context": [],
-  "suggested_angle": "Quantify the hidden spend inside EA and office admin work, from multi-hour trip bookings to approval chasing, and show HR leaders where a spend management layer removes the manual steps.",
-  "current": 23,
-  "trailing_mean": 2.333,
-  "delta_z": 7.066,
-  "demand_score": 1.0,
+  "suggested_angle": "Quantify the hidden admin hours HR pays for when office and workspace requests have no system behind them.",
+  "current": 6,
+  "trailing_mean": 5.5,
+  "delta_z": 0.06,
+  "demand_score": 0.726,
   "saturation_score": 0.0,
-  "opportunity_score": 1.0,
-  "status": "accelerating"
+  "opportunity_score": 0.726,
+  "status": "gap"
  },
  {
   "theme_id": "multi_site_proof_of_work_tracking",
@@ -184,7 +182,8 @@
    "2026-W32": 0,
    "2026-W33": 0,
    "2026-W35": 0,
-   "2026-W36": 0
+   "2026-W36": 0,
+   "2026-W38": 0
   },
   "evidence": [
    {
@@ -211,8 +210,8 @@
   "covered_by_context": [],
   "suggested_angle": "Show how a single record of office tasks and spend replaces the photo and text message trail when one person covers several sites.",
   "current": 0,
-  "trailing_mean": 0.167,
-  "delta_z": -0.447,
+  "trailing_mean": 0,
+  "delta_z": 0.0,
   "demand_score": 0.0,
   "saturation_score": 0.0,
   "opportunity_score": 0.0,
@@ -227,7 +226,8 @@
    "2026-W32": 0,
    "2026-W33": 3,
    "2026-W35": 0,
-   "2026-W36": 2
+   "2026-W36": 2,
+   "2026-W38": 0
   },
   "evidence": [
    {
@@ -262,13 +262,13 @@
   "became_post_at": null,
   "covered_by_context": [],
   "suggested_angle": "Connect front desk and support workload to the tooling budget, showing where automation protects the people absorbing the complaints.",
-  "current": 2,
-  "trailing_mean": 0.667,
-  "delta_z": 1.206,
+  "current": 0,
+  "trailing_mean": 0.833,
+  "delta_z": -0.687,
   "demand_score": 0.0,
   "saturation_score": 0.0,
   "opportunity_score": 0.0,
-  "status": "watching"
+  "status": "steady"
  },
  {
   "theme_id": "risk_assessment_vendor_review_workload",
@@ -278,7 +278,8 @@
    "2026-W32": 1,
    "2026-W33": 0,
    "2026-W35": 0,
-   "2026-W36": 0
+   "2026-W36": 0,
+   "2026-W38": 0
   },
   "evidence": [
    {
@@ -314,13 +315,19 @@
   "counts_by_week": {
    "2026-W33": 1,
    "2026-W35": 2,
-   "2026-W36": 1
+   "2026-W36": 1,
+   "2026-W38": 2
   },
   "evidence": [
    {
-    "quote": "I've been off for three weeks with mental health stuff.",
-    "url": "https://www.reddit.com/r/HumanResourcesUK/comments/1vwkwsh/longterm_sickness/",
-    "source_id": "reddit_humanresourcesuk"
+    "quote": "How can I encourage the office to use our time and attendance software without being annoying?",
+    "url": "https://www.reddit.com/r/AdminAssistant/comments/1wccv4h/how_can_i_encourage_the_office_to_use_our_time/",
+    "source_id": "reddit_adminassistant"
+   },
+   {
+    "quote": "We're looking for a system that will allow our employees to clock in/out in the field (delivery drivers, service techs) or at their desk (sales team, back office staff).",
+    "url": "https://www.reddit.com/r/humanresources/comments/1wa53th/hris_options_for_business_w_25_employees_tx/",
+    "source_id": "reddit_humanresources"
    }
   ],
   "vocabulary": [
@@ -347,15 +354,17 @@
   ],
   "became_post": null,
   "became_post_at": null,
-  "covered_by_context": [],
-  "suggested_angle": "Explain how absence and attendance records feed workplace spend decisions without turning HR into a surveillance function.",
-  "current": 1,
-  "trailing_mean": 0.5,
-  "delta_z": 0.655,
-  "demand_score": 0.046,
-  "saturation_score": 0.0,
-  "opportunity_score": 0.046,
-  "status": "steady"
+  "covered_by_context": [
+   "allwork_space"
+  ],
+  "suggested_angle": "Show HR buyers why adoption, not features, decides whether attendance and workspace tools pay for themselves.",
+  "current": 2,
+  "trailing_mean": 0.667,
+  "delta_z": 1.789,
+  "demand_score": 0.256,
+  "saturation_score": 1.0,
+  "opportunity_score": 0.0,
+  "status": "watching"
  },
  {
   "theme_id": "visitor_signin_diy_vs_buy",
@@ -364,7 +373,8 @@
   "counts_by_week": {
    "2026-W33": 1,
    "2026-W35": 1,
-   "2026-W36": 0
+   "2026-W36": 0,
+   "2026-W38": 0
   },
   "evidence": [
    {
@@ -418,7 +428,8 @@
   "counts_by_week": {
    "2026-W33": 2,
    "2026-W35": 0,
-   "2026-W36": 0
+   "2026-W36": 0,
+   "2026-W38": 0
   },
   "evidence": [
    {
@@ -450,15 +461,13 @@
   ],
   "became_post": null,
   "became_post_at": null,
-  "covered_by_context": [
-   "allwork_space"
-  ],
+  "covered_by_context": [],
   "suggested_angle": "Frame coworking stipends and day-pass desks as a managed spend category for HR, with policy on what employees can claim and why call privacy drives the choice.",
   "current": 0,
   "trailing_mean": 0.333,
   "delta_z": -0.447,
   "demand_score": 0.0,
-  "saturation_score": 0.333,
+  "saturation_score": 0.0,
   "opportunity_score": 0.0,
   "status": "steady"
  },
@@ -468,7 +477,8 @@
   "first_seen": "2026-08-24",
   "counts_by_week": {
    "2026-W35": 1,
-   "2026-W36": 0
+   "2026-W36": 0,
+   "2026-W38": 0
   },
   "evidence": [
    {
@@ -510,7 +520,8 @@
   "first_seen": "2026-08-24",
   "counts_by_week": {
    "2026-W35": 2,
-   "2026-W36": 0
+   "2026-W36": 0,
+   "2026-W38": 0
   },
   "evidence": [
    {
@@ -557,23 +568,19 @@
   "first_seen": "2026-08-24",
   "counts_by_week": {
    "2026-W35": 2,
-   "2026-W36": 3
+   "2026-W36": 3,
+   "2026-W38": 2
   },
   "evidence": [
    {
-    "quote": "How do you use AI in your daily work?",
-    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1vyut9n/ai_uses_and_prompts_for_newbie/",
+    "quote": "How are you using AI",
+    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1wanpyo/how_are_you_using_ai/",
     "source_id": "reddit_executiveassistants"
    },
    {
-    "quote": "How are y’all doing general ops automation?",
-    "url": "https://www.reddit.com/r/sysadmin/comments/1vyvz5e/lets_talk_ops_automation_and_platforms/",
-    "source_id": "reddit_sysadmin"
-   },
-   {
-    "quote": "How can I break my workaholic Claude Code addiction?",
-    "url": "https://news.ycombinator.com/item?id=49491745",
-    "source_id": "hackernews"
+    "quote": "he uses Notion AI to transcribe meetings, turn recordings into notes and follow-ups, and then has automated Slack messages that surface his priorities and action items",
+    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1wanpyo/how_are_you_using_ai/",
+    "source_id": "reddit_executiveassistants"
    }
   ],
   "vocabulary": [
@@ -601,25 +608,24 @@
   "became_post": null,
   "became_post_at": null,
   "covered_by_context": [
-   "allwork_space",
-   "charter",
-   "fmlink"
+   "allwork_space"
   ],
-  "suggested_angle": "Frame AI assistants for admin and workplace tasks as a spend and policy question: who approves what the agent buys or books, and what audit trail HR needs.",
-  "current": 3,
-  "trailing_mean": 0.333,
-  "delta_z": 3.578,
-  "demand_score": 0.126,
+  "suggested_angle": "Give HR a simple policy for who approves and pays for the AI tools assistants are already buying on personal cards.",
+  "current": 2,
+  "trailing_mean": 0.833,
+  "delta_z": 0.962,
+  "demand_score": 0.205,
   "saturation_score": 1.0,
   "opportunity_score": 0.0,
-  "status": "watching"
+  "status": "steady"
  },
  {
   "theme_id": "home_workspace_stipend_and_ergonomics",
   "label": "Home workspace setup, ergonomics and who pays for the desk and chair",
   "first_seen": "2026-08-31",
   "counts_by_week": {
-   "2026-W36": 2
+   "2026-W36": 2,
+   "2026-W38": 0
   },
   "evidence": [
    {
@@ -647,12 +653,145 @@
   "became_post_at": null,
   "covered_by_context": [],
   "suggested_angle": "Position a managed home workspace stipend as the cheapest way to close the ergonomic liability gap HR keeps discovering in hybrid policies.",
-  "current": 2,
+  "current": 0,
+  "trailing_mean": 0.333,
+  "delta_z": -0.447,
+  "demand_score": 0.0,
+  "saturation_score": 0.0,
+  "opportunity_score": 0.0,
+  "status": "steady"
+ },
+ {
+  "theme_id": "exec_calendar_conflict_management",
+  "label": "Executive calendar conflicts, scheduling tools and who controls the diary",
+  "first_seen": "2026-09-14",
+  "counts_by_week": {
+   "2026-W38": 6
+  },
+  "evidence": [
+   {
+    "quote": "I would love some advice and tips on how other Exec Assistants are strategically managing calendars.",
+    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1wef6u7/calendar_ninjas_show_me_your_ways_usa/",
+    "source_id": "reddit_executiveassistants"
+   },
+   {
+    "quote": "My boss hates Calendly and it's frustrating",
+    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1wbocis/my_boss_hates_calendly_and_its_frustrating/",
+    "source_id": "reddit_executiveassistants"
+   },
+   {
+    "quote": "I feel like I’m drowning with calendar request.",
+    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1w4i7se/help_calendar_tips/",
+    "source_id": "reddit_executiveassistants"
+   }
+  ],
+  "vocabulary": [
+   "calendar management",
+   "calendar conflicts",
+   "Calendly",
+   "manual dates",
+   "dedicated work blocks",
+   "travel buffer",
+   "optional invitees",
+   "Outlook Mobile",
+   "meeting heavy organization",
+   "standing orders",
+   "1:1s",
+   "block 12-1pm for lunch"
+  ],
+  "became_post": null,
+  "became_post_at": null,
+  "covered_by_context": [],
+  "suggested_angle": "Show HR and ops leaders the real cost of calendar chaos, including who is quietly paying for scheduling tools like Calendly out of pocket because nobody owns workplace software spend.",
+  "current": 6,
   "trailing_mean": 0,
   "delta_z": 0.0,
-  "demand_score": 0.049,
+  "demand_score": 0.772,
   "saturation_score": 0.0,
-  "opportunity_score": 0.049,
+  "opportunity_score": 0.772,
+  "status": "new"
+ },
+ {
+  "theme_id": "meeting_room_booking_conflicts",
+  "label": "Room booking conflicts, unreserved rooms and who polices the space",
+  "first_seen": "2026-09-14",
+  "counts_by_week": {
+   "2026-W38": 1
+  },
+  "evidence": [
+   {
+    "quote": "When I arrive to the office, they are already in an unreserved room, so I promptly block it for the full time and rearrange the other meetings booked for that room into other spaces.",
+    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1wbhbua/call_other_ea_or_let_it_go/",
+    "source_id": "reddit_executiveassistants"
+   }
+  ],
+  "vocabulary": [
+   "room bookings",
+   "unreserved room",
+   "block it for the full time",
+   "I manage the meeting rooms",
+   "mid-size office",
+   "meeting invites",
+   "rearrange the other meetings"
+  ],
+  "became_post": null,
+  "became_post_at": null,
+  "covered_by_context": [],
+  "suggested_angle": "Position room booking hygiene as a spend and utilisation question for HR-led workplace owners, not a policing job dumped on the office manager.",
+  "current": 1,
+  "trailing_mean": 0,
+  "delta_z": 0.0,
+  "demand_score": 0.129,
+  "saturation_score": 0.0,
+  "opportunity_score": 0.129,
+  "status": "watching"
+ },
+ {
+  "theme_id": "ea_role_scope_and_hiring",
+  "label": "What the EA and admin role actually covers, interviews and career path",
+  "first_seen": "2026-09-14",
+  "counts_by_week": {
+   "2026-W38": 9
+  },
+  "evidence": [
+   {
+    "quote": "What are EA interviews actually testing after calendars?",
+    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1wecr0v/what_are_ea_interviews_actually_testing_after/",
+    "source_id": "reddit_executiveassistants"
+   },
+   {
+    "quote": "Executive Assistant or Project Manager?",
+    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1wbh4nv/executive_assistant_or_project_manager/",
+    "source_id": "reddit_executiveassistants"
+   },
+   {
+    "quote": "Career switcher, should I be aiming for a more entry levle Admin Assistant role or straight for Executive Assistant roles?",
+    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1w72qu2/career_switcher_should_i_be_aiming_for_a_more/",
+    "source_id": "reddit_executiveassistants"
+   }
+  ],
+  "vocabulary": [
+   "EA",
+   "PA to CEO",
+   "Chief of Staff",
+   "CoS",
+   "admin assistant",
+   "project management heavy",
+   "inbox/calendar management",
+   "judgment and boundaries",
+   "hybrid with some in-person availability required",
+   "part-time executive/personal assistant"
+  ],
+  "became_post": null,
+  "became_post_at": null,
+  "covered_by_context": [],
+  "suggested_angle": "Explain how unclear EA and office manager scope leads to unmanaged workplace spend, and what HR should centralise instead.",
+  "current": 9,
+  "trailing_mean": 0,
+  "delta_z": 0.0,
+  "demand_score": 1.0,
+  "saturation_score": 0.0,
+  "opportunity_score": 1.0,
   "status": "watching"
  }
 ]

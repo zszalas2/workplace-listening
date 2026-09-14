@@ -1,0 +1,21 @@
+{
+ "id": "34683e7a62041b9bd9608b44b35e76d0a3460def",
+ "source_id": "facility_executive",
+ "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOHNiRXhqUmZmRDhyYTlMUkpLN1ZGVWE0QWpodUc2bl9yQWpNdGtlcmZFSWRhTnkteW5LNnNsVUVyVF82NEVQZkdFRGtXZWdyNVdwcnFuOE9KcFdnX3FKOGZVbHdxMkhmbTRROFNBc3pWM2RDcjA2S3Q4TWdoNTZtdzlkMXBnbWwzbjJn?oc=5",
+ "published_at": "2026-09-10",
+ "observed_at": "2026-09-14",
+ "summary": "This item is a headline-only entry from Facility Executive, surfaced via a Google News RSS link. The title states: \"Survey Finds Building Security Has Lagged Since 9/11.\" No article body, survey methodology, sample size, sponsor, or publication date is included in the provided text, which consists solely of the headline repeated alongside the source domain.\n\nWhat can be inferred: the piece reports on survey findings suggesting that building security practices or investment have not kept pace, or have regressed, in the period since the September 11, 2001 attacks. The likely subject matter sits within facilities management and physical security, potentially touching on access control, lobby and entrance screening, emergency preparedness, and occupant safety in commercial real estate. Facility Executive is a trade publication serving facility managers, so the intended audience would be building operators and FM decision makers.\n\nBecause no substantive content is available, no specific statistics, respondent counts, vendor names, or category terminology can be extracted. The survey sponsor and fielding organization are unknown. No claims about visitor management systems, sign-in workflows, desk or room booking, hybrid policy, or workplace analytics appear in the text.\n\nFor pipeline purposes this should be treated as a stub requiring full-text retrieval before it can contribute meaningfully to theme saturation. If the underlying article covers lobby screening or visitor credentialing, it could later become relevant to visitor management themes, but on the evidence provided it cannot be tagged. Recommend re-crawling the canonical Facility Executive URL to capture the survey details, then re-evaluating for theme fit.",
+ "claims": [
+  {
+   "claim": "A survey found that building security has lagged since the September 11, 2001 attacks.",
+   "stat": "",
+   "attribution": "Unnamed survey reported by facilityexecutive.com"
+  }
+ ],
+ "vocabulary": [
+  "building security",
+  "survey",
+  "facility executive"
+ ],
+ "topics_covered": []
+}

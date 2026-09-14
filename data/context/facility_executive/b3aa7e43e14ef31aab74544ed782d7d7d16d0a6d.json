@@ -1,0 +1,15 @@
+{
+ "id": "b3aa7e43e14ef31aab74544ed782d7d7d16d0a6d",
+ "source_id": "facility_executive",
+ "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMzh1MnB0bTFOWUlVQ3Z0a1VfWDdYalE1QS1WanlxcURuMVZuZlBYYnktbENxeUR1amo1WjZKc2hzUGdSdnFIeDd1RW9XVk85THI1QkRxMUQ4ZEJxUGJNQnRsZk1RVExHb1hSM2NhOXBIZ1o2cjY3b29GVWhac1BNQWZNS2ZiektYUm02cVAyUzF5aS1Wc2ZNRldIQk9oWWM?oc=5",
+ "published_at": "2026-09-09",
+ "observed_at": "2026-09-14",
+ "summary": "A headline-only item from Facility Executive titled \"Maintenance Teams Face Growing Risk Of Lost Institutional Knowledge.\" The RSS entry contains no article body beyond the title and source attribution, so the substance of the piece cannot be verified from the supplied text. Based on the headline alone, the article appears to address facilities and maintenance operations, specifically the risk that institutional knowledge held by experienced maintenance staff is lost as those workers retire or leave, leaving building operations teams without documented procedures, equipment history, or informal know-how. Typical coverage in this vein would discuss workforce aging and turnover in skilled trades, the gap created when undocumented practices are not captured in CMMS or asset records, and mitigation approaches such as knowledge capture, documentation, training, mentoring, and digital maintenance systems. None of that detail is present in the provided item, and no statistics, sources, or quoted experts are included. No factual claims can be extracted. The item does not touch on visitor management, desk or room booking, hybrid and return-to-office policy, workplace analytics tooling, attendance tracking, or IT procurement themes in the registry, and therefore maps to none of the listed theme ids. Additional source text would be required to produce a substantive summary or to assess relevance to the listening pipeline.",
+ "claims": [],
+ "vocabulary": [
+  "maintenance teams",
+  "institutional knowledge",
+  "facility executive"
+ ],
+ "topics_covered": []
+}

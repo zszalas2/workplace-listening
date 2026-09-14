@@ -1,0 +1,52 @@
+{
+ "id": "54e94e5e18baf9f2129502f33c0421a8ee131810",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/09/7-in-10-jobseekers-say-writing-cvs-for-ai-makes-it-harder-to-stand-out-u-k-study-finds/",
+ "published_at": "2026-09-11",
+ "observed_at": "2026-09-14",
+ "summary": "Allwork.Space reports on U.K. research from jobs site CV-Library suggesting that jobseekers are rewriting CVs and cover letters for AI screening systems rather than human readers, and that this may be eroding differentiation. The study surveyed more than 1,000 candidates plus 233 recruiters and employers. Seven in 10 jobseekers said the trend of writing for AI makes it harder for them to stand out. A similar proportion of recruiters said AI-generated applications make it harder to identify the strongest candidates. More than a third of recruiters said they are less confident than a year ago that a CV or application accurately reflects a candidate's true skills. Alec Stanwell of CV-Library warned that candidates focused on writing for AI risk forgetting their real audience, the human making the final hiring decision, and that AI can improve an application but should not strip out personality, skills and real-world examples. He advised employers to look beyond the CV, using interviews and skills-based assessments to understand what a candidate can actually do. The piece is squarely about recruitment and AI in hiring, not workplace operations, visitor management, desk or room booking, or hybrid policy.",
+ "claims": [
+  {
+   "claim": "Jobseekers say tailoring CVs for AI screening makes it harder to stand out",
+   "stat": "7 in 10 jobseekers",
+   "attribution": "CV-Library survey"
+  },
+  {
+   "claim": "Recruiters believe AI-generated applications make identifying the strongest candidates harder",
+   "stat": "a similar number to 7 in 10",
+   "attribution": "CV-Library survey"
+  },
+  {
+   "claim": "Recruiters are less confident than a year ago that a CV accurately reflects a candidate's true skills",
+   "stat": "more than a third",
+   "attribution": "CV-Library survey"
+  },
+  {
+   "claim": "Study sample size",
+   "stat": "more than 1,000 candidates and 233 recruiters and employers",
+   "attribution": "CV-Library"
+  },
+  {
+   "claim": "Candidates focused on writing for AI risk forgetting the human making the final hiring decision",
+   "stat": "",
+   "attribution": "Alec Stanwell, CV-Library"
+  },
+  {
+   "claim": "Employers should look beyond the CV using interviews and skills-based assessments",
+   "stat": "",
+   "attribution": "Alec Stanwell, CV-Library"
+  }
+ ],
+ "vocabulary": [
+  "CV",
+  "cover letter",
+  "AI robots",
+  "AI-generated applications",
+  "jobseekers",
+  "recruiters",
+  "skills-based assessments",
+  "hiring decision",
+  "CV-Library"
+ ],
+ "topics_covered": []
+}

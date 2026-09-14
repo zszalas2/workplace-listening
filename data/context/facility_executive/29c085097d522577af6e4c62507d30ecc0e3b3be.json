@@ -1,0 +1,21 @@
+{
+ "id": "29c085097d522577af6e4c62507d30ecc0e3b3be",
+ "source_id": "facility_executive",
+ "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTk96OVhnZmFRX2tETTVDbDBET3l5aUFlVFBYOGM3elQtZm5HWUZRTnlHMnNsTlZBTUtlMnY0SzRjVEo2YjU5VF9sMXNRcU0yQkdhVFlrYVNkMUdzSVlXVVJtZjdGSE5IVjJMX0FGakZhZ0NKRHlSUVhvRWN5WWVsbTdzYmlVb2JO?oc=5",
+ "published_at": "2026-04-23",
+ "observed_at": "2026-09-14",
+ "summary": "This item is a short trade press announcement from Facility Executive (facilityexecutive.com) stating that the publication has welcomed a new Editorial Director. The retrieved content consists only of the headline and source attribution, with no body copy, no name of the appointee, no biographical detail, and no commentary on editorial direction or coverage plans. As such, there is no substantive discussion of workplace technology, facilities management practice, visitor management, desk or room booking, hybrid and return-to-office policy, or workplace analytics. The piece is a staffing and masthead announcement for a facilities management trade publication rather than an analytical or reported article. No statistics, survey data, vendor claims, or named sources are present in the available text. For a B2B listening pipeline, the only signal value is that Facility Executive, a facilities and workplace trade outlet, has changed editorial leadership, which may be relevant context for media relations or content placement tracking but carries no thematic content signal. Full evaluation would require retrieving the complete article from the publisher, since the syndicated Google News RSS excerpt contains nothing beyond the duplicated headline.",
+ "claims": [
+  {
+   "claim": "Facility Executive has appointed and welcomed a new Editorial Director.",
+   "stat": "",
+   "attribution": "Facility Executive (facilityexecutive.com)"
+  }
+ ],
+ "vocabulary": [
+  "Facility Executive",
+  "Editorial Director",
+  "facilities management trade press"
+ ],
+ "topics_covered": []
+}

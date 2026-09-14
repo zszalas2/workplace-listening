@@ -1,0 +1,14 @@
+{
+ "id": "9ce4ba6b5ff2d9d2b4ea3ef322498634a2cd73b6",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA4amQyN2dWTkxmcXpQSjhndEFfemltcHRsS2RFblZXUURhdzQtS096ZWdWY0V5U1dQY0w3X2FYX19pblQ5SjctSklVMFJpOUViekE5SXJjNHJJaE1yeHdtX1lycXJXbEpkbUUyOENmSjlEbGlRV2l2Zlhn?oc=5",
+ "published_at": "2023-12-05",
+ "observed_at": "2026-09-14",
+ "summary": "This item contains no substantive editorial content. The record is a WORKTECH Academy image asset reference, titled with an Unsplash photo filename (levi-meir-clancy-jZaQOzrC3XU-unsplash), surfaced through a Google News RSS redirect link. The body text simply repeats the filename and the publisher name. There is no article copy, no author byline, no dateline, no quotes, and no discussion of workplace technology topics such as visitor management, desk or room booking, hybrid and return-to-office policy, workplace analytics, or facilities operations. Nothing in the item supports summarization of arguments, data, or vendor positioning, and no factual claims or statistics can be extracted. The only inferable context is that WORKTECH Academy, a workplace research and content platform, published something for which this photograph was a media attachment, and the image file was indexed separately by the feed. For the listening pipeline this should be treated as a feed artifact rather than a piece of content, and it should be excluded from saturation scoring and competitor coverage analysis. If the underlying article is of interest, it would need to be retrieved directly from the WORKTECH Academy site rather than from this asset URL. No category or vendor vocabulary appears beyond the publisher name itself.",
+ "claims": [],
+ "vocabulary": [
+  "WORKTECH Academy",
+  "Unsplash"
+ ],
+ "topics_covered": []
+}

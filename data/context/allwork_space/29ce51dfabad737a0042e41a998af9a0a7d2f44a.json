@@ -1,0 +1,77 @@
+{
+ "id": "29ce51dfabad737a0042e41a998af9a0a7d2f44a",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/09/openai-launches-finance-specific-chatgpt-to-take-on-more-wall-street-work/",
+ "published_at": "2026-09-11",
+ "observed_at": "2026-09-14",
+ "summary": "Allwork.Space republishes a Reuters report that OpenAI has launched ChatGPT for Financial Services, a vertical version of ChatGPT aimed at investment bankers and equity researchers. The product combines OpenAI's newest model with licensed financial data sets built directly into the tool, and was developed with Morgan Stanley and Evercore acting as design partners.\n\nThe launch is framed as part of a broader trend of AI vendors building products for regulated industries where data governance and security dominate buying decisions. The offering extends ChatGPT Enterprise's existing security controls, including role-based access and encryption, and lets compliance teams export workspace logs into audit workflows.\n\nThe service runs on GPT-6 Astra, which OpenAI says improves retrieval across financial data tools, financial reasoning, and output accuracy. Described use cases include multi-source research, building financial models, and generating client materials such as pitchbooks using a firm's own templates.\n\nBundled data sources include Daloopa, LSEG News, PitchBook, Crunchbase and Quartr, covering earnings transcripts, financial statements and company fundamentals. OpenAI says this data is indexed on its own infrastructure to improve retrieval and citation quality. LSEG is noted as the sole distributor of Reuters news, financial data and real-time alerts to global financial professionals. Firms with existing data subscriptions can connect them via integrations with FactSet, S&P Global, Preqin and Datasite.\n\nOpenAI says it intends to broaden the available financial data and further train models to identify, interpret and apply that information to tasks historically done by experienced analysts, and to expand the product beyond investment banking and equity research into the wider financial services sector. Reporting is credited to Akash Sriram and Krystal Hu, edited by Devika Syamnath.",
+ "claims": [
+  {
+   "claim": "OpenAI launched a financial services specific version of ChatGPT targeting investment bankers and equity researchers",
+   "stat": "",
+   "attribution": "OpenAI blog post, via Reuters"
+  },
+  {
+   "claim": "Morgan Stanley and Evercore served as design partners for the product",
+   "stat": "2 design partners",
+   "attribution": "OpenAI"
+  },
+  {
+   "claim": "The product builds on ChatGPT Enterprise security controls including role-based access and encryption, and lets compliance teams export workspace logs into audit workflows",
+   "stat": "",
+   "attribution": "OpenAI"
+  },
+  {
+   "claim": "The service is powered by GPT-6 Astra, built to improve retrieval across financial data tools, financial reasoning and output accuracy",
+   "stat": "",
+   "attribution": "OpenAI"
+  },
+  {
+   "claim": "Bundled datasets come from Daloopa, LSEG News, PitchBook, Crunchbase, Quartr and others, covering earnings transcripts, financial statements and company fundamentals",
+   "stat": "",
+   "attribution": "OpenAI"
+  },
+  {
+   "claim": "Data is indexed on OpenAI's own infrastructure to improve retrieval and citation",
+   "stat": "",
+   "attribution": "OpenAI"
+  },
+  {
+   "claim": "LSEG is the sole distributor of Reuters news, financial data and real-time alerts to global financial professionals",
+   "stat": "",
+   "attribution": "Reuters/Allwork.Space"
+  },
+  {
+   "claim": "Existing customer data subscriptions can be connected through integrations with FactSet, S&P Global, Preqin and Datasite",
+   "stat": "",
+   "attribution": "OpenAI"
+  },
+  {
+   "claim": "OpenAI plans to expand the product beyond investment banking and equity research into the wider financial services sector",
+   "stat": "",
+   "attribution": "OpenAI"
+  }
+ ],
+ "vocabulary": [
+  "ChatGPT for Financial Services",
+  "ChatGPT Enterprise",
+  "GPT-6 Astra",
+  "role-based access",
+  "encryption",
+  "workspace logs",
+  "audit workflows",
+  "compliance teams",
+  "data governance",
+  "regulated industries",
+  "retrieval",
+  "citation",
+  "design partners",
+  "pitchbooks",
+  "earnings transcripts",
+  "company fundamentals",
+  "integrations",
+  "equity research",
+  "investment banking"
+ ],
+ "topics_covered": []
+}

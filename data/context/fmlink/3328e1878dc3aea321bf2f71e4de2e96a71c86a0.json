@@ -1,0 +1,48 @@
+{
+ "id": "3328e1878dc3aea321bf2f71e4de2e96a71c86a0",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/issa-academy-provides-healthcare-environmental-services-training-and-career-pathways/",
+ "published_at": "2026-09-10",
+ "observed_at": "2026-09-14",
+ "summary": "FMLink reports on the launch of ISSA Academy, a reimagined online learning platform from ISSA, The Association for Cleaning and Facility Solutions. The Academy delivers sector-specific environmental services guidance for hospitals, medical office buildings and other healthcare facilities, alongside general training and career guidance for cleaning and facility professionals at all expertise levels.\n\nThe platform is framed around professional development as a journey rather than a course catalog, combining industry education, training and certification in a single learning environment. Its central feature is Career Pathways, a five-level framework taking professionals from frontline fundamentals through technical expertise, supervision, management and enterprise leadership. Pathways embed existing ISSA education and certification programs so learners can see how individual courses and credentials contribute to long-term career growth.\n\nHealthcare-specific course titles listed include Chain of Infection Basics; The Science of UV Disinfection and Evidence-Based Use in Healthcare; Strategic Use of Products Containing Antimicrobial Surface Properties; How Critical is Disinfection of Hand-Held Technology Devices in Healthcare?; How Surfaces Damaged by Disinfectants Spread Infections; and Challenges of Disinfection of Soft Porous Surfaces in Healthcare Environments.\n\nAn example progression is given: frontline staff build foundational skills through CMI's Certified Custodial Technician (CCT) Basic program and GBAC-Trained Technician education, then advance to higher-level CMI training, and on to the CMI Custodial Supervisor Certification as they move into supervisory roles, with further education supporting management and leadership progression.\n\nTarget audiences include frontline cleaning professionals, building service contractors, facility managers, manufacturers, distributors, residential cleaning professionals and emerging industry leaders. For employers, the Academy supports onboarding, ongoing training, career development and workforce advancement, with commercial options spanning individual courses, career-focused learning bundles, team training subscriptions and enterprise learning. The article points readers to ISSA Healthcare and CDC resources on reducing surface-related risk in healthcare facilities.",
+ "claims": [
+  {
+   "claim": "ISSA launched ISSA Academy, an online learning platform offering healthcare environmental services guidance plus general cleaning and facility training.",
+   "stat": "",
+   "attribution": "ISSA, The Association for Cleaning and Facility Solutions (via FMLink)"
+  },
+  {
+   "claim": "Career Pathways provide a five-level framework progressing from frontline fundamentals to technical expertise, supervision, management and enterprise leadership.",
+   "stat": "five-level framework",
+   "attribution": "ISSA"
+  },
+  {
+   "claim": "Pathways incorporate existing credentials including CMI Certified Custodial Technician (CCT) Basic, GBAC-Trained Technician, and CMI Custodial Supervisor Certification.",
+   "stat": "",
+   "attribution": "ISSA"
+  },
+  {
+   "claim": "Organizational purchasing options range from individual courses and learning bundles to team training subscriptions and enterprise learning.",
+   "stat": "",
+   "attribution": "ISSA"
+  }
+ ],
+ "vocabulary": [
+  "ISSA Academy",
+  "environmental services",
+  "Career Pathways",
+  "building service contractors",
+  "facility managers (FMs)",
+  "CMI Certified Custodial Technician (CCT) Basic",
+  "GBAC-Trained Technician",
+  "CMI Custodial Supervisor Certification",
+  "UV disinfection",
+  "antimicrobial surface properties",
+  "chain of infection",
+  "team training subscriptions",
+  "enterprise learning",
+  "workforce advancement",
+  "onboarding"
+ ],
+ "topics_covered": []
+}

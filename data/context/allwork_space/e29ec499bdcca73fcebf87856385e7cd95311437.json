@@ -1,0 +1,94 @@
+{
+ "id": "e29ec499bdcca73fcebf87856385e7cd95311437",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/09/is-the-september-surge-real-what-job-seekers-should-know-about-fall-hiring/",
+ "published_at": "2026-09-13",
+ "observed_at": "2026-09-14",
+ "summary": "Allwork.space examines whether the \"September Surge\" in hiring is real, drawing on Fortune reporting, BLS data, LinkedIn Economic Graph analysis and Indeed Hiring Lab data.\n\nContext: August 2025 payrolls added 162,000 jobs, with June and July revised up by a combined 55,000, and unemployment steady at 4.1%. LinkedIn's Kory Kantenga says seasonally adjusted data hides swings that matter to individuals, and that September consistently sees more job postings than any other month.\n\nLinkedIn's 2025 seasonality analysis finds postings usually peak in spring/early summer (around May) then decline, with a second peak in September and October in the U.S., other English-speaking countries and Nordic countries. U.S. postings in August run 3% below March levels, then rise to 14% above March in September and 11% above in October. Applications, however, peak January to May and decline afterward, creating a fall window with less competition.\n\nIndeed's Job Postings Index also shows a ramp-up around Labor Day as employers prepare for Q4 and the holidays, notably in retail and transportation/warehousing, but economist Cory Stahle cautions the bump is typically small. September still benefits from the end of the summer vacation slowdown for hiring managers and HR.\n\nTiming varies by field: accounting postings jumped about 21% from July to August last year; finance and professional services recruit in September and October for start dates the following summer. LinkedIn finds hiring and job transitions peak July to September, drop in December, and rise in January.\n\nMarket conditions remain weak: LinkedIn's hiring rate rose just 2% from July to August and hiring is more than 20% below pre-pandemic levels, with jobs per applicant down 6% year over year. Openings were 7.3 million in July versus roughly 7.1 million a year earlier, but employers are slower to extend offers. Kantenga describes a \"big crisis of confidence\" among job seekers, especially Gen Z. Labor force participation rose to 61.6% in August from 61.4%.",
+ "claims": [
+  {
+   "claim": "U.S. employers added jobs in August, with prior months revised upward and unemployment flat",
+   "stat": "162,000 jobs added in August; June and July revised up by a combined 55,000; unemployment rate 4.1%",
+   "attribution": "Bureau of Labor Statistics"
+  },
+  {
+   "claim": "September consistently has more job postings than any other month of the year",
+   "stat": "",
+   "attribution": "Kory Kantenga, LinkedIn head of economics for the Americas"
+  },
+  {
+   "claim": "U.S. job postings dip in August then spike in the fall relative to March levels",
+   "stat": "August 3% below March; September 14% above March; October 11% above March",
+   "attribution": "LinkedIn Economic Graph 2025 seasonality analysis"
+  },
+  {
+   "claim": "Job applications peak between January and May and decline through the rest of the year, unlike postings",
+   "stat": "",
+   "attribution": "LinkedIn Economic Graph 2025 analysis"
+  },
+  {
+   "claim": "The September posting bump in Indeed data is small in most years",
+   "stat": "",
+   "attribution": "Cory Stahle, economist at Indeed Hiring Lab"
+  },
+  {
+   "claim": "Accounting postings ramp up in late summer ahead of year-end reporting and tax season",
+   "stat": "Accounting postings rose roughly 21% from July to August last year",
+   "attribution": "Cory Stahle, Indeed Hiring Lab"
+  },
+  {
+   "claim": "Hiring and job transitions typically peak between July and September, fall sharply in December and rise in January",
+   "stat": "",
+   "attribution": "LinkedIn 2025 analysis"
+  },
+  {
+   "claim": "Hiring remains well below pre-pandemic levels and competition per opening has worsened",
+   "stat": "LinkedIn hiring rate up 2% July to August; hiring more than 20% below pre-pandemic; jobs available per applicant 6% lower than a year ago",
+   "attribution": "Kory Kantenga, LinkedIn"
+  },
+  {
+   "claim": "Job openings are roughly flat year over year but employers are slower to make offers",
+   "stat": "7.3 million openings in July versus roughly 7.1 million a year earlier",
+   "attribution": "Cory Stahle, Indeed Hiring Lab"
+  },
+  {
+   "claim": "LinkedIn observes a crisis of confidence among job seekers, particularly Gen Z, with some leaving the search or returning to school",
+   "stat": "",
+   "attribution": "Kory Kantenga, LinkedIn"
+  },
+  {
+   "claim": "Labor force participation ticked up in August but remains below January levels",
+   "stat": "61.6% in August, up from 61.4% in July; half a percentage point below January",
+   "attribution": "Bureau of Labor Statistics"
+  },
+  {
+   "claim": "The term \"September Surge\" was covered by Fortune as early as 2023 as it gained traction on TikTok",
+   "stat": "",
+   "attribution": "Fortune"
+  }
+ ],
+ "vocabulary": [
+  "September Surge",
+  "job postings",
+  "LinkedIn Economic Graph",
+  "Job Postings Index",
+  "Indeed Hiring Lab",
+  "Bureau of Labor Statistics",
+  "jobs report",
+  "unemployment rate",
+  "labor force participation rate",
+  "seasonal adjustment",
+  "labor-market seasonality",
+  "hiring rate",
+  "jobs per applicant",
+  "job transitions",
+  "white-collar",
+  "professional services",
+  "Gen Z",
+  "crisis of confidence",
+  "job openings",
+  "Q4 hiring",
+  "retail and transportation and warehousing"
+ ],
+ "topics_covered": []
+}

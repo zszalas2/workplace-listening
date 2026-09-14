@@ -1,0 +1,51 @@
+{
+ "id": "43774ecdca92440a5e1c6dbb87ffff71451d4f3d",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/pro-tip-of-the-week-use-rejection-bounties-to-kill-workslop/",
+ "published_at": "2026-09-10",
+ "observed_at": "2026-09-14",
+ "summary": "Charter's weekly pro tip argues that AI-driven productivity gains are creating a new quality problem: \"workslop.\" As AI raises individual workers' capacity to take on more projects, teams are clearing long-standing backlogs and finishing previously back-burnered work. Matt Beane, a professor of technology management at the University of California, Santa Barbara, warns that an unintended consequence is employees flooding workflows with low-value output. He calls much of this AI-generated material \"B+ work\": projects that function correctly, pass visual inspection, and hit key performance indicators, yet lack any real distinction or wow factor. Beane notes that backlog items tend to sit there for a reason, namely that they were judged less valuable than the ideas prioritized ahead of them, so completing them quickly with AI does not necessarily create value. The underlying management failure, per the piece, is metric design: most teams inadvertently incentivize quantity over quality by rewarding speed and raw output instead of the priorities that actually matter. The headline remedy referenced is the use of \"rejection bounties\" as a mechanism to discourage and remove workslop, implying teams should reward the identification and killing of mediocre work rather than the volume of work shipped. The item is short-form advice aimed at managers rethinking productivity measurement in an AI-assisted workflow, and it does not address workplace operations topics such as space booking, visitor management, attendance, or facilities.",
+ "claims": [
+  {
+   "claim": "AI increases individual workers' capacity, letting many teams clear backlogs and complete back-burnered work",
+   "stat": "",
+   "attribution": "Charter"
+  },
+  {
+   "claim": "An unintended consequence of the AI productivity boost is employees flooding workflows with slop",
+   "stat": "",
+   "attribution": "Matt Beane, professor of technology management, UC Santa Barbara"
+  },
+  {
+   "claim": "Much AI-produced output is \"B+ work\": it functions, passes visual inspection, and hits KPIs but lacks a wow factor",
+   "stat": "",
+   "attribution": "Matt Beane"
+  },
+  {
+   "claim": "A healthy chunk of backlog ideas have sat there a long time because they are not as good as the ones pushed to the top",
+   "stat": "",
+   "attribution": "Matt Beane"
+  },
+  {
+   "claim": "Most teams inadvertently incentivize quantity over quality by designing metrics that reward speed and output",
+   "stat": "",
+   "attribution": "Charter"
+  }
+ ],
+ "vocabulary": [
+  "workslop",
+  "rejection bounties",
+  "B+ work",
+  "slop",
+  "backlog",
+  "back-burnered work",
+  "key performance indicators",
+  "KPIs",
+  "metrics",
+  "quantity over quality",
+  "technology management",
+  "productivity boost",
+  "workflows"
+ ],
+ "topics_covered": []
+}

@@ -1,0 +1,15 @@
+{
+ "id": "955a23544942cddea9ff4563480f610e950ea4eb",
+ "source_id": "facility_executive",
+ "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV1hGc3VaWHFXb0FKcGQ4UElBcnV0UU44aUxsTHV6Y2o3RjNjTTRCWE1PdTZ3MzY3NUhDMGYwUEdvTzktVXZ1a2dEazd5LUxqNGpmUW9MRlo4VU0zM092dFpBcW9lR2Nqa2RoYzhCeExTTFpRQjdVMEFEM3RyTk9VN3psLWZaZ085UG1r?oc=5",
+ "published_at": "2024-10-11",
+ "observed_at": "2026-09-14",
+ "summary": "This item is an RSS stub from Facility Executive (via Google News) titled \"A Lesson In Equity: Setting Up The Classroom For Success.\" No article body was included in the feed payload, so the only available content is the headline and the publication name. Based on the title alone, the piece appears to address equity in educational facility design, likely covering how classroom setup, furniture, layout, acoustics, accessibility or environmental conditions can support equitable learning outcomes for students. The source is a facilities management trade publication, which suggests the framing is oriented toward facility managers, school district operations staff and design or procurement decision makers rather than classroom teachers.\n\nBecause no text is available, no factual claims, statistics, attributions or category vocabulary can be extracted with confidence. Nothing in the available title or stub touches the workplace technology themes tracked in this pipeline: there is no mention of visitor management or sign-in systems, desk or room booking, hot desking, hybrid or return-to-office policy, attendance and presence tracking, workplace analytics, support desk metrics, IT asset or endpoint management, AI tooling and governance, or home workspace stipends. The subject matter is K-12 or higher education classroom environments rather than corporate workplace operations.\n\nRecommendation for the listening pipeline: treat this as a non-substantive capture. If the underlying article is of interest, it would need to be retrieved in full from facilityexecutive.com before any claims extraction or theme tagging can be performed. As captured, the item contributes nothing to saturation scoring on any registered theme and should not be counted toward coverage.",
+ "claims": [],
+ "vocabulary": [
+  "equity",
+  "classroom setup",
+  "facility executive"
+ ],
+ "topics_covered": []
+}

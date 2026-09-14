@@ -1,0 +1,76 @@
+{
+ "id": "f2d6ac33dc272b511e42062eb6c1976fbece7ecc",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/09/in-south-korea-being-a-woman-at-work-comes-with-a-lifetime-of-penalties/",
+ "published_at": "2026-09-11",
+ "observed_at": "2026-09-14",
+ "summary": "Allwork.Space reports on a Human Rights Watch study finding that women in South Korea face compounding workplace discrimination that worsens with age, spanning hiring, promotion, pay, job quality later in life and pension outcomes.\n\nEarly disadvantage: social expectations around education and family duties disrupt women's careers after marriage or childbirth, while men dominate managerial and executive roles. More than half of women in their early 50s whose careers were disrupted had spent at least 20 years out of the workforce, and returners rarely regain their prior level. In 2024 women earned on average 31% less than men, widening to about 50% less by their late 50s.\n\nNarrowing options: women in their 50s reported work mainly in call centers, supermarkets, school kitchens, cleaning and caregiving, narrowing to cleaning and care work in their 60s and 70s. On the government Work24 portal, 60% of postings designated for people 50 and older were home caregiving roles, and about 90% fell into four categories: health care and care support, cleaning, building security and management, and food service. These roles are lower paid, often part-time or hourly. Older men more often applied for higher-paid security, maintenance and caretaker roles.\n\nRetirement penalties: mandatory retirement at 60 or older plus the peak wage system cut earnings before pension eligibility. One woman's pay fell from about $38,000 a year at a utility company to roughly $11,000 as a part-time care worker; a 55-year-old transport worker faced a 45% wage cut over two years pre-retirement.\n\nPensions: in 2025 women's average monthly National Old Age Pension payment was 53% of men's, a 47% gap. A contribution age cap of 59 limits late returners, and women received only 3% of childbirth credits in 2025.\n\nHRW also cites gendered ageism, harassment, short-term contracts, limited sick leave and absent menopause accommodations, and urges abolishing mandatory retirement and the peak wage system.",
+ "claims": [
+  {
+   "claim": "Women in South Korea earned less than men on average in 2024",
+   "stat": "31% less",
+   "attribution": "Human Rights Watch report, via Allwork.Space"
+  },
+  {
+   "claim": "The pay gap widens with age, with women in their late 50s earning far less than men their age",
+   "stat": "about 50% less",
+   "attribution": "Human Rights Watch"
+  },
+  {
+   "claim": "Over half of women in their early 50s with disrupted careers had long absences from the workforce",
+   "stat": "more than half spent at least 20 years outside the workforce",
+   "attribution": "Human Rights Watch"
+  },
+  {
+   "claim": "Most jobs on the Work24 portal designated for people 50 and older were home caregiving positions",
+   "stat": "60%",
+   "attribution": "Human Rights Watch"
+  },
+  {
+   "claim": "Jobs for older workers on Work24 cluster in four categories: health care and care support, cleaning, building security and management, and food service",
+   "stat": "about 90%",
+   "attribution": "Human Rights Watch"
+  },
+  {
+   "claim": "One woman's income dropped sharply after mandatory retirement from a utility company at 60",
+   "stat": "from about $38,000 a year to roughly $11,000 as a part-time care worker",
+   "attribution": "Human Rights Watch interviewee"
+  },
+  {
+   "claim": "A transport worker faced a wage reduction under the peak wage system before mandatory retirement",
+   "stat": "45% over two years",
+   "attribution": "55-year-old transport worker interviewed by Human Rights Watch"
+  },
+  {
+   "claim": "Women's average monthly National Old Age Pension payment trailed men's in 2025",
+   "stat": "53% of men's, a 47% gap",
+   "attribution": "Human Rights Watch"
+  },
+  {
+   "claim": "Women received a small share of childbirth credits despite being primary caregivers",
+   "stat": "3% in 2025",
+   "attribution": "Human Rights Watch"
+  },
+  {
+   "claim": "The pension contribution age cap limits benefit accrual for women returning to work in their 40s and 50s",
+   "stat": "age cap of 59",
+   "attribution": "Human Rights Watch"
+  }
+ ],
+ "vocabulary": [
+  "gender pay gap",
+  "peak wage system",
+  "mandatory retirement",
+  "Work24 employment portal",
+  "National Old Age Pension",
+  "childbirth credit system",
+  "pension gap",
+  "career disruption",
+  "gendered age discrimination",
+  "care work",
+  "short-term contracts",
+  "menopause accommodations",
+  "Human Rights Watch"
+ ],
+ "topics_covered": []
+}

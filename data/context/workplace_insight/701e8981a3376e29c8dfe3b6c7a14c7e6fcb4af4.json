@@ -1,0 +1,94 @@
+{
+ "id": "701e8981a3376e29c8dfe3b6c7a14c7e6fcb4af4",
+ "source_id": "workplace_insight",
+ "url": "https://workplaceinsight.net/europes-large-firms-want-better-offices-but-are-less-keen-on-paying-extra-for-them/?utm_source=rss&utm_medium=rss&utm_campaign=europes-large-firms-want-better-offices-but-are-less-keen-on-paying-extra-for-them",
+ "published_at": "2026-09-08",
+ "observed_at": "2026-09-14",
+ "summary": "CBRE's 2026 European Office Occupier Sentiment Survey, based on responses from more than 90 large European office occupiers, finds 65 percent plan to relocate some operations within three years as they chase higher-quality workplaces while resisting premium rents. Nine in ten say they would reject buildings lacking the amenities they need, but willingness to pay extra for those amenities has slipped from 54 percent last year to 48 percent, highlighting tension between quality expectations and cost and space scrutiny.\n\nSpace requirements are shifting in type as well as volume. Some 48 percent expect to need more multipurpose and reconfigurable space, 43 percent anticipate demand for specialist facilities such as AI labs, and 38 percent expect to increase use of flexible workspace. Just over half believe AI will eventually reduce both headcount and the amount of space needed, though AI may simultaneously drive demand for more specialised workplace settings as job activities change.\n\nSustainability continues to shape property decisions, with 45 percent targeting net zero by 2030, up from 37 percent in 2024.\n\nSupply may not keep pace. CBRE forecasts buildings less than five years old will represent just 6.8 percent of European office stock by 2028, the lowest share in over a decade. AI businesses account for roughly 3 percent of European office take-up and favour high-quality central locations, adding to competition.\n\nAnna Esteban, CBRE head of leasing and occupier accounts for Europe, argues firms will occupy less space but be more selective, prioritising workplaces that attract employees and improve experience, which should push more use of flexible workspace to access quality buildings without heavy upfront capital commitment. Mark Cartlich, head of European occupational market research, warns of a mismatch between desired offices and available stock, intensifying competition for prime space. The piece notes findings reflect sentiment among major occupiers rather than the whole market.",
+ "claims": [
+  {
+   "claim": "Most large European office occupiers plan to relocate some operations within three years",
+   "stat": "65 percent",
+   "attribution": "CBRE 2026 European Office Occupier Sentiment Survey"
+  },
+  {
+   "claim": "Occupiers would reject offices lacking required amenities",
+   "stat": "nine in ten",
+   "attribution": "CBRE survey"
+  },
+  {
+   "claim": "Willingness to pay a premium for amenities has fallen",
+   "stat": "from 54 percent to 48 percent",
+   "attribution": "CBRE survey"
+  },
+  {
+   "claim": "Respondents expect to need more multipurpose and reconfigurable space",
+   "stat": "48 percent",
+   "attribution": "CBRE survey"
+  },
+  {
+   "claim": "Respondents anticipate greater demand for specialist facilities such as AI labs",
+   "stat": "43 percent",
+   "attribution": "CBRE survey"
+  },
+  {
+   "claim": "Respondents expect to increase use of flexible workspace",
+   "stat": "38 percent",
+   "attribution": "CBRE survey"
+  },
+  {
+   "claim": "AI will eventually reduce headcount and space needs",
+   "stat": "just over half of respondents",
+   "attribution": "CBRE survey"
+  },
+  {
+   "claim": "Occupiers targeting net zero by 2030 has risen",
+   "stat": "45 percent, up from 37 percent in 2024",
+   "attribution": "CBRE survey"
+  },
+  {
+   "claim": "Buildings under five years old will be a shrinking share of European office stock",
+   "stat": "6.8 percent by 2028, lowest in more than a decade",
+   "attribution": "CBRE forecast"
+  },
+  {
+   "claim": "AI businesses account for a share of European office take-up",
+   "stat": "around 3 percent",
+   "attribution": "CBRE"
+  },
+  {
+   "claim": "Survey sample size",
+   "stat": "more than 90 European office occupiers",
+   "attribution": "CBRE / Workplace Insight"
+  },
+  {
+   "claim": "Firms will occupy less space but be more selective about what they retain",
+   "stat": "",
+   "attribution": "Anna Esteban, CBRE head of leasing and occupier accounts for Europe"
+  },
+  {
+   "claim": "There is a risk of mismatch between offices organisations want and available stock, intensifying competition for prime space",
+   "stat": "",
+   "attribution": "Mark Cartlich, CBRE head of European occupational market research"
+  }
+ ],
+ "vocabulary": [
+  "office occupiers",
+  "occupier sentiment survey",
+  "relocation",
+  "amenities",
+  "premium",
+  "multipurpose and reconfigurable space",
+  "AI labs",
+  "flexible workspace",
+  "office take-up",
+  "net zero",
+  "office stock",
+  "prime space",
+  "capital commitment",
+  "leasing",
+  "occupational market research",
+  "employee experience"
+ ],
+ "topics_covered": []
+}

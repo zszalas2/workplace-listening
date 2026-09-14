@@ -1,0 +1,84 @@
+{
+ "id": "840587c528ee427cc0f23c80295c90a8cd1087f4",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/09/ai-is-saving-employees-time-many-are-learning-to-hide-it/",
+ "published_at": "2026-09-14",
+ "observed_at": "2026-09-14",
+ "summary": "Allwork.space argues that AI is freeing up employee time, but organizations reward visible busyness, so workers learn to hide the capacity they gain. The piece frames AI transformation as requiring slack: companies keep financial reserves and design spare capacity into critical systems, yet treat human time as something that should be fully occupied at all times, leaving no room for learning, experimentation, reflection or transition. When saved time is immediately refilled with new assignments, employees see no personal upside to efficiency, so they conceal it.\n\nEvidence cited includes a Software Finder survey: 66% of U.S. respondents stay online or appear active after finishing work, spending nearly five hours a week maintaining the appearance of productivity; 64% deliberately slowed work to avoid finishing early because speed raised expectations; 63% of employees at companies using productivity-monitoring tools said monitoring made them more likely to fake activity; 73% of managers admitted faking productivity for their own bosses; and 71% said they would simply log off if there were no consequences for finishing early. An Indeed survey of hybrid office employees in Germany found two-thirds had taken steps to look more productive, more than one in four artificially maintained an active online status, and 56% believed their employer valued presence over measurable outcomes.\n\nThe article then extends the critique to proxy metrics driving consequential decisions, citing a lawsuit by 26 Meta employees alleging the company relied on internal AI systems, activity data, AI-token-usage dashboards and algorithmically assisted performance data when selecting layoffs, disadvantaging workers on medical, parental or family leave. Meta disputes this, saying humans made decisions using documented, neutral criteria. The closing point: when information reaching managers is already organized around visible activity, recorded output or AI usage, the measurement system has defined contribution before evaluation begins.",
+ "claims": [
+  {
+   "claim": "U.S. respondents remain online or appear active after finishing their work",
+   "stat": "66%",
+   "attribution": "Software Finder survey"
+  },
+  {
+   "claim": "Those who fake activity spend time maintaining the appearance of productivity",
+   "stat": "nearly five hours per week on average",
+   "attribution": "Software Finder survey"
+  },
+  {
+   "claim": "Respondents intentionally slowed down work to avoid finishing too early because finishing quickly raised expectations",
+   "stat": "64%",
+   "attribution": "Software Finder survey"
+  },
+  {
+   "claim": "Among employees at companies using productivity-monitoring tools, monitoring made them more likely to fake activity",
+   "stat": "63%",
+   "attribution": "Software Finder survey"
+  },
+  {
+   "claim": "Managers admitted they had faked productivity for their own bosses",
+   "stat": "73%",
+   "attribution": "Software Finder survey"
+  },
+  {
+   "claim": "Respondents said they would simply log off if there were no consequences for finishing early",
+   "stat": "71%",
+   "attribution": "Software Finder survey"
+  },
+  {
+   "claim": "Hybrid office employees in Germany deliberately took steps to look more productive or engaged",
+   "stat": "two-thirds",
+   "attribution": "Indeed survey of hybrid office employees in Germany"
+  },
+  {
+   "claim": "Hybrid employees in Germany artificially maintained an active online status",
+   "stat": "more than one in four",
+   "attribution": "Indeed survey"
+  },
+  {
+   "claim": "German hybrid employees believed their employer valued presence more than measurable outcomes",
+   "stat": "56%",
+   "attribution": "Indeed survey"
+  },
+  {
+   "claim": "Meta employees filed a lawsuit alleging the company used internal AI systems, activity data, AI-token-usage dashboards and algorithmically assisted performance information to identify employees for layoffs, disadvantaging those on protected medical, parental or family leave",
+   "stat": "26 employees",
+   "attribution": "Lawsuit brought by Meta employees, as reported by Allwork.space"
+  },
+  {
+   "claim": "Meta disputes the allegations, saying workforce decisions were made by people using documented and neutral criteria and AI did not determine who was terminated",
+   "stat": "",
+   "attribution": "Meta"
+  }
+ ],
+ "vocabulary": [
+  "AI transformation",
+  "available capacity",
+  "productivity-monitoring tools",
+  "faking activity",
+  "active online status",
+  "presence versus outcomes",
+  "proxy measures",
+  "AI productivity metrics",
+  "AI-token-usage dashboards",
+  "algorithmically assisted performance information",
+  "token consumption targets",
+  "hybrid office employees",
+  "performance signals",
+  "slack capacity"
+ ],
+ "topics_covered": [
+  "attendance_tracking_and_monitoring_tools"
+ ]
+}

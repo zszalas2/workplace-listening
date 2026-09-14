@@ -1,0 +1,104 @@
+{
+ "id": "7170bcfb5e104b4dfbe261bc1dad08ba38e394de",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/sustainability-that-reinforces-strength-enforce-wall-protection/",
+ "published_at": "2026-09-13",
+ "observed_at": "2026-09-14",
+ "summary": "Vendor Q&A published by FMLink covering ENFORCE Wall Protection, a wallcovering product line from Arc-Com, which was acquired by textile supplier C.F. Stinson Brands in summer 2025. The piece frames wall damage in high-traffic areas as a recurring facilities management problem, citing corridors, elevator lobbies, patient rooms and waiting areas where gurneys, carts and heavy equipment scuff or dent walls.\n\nProduct positioning: ENFORCE is presented as an aesthetically driven alternative to rigid wall protection panels, offered in woven-look, textured and patterned designs so that durability does not come at the cost of interior design quality. Arc-Com argues that specifying it supports a welcoming, healing atmosphere for patients, visitors and staff.\n\nPerformance claims: the material is impact, abrasion, scratch and stain resistant, built from a heavyweight 33-ounce PVC-free olefin composite using evo PVC-Free technology. It is described as bleach cleanable (10:1 solution) and disinfectant safe, with the hygiene argument being that damaged walls create cracks and crevices where bacteria and pathogens can harbor and resist sanitizing.\n\nSustainability: 30% post-industrial recycled content, water-based inks, free of phthalates, PFAS and heavy metals, Proposition 65 compliant, LBC Red List Free, and supportive of LEED and Healthier Hospitals standards. The Gibraltar pattern is called out specifically as PVC-free, PFAS-free and Prop 65 compliant.\n\nInstallation and maintenance: supplied in 30-yard rolls at 54 inches wide, enabling railroaded horizontal installation up to 30 yards with minimal seam exposure. Flexibility allows inside and outside corner turns with a heat tool, removing the need for corner guards, top caps or trim strips. Recommended washing frequency is one, two or three times per year depending on light, medium or heavy traffic, with prompt stain removal advised. Cited FM benefits are lower long-term maintenance cost and reduced downtime or disruption in clinical areas. Applications span healthcare, corporate, education and hospitality.",
+ "claims": [
+  {
+   "claim": "C.F. Stinson Brands entered the wall protection category by acquiring Arc-Com, an upholstery and wallcovering provider",
+   "stat": "acquisition completed summer 2025",
+   "attribution": "FMLink article"
+  },
+  {
+   "claim": "ENFORCE is constructed from a heavyweight material using evo PVC-Free technology, giving resistance to impact, abrasion, scratches, stains and many chemicals",
+   "stat": "33-ounce material",
+   "attribution": "Arc-Com"
+  },
+  {
+   "claim": "ENFORCE is made from a PVC-free olefin composite containing post-industrial recycled content",
+   "stat": "30% post-industrial recycled content",
+   "attribution": "Arc-Com"
+  },
+  {
+   "claim": "ENFORCE is printed with water-based inks and is free of phthalates, PFAS and heavy metals",
+   "stat": "",
+   "attribution": "Arc-Com"
+  },
+  {
+   "claim": "ENFORCE complies with Proposition 65, is LBC Red List Free, and supports LEED and Healthier Hospitals standards",
+   "stat": "",
+   "attribution": "Arc-Com"
+  },
+  {
+   "claim": "The product is resistant to most cleaning and disinfecting agents including a diluted bleach solution",
+   "stat": "10:1 bleach solution",
+   "attribution": "Arc-Com"
+  },
+  {
+   "claim": "Material is supplied in rolls that permit seamless railroaded horizontal installation",
+   "stat": "30-yard rolls, 54 inches wide, installs up to 30 yards long",
+   "attribution": "Arc-Com"
+  },
+  {
+   "claim": "Recommended washing frequency varies by traffic level",
+   "stat": "one, two or three times per year for light, medium or heavy traffic",
+   "attribution": "Arc-Com"
+  },
+  {
+   "claim": "Flexible material turns inside and outside corners with a heat tool, eliminating corner guards, top caps and trim strips",
+   "stat": "",
+   "attribution": "Arc-Com"
+  },
+  {
+   "claim": "Unprotected walls in high-traffic areas suffer scratches, dents and peeling paint, driving frequent repairs and redecoration, while ENFORCE lowers long-term costs and minimizes downtime in clinical areas",
+   "stat": "",
+   "attribution": "Arc-Com"
+  },
+  {
+   "claim": "Damaged walls create cracks, peeling paint and crevices where bacteria and pathogens can harbor and multiply, often making effective sanitizing impossible",
+   "stat": "",
+   "attribution": "Arc-Com"
+  }
+ ],
+ "vocabulary": [
+  "wall protection",
+  "wallcovering",
+  "ENFORCE Wall Protection",
+  "Arc-Com",
+  "C.F. Stinson Brands",
+  "facility managers",
+  "FMs",
+  "high-traffic areas",
+  "corridors",
+  "elevator lobbies",
+  "senior living",
+  "healthcare facilities",
+  "surface durability",
+  "impact, abrasion, scratch and stain resistant",
+  "evo PVC-Free technology",
+  "PVC-Free Olefin Composite",
+  "post-industrial recycled content",
+  "water-based inks",
+  "phthalate-free",
+  "PFAS-free",
+  "heavy metal-free",
+  "Proposition 65 compliant",
+  "LBC Red List Free",
+  "LEED",
+  "Healthier Hospitals",
+  "bleach cleanable",
+  "disinfectant safe",
+  "corner guards",
+  "top caps",
+  "trim strips",
+  "railroaded installation",
+  "seamless installation",
+  "heat tool",
+  "rigid panels",
+  "upholstery",
+  "specify"
+ ],
+ "topics_covered": []
+}

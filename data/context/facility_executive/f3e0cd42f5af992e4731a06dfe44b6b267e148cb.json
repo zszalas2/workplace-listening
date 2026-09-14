@@ -1,0 +1,21 @@
+{
+ "id": "f3e0cd42f5af992e4731a06dfe44b6b267e148cb",
+ "source_id": "facility_executive",
+ "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYkJ5c2RXVEpDU1lPaDJQSEVrckVUeVFvY2k2ODktN0paa3dRbnUtamhpbHBTZ3hueXAzQl9qMmtpUUJ3Y2RQNVc0VGtqUjhOTFZydGdCaXQ5UHhYXzVHa2xmUkhTR3NtbGp3bkwzWlpDclVHV2dmci1Gd0djQW12V1h2WUlTTV9VaG1kQUhrVXZhb2xqQkVZ?oc=5",
+ "published_at": "2026-04-06",
+ "observed_at": "2026-09-14",
+ "summary": "A headline-only item from Facility Executive summarizing an \"Office Space Report\" finding that four out of five executives lack occupancy data for their office portfolios. No body text is available in the supplied item beyond the title and source line, so the underlying survey sponsor, sample size, methodology, geography and publication date cannot be verified from this record. The implied topic is workplace occupancy measurement: the gap between organizations making real estate, hybrid attendance and space planning decisions and the sensor, badge or booking data needed to support those decisions. The claim suggests roughly 80 percent of executives surveyed are operating without reliable utilization or occupancy metrics, which would be relevant to workplace analytics, space rightsizing, desk and room booking utilization reporting, and return to office policy evaluation. Follow up would be required to retrieve the full article, identify the research publisher, and confirm how occupancy data was defined, for example whether it covers badge swipe attendance, desk booking records, room sensors or manual counts. As presented, the item is a single unverified statistic with no supporting detail, context, vendor commentary or quotes, and should be treated as a lead rather than a usable source.",
+ "claims": [
+  {
+   "claim": "Four out of five executives lack occupancy data for their office space",
+   "stat": "4 out of 5 executives",
+   "attribution": "Unnamed office space report cited by facilityexecutive.com"
+  }
+ ],
+ "vocabulary": [
+  "occupancy data",
+  "office space report",
+  "executives"
+ ],
+ "topics_covered": []
+}

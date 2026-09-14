@@ -1,0 +1,16 @@
+{
+ "id": "d55330ad1baf416bfb81fd15d290ae316a705464",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYjZNVmt5QldBQmZHa3NfTC1WNm9fTXhnQUNSQ2E4eXVUOWlKUkNkM2h4c25oQ05OdlNzVGlteUdMS1RCUlJteFcxbUNPanlaam0zVUduVlh2cVdjT1BkbVQ0RDd2ZEZ1QzUxLVlqbGJ5dkEzdVlDZGhHbzc2VTRWeUl4TFpSRThpb2xCVVN0cw?oc=5",
+ "published_at": "2026-09-11",
+ "observed_at": "2026-09-14",
+ "summary": "This item is a headline-only entry from WORKTECH Academy, surfaced via a Google News RSS link. The title, \"Signal File: exposing culture that nobody is measuring,\" suggests an article in WORKTECH Academy's Signal File series dealing with workplace culture measurement, specifically aspects of organisational culture that current workplace metrics fail to capture. No body text was supplied beyond a repetition of the title and the publication name, so the argument, sources, data and recommendations cannot be summarised. Based on the title alone, the likely subject area is workplace analytics and culture measurement rather than any specific operational tooling category such as visitor management, desk and room booking, or attendance tracking. Because no substantive content is available, no factual claims, statistics or attributions can be extracted, and no vendor or category vocabulary beyond the series name is present. A full-text retrieval of the original WORKTECH Academy article would be required before this item can be reliably tagged or scored for theme saturation. Treat this record as a stub pending enrichment.",
+ "claims": [],
+ "vocabulary": [
+  "Signal File",
+  "culture",
+  "measuring",
+  "WORKTECH Academy"
+ ],
+ "topics_covered": []
+}

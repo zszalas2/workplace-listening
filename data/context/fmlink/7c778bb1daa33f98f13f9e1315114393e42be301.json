@@ -1,0 +1,49 @@
+{
+ "id": "7c778bb1daa33f98f13f9e1315114393e42be301",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/marberry-five-films-about-architecture-and-design-worth-seeing/",
+ "published_at": "2026-09-14",
+ "observed_at": "2026-09-14",
+ "summary": "An opinion column by healthcare design expert Sara Marberry, republished on FMLink, recommending five films and documentaries about architecture and design that she believes will resonate with healthcare and senior living design professionals. Marberry opens by arguing that film builds empathy and helps people see the world through others' eyes, and notes that while Hollywood produces endless stories about doctors, lawyers, detectives and superheroes, architects and designers rarely get top billing.\n\nHer five picks: (1) My Architect (2003), Nathaniel Kahn's documentary about his father Louis Kahn, designer of the Salk Institute, which explores the human cost of professional legacy; (2) The Fountainhead (1949), based on Ayn Rand's novel, with Gary Cooper as Howard Roark, raising questions about creativity and compromise that Marberry says do not align well with modern collaborative healthcare design practice; (3) Columbus (2017), starring Haley Lu Richardson and John Cho, set among the modernist buildings of Columbus, Indiana, and the only entry featuring a woman who wants to be an architect; (4) The Brutalist (2024), with Adrien Brody as Hungarian architect Laszlo Toth rebuilding his career in postwar America, addressing client relationships, financial constraints and resilience; and (5) Ken Burns' two-part PBS documentary Frank Lloyd Wright (1998), which she notes is not technically a film.\n\nMarberry closes by tying the list back to her audience's core question: how do created environments affect human lives? She argues the best healthcare environments reduce stress, foster connection, improve well-being, support staff and help people through vulnerable moments. The piece is cultural commentary on the built environment rather than workplace operations content. Marberry has over 25 years in healthcare and senior living design, has written or edited five books, contributes to Healthcare Design magazine, and is a former Executive Vice President of the Center for Health Design.",
+ "claims": [
+  {
+   "claim": "Louis Kahn's built work includes the Salk Institute and some of the most admired buildings of the 20th century",
+   "stat": "",
+   "attribution": "Sara Marberry, FMLink"
+  },
+  {
+   "claim": "Ken Burns' PBS documentary on Frank Lloyd Wright is a two-part production and remains one of the best filmed explorations of architectural innovation",
+   "stat": "two-part",
+   "attribution": "Sara Marberry"
+  },
+  {
+   "claim": "Marberry has over 25 years of experience in the healthcare and senior living design industry and has written or edited five books",
+   "stat": "25+ years; five books",
+   "attribution": "FMLink author bio"
+  },
+  {
+   "claim": "Columbus (2017) is the only film on the list about a woman architect, or a woman who wants to be one",
+   "stat": "1 of 5",
+   "attribution": "Sara Marberry"
+  },
+  {
+   "claim": "Hospital and health system leaders and senior living owners are increasingly recognizing that buildings are not simply containers for activity but shape experience",
+   "stat": "",
+   "attribution": "Sara Marberry"
+  }
+ ],
+ "vocabulary": [
+  "built environment",
+  "healthcare design",
+  "senior living design",
+  "operational performance",
+  "human experience",
+  "modernist buildings",
+  "brutalist",
+  "architectural innovation",
+  "patient and resident experiences",
+  "Center for Health Design",
+  "Healthcare Design magazine"
+ ],
+ "topics_covered": []
+}

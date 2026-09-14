@@ -1,0 +1,103 @@
+{
+ "id": "dd4d16b77bb5efc8b0309ee0689f82e56dfa44f9",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/09/hong-kong-lures-professionals-back-as-finance-boom-revives-hiring-and-office-demand/",
+ "published_at": "2026-09-11",
+ "observed_at": "2026-09-14",
+ "summary": "Allwork.Space reports that Hong Kong is drawing professionals back after the 2019 unrest and strict COVID restrictions triggered an exodus, driven by a booming IPO market and the city's revival as a global financial hub. Total funds raised, including IPOs, rose 76% year-on-year to about $83.5 billion in the first eight months of 2026, and Hong Kong overtook Switzerland as the top cross-border wealth hub.\n\nExecutive search firms report finance professionals returning from Singapore, London, Dubai and mainland China. Lee Brantingham of H.I.E.C. says inquiries and relocation activity have rebounded strongly since the 2023 low, with asset management, private wealth and family offices as the cornerstone and fastest growth in AI integration, compliance and risk management roles.\n\nInvestHK reports more than 400 companies set up or expanded local entities in the first half of 2026, up 9%, expected to bring over HK$53 billion ($6.8 billion) in FDI and create over 8,600 jobs.\n\nOffice demand is recovering. Savills reports Grade A Central office rents up 4.8% quarter-on-quarter in Q2 with vacancy falling from 10.2% to 9.4%; Jack Tong notes hedge funds and quantitative funds pre-leasing large contiguous floor plates. Knight Frank reports Central premium vacancy falling to 9.7% in July from 14.5% at the start of the year. Susquehanna International Group plans to triple its Hong Kong office space.\n\nHong Kong is also passing a bill extending tax incentives to more fund firms. Economic growth hit 5.9% in Q1 2026, aided by AI-related demand and cross-border financial activity.\n\nStructural caveats remain: the 2020 national security law, high property prices and cost of living. Returnees like teacher Emily Hampson-Ford cite savings potential and lifestyle. Brantingham frames the trend as structural evolution toward a more China-integrated international hub, not a cyclical recovery.",
+ "claims": [
+  {
+   "claim": "Total funds raised in Hong Kong, including IPOs, rose year-on-year in the first eight months of 2026",
+   "stat": "up 76% to roughly $83.5 billion",
+   "attribution": "Allwork.Space / Reuters reporting"
+  },
+  {
+   "claim": "Hong Kong overtook Switzerland as the world's top cross-border wealth hub",
+   "stat": "",
+   "attribution": "Allwork.Space / Reuters reporting"
+  },
+  {
+   "claim": "Relocation and inquiry activity has rebounded from the 2023 trough",
+   "stat": "solid momentum over the past 18 to 24 months",
+   "attribution": "Lee Brantingham, partner, H.I.E.C."
+  },
+  {
+   "claim": "Companies set up or expanded local entities in Hong Kong in H1 2026",
+   "stat": "more than 400 companies, up 9% year-on-year",
+   "attribution": "InvestHK"
+  },
+  {
+   "claim": "These enterprises were expected to bring foreign direct investment and create jobs",
+   "stat": "more than HK$53 billion ($6.8 billion) FDI and over 8,600 jobs",
+   "attribution": "InvestHK"
+  },
+  {
+   "claim": "Grade A Central office rents rose in Q2 versus the prior quarter",
+   "stat": "up 4.8%",
+   "attribution": "Savills"
+  },
+  {
+   "claim": "Central Grade A vacancy rates declined quarter-on-quarter",
+   "stat": "from 10.2% in Q1 to 9.4%",
+   "attribution": "Savills"
+  },
+  {
+   "claim": "Hedge funds and quantitative funds are pre-leasing large contiguous floor plates in Central",
+   "stat": "",
+   "attribution": "Jack Tong, director of research & consultancy, Savills"
+  },
+  {
+   "claim": "Central premium office vacancy fell during 2026",
+   "stat": "to 9.7% in July from 14.5% at the start of the year",
+   "attribution": "Knight Frank"
+  },
+  {
+   "claim": "Susquehanna International Group plans to expand its Hong Kong office footprint for a hiring push",
+   "stat": "triple its office space",
+   "attribution": "Reuters"
+  },
+  {
+   "claim": "Hong Kong economic growth accelerated in Q1 2026",
+   "stat": "5.9%",
+   "attribution": "Hong Kong officials cited in the article"
+  },
+  {
+   "claim": "Hong Kong's stock market valuation and the share of GDP from financial services",
+   "stat": "about $6 trillion market value; financial services around one fifth of GDP",
+   "attribution": "Allwork.Space / Reuters reporting"
+  },
+  {
+   "claim": "Returnees believe they can save more in Hong Kong despite higher cost of living",
+   "stat": "",
+   "attribution": "Emily Hampson-Ford, teacher who returned to Hong Kong"
+  },
+  {
+   "claim": "The influx represents a structural rather than cyclical shift",
+   "stat": "",
+   "attribution": "Lee Brantingham, H.I.E.C."
+  }
+ ],
+ "vocabulary": [
+  "Grade A office space",
+  "Central business district",
+  "vacancy rate",
+  "pre-leasing",
+  "contiguous floor plates",
+  "office rents",
+  "cross-border wealth hub",
+  "IPO market",
+  "family offices",
+  "asset management",
+  "private wealth",
+  "foreign direct investment",
+  "corporate housing leases",
+  "inbound assignments",
+  "talent schemes",
+  "executive search",
+  "leasing market",
+  "national security law",
+  "AI integration",
+  "compliance and risk management"
+ ],
+ "topics_covered": []
+}

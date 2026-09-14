@@ -1,0 +1,82 @@
+{
+ "id": "4d6d61e7f26575b9f64c0a44d42a31e3a4977688",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/how-this-ex-meta-ai-exec-is-tackling-the-entry-level-hiring-squeeze/",
+ "published_at": "2026-09-13",
+ "observed_at": "2026-09-14",
+ "summary": "Charter's newsletter item leads with AI and work signals, then focuses on Clara Shih, a former Salesforce and Meta business AI executive who left Meta this spring to launch the New Work Foundation, a nonprofit addressing the entry-level hiring squeeze.\n\nAI and Work Radar items: Anthropic CEO Dario Amodei published a 3,800-word essay calling for a slowdown in AI capabilities, days after an employee resigned over safety concerns and said Anthropic and OpenAI were gambling with our lives. His three-step plan for pacing the frontier covers third-party evaluators, common safety standards among democratic countries, and coordination with authoritarian governments; executives at OpenAI and Google DeepMind agreed publicly. Challenger, Gray & Christmas data shows AI fell to the fourth-most cited reason for August job cuts after five months at the top, with restructuring and market conditions driving most of the 52,881 cuts. Anthropic also released an interactive tool modeling three scenarios for AI's effect on the US economy by 2030, from internet-sized to railroad-like to a completely transformed economy; GDP and average wages rise in all scenarios while knowledge worker pay stays flat or declines. A Korn Ferry survey of 16,000 professionals found workloads growing despite AI.\n\nShih says agentic reasoning models shortened product development cycles and reduced team sizes, and she personally removed her team's entry-level job postings or raised experience requirements. Three converging signals pushed her to leave: customers deploying business agents and needing smaller teams, her own team using internal agents for marketing, privacy policy review, sales strategy, product roadmap and prototyping, and young family members facing rescinded offers, silence from employers, and AI-only interviews. The New Work Foundation targets information asymmetry between AI insiders and everyone else through three tools: dearCC media, Field Report hiring and salary data, and Game Plan for job search planning and mentorship. Shih speaks at the Charter Workplace Summit on Oct. 21.",
+ "claims": [
+  {
+   "claim": "Amodei called for slowing AI capabilities in a long essay proposing a three-step plan for pacing the frontier",
+   "stat": "3,800-word essay",
+   "attribution": "Dario Amodei, Anthropic CEO"
+  },
+  {
+   "claim": "An Anthropic employee resigned over safety concerns, saying Anthropic and OpenAI were gambling with our lives",
+   "stat": "",
+   "attribution": "departing Anthropic employee, via Charter"
+  },
+  {
+   "claim": "AI fell to the fourth-most cited reason for job cuts in August, ending a five-month run at the top",
+   "stat": "52,881 cuts in August",
+   "attribution": "Challenger, Gray & Christmas"
+  },
+  {
+   "claim": "AI still leads as a cited reason for job cuts for the year to date",
+   "stat": "cited in 22% of all 2026 US layoffs so far",
+   "attribution": "Challenger, Gray & Christmas"
+  },
+  {
+   "claim": "Across three modeled AI economic scenarios for 2030, GDP and average wages rise but knowledge worker pay stays flat or declines",
+   "stat": "three scenarios by 2030",
+   "attribution": "Anthropic interactive economic tool"
+  },
+  {
+   "claim": "Professionals report rising workloads despite AI adoption",
+   "stat": "62% say workload increased significantly over past two years; 52% say AI tools increased expected tasks; 61% feel they perform more than one role; survey of 16,000 professionals",
+   "attribution": "Korn Ferry global survey"
+  },
+  {
+   "claim": "Entry-level job postings were removed or had experience requirements changed specifically because of AI",
+   "stat": "",
+   "attribution": "Clara Shih, New Work Foundation founder and former Meta business AI executive"
+  },
+  {
+   "claim": "Shih spent two decades leading business AI at companies including Salesforce and Meta",
+   "stat": "two decades",
+   "attribution": "Charter"
+  },
+  {
+   "claim": "Data in subsequent studies confirmed entry-level jobs were falling",
+   "stat": "",
+   "attribution": "Clara Shih"
+  }
+ ],
+ "vocabulary": [
+  "agentic AI",
+  "agentic reasoning models",
+  "large language models",
+  "business agents",
+  "AI agents",
+  "entry-level job postings",
+  "information asymmetry",
+  "outplacement firm",
+  "pacing the frontier",
+  "third-party evaluators",
+  "common safety standards",
+  "exposure rates",
+  "hiring trends",
+  "knowledge workers",
+  "AI interviews",
+  "hiring manager",
+  "product roadmap",
+  "prototyping",
+  "privacy policy review",
+  "New Work Foundation",
+  "dearCC",
+  "Field Report",
+  "Game Plan",
+  "Charter Workplace Summit"
+ ],
+ "topics_covered": []
+}

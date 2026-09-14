@@ -1,0 +1,71 @@
+{
+ "id": "84113ab647182068551f638bb93aee3d87bd4d27",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/healthcare-workforce-shortage-threatens-patient-access-and-economic-competitiveness/",
+ "published_at": "2026-09-11",
+ "observed_at": "2026-09-14",
+ "summary": "FMLink summarizes a new report from The Conference Board, \"Addressing US Health Care Workforce Shortages,\" which frames healthcare labor shortages as a national issue of care access, productivity and economic competitiveness rather than a sector-specific problem. The report notes more than 700,000 monthly healthcare job openings against only 306,000 available unemployed workers. It builds on the Health Care Workforce Policy Summit held in March 2026 with the Covista Foundation, with sponsorship from Northwell Health and Terumo Blood and Cell Technologies.\n\nThe report argues that increasing hiring alone will not close the gap. Instead policymakers, employers, educators and health systems must expand pathways into healthcare careers, improve retention and job quality, promote team-based and preventive care, and deploy technology to expand effective workforce capacity.\n\nRecommended policymaker actions: diversify career pathways via earlier exposure, school-to-career routes, scholarships and nontraditional training (citing the Northwell School of Health Science in New York City); expand training infrastructure including faculty, preceptors and clinical placements; reinforce primary care; support rural and underserved recruitment and retention; reform payment systems toward outcomes, prevention, care coordination and team-based care instead of service volume, while reducing avoidable paperwork; address geographic shortages; and reduce deployment barriers through telehealth, licensure portability and immigration credential bridges for foreign-trained clinicians.\n\nRecommended business actions: employer-educator pipelines with apprenticeships and earn-and-learn models (SSM Health's Aspiring Nurse Program via Covista; Terumo's partnerships with Colorado colleges on apheresis); investment across the full career continuum (Covista Open Doors, covering career exploration, emergency student financial support and clinician mental health); treating retention as strategy through development, workplace safety, reduced administrative burden and better job design; scaling team-based care so staff work at the top of their license; and deploying human-complementary AI for clinical decision making and administration, backed by strong governance and privacy rules.",
+ "claims": [
+  {
+   "claim": "Healthcare job openings far exceed the pool of available unemployed workers",
+   "stat": "More than 700,000 monthly healthcare job openings versus 306,000 unemployed workers available",
+   "attribution": "The Conference Board report, Addressing US Health Care Workforce Shortages"
+  },
+  {
+   "claim": "Healthcare workforce shortages are a national access, productivity and competitiveness issue, not just a sector problem",
+   "stat": "",
+   "attribution": "David K. Young, President of The CEO Center at The Conference Board"
+  },
+  {
+   "claim": "When workers cannot access timely care, employers face higher costs, lower productivity and greater workforce disruption",
+   "stat": "",
+   "attribution": "David K. Young, The Conference Board"
+  },
+  {
+   "claim": "The report builds on a Health Care Workforce Policy Summit held in partnership with the Covista Foundation",
+   "stat": "Held March 2026",
+   "attribution": "The Conference Board"
+  },
+  {
+   "claim": "SSM Health's Aspiring Nurse Program trains students within the facilities where they work, creating direct pathways to employment",
+   "stat": "",
+   "attribution": "The Conference Board report (citing Covista and SSM Health)"
+  },
+  {
+   "claim": "Terumo Blood and Cell Technologies partners with Colorado colleges and nursing educators to introduce students to apheresis",
+   "stat": "",
+   "attribution": "The Conference Board report"
+  },
+  {
+   "claim": "Expanding the productivity of the clinical workforce will expand its effective capacity",
+   "stat": "",
+   "attribution": "The Conference Board report"
+  }
+ ],
+ "vocabulary": [
+  "workforce shortages",
+  "job openings",
+  "retention",
+  "job quality",
+  "team-based care",
+  "preventive care",
+  "work at the top of their license",
+  "human-complementary AI",
+  "governance and privacy rules",
+  "earn-and-learn models",
+  "apprenticeships",
+  "career ladders",
+  "clinical placements",
+  "preceptors",
+  "licensure portability",
+  "telehealth",
+  "credential bridges",
+  "payment reform",
+  "value through outcomes",
+  "administrative burden",
+  "school-to-career routes",
+  "career continuum",
+  "workforce pathways"
+ ],
+ "topics_covered": []
+}

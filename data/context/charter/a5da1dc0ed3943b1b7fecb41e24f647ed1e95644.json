@@ -1,0 +1,59 @@
+{
+ "id": "a5da1dc0ed3943b1b7fecb41e24f647ed1e95644",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/the-healthy-heat-your-team-needs-to-thrive/",
+ "published_at": "2026-09-08",
+ "observed_at": "2026-09-14",
+ "summary": "Charter interviews Priya Parker, facilitator and author of The Art of Gathering, about her new book The Art of Fighting, which offers guidance on handling group conflict in workplaces, families, and community groups. Parker argues workplaces are currently pressure cookers, strained by a contentious midterm election, anxiety over AI adoption, and pressure to sustain high performance, so even trivial friction like lunches taken from the office fridge can ignite tension. She says people default to two failure modes: escalating and rage quitting (unhealthy conflict), or avoiding hard conversations entirely (unhealthy peace). The alternative is to hold 'healthy heat,' which she says makes teams more resilient, collaborative, and high-performing, and matters more as AI makes work atomized and lonely.\n\nPractical examples: Canlis, a family-owned fine-dining restaurant run by Mark and Brian Canlis, schedules monthly laser tag games inside the restaurant as a release valve ('adding warmth to heat'), devotes a section of its employee handbook to conflict ('assume the best in others and look for their true north'), and designates two physical spots in the restaurant where staff can hold one-on-ones to address conflict early.\n\nFor remote and dispersed teams, Parker advises managers to establish a team cultural norm of healthy heat and to practice virtually, citing a manager who ran a virtual 'hot-takes party' where each person gave a two-minute PowerPoint on a low-stakes strong opinion, building comfort with disagreement.\n\nHer method for real conflict: assess the type of fight (listen for identity claims like 'we're not a corporation, we're a partnership'), decide whether it is worth facing, then build a 'fight plan' anchored on the actual need rather than a format such as 'we need a Zoom.' Aftermath work matters: expect a 'vulnerability hangover' for two or three days, treat change like an architectural renovation (what is precious, what to stop, what to change), pursue repair, and tend to mundane shared tasks to strengthen the muscles around the wound.",
+ "claims": [
+  {
+   "claim": "People are generally poor at handling conflict, defaulting to escalation or avoidance",
+   "stat": "",
+   "attribution": "Priya Parker, author of The Art of Gathering and The Art of Fighting"
+  },
+  {
+   "claim": "Canlis restaurant schedules monthly laser tag games in the restaurant as a regular release valve for workplace tension",
+   "stat": "monthly",
+   "attribution": "Priya Parker, citing Mark and Brian Canlis"
+  },
+  {
+   "claim": "Canlis maintains two designated places in the restaurant for employees to hold one-on-one conflict conversations",
+   "stat": "two locations",
+   "attribution": "Priya Parker"
+  },
+  {
+   "claim": "A manager ran a virtual 'hot-takes party' with two-minute PowerPoint presentations of low-stakes opinions to build comfort with disagreement",
+   "stat": "two-minute presentations",
+   "attribution": "Priya Parker"
+  },
+  {
+   "claim": "After a difficult group conflict conversation, groups typically experience a 'vulnerability hangover' lasting two or three days",
+   "stat": "2-3 days",
+   "attribution": "Priya Parker, citing Brene Brown's term"
+  },
+  {
+   "claim": "Artful fighting is increasingly important in the AI age because AI threatens to make work more atomized and lonely",
+   "stat": "",
+   "attribution": "Priya Parker"
+  }
+ ],
+ "vocabulary": [
+  "healthy heat",
+  "unhealthy conflict",
+  "unhealthy peace",
+  "adding warmth to heat",
+  "pro-conflict place",
+  "conflict-competent managers",
+  "fight plan",
+  "hot-takes party",
+  "vulnerability hangover",
+  "sensemaking",
+  "repair",
+  "facing",
+  "group intelligence",
+  "employee handbook",
+  "remote or dispersed workplaces",
+  "architectural renovation metaphor"
+ ],
+ "topics_covered": []
+}

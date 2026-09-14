@@ -1,0 +1,57 @@
+{
+ "id": "22a98d355776149ee793fe0b17f71fc5c28168b4",
+ "source_id": "workplace_insight",
+ "url": "https://workplaceinsight.net/fixing-the-open-plan-noise-crisis-in-the-age-of-hybrid-working/?utm_source=rss&utm_medium=rss&utm_campaign=fixing-the-open-plan-noise-crisis-in-the-age-of-hybrid-working",
+ "published_at": "2026-09-11",
+ "observed_at": "2026-09-14",
+ "summary": "An opinion piece on Workplace Insight arguing that hybrid working has exposed acoustic weaknesses in open-plan offices. The author notes that excessive noise is consistently found to be the leading cause of workplace distraction, and that hybrid patterns now force video calls, informal meetings, collaborative work and focused individual tasks to coexist in the same space, with occupancy varying sharply through the week. The physical space may be unchanged, but its use has shifted, creating a wider range of activities competing in one acoustic environment.\n\nThe article makes three main points. First, visual zoning is not acoustic zoning: furniture, colour and flooring can define areas on a plan while leaving them acoustically connected, so organisations should deliberately decide where conversation is encouraged, where calls are taken, where concentrated work happens and where privacy matters. Acoustic design should sit alongside space planning rather than being reduced to finish selection.\n\nSecond, noise complaints have different root causes that require different remedies. Reverberation from hard surfaces differs from direct speech travelling between desks, and both differ from poor inter-room sound insulation, mechanical noise or badly positioned activities. Absorption such as suspended acoustic ceiling rafts or targeted wall panels reduces reverberation but cannot remove nearby direct speech; layout changes will not fix a reverberant room. Desk dividers and acoustic zoning address direct speech transmission. The diagnostic question is what people are hearing that they should not hear.\n\nThird, quieter is not always better. The author reports that some of the strongest distraction complaints come from already very quiet offices occupied by lawyers, engineers and accountants, where low background sound makes a single phone call several desks away dominate the floor and raises speech privacy concerns. Busier offices have ambient activity that masks individual voices.\n\nThe conclusion: the best workplace is not the quietest but one where people can talk, concentrate without headphones all day, and hold confidential conversations.",
+ "claims": [
+  {
+   "claim": "Excessive noise is the leading cause of distraction in the modern workplace",
+   "stat": "number one cause of distraction",
+   "attribution": "unnamed research, cited by the author in Workplace Insight"
+  },
+  {
+   "claim": "Some of the strongest distraction complaints come from offices that are already very quiet, particularly those occupied by lawyers, engineers and accountants doing long periods of concentrated work",
+   "stat": "",
+   "attribution": "the article's author, based on workplace visits"
+  },
+  {
+   "claim": "Acoustic absorption can reduce reverberation and reflected sound build-up but cannot completely remove the direct sound of someone speaking nearby",
+   "stat": "",
+   "attribution": "the article's author"
+  },
+  {
+   "claim": "In a very quiet office, a phone call several desks away can dominate the room and remain intelligible across much of the floor",
+   "stat": "",
+   "attribution": "the article's author"
+  }
+ ],
+ "vocabulary": [
+  "open plan",
+  "hybrid working",
+  "acoustic design",
+  "workplace zoning",
+  "acoustic zoning",
+  "strategic office acoustic design",
+  "space planning",
+  "acoustic assessment",
+  "reverberation",
+  "acoustic absorption",
+  "suspended acoustic ceiling rafts",
+  "acoustic wall panels",
+  "desk dividers",
+  "sound insulation",
+  "mechanical noise",
+  "speech intelligibility",
+  "speech privacy",
+  "background sound",
+  "ambient activity",
+  "occupancy",
+  "focused individual work",
+  "collaboration zones",
+  "workplace design",
+  "workplace behaviour"
+ ],
+ "topics_covered": []
+}

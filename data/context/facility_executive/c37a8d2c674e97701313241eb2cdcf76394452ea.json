@@ -1,0 +1,23 @@
+{
+ "id": "c37a8d2c674e97701313241eb2cdcf76394452ea",
+ "source_id": "facility_executive",
+ "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPR0VYUGJ3a0dyUV8zczgwdU1LRm9CcHRneGRHeXlGZklmUFFHYUxtR3ZLcGR6VW5zbWdJdjVkZVlsb1dMbURpalFYbjVINEdxWm1DWUFiQjc0enphZUc3a21aTUl6aVhZVWxULUJXZ1hRUENPYWtFSHFRM0N1ZWxJMmZjQnFtRlhsMEoxcDVSX1BsNVQwMkVsblJuX3dnN25penV3YjJIVEtxWURwS1ZRQWo4dVlQRUNjM0JzTm1iSQ?oc=5",
+ "published_at": "2026-06-11",
+ "observed_at": "2026-09-14",
+ "summary": "This item is a headline-only entry from Facility Executive with no article body available beyond the title. The headline announces a new resource intended to help data center facility managers balance performance, reliability, and efficiency. No further detail is provided: the piece as supplied does not name the publishing organization behind the resource, describe its format (guide, standard, benchmark, or toolkit), identify its intended audience segment beyond data center facility managers, or offer any statistics, case examples, or quotes. Because only the title and source attribution are present, no substantive claims can be extracted and no assessment can be made of the resource's scope or credibility. Topically it sits in the data center and critical facilities operations space, adjacent to general facilities management, energy efficiency, and uptime or reliability engineering concerns. It does not touch workplace experience topics such as visitor management, desk and room booking, hybrid or return-to-office policy, workplace occupancy analytics, attendance tracking, or administrative and IT support workflows. For the purposes of the B2B listening pipeline, this item should be treated as a low-value signal: it contributes no evidence toward any registry theme and would require retrieval of the full article to determine whether any workplace technology angle exists. Recommend deprioritizing unless the underlying resource is later found to address workplace analytics or facilities technology procurement in a way relevant to the tracked themes.",
+ "claims": [
+  {
+   "claim": "A new resource has been released to help data center facility managers balance performance, reliability, and efficiency.",
+   "stat": "",
+   "attribution": "Facility Executive headline"
+  }
+ ],
+ "vocabulary": [
+  "data center",
+  "facility managers",
+  "performance",
+  "reliability",
+  "efficiency"
+ ],
+ "topics_covered": []
+}

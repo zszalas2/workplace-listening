@@ -1,0 +1,63 @@
+{
+ "id": "4b727b75b2385058368683f1942b362f9c17afc1",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/09/what-gen-z-wants-from-the-office-is-changing-workplace-design-for-everyone/",
+ "published_at": "2026-09-12",
+ "observed_at": "2026-09-14",
+ "summary": "Allwork.Space argues that designing offices around Gen Z expectations improves the workplace for all generations. Gen Z, the most technologically fluent cohort, expects seamless transitions between personal workstations and shared spaces such as boardrooms, mirroring the frictionless connectivity of consumer tech like smartwatches, phones and cars. Citing ThinkLab's Amanda Schneider from her keynote \"Designing Work for What's Next,\" the piece notes that multiple generations now share a workplace with different mental operating systems.\n\nGen Z is described as the first generation less focused on climbing the corporate ladder, viewing the office as a support system for mentorship and collaboration. They accept in-person work when it has clear purpose: learning, relationship-building and collaboration, while independent tasks can be done remotely. Younger workers want managers to provide guidance and mentorship, and they seek belonging, workplace etiquette and cultural understanding through in-person interaction.\n\nMentorship must be deliberately enabled through design: visibility, proximity, natural collision points across a floor, and glass dividers that allow eye contact.\n\nOn adaptability, traditional layouts built around executive offices and rows of workstations are evolving as Baby Boomers retire and younger workers devalue private offices. Efficiency is tied to flexibility, technology access and collaboration rather than a fixed workstation. Offering a choice of settings, from quiet focus rooms to informal collaboration spaces, lets employees match environment to task.\n\nWellness rooms are reframed as essential rather than a chair, door and outlet, supporting rest, recovery and sustained productivity instead of working through burnout. Prayer and reflection rooms are increasingly common.\n\nFlexibility should account for life stage, differentiating employees with caregiving demands from those without, without creating unequal expectations around office time or performance. The piece closes by suggesting environments should respond in real time, adjusting lighting, acoustics and space access to employee needs.",
+ "claims": [
+  {
+   "claim": "Gen Z workers overwhelmingly consider a workplace mentor crucial to their careers, but only about half have one.",
+   "stat": "83% say a mentor is crucial; 52% report having one",
+   "attribution": "Adobe 2023 Future Workforce Study: What U.S. Employers Need to Know About Gen Z in the Workplace"
+  },
+  {
+   "claim": "Many Gen Z and millennial workers feel their managers fall short on development and want guidance, inspiration and mentorship alongside oversight.",
+   "stat": "",
+   "attribution": "Deloitte 2025 Gen Z and Millennial study"
+  },
+  {
+   "claim": "Multiple generations now navigate the same workplace with entirely different mental operating systems.",
+   "stat": "",
+   "attribution": "Amanda Schneider, ThinkLab, keynote \"Designing Work for What's Next\""
+  },
+  {
+   "claim": "Gen Z is the first generation less focused on climbing the corporate ladder, viewing the office as a support system for mentorship and collaboration.",
+   "stat": "",
+   "attribution": "Allwork.Space"
+  },
+  {
+   "claim": "Hybrid work is already the norm, making bridging generational differences an increasing priority.",
+   "stat": "",
+   "attribution": "Allwork.Space"
+  }
+ ],
+ "vocabulary": [
+  "workplace design",
+  "multigenerational workplace",
+  "hybrid work",
+  "personal workstations",
+  "shared spaces",
+  "boardrooms",
+  "seamless connectivity",
+  "mentorship",
+  "natural collision points",
+  "glass dividers",
+  "quiet focus room",
+  "informal collaboration space",
+  "choice of work settings",
+  "fixed workstation",
+  "private offices",
+  "executive offices",
+  "wellness room",
+  "prayer rooms",
+  "reflection spaces",
+  "employee experience",
+  "responsive environments",
+  "lighting and acoustics",
+  "flexibility",
+  "adaptability",
+  "ThinkLab"
+ ],
+ "topics_covered": []
+}
