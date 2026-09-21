@@ -1,0 +1,72 @@
+{
+ "id": "12064dd8884d28b647776caffde1fa1e2f85f17a",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/women-in-facilities-heather-krebs-turning-challenges-into-opportunities-at-fort-wayne-community-school-district/",
+ "published_at": "2026-09-21",
+ "observed_at": "2026-09-21",
+ "summary": "An ARC Facilities profile, republished by FMLink, of Heather Krebs, facilities director at Fort Wayne Community School District in Indiana. The district is the largest in the state, serving roughly 28,000 students across 62 buildings and 51 schools, many more than 70 years old and in a cycle of constant renovation. A headline project is a new multi-sport outdoor stadium complex for Snider High School, whose students and marching band have shared another school's stadium since the 1970s.\n\nKrebs holds a civil engineering degree from Purdue and worked in architecture and engineering before joining the district over a decade ago. She describes Purdue as heavily male-dominated and recalls early-career colleagues reluctant to credit her work, saying she had to build respect and rapport in a male-dominated industry. She credits a school guidance counselor and a youth group counselor who was an engineer for encouraging her path.\n\nHer team comprises five project coordinators, two program coordinators, and two architectural technicians, and she emphasizes delegation and ownership over micromanagement. She lists seven core competencies: be organized, be aware of many moving pieces, keep thoughts straight, manage time wisely, find balance amid information onslaught, filter and delegate, and build and trust the team.\n\nKrebs worked for 13 years with the district's executive director of operations, the previous facilities director, and succeeded him when he was promoted. She has been involved with the Indiana Association of School Business Officials and served on a neighboring district's school board, which taught patience under parent pressure. On emergencies she advises a clear path of action, rapid triage, and staying calm. She uses AI cautiously for summarizing information and drafting email replies, and values having information at her fingertips in the field. She encourages more women into FM, engineering, architecture, and construction.",
+ "claims": [
+  {
+   "claim": "Fort Wayne Community School District is the largest district in Indiana by enrollment",
+   "stat": "approximately 28,000 students",
+   "attribution": "FMLink/ARC Facilities article"
+  },
+  {
+   "claim": "The district's building portfolio spans dozens of facilities with ongoing renovation needs",
+   "stat": "62 buildings, 51 schools, 70+ year old buildings",
+   "attribution": "FMLink/ARC Facilities article"
+  },
+  {
+   "claim": "Snider High School has won three state football championships",
+   "stat": "1992, 2015, 2023",
+   "attribution": "FMLink/ARC Facilities article"
+  },
+  {
+   "claim": "Snider students have shared a stadium with another school for decades",
+   "stat": "since the 1970s",
+   "attribution": "FMLink/ARC Facilities article"
+  },
+  {
+   "claim": "Krebs' facilities team structure",
+   "stat": "five project coordinators, two program coordinators, two architectural technicians",
+   "attribution": "Heather Krebs"
+  },
+  {
+   "claim": "Gender imbalance in her Purdue engineering cohort",
+   "stat": "males outnumbered women 20 to 1",
+   "attribution": "Heather Krebs"
+  },
+  {
+   "claim": "She worked alongside the district's executive director of operations before succeeding him as director",
+   "stat": "13 years",
+   "attribution": "Heather Krebs"
+  },
+  {
+   "claim": "Krebs has been with the district for more than ten years",
+   "stat": "more than a decade",
+   "attribution": "FMLink/ARC Facilities article"
+  },
+  {
+   "claim": "She uses AI for summarizing information and replying to emails, cautiously",
+   "stat": "",
+   "attribution": "Heather Krebs"
+  }
+ ],
+ "vocabulary": [
+  "facilities director",
+  "facilities management",
+  "project coordinators",
+  "program coordinators",
+  "architectural technicians",
+  "renovations",
+  "triage",
+  "delegate",
+  "micromanage",
+  "Indiana Association of School Business Officials",
+  "ARC Facilities",
+  "AI for summarizing information",
+  "school board",
+  "operations"
+ ],
+ "topics_covered": []
+}

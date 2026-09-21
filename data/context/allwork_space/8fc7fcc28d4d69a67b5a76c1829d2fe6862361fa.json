@@ -1,0 +1,85 @@
+{
+ "id": "8fc7fcc28d4d69a67b5a76c1829d2fe6862361fa",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/09/gen-z-career-struggles-are-exposing-the-divide-at-the-heart-of-the-future-of-work/",
+ "published_at": "2026-09-20",
+ "observed_at": "2026-09-21",
+ "summary": "Allwork.space argues that the labor market has split into \"two capitalisms\": one where AI substitutes for codifiable, routine white-collar work, and one where AI complements tacit, contextual human judgment. The piece opens with Mark Fisher's \"capitalist realism\" and contrasts Citrini Research's \"ghost GDP\" thesis (AI as labor substitute) with Alex Imas' \"relational work\" thesis (AI as complement that raises the value of hard-to-codify judgment).\n\nGad Levanon, chief economist at the Burning Glass Institute, ranked each industry's quits rate against its own 25-year history rather than against other industries, producing three tiers that have diverged since 2022. Finance, insurance, information, and professional and business services (FIIPB) sit at the 13th percentile of their own range; the rest of the private economy at the 44th; government, education and health care at the 71st. Levanon attributes \"job hugging\" specifically to FIIPB, where employment peaked in early 2023 and has fallen since, leaving quitters nowhere to go. He frames the cause as a decline in the labor intensity of white-collar work, beginning as a post-ZIRP correction but still widening in year four.\n\nA Stanford Digital Economy Lab working paper by Erik Brynjolfsson, Bharat Chandar and Ruyu Chen, using ADP payroll data through June, finds no broad economywide displacement but a 19% shortfall in employment for workers aged 22 to 25 in AI-exposed occupations, visible as absent hiring rather than layoffs. A Bank of America Institute report notes Gen Z job switching has overtaken all other generations for the first time since 2021, with the largest pay bumps.\n\nThe piece connects this to Tyler Cowen's distinction between automatable intelligence and tacit \"Polanyi knowledge,\" and raises a pipeline problem: if entry-level apprenticeship rungs disappear, where does the next generation's tacit knowledge come from. It references AI bans in high schools and a David Autor randomized trial of 133 patent lawyers.",
+ "claims": [
+  {
+   "claim": "The FIIPB quits rate has fallen to the 13th percentile of its own 25-year range, the lowest reading since 2013",
+   "stat": "1.8%, down from 2.5% in 2019, a 28% drop; 13th percentile",
+   "attribution": "Gad Levanon, chief economist, Burning Glass Institute"
+  },
+  {
+   "claim": "The rest of the private economy's quits rate sits close to its historical norm",
+   "stat": "44th percentile",
+   "attribution": "Gad Levanon, Burning Glass Institute"
+  },
+  {
+   "claim": "Government, education and health care quits rates are effectively unchanged from 2019",
+   "stat": "71st percentile",
+   "attribution": "Gad Levanon, Burning Glass Institute"
+  },
+  {
+   "claim": "FIIPB employment peaked in early 2023 and has been falling since",
+   "stat": "",
+   "attribution": "Gad Levanon, Burning Glass Institute"
+  },
+  {
+   "claim": "Professional and business services hires fell in July",
+   "stat": "down 188,000 in July",
+   "attribution": "Bureau of Labor Statistics data released September 1"
+  },
+  {
+   "claim": "Employment of workers aged 22 to 25 in AI-exposed occupations sits below where it would be had it kept pace with less-exposed peers; experienced workers show no comparable gap",
+   "stat": "19% below",
+   "attribution": "Erik Brynjolfsson, Bharat Chandar and Ruyu Chen, Stanford Digital Economy Lab working paper, using ADP payroll data through June"
+  },
+  {
+   "claim": "Gen Z's job switching rate has overtaken every other generation for the first time since 2021, and Gen Z receives the largest pay bump of any generation when switching",
+   "stat": "",
+   "attribution": "Bank of America Institute report published September 9"
+  },
+  {
+   "claim": "Occupations with higher codified knowledge show slower entry-level employment growth, while higher tacit knowledge occupations show faster growth for mid-career and senior workers",
+   "stat": "",
+   "attribution": "Bharat Chandar, Stanford Digital Economy Lab"
+  },
+  {
+   "claim": "A three-month randomized control trial studied practicing patent lawyers",
+   "stat": "133 patent lawyers",
+   "attribution": "David Autor and colleagues, working paper"
+  },
+  {
+   "claim": "The hiring decline is a decline in the labor intensity of white-collar work, starting as a post-ZIRP correction but still widening in year four",
+   "stat": "",
+   "attribution": "Gad Levanon, told Fortune"
+  }
+ ],
+ "vocabulary": [
+  "capitalist realism",
+  "ghost GDP",
+  "relational work",
+  "quits rate",
+  "job hugging",
+  "FIIPB",
+  "post-ZIRP correction",
+  "zero-interest rate policy",
+  "AI-exposed occupations",
+  "codifiable work",
+  "tacit knowledge",
+  "codified knowledge",
+  "Polanyi knowledge",
+  "substitute-heavy versus complement-heavy occupations",
+  "labor intensity of white-collar work",
+  "financialization",
+  "high-frequency ADP payroll data",
+  "entry-level employment growth",
+  "apprenticeship rungs",
+  "pipeline problem",
+  "future of work",
+  "randomized control trial"
+ ],
+ "topics_covered": []
+}

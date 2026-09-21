@@ -1,0 +1,21 @@
+{
+ "id": "9d183e346830f6d4caa56fd00c40ff2c9c59a386",
+ "source_id": "facility_executive",
+ "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMFB0dFVwTzU0ZXJaVnpsY1B2dGN1Q3czSlRidVJFTkNSaEdoZ3ExbTl4R1NhUTV4bW5MOHdnZWdhelFWRU5xZEVqcW1rZzI2enFhZ0tuUmEwbk50TzB1VHFfSnVoaDFkd2NtWUQ1WURZMkhQWnRVdlk0djRYMDB1VHBtaEkyTWVKTUxnLVF6RnJZSG85TDJoMXg1SF9RakpfTUpEdnFXNXFHOXhvWG1rWkVQclFJTEQ1dmYxTWJHV3ctdzg?oc=5",
+ "published_at": "2026-09-08",
+ "observed_at": "2026-09-21",
+ "summary": "A Facility Executive Magazine headline item, available only as a title and truncated RSS stub with no article body. It reports that Hyundai Steel has launched a $5.8 billion steel mill in Louisiana, described as bringing next-generation manufacturing infrastructure online. No further detail is present in the supplied text: there is no information on site acreage, employment numbers, timeline, production capacity, incentives, construction partners, or facility management implications. The item sits in the industrial facilities and capital projects category rather than the workplace experience domain. It contains no discussion of visitor management, desk or room booking, hybrid and return-to-office policy, workplace analytics, administrative or executive assistant workload, or facilities software tooling. Because the text is limited to a repeated headline, no quotes, sources, or supporting statistics can be extracted beyond the stated investment figure, and even that is attributed only to the publication's headline. For the listening pipeline, this is a low-value item for the covered themes and should be treated as out of scope unless a fuller version of the article becomes available with detail on the facility's operations, workforce, or building systems.",
+ "claims": [
+  {
+   "claim": "Hyundai Steel has launched a new steel mill in Louisiana, described as next-generation manufacturing infrastructure coming online.",
+   "stat": "$5.8 billion",
+   "attribution": "Facility Executive Magazine headline"
+  }
+ ],
+ "vocabulary": [
+  "next-gen manufacturing infrastructure",
+  "mill",
+  "facility executive"
+ ],
+ "topics_covered": []
+}

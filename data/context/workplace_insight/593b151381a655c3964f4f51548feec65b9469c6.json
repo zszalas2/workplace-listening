@@ -1,0 +1,69 @@
+{
+ "id": "593b151381a655c3964f4f51548feec65b9469c6",
+ "source_id": "workplace_insight",
+ "url": "https://workplaceinsight.net/workplace-design-can-improve-focus-for-people-with-adhd-research-suggests/?utm_source=rss&utm_medium=rss&utm_campaign=workplace-design-can-improve-focus-for-people-with-adhd-research-suggests",
+ "published_at": "2026-09-18",
+ "observed_at": "2026-09-21",
+ "summary": "Workplace Insight reports on new research from architecture and design firm Corgan and the University of Arkansas examining how environmental factors affect attention in people with inattentive-type ADHD. Researchers used EEG to monitor brain activity of participants in open workstations and private offices, testing light, sound, movement and visual activity. The work was led by Corgan-Hugo, the firm's research and innovation group, in partnership with the University of Arkansas, funded by the American Institute of Architects' AIA Upjohn Research Initiative, and published as a report titled Focus by Design: What the ADHD brain teaches us about better workspaces for all.\n\nKey findings: lighting shaped both perception and measured attention. Participants felt calmer, less stressed and more focused under dimmer, indirect lighting, while brighter direct lighting was linked to distraction and eye strain; EEG showed higher sustained attention under diffused light. Workspace configuration mattered too: participants seated with their backs to surrounding activity reported 67 percent greater feelings of insecurity despite reporting higher concentration, while open-plan settings offering visual boundaries without full enclosure produced the lowest measured cognitive load, suggesting a balance between privacy and environmental awareness.\n\nMovement effects were nuanced. Tests with sit-stand desks, footrests and yoga-ball seating found brief posture changes supported comfort and attention, while continuous or exaggerated movement reduced both. Participants naturally shifted posture and fidgeted, implying subtle movement may help regulate attention.\n\nNo single intervention determined attention; combinations of lighting, acoustics, visual conditions and movement shaped overall experience. Melissa Hoelting, assistant director of Corgan-Hugo, said people with inattentive-type ADHD offer an early lens on how workplaces affect attention, experiencing environmental effects sooner and more intensely than others. Researchers argue implications extend beyond diagnosed employees to concentration, wellbeing and cognitive performance generally. The study received a Certificate of Research Excellence from the Environmental Design Research Association.",
+ "claims": [
+  {
+   "claim": "Participants sitting with their backs to surrounding activity reported greater feelings of insecurity, despite also reporting higher concentration",
+   "stat": "67 percent greater feelings of insecurity",
+   "attribution": "Corgan and University of Arkansas research"
+  },
+  {
+   "claim": "EEG measurements indicated higher sustained attention under diffused lighting conditions, while brighter direct lighting was associated with greater distraction and eye strain",
+   "stat": "",
+   "attribution": "Corgan-Hugo / University of Arkansas study"
+  },
+  {
+   "claim": "Open-plan settings providing visual boundaries without fully enclosing workers produced the lowest measured cognitive load",
+   "stat": "",
+   "attribution": "Corgan-Hugo / University of Arkansas study"
+  },
+  {
+   "claim": "Brief changes in posture using sit-stand desks, footrests and yoga-ball seating could support comfort and attention, while continuous or exaggerated movement reduced both",
+   "stat": "",
+   "attribution": "Corgan-Hugo / University of Arkansas study"
+  },
+  {
+   "claim": "No single environmental intervention determined attention levels; combinations of factors shaped overall experience",
+   "stat": "",
+   "attribution": "Corgan-Hugo / University of Arkansas study"
+  },
+  {
+   "claim": "Individuals with inattentive-type ADHD often experience the effects of workplace environments sooner and more intensely than others, providing an early lens on attention",
+   "stat": "",
+   "attribution": "Melissa Hoelting, assistant director, Corgan-Hugo"
+  },
+  {
+   "claim": "The research received a Certificate of Research Excellence from the Environmental Design Research Association",
+   "stat": "",
+   "attribution": "Workplace Insight"
+  }
+ ],
+ "vocabulary": [
+  "workplace design",
+  "inattentive-type ADHD",
+  "electroencephalogram (EEG)",
+  "open workstations",
+  "private offices",
+  "cognitive load",
+  "sensory stimulation",
+  "diffused lighting",
+  "indirect lighting",
+  "open-plan",
+  "visual boundaries",
+  "sit-stand desks",
+  "footrests",
+  "yoga-ball seating",
+  "neurodiversity",
+  "Corgan-Hugo",
+  "AIA Upjohn Research Initiative",
+  "Environmental Design Research Association",
+  "Focus by Design",
+  "wellbeing",
+  "cognitive performance"
+ ],
+ "topics_covered": []
+}

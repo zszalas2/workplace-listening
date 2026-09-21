@@ -1,0 +1,87 @@
+{
+ "id": "f10d45afd5279f78570ce440308b80cfe54c5e55",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/09/an-operators-guide-to-coworking-lead-sources-untangling-organic-brokers-and-marketplaces/",
+ "published_at": "2026-09-18",
+ "observed_at": "2026-09-21",
+ "summary": "An operator-focused guide from Allwork.space, written by a consultant who builds CRMs and lead management systems for coworking operators, mapping the three primary lead channels for flexible workspace: organic, brokers/tenant reps, and marketplaces/lead gen platforms. The framing problem is capacity: in most coworking spaces the person answering leads is also doing community building, hospitality, member care, coffee and tours, so time spent on one channel is taken from another.\n\nOrganic covers the operator website (SEO, content, keywords) and the Google Business Profile. The author argues the profile is underinvested relative to the website, often appearing ahead of regular search results in local and map searches, and suggests operators compare profile metrics against website analytics, predicting the profile drives many times more leads. Many profiles have no products listed and unfilled sections; the author recommends assigning weekly ownership of profile content.\n\nCommercial real estate brokers and tenant reps mainly bring enterprise requirements and suit operators with substantial private office inventory or strong landlord relationships; smaller local spaces likely will not work with brokers. Kane Willmott, CEO of IQ Offices, is cited as running a resourced broker program that generates most of his leads, more than paid ads. Some brokers blast one requirement to every space in a market, making speed of response decisive; other losses are simply inventory fit. These platforms also generate many dead leads.\n\nMarketplaces and lead gen platforms (sometimes called online brokers, distinct from tenant reps) are third-party digital marketers matching inventory to demand. Enterprises want one master service agreement rather than contracting with many operators or having staff expense meeting rooms. Regus, WeWork and Industrious can sign directly; independents reach that demand via listings. Inventory-to-platform matching: day passes and hot desks to Deskpass; meeting rooms and offices to LiquidSpace and Gable; enterprise-licensed offices to Upsuite, Desana, LiquidSpace, Gable, Preferred Office Network; event space to Peerspace and Giggster. Enterprise demand includes smaller companies, not only Fortune 500.",
+ "claims": [
+  {
+   "claim": "Google Business Profiles typically generate many times more leads for coworking operators than their websites",
+   "stat": "many times the number of leads",
+   "attribution": "Article author (coworking lead generation consultant, Allwork.space)"
+  },
+  {
+   "claim": "IQ Offices gets most of its leads from brokers rather than from paid advertising",
+   "stat": "most of his leads",
+   "attribution": "Article author, describing Kane Willmott, CEO of IQ Offices"
+  },
+  {
+   "claim": "Brokers sometimes push a single requirement to every coworking space on their platform in a market, so the operator who responds first often wins",
+   "stat": "",
+   "attribution": "Article author"
+  },
+  {
+   "claim": "Enterprises prefer a single master service agreement and one booking platform rather than contracting with operators in each market or having employees expense meeting rooms",
+   "stat": "a company with people in a hundred markets would not contract with a hundred operators",
+   "attribution": "Article author"
+  },
+  {
+   "claim": "Regus, WeWork and Industrious can sign enterprise agreements directly, while most independent operators reach that demand through marketplace listings",
+   "stat": "",
+   "attribution": "Article author"
+  },
+  {
+   "claim": "Local remote workers booking meeting rooms often lack booking authority and must use the employer's chosen platform",
+   "stat": "",
+   "attribution": "Article author"
+  }
+ ],
+ "vocabulary": [
+  "lead generation",
+  "lead management",
+  "lead sources",
+  "CRM",
+  "pipeline",
+  "community manager",
+  "operator",
+  "organic leads",
+  "Google Business Profile",
+  "SEO",
+  "keywords",
+  "website analytics",
+  "map results",
+  "commercial real estate brokers",
+  "tenant reps",
+  "enterprise requirement",
+  "private offices",
+  "inventory",
+  "broker program",
+  "marketplaces",
+  "lead gen platforms",
+  "online brokers",
+  "Deskpass",
+  "LiquidSpace",
+  "Gable",
+  "Upsuite",
+  "Desana",
+  "Preferred Office Network",
+  "Peerspace",
+  "Giggster",
+  "Regus",
+  "WeWork",
+  "Industrious",
+  "IQ Offices",
+  "master service agreement",
+  "day passes",
+  "hot desks",
+  "meeting rooms",
+  "event space",
+  "flexible office space",
+  "per-use model",
+  "enterprise demand",
+  "hospitality",
+  "tours"
+ ],
+ "topics_covered": []
+}

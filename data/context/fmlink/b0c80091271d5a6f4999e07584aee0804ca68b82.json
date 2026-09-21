@@ -1,0 +1,60 @@
+{
+ "id": "b0c80091271d5a6f4999e07584aee0804ca68b82",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/research-explores-how-planning-and-design-help-campuses-adapt-endure-and-thrive/",
+ "published_at": "2026-09-17",
+ "observed_at": "2026-09-21",
+ "summary": "FMLink reports that design firm Ayers Saint Gross has published the 2026 edition of its annual Comparing Campuses research, subtitled Resilience by Design, introduced at the 2026 Society for College and University Planning (SCUP) conference in Minneapolis. Now in its 28th year, the series combines historical analysis, national survey data and case studies to examine how higher education institutions express values through campus planning and design.\n\nThe 2026 report sets out 12 actionable resilience strategies intended to help institutions navigate environmental pressures, financial drivers, social and cultural change, public health disruptions, external conflicts and pedagogical evolution. The strategies are: embedding natural solutions; planning for adaptable mobility; rightsizing assets; supporting gathering and expression; reinvesting in and adapting existing assets; embedding student support in place; reinforcing memory and meaning; incorporating system redundancy; enabling digital and hybrid community; designing for cross-pollination; distributing critical functions; and designing for slack.\n\nThe research argues that decisions about space, infrastructure, landscape, mobility, identity and student support either expand or limit an institution's capacity to stay connected and responsive during uncertainty. Sustainability Director Allison Wilson says investment in natural systems, adaptable infrastructure, flexible space and community places lets campuses respond to disruption while supporting learning, belonging and discovery. Principal Shannon Dowling frames the strategies as a decision-making framework for keeping campuses relevant to students, faculty, staff and visitors.\n\nThe report draws on a geographically diverse portfolio, citing examples including Arizona State University's Hayden Library reinvention, plus Alcorn State, Caltech, Harvard, Johns Hopkins, Joliet Junior College, Michigan State, Mills College at Northeastern, Pennsylvania Western, Rice, Sewanee, Stanford, Sweet Briar, Texas A&M, Tulane, Union University, UC Berkeley, University of Chicago and University of Virginia.\n\nThe piece is promotional in tone and offers no workplace-technology product detail; it is oriented to higher education planners and facilities leaders rather than corporate workplace operations.",
+ "claims": [
+  {
+   "claim": "The Comparing Campuses research series is in its 28th year",
+   "stat": "28th year",
+   "attribution": "Ayers Saint Gross via FMLink"
+  },
+  {
+   "claim": "The 2026 report outlines actionable resilience strategies for institutions facing environmental, financial, social, public health and pedagogical pressures",
+   "stat": "12 strategies",
+   "attribution": "Ayers Saint Gross, Resilience by Design report"
+  },
+  {
+   "claim": "The research was introduced at the 2026 Society for College and University Planning conference in Minneapolis",
+   "stat": "",
+   "attribution": "FMLink"
+  },
+  {
+   "claim": "Investing in natural systems, adaptable infrastructure, flexible space and community places allows campuses to respond to disruption while supporting learning, belonging and discovery",
+   "stat": "",
+   "attribution": "Allison Wilson, Sustainability Director, Ayers Saint Gross"
+  },
+  {
+   "claim": "Resilience requires both long-term vision and practical action as colleges face complex pressures",
+   "stat": "",
+   "attribution": "Shannon Dowling, Principal, Ayers Saint Gross"
+  },
+  {
+   "claim": "The report is grounded in national survey data and case studies from roughly 18 named institutions",
+   "stat": "18 institutions named",
+   "attribution": "Ayers Saint Gross via FMLink"
+  }
+ ],
+ "vocabulary": [
+  "campus planning",
+  "resilience by design",
+  "Comparing Campuses",
+  "SCUP",
+  "rightsizing assets",
+  "adaptable mobility",
+  "embedding natural solutions",
+  "system redundancy",
+  "digital and hybrid community",
+  "designing for cross-pollination",
+  "distributing critical functions",
+  "designing for slack",
+  "adaptive reuse of existing assets",
+  "student support in place",
+  "interdisciplinary design firm",
+  "sustainability director",
+  "higher education design"
+ ],
+ "topics_covered": []
+}

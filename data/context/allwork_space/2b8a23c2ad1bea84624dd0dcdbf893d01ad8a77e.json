@@ -1,0 +1,61 @@
+{
+ "id": "2b8a23c2ad1bea84624dd0dcdbf893d01ad8a77e",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/09/u-k-women-receive-significantly-lower-annual-bonuses-than-men-new-data-shows/",
+ "published_at": "2026-09-18",
+ "observed_at": "2026-09-21",
+ "summary": "Allwork.Space reports on new payroll data from HR data firm Brightmine showing a persistent gender bonus gap in the United Kingdom. Based on payroll records for almost 1.46 million employees at 1,190 organizations as of July this year, men received average annual bonuses of GBP 5,442 (about $7,300) versus GBP 3,062 for women. The gap narrowed only slightly from a year earlier.\n\nAdditional findings: 14% of male employees received a bonus compared with 9% of female employees, while overall 13% of employees received a bonus, unchanged year over year. The disparity widened with age, with 56-year-old men receiving average bonuses of GBP 8,817 against GBP 3,769 for women of the same age. Some of the largest gaps appeared in finance and in professional and business services.\n\nSheila Attwood, HR insights and data lead at Brightmine, said the findings suggested differences in progression, seniority and access to higher-value incentive schemes rather than a single cause.\n\nFor context, Britain's Office for National Statistics estimated the overall gender pay gap at 6.9% in April last year, indicating the bonus gap is far wider proportionally than the headline pay gap.\n\nThe piece is a short newswire item (written by William Schomberg, edited by Andy Bruce) and does not address workplace operations topics such as office attendance, desk or room booking, visitor management or facilities. It is relevant to HR compensation and equity reporting rather than workplace technology.",
+ "claims": [
+  {
+   "claim": "Male workers in the UK received higher average annual bonuses than women",
+   "stat": "£5,442 (about $7,300) for men vs £3,062 for women",
+   "attribution": "Brightmine payroll data, July this year"
+  },
+  {
+   "claim": "A larger share of men than women received any bonus",
+   "stat": "14% of men vs 9% of women",
+   "attribution": "Brightmine"
+  },
+  {
+   "claim": "The bonus disparity widens with age",
+   "stat": "At age 56, men averaged £8,817 vs £3,769 for women",
+   "attribution": "Brightmine"
+  },
+  {
+   "claim": "Overall bonus receipt rate was flat year over year",
+   "stat": "13% of employees, unchanged from a year earlier",
+   "attribution": "Brightmine"
+  },
+  {
+   "claim": "Study sample size and scope",
+   "stat": "almost 1.46 million employees at 1,190 organizations",
+   "attribution": "Brightmine"
+  },
+  {
+   "claim": "Biggest gaps were concentrated in certain sectors",
+   "stat": "",
+   "attribution": "Brightmine (finance, professional and business services)"
+  },
+  {
+   "claim": "Findings suggest differences in progression, seniority and access to higher-value incentive schemes",
+   "stat": "",
+   "attribution": "Sheila Attwood, HR insights and data lead at Brightmine"
+  },
+  {
+   "claim": "UK overall gender pay gap estimate",
+   "stat": "6.9% in April last year",
+   "attribution": "Britain's statistics office (ONS)"
+  }
+ ],
+ "vocabulary": [
+  "gender bonus gap",
+  "gender pay gap",
+  "payroll data",
+  "incentive schemes",
+  "HR insights",
+  "progression and seniority",
+  "annual bonuses",
+  "professional and business services"
+ ],
+ "topics_covered": []
+}

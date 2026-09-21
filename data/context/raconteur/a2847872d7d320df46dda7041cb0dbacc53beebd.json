@@ -1,0 +1,49 @@
+{
+ "id": "a2847872d7d320df46dda7041cb0dbacc53beebd",
+ "source_id": "raconteur",
+ "url": "https://www.raconteur.net/finance/cfo-on-the-spot-five-minutes-with-niall-mccallum-cfo-of-lrqa",
+ "published_at": "2026-09-21",
+ "observed_at": "2026-09-21",
+ "summary": "A short Raconteur \"CFO on the Spot\" profile interview with Niall McCallum, chief financial officer of LRQA. The piece sketches his career path: he qualified as a chartered accountant at KPMG, then worked in corporate finance and private equity before taking senior finance roles at global companies including Capita and Element Materials Technology. LRQA is described as a global risk management partner serving more than 61,000 organizations in over 100 countries, with services spanning quality assurance, safety, cybersecurity, climate performance and responsible sourcing.\n\nThe summary of the conversation covers three main threads. First, McCallum argues that CFOs should help their businesses look forward and shape future decisions rather than simply reporting on results that have already happened, a forward-looking versus backward-looking framing of the finance function. Second, he emphasises curiosity as a professional trait, alongside three personal principles he relies on when handling difficult situations. Third, he contends that human relationships will remain fundamental to finance even as the function becomes increasingly enabled by technology.\n\nThe item as supplied is essentially a teaser or abstract rather than a full transcript, so the specific three principles, the technology tools referenced, and any detail on finance operating models are not spelled out. There is no workplace-technology content here: nothing on visitor management, desk or room booking, hybrid or return-to-office policy, workplace analytics, or facilities operations. The only adjacent subject matter is LRQA's risk management and cybersecurity assurance business line, which is a corporate descriptor rather than a discussion of vendor risk review workload or internal tooling.",
+ "claims": [
+  {
+   "claim": "LRQA works with more than 61,000 organizations across over 100 countries as a global risk management partner",
+   "stat": "61,000+ organizations; 100+ countries",
+   "attribution": "Raconteur article description of LRQA"
+  },
+  {
+   "claim": "LRQA's services span quality assurance, safety, cybersecurity, climate performance and responsible sourcing",
+   "stat": "",
+   "attribution": "Raconteur article description of LRQA"
+  },
+  {
+   "claim": "McCallum qualified as a chartered accountant with KPMG and held senior finance roles at Capita and Element Materials Technology before becoming CFO of LRQA",
+   "stat": "",
+   "attribution": "Raconteur"
+  },
+  {
+   "claim": "CFOs must help businesses look forward instead of simply reporting what has already happened",
+   "stat": "",
+   "attribution": "Niall McCallum, CFO of LRQA"
+  },
+  {
+   "claim": "Human relationships will remain fundamental as finance becomes increasingly enabled by technology",
+   "stat": "",
+   "attribution": "Niall McCallum, CFO of LRQA"
+  }
+ ],
+ "vocabulary": [
+  "CFO",
+  "chief financial officer",
+  "chartered accountant",
+  "corporate finance",
+  "private equity",
+  "global risk management partner",
+  "quality assurance",
+  "cybersecurity",
+  "climate performance",
+  "responsible sourcing",
+  "finance enabled by technology"
+ ],
+ "topics_covered": []
+}

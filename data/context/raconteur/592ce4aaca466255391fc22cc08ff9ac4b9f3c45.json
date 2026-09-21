@@ -1,0 +1,65 @@
+{
+ "id": "592ce4aaca466255391fc22cc08ff9ac4b9f3c45",
+ "source_id": "raconteur",
+ "url": "https://www.raconteur.net/leadership/the-leadership-tensions-defining-todays-workplace",
+ "published_at": "2026-09-14",
+ "observed_at": "2026-09-21",
+ "summary": "Raconteur interviews Bernd Vogel, leadership professor at Henley Business School, on the competing priorities leaders must hold together amid rapid technological change, economic uncertainty and organisational complexity. Examples include innovating without destabilising, delivering short-term results while building long-term resilience, and granting autonomy while preserving accountability. Vogel argues the pace of change no longer allows leaders to ignore these tensions as they once could.\n\nGenerative AI is presented as the clearest current example. Automating work to cut costs may look efficient, but judging it purely on immediate efficiency obscures effects on employees, the organisation's capacity for critical oversight, and future capability needs. Vogel urges leaders to challenge either-or framing: by re-examining the assumed trade-off and asking which outcomes actually matter to stakeholders, better balanced options may emerge. He extends this to local economic impact, saying firms must be profitable and grow but also consider whether a local economy survives difficult workforce decisions.\n\nNavigating tension requires comfort with complexity. Decisions in one part of a business influence employees, customers, suppliers and other functions in ways that linear scenario planning cannot capture; relationships are mutually influential and must be analysed as such, whether one is a CEO or runs supply chain or HR. Leaders should resist deceptively simple answers and ask whether their organisation has a radar for interconnected effects.\n\nCiting Henley's The Human Dimension report, the piece argues judgement must be distributed across teams rather than concentrated at the top, with clarity on where decisions sit, how authority is shared and when escalation is warranted. Distributed leadership capability reduces dependency on a few executives and widens perspectives, but only if people will challenge assumptions; sugarcoating or treating issues as \"not my turf\" undermines it.\n\nFinally, autonomy needs boundaries. Vogel prefers the term liberation to empowerment: freedom must be bounded by shared strategic alignment, or the organisation heads in all directions at once.",
+ "claims": [
+  {
+   "claim": "The pace of change means leaders can no longer ignore competing priorities as they previously could",
+   "stat": "",
+   "attribution": "Bernd Vogel, leadership professor, Henley Business School"
+  },
+  {
+   "claim": "Generative AI offers opportunity but carries both beneficial and detrimental implications, including effects on employees, critical oversight and future organisational capability",
+   "stat": "",
+   "attribution": "Bernd Vogel"
+  },
+  {
+   "claim": "Linear relationships are inadequate for scenario analysis and scenario planning because organisational relationships are permanently mutually influential",
+   "stat": "",
+   "attribution": "Bernd Vogel"
+  },
+  {
+   "claim": "As organisations become more complex and fast-moving they need to distribute judgement across teams rather than concentrate decision-making at the top",
+   "stat": "",
+   "attribution": "Henley Business School, The Human Dimension report"
+  },
+  {
+   "claim": "Increasing leadership capability across the organisation shields it from dependency on a small number of senior executives",
+   "stat": "",
+   "attribution": "Bernd Vogel"
+  },
+  {
+   "claim": "Autonomy works best when bounded by shared strategic alignment, otherwise the organisation may head in all directions",
+   "stat": "",
+   "attribution": "Bernd Vogel"
+  }
+ ],
+ "vocabulary": [
+  "leadership tensions",
+  "either-or decisions",
+  "generative AI",
+  "gen AI",
+  "automation",
+  "critical oversight",
+  "trade-off",
+  "stakeholders",
+  "scenario analysis",
+  "scenario planning",
+  "complexity",
+  "distributed leadership",
+  "leadership capability",
+  "escalation",
+  "autonomy",
+  "alignment",
+  "empowerment",
+  "liberation",
+  "bounded freedom",
+  "communication culture",
+  "The Human Dimension report",
+  "organisational resilience"
+ ],
+ "topics_covered": []
+}

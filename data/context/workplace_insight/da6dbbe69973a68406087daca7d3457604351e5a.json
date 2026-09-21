@@ -1,0 +1,51 @@
+{
+ "id": "da6dbbe69973a68406087daca7d3457604351e5a",
+ "source_id": "workplace_insight",
+ "url": "https://workplaceinsight.net/before-trying-to-work-out-whether-ai-can-be-conscious-we-need-to-work-out-what-consciousness-is/?utm_source=rss&utm_medium=rss&utm_campaign=before-trying-to-work-out-whether-ai-can-be-conscious-we-need-to-work-out-what-consciousness-is",
+ "published_at": "2026-09-18",
+ "observed_at": "2026-09-21",
+ "summary": "An opinion essay from Workplace Insight (originally published in issue 21 of Works Magazine) arguing that the fashionable debate over whether AI is conscious rests on an unexamined gap: we do not have an agreed definition of consciousness. The author notes that the wider AI discourse swings hour by hour between utopian and apocalyptic framings, driven by hype promoters and their critics, and that the consciousness question, while worth asking, is usually posed without acknowledging this definitional problem.\n\nThe piece observes that people assume they understand consciousness because their own experience of it feels self-evident, yet there is no expert consensus. Specialists may agree on broad aspects of a definition but not the details, and the author says there are four major competing scientific theories plus other contenders, without listing them. Philosophers have also weighed in, sometimes using the same intuitive reasoning, as with Thomas Nagel's formulation of consciousness as \"something that it is like to be.\"\n\nResearch on consciousness in other species often frames it as awareness of a mind, which the author calls useful but insufficient, since it does not establish that other beings experience the same type of consciousness. The author says this is not even a safe assumption within our own species, citing the discovery that a large proportion of people lack an inner voice for internal conversation and idea development; they perceive, think and create differently.\n\nConsciousness is presented as one of a bundle of ideas, alongside the self, free will and time, that people take for granted to function day to day but that do not withstand scrutiny. Combined with human tendencies toward pattern recognition and anthropomorphism, the author concludes we should be very wary of declaring AI either conscious or not conscious.\n\nThere is no workplace-technology, facilities or hybrid-work content in the piece; it is purely a philosophical commentary on AI discourse.",
+ "claims": [
+  {
+   "claim": "There is no expert consensus on what consciousness is, with several competing scientific theories and further contenders emerging",
+   "stat": "four major competing scientific theories",
+   "attribution": "Workplace Insight opinion author"
+  },
+  {
+   "claim": "Consciousness has been framed philosophically as subjective experience",
+   "stat": "",
+   "attribution": "Thomas Nagel, quoted as \"something that it is like to be\""
+  },
+  {
+   "claim": "A large proportion of people do not have an inner voice with which they hold conversations and develop ideas, yet still perceive, think and create",
+   "stat": "a large proportion of people",
+   "attribution": "Workplace Insight opinion author"
+  },
+  {
+   "claim": "Studies of consciousness in other species often frame it as an awareness of a mind, but this does not establish that other beings have the same type of consciousness as humans",
+   "stat": "",
+   "attribution": "Workplace Insight opinion author"
+  },
+  {
+   "claim": "Human dispositions such as pattern recognition and anthropomorphism should make us wary of declaring whether AI is conscious",
+   "stat": "",
+   "attribution": "Workplace Insight opinion author"
+  }
+ ],
+ "vocabulary": [
+  "AI consciousness",
+  "hype merchants",
+  "competing scientific theories of consciousness",
+  "Thomas Nagel",
+  "\"something that it is like to be\"",
+  "awareness of a mind",
+  "inner voice",
+  "the self",
+  "free will",
+  "pattern recognition",
+  "anthropomorphism",
+  "Works Magazine",
+  "Workplace Insight"
+ ],
+ "topics_covered": []
+}

@@ -1,0 +1,63 @@
+{
+ "id": "9c60c9b8bf95bb95b2dd0714d9bc8ed4798cb290",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/eeoc-proposes-major-changes-to-federal-workplace-discrimination-complaint-process-comments-due-sept-28/",
+ "published_at": "2026-09-18",
+ "observed_at": "2026-09-21",
+ "summary": "FMLink reports that on August 26 the U.S. Equal Employment Opportunity Commission voted to issue a Notice of Proposed Rulemaking (NPRM) revising the rules that govern the workplace discrimination complaint process for federal employees and applicants under Title VII of the Civil Rights Act of 1964 and other federal employment discrimination statutes. The Commission concluded the current system is too slow and complicated, with employees and agencies often waiting years for decisions. EEOC Chair Andrea Lucas called the current internal complaint process \"deeply broken,\" saying it fails both federal employees and their agency employers, and framed the changes as making the process faster, fairer and more straightforward while preserving antidiscrimination protections.\n\nProposed changes include: a faster process allowing employees to file directly with their agency instead of completing a long pre-complaint counseling stage; tailored hearings, so EEOC administrative judge hearings occur only when necessary rather than automatically; moving class complaints to federal courts, while allowing the EEOC process to initiate such claims and consolidate related individual complaints; clearer standards for how complaints are presented and how mixed complaints unique to the federal sector are handled; updated rules on attorney fees, including how market rates for EEO work are determined; and greater transparency and accountability to implement the 2020 Cummings Act, with more online posting of complaint outcomes, disciplinary actions and related data, plus independence for each agency's EEO program head.\n\nUnchanged rights include filing complaints, alternative dispute resolution and settlement, receiving a final agency decision after investigation, appealing to the EEOC for de novo review, and taking cases to federal court. The rule is prospective and would not affect pending complaints or private sector matters. Public comment runs 30 days on Regulations.gov (Document ID EEOC-2026-0067-0002) after Federal Register publication, with comments due on or before September 28, 2026, consistent with the Administrative Procedures Act.",
+ "claims": [
+  {
+   "claim": "The EEOC voted to issue a proposed rule revising the federal sector workplace discrimination complaint process",
+   "stat": "Vote taken August 26",
+   "attribution": "FMLink / EEOC"
+  },
+  {
+   "claim": "The current federal complaint system is too slow and complicated, with employees and agencies often waiting years for a decision",
+   "stat": "",
+   "attribution": "U.S. Equal Employment Opportunity Commission"
+  },
+  {
+   "claim": "The internal complaint process for federal employees is deeply broken and fails both employees and agency employers",
+   "stat": "",
+   "attribution": "EEOC Chair Andrea Lucas"
+  },
+  {
+   "claim": "The EEOC is a relatively small agency responsible for complaints from the federal workforce and is not well suited to handling class complaints",
+   "stat": "Two-million-person federal workforce",
+   "attribution": "EEOC"
+  },
+  {
+   "claim": "Public comments on the proposed rule can be submitted online for 30 days after Federal Register publication",
+   "stat": "30 days; deadline September 28, 2026; Document ID EEOC-2026-0067-0002",
+   "attribution": "EEOC"
+  },
+  {
+   "claim": "The Cummings Act, requiring greater transparency, was passed by Congress in 2020",
+   "stat": "2020",
+   "attribution": "FMLink / EEOC"
+  },
+  {
+   "claim": "The EEOC is the sole federal agency authorized to investigate and litigate against private sector employers for violations of federal antidiscrimination laws, and shares jurisdiction with the DOJ Civil Rights Division for public sector employers",
+   "stat": "",
+   "attribution": "EEOC"
+  }
+ ],
+ "vocabulary": [
+  "Notice of Proposed Rulemaking (NPRM)",
+  "Title VII of the Civil Rights Act of 1964",
+  "federal sector EEO process",
+  "pre-complaint counseling",
+  "administrative judges",
+  "class complaints",
+  "mixed complaints",
+  "de novo review",
+  "alternative dispute resolution",
+  "attorney fees / market rates",
+  "Cummings Act",
+  "Administrative Procedures Act",
+  "Regulations.gov",
+  "Federal Register",
+  "EEO program head independence"
+ ],
+ "topics_covered": []
+}

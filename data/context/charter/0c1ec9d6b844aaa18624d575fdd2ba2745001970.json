@@ -1,0 +1,85 @@
+{
+ "id": "0c1ec9d6b844aaa18624d575fdd2ba2745001970",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/forget-climbing-the-career-ladder-start-weaving-a-working-life-instead/",
+ "published_at": "2026-09-15",
+ "observed_at": "2026-09-21",
+ "summary": "Charter argues the career ladder metaphor is breaking down amid a stagnant job market and AI disruption, and surveys the replacements leaders are proposing: a jungle gym (Lattice CEO Sarah Franklin, via Reuters), a climbing wall (LinkedIn CEO Ryan Roslansky and chief economic opportunity officer Aneesh Raman), and a suitcase of accumulated learning (Pfizer's Anne Kennedy Dotson, speaking at Charter's June New Employer Brand Summit). London Business School professor Lynda Gratton, author of Living the 100-Year Life, says the ladder's flaw is the assumption that the only direction is up, so anything else reads as failure.\n\nThe piece notes workers are freezing in place: the separation rate, covering both voluntary and involuntary exits, sits near its lowest level in roughly 20 years, while the reservation wage, the minimum pay workers will accept for a new job, hit a record high in July. Employees feel stuck reaching for rungs that are not there.\n\nGratton's alternative is a woven tapestry of eight threads. Four support workplace productivity: skill mastery, self-reflection and self-knowledge, technological fluency, and cooperation. Four nurture the whole worker: friendship, intimacy, calm, and adventure. Threads get strengthened, neglected, repaired, and rewoven over a working life, and each person's pattern is unique.\n\nPractical takeaways: regularly audit which threads you strengthened in the last hour or two; schedule time for fraying threads, as with a CEO who blocks two hours twice weekly for a long run to create calm; and run low-stakes experiments such as short-term cross-department projects, new AI use cases, or sabbaticals. Cisco's Time to Grow Program sets aside a monthly four-hour block for skill building, which chief people officer Kelly Jones says is necessary because learning otherwise does not happen. Managers are positioned as key enablers, making introductions across functions and identifying lateral moves.",
+ "claims": [
+  {
+   "claim": "Career progression is better described as a jungle gym than a ladder",
+   "stat": "",
+   "attribution": "Lattice CEO Sarah Franklin, speaking to Reuters"
+  },
+  {
+   "claim": "Careers resemble a climbing wall, with workers moving sideways, diagonally and downwards",
+   "stat": "",
+   "attribution": "LinkedIn CEO Ryan Roslansky and chief economic opportunity officer Aneesh Raman"
+  },
+  {
+   "claim": "A career is like a piece of luggage where everything you learn goes in and gets pulled out when relevant",
+   "stat": "",
+   "attribution": "Pfizer's Anne Kennedy Dotson at Charter's June New Employer Brand Summit"
+  },
+  {
+   "claim": "The fundamental problem with the ladder metaphor is the assumption that the only way is up, so not going up reads as failure",
+   "stat": "",
+   "attribution": "Lynda Gratton, professor at London Business School"
+  },
+  {
+   "claim": "The separation rate, which measures voluntary and involuntary job exits, is near its lowest level in nearly 20 years",
+   "stat": "lowest in nearly 20 years",
+   "attribution": "Charter, citing government statistics"
+  },
+  {
+   "claim": "The reservation wage, the lowest compensation workers will accept for a new job, hit a record high",
+   "stat": "record high in July",
+   "attribution": "Charter"
+  },
+  {
+   "claim": "A sustainable career is composed of eight threads: skill mastery, self-reflection and self-knowledge, technological fluency, cooperation, friendship, intimacy, calm, and adventure",
+   "stat": "8 threads",
+   "attribution": "Lynda Gratton, Living the 100-Year Life"
+  },
+  {
+   "claim": "Cisco runs a Time to Grow Program giving employees a dedicated monthly time block for skill building",
+   "stat": "monthly four-hour block",
+   "attribution": "Kelly Jones, Cisco chief people officer"
+  },
+  {
+   "claim": "Without a dedicated time block, continuous learning tends not to happen",
+   "stat": "",
+   "attribution": "Kelly Jones, Cisco chief people officer"
+  },
+  {
+   "claim": "One CEO blocks two hours twice a week for a long run to cultivate calm and reflection",
+   "stat": "2 hours, twice weekly",
+   "attribution": "Lynda Gratton"
+  }
+ ],
+ "vocabulary": [
+  "career ladder",
+  "jungle gym",
+  "climbing wall",
+  "lateral moves",
+  "separation rate",
+  "reservation wage",
+  "career tapestry",
+  "threads",
+  "skill mastery",
+  "technological fluency",
+  "cooperation",
+  "calm",
+  "adventure",
+  "Time to Grow Program",
+  "chief people officer",
+  "chief economic opportunity officer",
+  "low-stakes experiments",
+  "sabbatical",
+  "dedicated work blocks",
+  "continuous learning",
+  "longevity at work",
+  "employer brand"
+ ],
+ "topics_covered": []
+}

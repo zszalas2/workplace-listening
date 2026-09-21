@@ -1,0 +1,58 @@
+{
+ "id": "0b29e282ecbd8cae56c9318616521b5da523ba89",
+ "source_id": "workplace_insight",
+ "url": "https://workplaceinsight.net/over-reliance-on-gen-ai-may-weaken-moral-insights-understanding-and-know-how/?utm_source=rss&utm_medium=rss&utm_campaign=over-reliance-on-gen-ai-may-weaken-moral-insights-understanding-and-know-how",
+ "published_at": "2026-09-18",
+ "observed_at": "2026-09-21",
+ "summary": "A University of Bath study, published in the Academy of Management Review, argues that heavy reliance on generative AI tools such as ChatGPT may erode \"managerial phronesis\": the practical wisdom managers build through first-hand experience, reflection and human interaction. Professor Dirk Lindebaum of Bath's School of Management says Gen-AI appeals because it speeds up tasks, but it does not experience the world, understand decision consequences, or grasp social and emotional workplace complexity; it produces responses based on patterns in existing data. The risk is that managers outsource thinking for idea generation or practical problems and rely less on their own judgement, reducing their ability to learn from experience, think critically and anticipate what actions future goals require.\n\nThe research team, spanning the Universities of Bath, Ohio State, Lausanne and Cardiff, names this process \"epistemic de-skilling\": gradual loss of knowledge-related capabilities from outsourcing too much thinking to Gen-AI. It is most likely under intense time pressure, when Gen-AI is used as a shortcut rather than for deep engagement. In those conditions managers may stop asking important questions, seeking alternative perspectives or learning from real interactions, depending instead on AI answers that lack context and moral judgement.\n\nThe paper also proposes a counter-path, \"epistemic up-skilling\", where Gen-AI is used as a tool for reflection rather than a replacement for thinking: challenging assumptions, exploring alternative scenarios and testing reasoning. Because AI systems often struggle to explain why they produce particular answers, those explanatory gaps can prompt deeper thinking, though filling them requires persistent effort. This benefit is most likely where managers know they will be held accountable and must justify their reasoning. Lindebaum concludes that introducing AI tools will not automatically improve decision-making or performance; organisations must deliberately design roles, responsibilities and workflows so employees keep developing human skills AI cannot replicate.\n\nThe paper is titled \"A Process Model of Managerial Phronesis in the Age of Generative AI\".",
+ "claims": [
+  {
+   "claim": "Over-reliance on generative AI may erode managers' moral insight, contextual understanding and practical know-how (managerial phronesis).",
+   "stat": "",
+   "attribution": "University of Bath study published in the Academy of Management Review"
+  },
+  {
+   "claim": "Gen-AI does not experience the world, understand consequences of decisions or grasp social and emotional workplace complexities; it produces responses based on patterns in existing data.",
+   "stat": "",
+   "attribution": "Professor Dirk Lindebaum, University of Bath School of Management"
+  },
+  {
+   "claim": "\"Epistemic de-skilling\" occurs when people gradually lose knowledge-related capabilities by outsourcing too much thinking to Gen-AI, most likely under intense time pressure.",
+   "stat": "",
+   "attribution": "Researchers from Bath, Ohio State, Lausanne and Cardiff"
+  },
+  {
+   "claim": "Gen-AI can strengthen managerial judgement when used as a tool for reflection rather than a replacement for thinking, a process called \"epistemic up-skilling\".",
+   "stat": "",
+   "attribution": "The research team / Professor Dirk Lindebaum"
+  },
+  {
+   "claim": "The beneficial reflective outcome is most likely when managers know they will be held accountable for their decisions.",
+   "stat": "",
+   "attribution": "The study"
+  },
+  {
+   "claim": "Simply introducing AI tools will not automatically improve decision-making or organisational performance; roles, responsibilities and workflows must be designed to preserve human skills.",
+   "stat": "",
+   "attribution": "Professor Dirk Lindebaum"
+  }
+ ],
+ "vocabulary": [
+  "generative artificial intelligence",
+  "Gen-AI",
+  "ChatGPT",
+  "managerial phronesis",
+  "practical wisdom",
+  "epistemic de-skilling",
+  "epistemic up-skilling",
+  "outsourcing thinking",
+  "moral judgement",
+  "accountability",
+  "Academy of Management Review",
+  "workflow design",
+  "human skills AI cannot replicate"
+ ],
+ "topics_covered": [
+  "agentic_ai_tooling_and_governance"
+ ]
+}

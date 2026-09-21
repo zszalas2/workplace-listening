@@ -1,0 +1,15 @@
+{
+ "id": "822d9ca3ab5edd6eb44b98265953c469b2c37324",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVFFVWlpEd3FBMWVXek45WnhqVEpUQXNEZVNVdmFrT1ExQVZ0SVZsNE9ZT2xaOUJMQXp0Z2ZLMDAwR3lpeG1pdktnR09vN2lPWXNFSzQ3T2dFWFdJZmZlelVlMERGdFVMRHR5c0V5TlVSaldjWU8zVmplQXFPLVNmbXRxdWtua1NPWkp0OHpNRHlkb1FDVzFFVDlB?oc=5",
+ "published_at": "2026-09-18",
+ "observed_at": "2026-09-21",
+ "summary": "This item is a headline-only entry from WORKTECH Academy, surfaced via a Google News RSS link. The title is \"Breaking precedent: four ideas shaping London's legal workplace.\" No article body, byline, date, or supporting text was included in the supplied payload beyond the repeated title and publication name.\n\nBased on the title alone, the piece appears to examine four emerging concepts or design and workplace strategy ideas influencing law firm offices in London. Legal sector workplace coverage of this kind typically touches on themes such as office design for client-facing firms, hybrid working patterns among fee earners, attitudes to assigned versus shared workspace, amenity and hospitality-led office strategies, and how traditional professional services cultures adapt to newer ways of working. However, none of that can be confirmed from the material provided.\n\nBecause no substantive content is available, no factual claims, statistics, or named sources can be extracted, and no reliable theme tagging can be performed. The only vendor or category language present is the publication name itself, WORKTECH Academy, a workplace innovation research and commentary outlet whose remit covers workplace technology, design, and the future of work.\n\nRecommendation for the listening pipeline: treat this as an unresolved stub. The Google News redirect URL should be resolved to the canonical WORKTECH Academy article and the full text re-fetched before this item is scored for saturation or used in any thematic analysis. Tagging it against registry themes on the basis of a headline would risk false positives, particularly for hybrid and return-to-office or hot desking themes that legal workplace pieces often, but not always, address. No themes have been assigned.",
+ "claims": [],
+ "vocabulary": [
+  "legal workplace",
+  "WORKTECH Academy",
+  "workplace"
+ ],
+ "topics_covered": []
+}

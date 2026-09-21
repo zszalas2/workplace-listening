@@ -1,0 +1,71 @@
+{
+ "id": "77f988419b158c0c8119fdf77b9d0cddaa37300e",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/showing-the-way-planning-a-signage-and-wayfinding-refresh-without-creating-navigation-gaps/",
+ "published_at": "2026-09-18",
+ "observed_at": "2026-09-21",
+ "summary": "An FMJ/FMLink article on how to plan a signage and wayfinding refresh without creating temporary or permanent navigation gaps. The piece frames facility wayfinding as an operational system rather than a design exercise, arguing it touches accessibility, safety, brand consistency and daily building performance. Poor sequencing leads to lost visitors, vendors missing loading docks, employees missing meetings and emergency responders losing time.\n\nRecommended steps:\n\n1. Full signage audit. Document the entire existing signage inventory before designing or ordering anything, and capture how people actually move through the building rather than how the original floor plan assumed they would. Renovations, tenant changes and repurposed space shift real traffic patterns. An audit converts anecdotal complaints into a mapped, prioritized problem list.\n\n2. Identify navigation pain points before removing any sign. Walk the property looking for decision points where someone must choose a direction. Common problem areas include lobbies with multiple elevator banks serving different floor ranges, parking structures with multiple entrances feeding different building sections, loading docks and service entrances evaluated from a first-time vendor's perspective, emergency egress exit signage not revisited since the last renovation, and campus properties with similar building names or overlapping numbering.\n\n3. Use temporary wayfinding to bridge the transition. Most gaps occur between removal of old signs and installation of new ones, which can stretch to weeks if fabrication or permitting runs long. Printed or vinyl overlays that mimic the incoming system's color coding and terminology teach occupants the new visual language early and shorten the adjustment period, unlike generic \"pardon our progress\" notices.\n\n4. Check accessibility at every stage: mounting height and reach ranges for tactile and Braille signage, minimum character height relative to viewing distance, color contrast ratios, non-glare finishes, and consistent placement such as latch-side room signs. Reference local codes (ADA, UK Equality Act, ISO 21542) and build a compliance matrix by property early.\n\n5. Coordinate signage with building branding, not just function, to unify typography, palettes and finishes.",
+ "claims": [
+  {
+   "claim": "Wayfinding confusion is consistently cited among the top contributors to negative first impressions in multitenant buildings, alongside parking access and entry clarity.",
+   "stat": "among top contributors",
+   "attribution": "article, citing unnamed research on commercial real estate operations"
+  },
+  {
+   "claim": "Most navigation gaps arise not from poorly designed new signage but from the interval between removing old signs and installing new ones, which can last from hours to weeks when fabrication or permitting is delayed.",
+   "stat": "",
+   "attribution": "FMJ article author"
+  },
+  {
+   "claim": "Teams managing large campus refreshes find complaints drop off quickly when temporary signage uses the same colors and symbols as the permanent system.",
+   "stat": "",
+   "attribution": "FMJ article author"
+  },
+  {
+   "claim": "Accessibility regulations vary by jurisdiction, so multi-region teams should reference local codes such as the ADA in the US, the Equality Act in the UK, or ISO 21542 internationally.",
+   "stat": "",
+   "attribution": "FMJ article author"
+  },
+  {
+   "claim": "Building a compliance matrix by property location early prevents costly rework after signs are fabricated.",
+   "stat": "",
+   "attribution": "FMJ article author"
+  }
+ ],
+ "vocabulary": [
+  "signage and wayfinding refresh",
+  "facility wayfinding signage",
+  "navigation gaps",
+  "signage audit",
+  "signage inventory",
+  "pain-point map",
+  "decision points",
+  "elevator banks",
+  "parking signage",
+  "loading docks",
+  "service entrances",
+  "emergency egress routes",
+  "exit signage",
+  "campus-style properties",
+  "temporary wayfinding",
+  "vinyl overlays",
+  "color coding",
+  "tactile and Braille signage",
+  "character height",
+  "color contrast ratios",
+  "non-glare finishes",
+  "latch side of doors",
+  "compliance matrix",
+  "ADA",
+  "Equality Act",
+  "ISO 21542",
+  "building branding",
+  "interior wayfinding",
+  "building directories",
+  "multitenant buildings",
+  "facility teams",
+  "permitting",
+  "fabrication"
+ ],
+ "topics_covered": []
+}

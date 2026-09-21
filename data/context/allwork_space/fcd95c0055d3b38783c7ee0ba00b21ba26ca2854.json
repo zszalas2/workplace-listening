@@ -1,0 +1,69 @@
+{
+ "id": "fcd95c0055d3b38783c7ee0ba00b21ba26ca2854",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/09/fire-yourself-once-a-year-to-test-your-career-readiness/",
+ "published_at": "2026-09-21",
+ "observed_at": "2026-09-21",
+ "summary": "An AllWork.Space opinion piece argues professionals should \"fire yourself once a year\" as a career readiness exercise: imagine your title, authority, internal systems and AI tool access vanish tomorrow, then assess what remains. The premise is that annual performance reviews measure competence in a current role but say nothing about readiness for the outside market, a gap that widens as AI reshapes tasks, tools and the kinds of experience that create value. Success in a current role can mask the shift because employers keep rewarding past-oriented work.\n\nThe piece proposes an annual career audit with four parts. First, identify transferable skills and professional identity by writing a private resume with all employer names and job titles stripped out, recording instead what was learned, which problems were solved and what outcomes were produced, drawing on volunteer work, professional communities, side projects and teaching. It gives an HR executive example rewriting a title as workforce strategy design and implementation leadership. Key questions include which capabilities transfer across industries, which problems you repeatedly solve, what evidence of value exists and which experience is losing relevance, the last being framed as the most important since outdated experience becomes a limitation.\n\nSecond, audit the professional network by listing the first 20 people you would contact if your role disappeared, then checking how many are internal or same-profession, how recently you spoke and whether they understand your capabilities beyond your title. One conversation a month outside the usual circle is suggested.\n\nThird, assess AI's effect by decomposing your role into tasks, asking what AI could automate or accelerate, reviewing 10 job descriptions including ones outside your title or industry, talking to someone in an adjacent field, and closing one gap via a course, project or hands-on tool use. A financial analyst using AI for first-draft forecast models illustrates the emerging skill of directing and challenging AI output.\n\nFourth, identify multiple realistic next options, since career security depends on more than one path. The text ends mid-sentence.",
+ "claims": [
+  {
+   "claim": "By 2030, the majority of skills used in most jobs will have changed",
+   "stat": "70% of skills used in most jobs will have changed by 2030",
+   "attribution": "LinkedIn estimate, cited by AllWork.Space"
+  },
+  {
+   "claim": "Annual performance reviews assess performance in a current role but rarely indicate readiness for the external market",
+   "stat": "",
+   "attribution": "AllWork.Space author"
+  },
+  {
+   "claim": "Jobs do not transform overnight under AI; individual tasks change first, with some automated, some accelerated and some becoming more valuable because they rely on judgment, context, trust or accountability",
+   "stat": "",
+   "attribution": "AllWork.Space author"
+  },
+  {
+   "claim": "Careers increasingly move through shorter cycles of growth, stability and change",
+   "stat": "",
+   "attribution": "AllWork.Space author"
+  },
+  {
+   "claim": "A suggested network audit baseline is listing the first 20 people you would contact if your role disappeared",
+   "stat": "20 people",
+   "attribution": "AllWork.Space author"
+  },
+  {
+   "claim": "A suggested market scan is reviewing job descriptions connected to your capabilities, including several outside your current title or industry",
+   "stat": "10 job descriptions",
+   "attribution": "AllWork.Space author"
+  },
+  {
+   "claim": "One conversation a month outside your regular circle can shift your view of the market before you need to change roles",
+   "stat": "1 conversation per month",
+   "attribution": "AllWork.Space author"
+  }
+ ],
+ "vocabulary": [
+  "fire yourself",
+  "career readiness",
+  "annual career audit",
+  "annual performance reviews",
+  "transferable skills",
+  "professional identity",
+  "resume of capabilities",
+  "organizational hierarchy",
+  "access to internal systems",
+  "AI tools",
+  "skills gap",
+  "AI-generated analysis",
+  "professional network",
+  "adjacent fields",
+  "professional communities",
+  "side projects",
+  "job descriptions",
+  "workflows being redesigned",
+  "career security",
+  "career options",
+  "workforce strategy"
+ ],
+ "topics_covered": []
+}

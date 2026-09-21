@@ -1,0 +1,44 @@
+{
+ "id": "df80147c577e8cac1e851a193d313805837b2f44",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/trusted-by-design-how-hr-can-build-ai-systems-employees-will-trust/",
+ "published_at": "2026-09-16",
+ "observed_at": "2026-09-21",
+ "summary": "Charter's webinar recap argues that employee trust, more than functionality, will determine whether organizations capture value from workplace AI. The framing: employees are not only asking whether AI works, but how it affects their privacy, autonomy, careers, and their ability to challenge AI-driven decisions.\n\nThe session focused on designing AI operating models worthy of that trust, drawing on two sources of input: HiBob's market insights into HR technology adoption, and Circle's firsthand experience building people practices around AI. Discussion areas included governance, employee involvement in AI decisions, human accountability for outcomes, and policy transparency. The panel also addressed cultural boundaries intended to prevent AI use from feeling like surveillance or from making organizational decision-making more opaque.\n\nStated takeaways for attendees: a practical framework for evaluating workplace AI use cases, guidance on involving employees and employee representatives early in the process, and a path for moving from experimentation to broader adoption without sacrificing innovation or company culture.\n\nSpeakers were Kenneth Matos, Director of Market Insights for HCM at HiBob; Brian Christman, Chief People Officer at Circle; and moderator Jena McGregor, Managing Editor at Charter.\n\nThe item is a short promotional description rather than a transcript, so it contains no data points, adoption rates, or case detail. It is relevant mainly as evidence of how HR technology vendors and media are positioning AI governance as a trust and change management problem owned by the people function, with surveillance perception treated as a central risk to manage.",
+ "claims": [
+  {
+   "claim": "Employee trust may matter more than functionality in determining whether organizations realize AI's full value",
+   "stat": "",
+   "attribution": "Charter (webinar framing)"
+  },
+  {
+   "claim": "Employees are questioning how AI will affect their privacy, autonomy, careers, and ability to challenge its decisions",
+   "stat": "",
+   "attribution": "Charter"
+  },
+  {
+   "claim": "Cultural boundaries are needed to keep AI use from feeling like surveillance or making decision-making more opaque",
+   "stat": "",
+   "attribution": "Charter webinar panel"
+  }
+ ],
+ "vocabulary": [
+  "AI operating models",
+  "governance",
+  "human accountability",
+  "policy transparency",
+  "employee involvement",
+  "employee representatives",
+  "surveillance",
+  "HR technology adoption",
+  "people practices",
+  "HCM",
+  "market insights",
+  "workplace AI use cases",
+  "experimentation to adoption",
+  "Chief People Officer"
+ ],
+ "topics_covered": [
+  "agentic_ai_tooling_and_governance"
+ ]
+}

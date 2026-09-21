@@ -1,0 +1,68 @@
+{
+ "id": "86f600907b99b0e9ca80c44f713c4b01140a4b8a",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/beyond-the-door-how-entrance-design-shapes-care-flow-and-experience-in-high-traffic-healthcare-facilities/",
+ "published_at": "2026-09-14",
+ "observed_at": "2026-09-21",
+ "summary": "An FMLink trade article (sponsored-style content featuring Stanley Access Technologies imagery) argues that entrances in high-traffic healthcare facilities should be treated as mission-critical operational systems rather than architectural features. It frames hospital design around the movement of people: patients arriving for appointments, visitors, clinicians moving between departments, and staff transporting equipment.\n\nKey guidance for facility leaders includes assessing who uses each entrance, traffic volume and direction, what occupants move through the opening, peak periods, local building codes, industry best practices, and accessibility requirements. An entrance suited to a small administrative area may be inappropriate for a main hospital lobby, outpatient center, or emergency department.\n\nThe piece compares entrance system types: automatic sliding doors for high-volume bidirectional traffic and wide openings (helpful for wheelchairs, gurneys, carts); automatic swing door operators to retrofit existing entrances without changing the building footprint; and revolving doors at large public entrances where energy performance matters, since they limit indoor/outdoor air exchange and reduce HVAC demand, though they should be paired with an adjacent accessible entrance.\n\nOn flow, the article notes that a hesitating, inconsistently closing, or out-of-service entrance can cause congestion, limit accessibility, and force alternate routes, with outsized effects during appointment surges, shift changes, visiting hours, or severe weather. Because doors may cycle hundreds of thousands of times annually, lifecycle performance, durability, and preventive maintenance are presented as core selection criteria, favoring durable materials, fewer moving parts, sealed drive systems, and modular wear components.\n\nAccessibility is framed as dignity, not just compliance: clear pathways, appropriate opening widths, reliable activation, sufficient timing, and smooth exterior-to-interior transitions, plus wayfinding through door placement, sightlines, signage, lighting, and the transition to reception. The closing section addresses balancing security and controlled access to restricted areas with open, welcoming entry.",
+ "claims": [
+  {
+   "claim": "U.S. emergency departments recorded an estimated 155 million visits in 2022",
+   "stat": "155 million visits (2022)",
+   "attribution": "U.S. Centers for Disease Control and Prevention (CDC)"
+  },
+  {
+   "claim": "More than one in four U.S. adults has some type of disability, including conditions affecting mobility, vision, hearing, cognition, and independent living",
+   "stat": "more than 1 in 4 U.S. adults",
+   "attribution": "U.S. Centers for Disease Control and Prevention (CDC)"
+  },
+  {
+   "claim": "In high-traffic healthcare settings, automatic doors may cycle hundreds of thousands of times annually; a system operating 500 times per day would complete more than 180,000 cycles in a year",
+   "stat": "500 cycles/day = 180,000+ cycles/year",
+   "attribution": "Article author (FMLink)"
+  },
+  {
+   "claim": "Revolving doors can reduce heating and cooling demand by limiting the exchange of indoor and outdoor air",
+   "stat": "",
+   "attribution": "Article author (FMLink)"
+  },
+  {
+   "claim": "Systems with durable materials, fewer moving parts, sealed drive systems, and modular wear components may require fewer service interventions over time",
+   "stat": "",
+   "attribution": "Article author (FMLink)"
+  }
+ ],
+ "vocabulary": [
+  "entrance design",
+  "mission-critical operational systems",
+  "traffic flow",
+  "automatic sliding doors",
+  "automatic swing door operators",
+  "revolving doors",
+  "bidirectional traffic",
+  "accessible entrance",
+  "accessibility",
+  "wayfinding",
+  "sightlines",
+  "signage",
+  "transition to reception",
+  "patient and staff flow",
+  "appointment surges",
+  "shift changes",
+  "lifecycle performance",
+  "preventive maintenance",
+  "modular wear components",
+  "sealed drive systems",
+  "downtime",
+  "operational continuity",
+  "access control",
+  "restricted areas",
+  "emergency department",
+  "outpatient center",
+  "hospital lobby",
+  "building codes",
+  "ADA-style accessibility considerations",
+  "facility leaders"
+ ],
+ "topics_covered": []
+}

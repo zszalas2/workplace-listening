@@ -1,0 +1,69 @@
+{
+ "id": "e1712aa5743a3bb7fa616bc49a81a80583439be8",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/09/nearly-a-third-of-firms-now-rent-flexible-offices-and-gyms-may-be-the-new-tiebreaker/",
+ "published_at": "2026-09-18",
+ "observed_at": "2026-09-21",
+ "summary": "Allwork.Space reports that coworking and flexible office operators are adding gyms, fitness classes and wellness amenities as a competitive differentiator in a hybrid-work market reshaped by the pandemic. Examples cited via JLL include Monday Rio in Madrid, The Address in India and The Ministry in London.\n\nDemand context: industry research cited by JLL found nearly a third of companies now use flexible office space, and more than 40% plan to increase that investment, driven by a desire to cut real estate costs while still offering employee perks. The flexible office market is projected to nearly triple from roughly $35 billion in 2023 to almost $97 billion by 2030.\n\nOn worker preferences, JLL data indicates most workers now prioritize work-life balance over salary, and remote employees are more likely than office-based workers to exercise during work hours. With hybrid workers averaging just over three office days per week, on-site gyms remove the need for a separate trip to a fitness club and bake fitness into the workday.\n\nThe employer case rests on productivity and health outcomes. A study in the International Journal of Workplace Health Management linked daytime exercise to improved mood, focus and stress resilience rather than midday fatigue. U.S. coworking chain Life Time reported that frequent gym users among its members required emergency or clinical care far less often than infrequent exercisers.\n\nIndustry voices position office gyms as part of a broader talent strategy, especially for attracting younger employees who treat wellness perks as standard. Supporters argue the amenity does double duty: lifting morale and retention while helping justify the return on investment in physical office space and, implicitly, supporting attendance in hybrid arrangements.",
+ "claims": [
+  {
+   "claim": "Nearly a third of companies now use flexible office space",
+   "stat": "~33%",
+   "attribution": "Industry research cited by JLL"
+  },
+  {
+   "claim": "More than 40% of firms plan to increase flexible office investment",
+   "stat": "over 40%",
+   "attribution": "Industry research cited by JLL"
+  },
+  {
+   "claim": "The flexible office market will nearly triple in size by 2030",
+   "stat": "roughly $35B in 2023 to almost $97B by 2030",
+   "attribution": "Allwork.Space citing market projections"
+  },
+  {
+   "claim": "Most workers prioritize work-life balance over salary",
+   "stat": "",
+   "attribution": "JLL data"
+  },
+  {
+   "claim": "Remote employees are more likely than office-based employees to exercise during work hours",
+   "stat": "",
+   "attribution": "JLL data"
+  },
+  {
+   "claim": "Hybrid workers average just over three office days per week",
+   "stat": "3+ days per week",
+   "attribution": "Allwork.Space citing JLL"
+  },
+  {
+   "claim": "Daytime exercise is linked to better mood, focus and stress resilience rather than midday fatigue",
+   "stat": "",
+   "attribution": "Study in the International Journal of Workplace Health Management"
+  },
+  {
+   "claim": "Frequent gym users among members needed emergency or clinical care far less often than those who did not work out regularly",
+   "stat": "",
+   "attribution": "Life Time (U.S. coworking chain)"
+  }
+ ],
+ "vocabulary": [
+  "flexible office space",
+  "coworking operators",
+  "hybrid work",
+  "office occupancy",
+  "wellness amenities",
+  "on-site gyms",
+  "fitness classes",
+  "work-life balance",
+  "real estate costs",
+  "return on investment",
+  "talent strategy",
+  "retention",
+  "hybrid workers",
+  "office days per week"
+ ],
+ "topics_covered": [
+  "quiet_space_calls_and_coworking_choice"
+ ]
+}

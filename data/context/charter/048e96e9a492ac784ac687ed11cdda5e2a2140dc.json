@@ -1,0 +1,75 @@
+{
+ "id": "048e96e9a492ac784ac687ed11cdda5e2a2140dc",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/beyonces-former-strategist-on-turning-employees-into-fans/",
+ "published_at": "2026-09-20",
+ "observed_at": "2026-09-21",
+ "summary": "Charter's newsletter combines an AI-and-work news roundup with an interview with Marcus Collins, former digital strategist for Beyonce and now a business school professor and author.\n\nAI and Work Radar items: A new Census Bureau study finds new college graduates in the most AI-exposed majors (computer science and software) saw job-landing odds drop five percentage points and starting pay fall 13% after ChatGPT's late-2022 debut, an earnings hit researchers compare to graduating into a large recession. A study of 393 employees describes a \"cyber whip effect\" or \"Generative AI Labor Paradox,\" in which AI productivity gains lead organizations to raise performance expectations and drive burnout, though supportive leadership can soften the pressure. The New York Times reports Congressional leaders have introduced many AI regulation bills in two years but passed essentially none, with stalled measures ranging from model reporting requirements to independent watchdog commissions. A Pew Research Center survey across 37 countries finds most people now expect AI to cost jobs, with more than 70% in the US, Australia, and South Korea expecting fewer jobs. A Gallup poll finds 27% of US workers worry AI could make their own jobs obsolete, a record high.\n\nThe Collins interview centers on organizational culture. He rejects the popular Deal and Kennedy definition of culture as \"how we do things around here\" as only half the picture, citing Elliott Jaques (a tradition of thinking and doing) and Edgar Schein (shared assumptions and beliefs). He argues culture is an operating system built on shared cognitions (beliefs), kinetics (behaviors), and creations (outputs), not rituals like foosball tables and pizza Fridays. Drawing on sports and music, he says you can buy players but not a team, and that belonging rests on shared beliefs, moving people from working alongside each other to working with each other and from transactional employment to shared purpose. His next book, Good Soil, is due in February.",
+ "claims": [
+  {
+   "claim": "New graduates in the most AI-exposed majors saw their odds of landing a job fall and starting pay decline after ChatGPT launched in late 2022",
+   "stat": "job odds down five percentage points; starting pay down 13%",
+   "attribution": "Census Bureau study"
+  },
+  {
+   "claim": "The earnings hit for AI-exposed graduates is comparable to losses from graduating into a large recession",
+   "stat": "",
+   "attribution": "Researchers on the Census Bureau study"
+  },
+  {
+   "claim": "AI-driven productivity gains push organizations to raise performance expectations, increasing burnout, a \"cyber whip effect\" or \"Generative AI Labor Paradox\"; supportive leadership can soften the pressure",
+   "stat": "study of 393 employees",
+   "attribution": "Researchers cited by Charter"
+  },
+  {
+   "claim": "Congressional leaders introduced numerous AI regulation bills over the past two years but largely failed to enact any",
+   "stat": "",
+   "attribution": "The New York Times"
+  },
+  {
+   "claim": "Most people globally expect AI to cost jobs rather than create them, with concern strongest in wealthier nations",
+   "stat": "37-country survey; more than 70% in the US, Australia, and South Korea expect fewer jobs",
+   "attribution": "Pew Research Center"
+  },
+  {
+   "claim": "US workers worry AI could make their own jobs obsolete, a record high share",
+   "stat": "27%",
+   "attribution": "Gallup"
+  },
+  {
+   "claim": "Organizational culture is an operating system built on shared cognitions, kinetics, and creations rather than rituals and perks",
+   "stat": "",
+   "attribution": "Marcus Collins"
+  },
+  {
+   "claim": "You can buy players but you cannot buy a team; assembled talent underperforms if the shared operating system is poor",
+   "stat": "",
+   "attribution": "Marcus Collins"
+  }
+ ],
+ "vocabulary": [
+  "AI and Work Radar",
+  "AI-exposed majors",
+  "cyber whip effect",
+  "Generative AI Labor Paradox",
+  "supportive leadership",
+  "burnout",
+  "AI regulation bills",
+  "independent watchdog commissions",
+  "organizational culture",
+  "workplace culture",
+  "shared cognitions",
+  "shared kinetics",
+  "shared creations",
+  "cultural soil",
+  "rituals and ceremonies",
+  "belonging",
+  "inclusion",
+  "fandom",
+  "operating system",
+  "transactional relationship",
+  "chief strategy officer",
+  "digital strategy"
+ ],
+ "topics_covered": []
+}

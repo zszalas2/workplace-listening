@@ -1,0 +1,23 @@
+{
+ "id": "2da68dd643c18eb2d512d7c2ae2083dfab4b089d",
+ "source_id": "facility_executive",
+ "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ0lfemc1azNKVzF6Y21EeHlfOFlVSnFQVE5ubzRCdVU4Rmt0cFhSbW1QN1dOcEx4ZVhZNlhFRUdZODg1alFFUnEwcDBnRXJldlRaYmEtVWlnZUdHNm5PQ2xiYVFIYVpoZTF5Z0tHQk5vaVlGQUtSdnhiOGp0bmVQa1ZwVG1rRnBja25Qd1FsYldhMGg5RjF2QWo1aVA?oc=5",
+ "published_at": "2026-09-14",
+ "observed_at": "2026-09-21",
+ "summary": "A headline-only item from Facility Executive Magazine reporting that the National Safety Council (NSC) has launched a new platform intended to simplify workplace safety management. The syndicated Google News entry contains no body text beyond the title and publication name, so no details are available about the platform's features, pricing, availability, target customer segment, or how it integrates with existing environmental, health and safety (EHS) systems. No executives are quoted, no statistics are provided, and no launch date or customer examples are given. For a B2B workplace technology listening pipeline, the only usable signal is directional: a well known safety standards organization is moving into software or platform delivery for workplace safety management, which sits adjacent to facilities management and EHS tooling. It does not touch visitor management, desk or room booking, hybrid and return-to-office policy, workplace analytics, or administrative workload topics. Follow-up would require retrieving the full article from Facility Executive to determine whether the platform includes incident reporting, training management, compliance tracking, or analytics components, and whether it competes with established EHS vendors. As it stands the item is a stub and should be treated as low value for theme saturation scoring.",
+ "claims": [
+  {
+   "claim": "The National Safety Council has launched a new platform to simplify workplace safety management",
+   "stat": "",
+   "attribution": "Facility Executive Magazine headline"
+  }
+ ],
+ "vocabulary": [
+  "NSC",
+  "National Safety Council",
+  "workplace safety management",
+  "platform",
+  "facility executive"
+ ],
+ "topics_covered": []
+}

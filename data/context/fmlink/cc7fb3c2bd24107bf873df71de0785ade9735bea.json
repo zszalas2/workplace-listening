@@ -1,0 +1,79 @@
+{
+ "id": "cc7fb3c2bd24107bf873df71de0785ade9735bea",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/copper-development-association-supports-ua-instructor-training-program-in-copper-joining-techniques/",
+ "published_at": "2026-09-17",
+ "observed_at": "2026-09-21",
+ "summary": "FMLink reports that the Copper Development Association (CDA) participated in the United Association's annual instructor training program at Washtenaw Community College in Ann Arbor, Michigan, delivering a 20-hour course on copper tube and copper alloy joining methods, plus problem identification and troubleshooting.\n\nThe United Association represents plumbers, pipefitters, refrigeration technicians, sprinkler fitters and related trades across more than 300 local unions in the US and Canada. Its instructor training program prepares educators who run apprenticeship and continuing education programs at those locals.\n\nCourse structure: 20 hours over five days, split into separate four-hour morning and afternoon sessions. Forty-three participants enrolled this year, 22 in the morning session and 21 in the afternoon. Emphasis was placed on soldering, brazing and other copper joining methods. CDA's training team worked alongside two active UA instructors to combine classroom education with shop-based instruction. Participants completed 10 copper assembly modules in teams of two and were evaluated on classroom and shop participation. The week concluded with a teaching exercise in which volunteers played instructor and apprentice roles during a copper soldering project.\n\nThe UA program has trained instructors since 1955 and offers certifications and associate degree programs with an equal mix of trade-specific and professional teaching courses. Instructor certification requires 200 hours of instruction over five years; training coordinators earn certification after an additional 120 hours. The program includes the annual Ann Arbor event plus regional and online courses.\n\nCDA project manager Mike Belanger framed the value as a multiplier effect, saying training the trainers lets knowledge reach far beyond the room. CDA's involvement dates to 1955 through its predecessor, the Copper and Brass Research Association. Three CDA representatives participated this year: Marcus Elmer, Harold Moret and Mike Belanger.\n\nThe piece concerns skilled trades education and is unrelated to workplace technology themes such as visitor management, desk booking, hybrid policy or workplace analytics.",
+ "claims": [
+  {
+   "claim": "CDA delivered a copper tube and copper alloy joining course at the UA instructor training program",
+   "stat": "20 hours over five days, four-hour morning and afternoon sessions",
+   "attribution": "FMLink / Copper Development Association"
+  },
+  {
+   "claim": "Educators enrolled in the CDA course this year",
+   "stat": "43 total, 22 morning and 21 afternoon",
+   "attribution": "FMLink / CDA"
+  },
+  {
+   "claim": "The United Association represents plumbers, pipefitters, refrigeration technicians, sprinkler fitters and related trades",
+   "stat": "more than 300 local unions in the US and Canada",
+   "attribution": "FMLink"
+  },
+  {
+   "claim": "UA instructor certification requires a set volume of instruction",
+   "stat": "200 hours over five years",
+   "attribution": "FMLink / United Association"
+  },
+  {
+   "claim": "Training coordinators earn certification after additional instruction beyond the instructor requirement",
+   "stat": "120 additional hours",
+   "attribution": "FMLink / United Association"
+  },
+  {
+   "claim": "Participants complete copper assembly modules in pairs and are evaluated on classroom and shop participation",
+   "stat": "10 modules, teams of two",
+   "attribution": "FMLink / CDA"
+  },
+  {
+   "claim": "The UA instructor training program has operated since 1955, with CDA predecessor the Copper and Brass Research Association involved from the start",
+   "stat": "since 1955",
+   "attribution": "FMLink / CDA"
+  },
+  {
+   "claim": "Three CDA representatives delivered the course alongside two active UA instructors",
+   "stat": "3 CDA staff, 2 UA instructors",
+   "attribution": "FMLink / CDA"
+  },
+  {
+   "claim": "Preparing instructors extends the reach of training beyond the immediate participants",
+   "stat": "",
+   "attribution": "Mike Belanger, Project Manager, CDA"
+  }
+ ],
+ "vocabulary": [
+  "Copper Development Association (CDA)",
+  "United Association (UA)",
+  "instructor training program",
+  "copper tube",
+  "copper alloy joining",
+  "soldering",
+  "brazing",
+  "troubleshooting",
+  "apprenticeship",
+  "continuing education",
+  "local unions",
+  "shop-based instruction",
+  "copper assembly modules",
+  "instructor certification",
+  "training coordinators",
+  "skilled trades",
+  "Copper and Brass Research Association",
+  "Washtenaw Community College",
+  "fast-track training programs",
+  "multiplier effect",
+  "train the trainer"
+ ],
+ "topics_covered": []
+}

@@ -1,0 +1,77 @@
+{
+ "id": "55dc385eb47bca2f3a713e3bc234a5c58d11894d",
+ "source_id": "workplace_insight",
+ "url": "https://workplaceinsight.net/people-think-office-presence-is-still-rewarded/?utm_source=rss&utm_medium=rss&utm_campaign=people-think-office-presence-is-still-rewarded",
+ "published_at": "2026-09-21",
+ "observed_at": "2026-09-21",
+ "summary": "Workplace Insight reports on research from HR technology firm HiBob finding that UK workers still believe physical presence drives career progression despite hybrid and remote working growth. Thirty percent of workers believe office presence is rewarded in promotion decisions, the same share who cited revenue delivery. Visibility to senior leadership was cited by 34 percent and constant availability by 33 percent, suggesting employees see physical and organisational visibility as important to advancement.\n\nThe findings arrive ahead of planned UK employment law changes intended to strengthen access to flexible working. From 2027 employers are expected to face stronger requirements around statutory flexible-working requests, though the precise obligations depend on final legislation and regulations. HiBob argues such reforms may have limited cultural effect unless employers also rethink how they assess performance and make promotion decisions.\n\nVisibility perceptions also shape attendance choices: 28 percent said greater visibility to their manager made office working appealing, and 13 percent said they had been excluded from an important decision because they were not in the office.\n\nHiBob reports remote or hybrid working rose from 52 percent in 2025 to 64 percent in 2026, while preference for remote or hybrid rose from 64 percent to 77 percent over the same period.\n\nNirit Peled-Muntz, chief people officer at HiBob, said the law can give people the right to ask for flexibility but cannot change what managers choose to reward, calling proximity-based promotion a management problem. She said employers need clearer understanding of employees' skills, impact and value created rather than using visibility or availability as proxies for performance, and that the next phase of flexible working must be about recognising talent wherever people sit, or flexible working risks becoming a modern policy sitting on top of an outdated management model.",
+ "claims": [
+  {
+   "claim": "UK workers believe office presence is rewarded in promotion decisions",
+   "stat": "30 percent",
+   "attribution": "HiBob research"
+  },
+  {
+   "claim": "Workers cited revenue delivery as rewarded in promotion decisions",
+   "stat": "30 percent",
+   "attribution": "HiBob research"
+  },
+  {
+   "claim": "Workers cited visibility to senior leadership as rewarded",
+   "stat": "34 percent",
+   "attribution": "HiBob research"
+  },
+  {
+   "claim": "Workers said constant availability was rewarded",
+   "stat": "33 percent",
+   "attribution": "HiBob research"
+  },
+  {
+   "claim": "Respondents said greater visibility to their manager made office working appealing",
+   "stat": "28 percent",
+   "attribution": "HiBob research"
+  },
+  {
+   "claim": "Respondents said they had been excluded from an important decision because they were not in the office",
+   "stat": "13 percent",
+   "attribution": "HiBob research"
+  },
+  {
+   "claim": "Share of employees working remotely or hybrid increased year on year",
+   "stat": "52 percent in 2025 to 64 percent in 2026",
+   "attribution": "HiBob"
+  },
+  {
+   "claim": "Share who would prefer remote or hybrid work increased",
+   "stat": "64 percent to 77 percent",
+   "attribution": "HiBob"
+  },
+  {
+   "claim": "UK employers are expected to face stronger statutory flexible-working request requirements from 2027",
+   "stat": "2027",
+   "attribution": "Workplace Insight, referencing planned UK employment law changes"
+  },
+  {
+   "claim": "Law can give the right to ask for flexibility but cannot change what managers reward",
+   "stat": "",
+   "attribution": "Nirit Peled-Muntz, chief people officer, HiBob"
+  }
+ ],
+ "vocabulary": [
+  "hybrid working",
+  "remote working",
+  "office presence",
+  "proximity bias",
+  "visibility to senior leadership",
+  "constant availability",
+  "statutory flexible-working requests",
+  "flexible working",
+  "promotion decisions",
+  "chief people officer",
+  "HR technology",
+  "management model"
+ ],
+ "topics_covered": [
+  "hybrid_rto_mandate_pushback"
+ ]
+}

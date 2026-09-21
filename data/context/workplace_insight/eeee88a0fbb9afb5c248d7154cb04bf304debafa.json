@@ -1,0 +1,73 @@
+{
+ "id": "eeee88a0fbb9afb5c248d7154cb04bf304debafa",
+ "source_id": "workplace_insight",
+ "url": "https://workplaceinsight.net/the-office-furniture-price-on-the-page-has-always-been-an-opening-bid/?utm_source=rss&utm_medium=rss&utm_campaign=the-office-furniture-price-on-the-page-has-always-been-an-opening-bid",
+ "published_at": "2026-09-16",
+ "observed_at": "2026-09-21",
+ "summary": "An opinion piece from Workplace Insight arguing that published office furniture list prices function as opening bids rather than real prices. The author, writing from years inside the trade, describes the mechanism: a manufacturer publishes a recommended price, the dealer buys at a much lower trade price, and the final figure lands somewhere between depending on the customer's size, whether they hold a competing quote, whether they mention a framework, and above all whether they know negotiation is expected.\n\nThe piece frames the discount structure as a tax on inexperience. Sophisticated buyers such as a head of workplace at a bank have procurement teams, frameworks and supplier history to lean on. The people who pay page price are office managers at forty-person firms, practice managers at surgeries, bursars, charity operations leads and founders who have just signed a lease and need twelve desks quickly.\n\nThe author acknowledges the trade's defence that furniture selling is consultative, involving floorplates, phasing plans, delivery windows and installation crews that no web page can price. He concedes this is true but argues the same phone call does a second job: sizing the customer's budget before quoting.\n\nHe notes the web reproduced the showroom rather than replacing it. Strikethrough list prices, call for best price lines, online trade accounts and headcount forms mean buyers now self-size before a human rings back. Margin, he argues, was never in the product but in the opacity.\n\nThe consequence is a budgeting problem for the workplace profession. Published indices exist for flexible office desk rental costs in major cities, but no equivalent exists for furnishing a desk, so hybrid-era refits and return-to-office business cases rest on guesswork.\n\nHis proposed fix is fixed pricing, citing parts of the car trade moving away from forecourt haggling. Services such as survey, space plan and out-of-hours installation should be quoted separately rather than bundled so the object price hides inside the service price.",
+ "claims": [
+  {
+   "claim": "Office furniture list prices exist primarily as a reference point to discount from, with dealers buying at trade prices far below published recommended prices",
+   "stat": "",
+   "attribution": "Workplace Insight author, from years working inside the office furniture trade"
+  },
+  {
+   "claim": "The discount available depends on customer characteristics including size, possession of a competing quote, mention of a framework, and awareness that negotiation is expected",
+   "stat": "",
+   "attribution": "Workplace Insight author"
+  },
+  {
+   "claim": "Smaller employers, including forty-person firms, surgeries, charities and newly leased startups, pay page price because they do not know it is negotiable",
+   "stat": "",
+   "attribution": "Workplace Insight author"
+  },
+  {
+   "claim": "Published indices exist for the cost of renting a desk in a flexible office in major cities, but no equivalent published index exists for the cost of furnishing a desk",
+   "stat": "",
+   "attribution": "Workplace Insight author"
+  },
+  {
+   "claim": "Parts of the car trade have moved to fixed pricing after roughly a century of forecourt haggling and remain in business",
+   "stat": "a century of forecourt haggling",
+   "attribution": "Workplace Insight author"
+  },
+  {
+   "claim": "Online furniture selling reproduced showroom pricing practices rather than replacing them, using strikethrough list prices, call for best price prompts and online trade accounts",
+   "stat": "",
+   "attribution": "Workplace Insight author"
+  }
+ ],
+ "vocabulary": [
+  "list price",
+  "opening bid",
+  "trade price",
+  "dealer",
+  "end customer",
+  "framework",
+  "procurement",
+  "fit-out",
+  "floorplate",
+  "phasing plan",
+  "delivery window",
+  "installation crew",
+  "consultative selling",
+  "call for best price",
+  "online trade account",
+  "strikethrough pricing",
+  "head of workplace",
+  "office manager",
+  "practice manager",
+  "bursar",
+  "operations lead",
+  "workplace lead",
+  "hybrid-era refit",
+  "business case",
+  "space plan",
+  "out-of-hours crew",
+  "fixed pricing",
+  "desk rental index",
+  "flexible office",
+  "workplace profession"
+ ],
+ "topics_covered": []
+}

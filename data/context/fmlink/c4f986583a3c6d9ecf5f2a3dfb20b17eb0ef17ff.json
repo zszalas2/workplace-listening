@@ -1,0 +1,70 @@
+{
+ "id": "c4f986583a3c6d9ecf5f2a3dfb20b17eb0ef17ff",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/active-shooter-drills-mitigating-risks-to-mental-emotional-and-behavioral-health-nasem-report/",
+ "published_at": "2026-09-17",
+ "observed_at": "2026-09-21",
+ "summary": "FMLink covers a National Academies (NASEM) consensus study report, \"School Active Shooter Drills: Mitigating Risks to Mental, Emotional, and Behavioral Health,\" which examines how active shooter drills are run in U.S. schools and how to reduce psychological harm while maintaining preparedness. The report follows a listening session series and consensus study, and notes that drills, while now standard practice in many U.S. schools, have received limited scrutiny regarding their impact on students and educators.\n\nKey findings: drills vary dramatically in intensity and design, ranging from simple safety walk-throughs to unannounced, high-simulation events. These inconsistencies can heighten anxiety, distress and confusion, particularly for vulnerable student populations. The report argues that developmentally appropriate, trauma-informed practices are essential and that drills involving realistic simulations or deception should be avoided entirely.\n\nRecommendations target state and local policymakers, school leaders, researchers and federal agencies, and include banning harmful practices, supporting staff training, ensuring equitable inclusion, increasing access to mental health resources, and creating national guidance plus sustained research to build the evidence base.\n\nThe article profiles school psychologist Stacy Anderson, who works with the Arizona Association of School Psychologists, the University of Arizona, the Arizona Department of Education Comprehensive School Safety Advisory Council, and Paradise Valley Unified School District. Anderson describes the report as a foundational blueprint and daily practical reference for designing drills that prioritize psychological safety. She has used it to shape statewide recommendations, revise drill presentations before rollout with district leadership, evaluate psychological outcomes, identify vulnerabilities, and set phased implementation plans. It also informs updates to Emergency Operations Plans (EOPs) with individualized support plans for students with specialized needs, and work with School Emergency Response Teams (SERTs). A collaboration with a speech-language pathologist produced a student-friendly social story on emergency rally points for neurodiverse students. At the University of Arizona, Anderson embeds the report in a graduate crisis course alongside the Comprehensive School Threat Assessment Guidelines and NASP PREPaRE curricula.",
+ "claims": [
+  {
+   "claim": "Active shooter drills are standard practice in many U.S. schools but their impact on students and educators has received limited attention.",
+   "stat": "",
+   "attribution": "NASEM report / FMLink"
+  },
+  {
+   "claim": "Drills vary dramatically in intensity and design, from simple safety walk-throughs to unannounced, high-simulation events, and such inconsistency can heighten anxiety, distress and confusion, especially among vulnerable students.",
+   "stat": "",
+   "attribution": "NASEM consensus study report"
+  },
+  {
+   "claim": "Drills involving realistic simulations or deception should be avoided entirely, and developmentally appropriate, trauma-informed practices are essential.",
+   "stat": "",
+   "attribution": "NASEM report"
+  },
+  {
+   "claim": "The report recommends banning harmful practices, supporting staff training, ensuring equitable inclusion, and increasing access to mental health resources.",
+   "stat": "",
+   "attribution": "NASEM report"
+  },
+  {
+   "claim": "The report serves as a practical, daily reference for designing emergency drills that prioritize the psychological safety and well-being of students and staff.",
+   "stat": "",
+   "attribution": "Stacy Anderson, school psychologist"
+  },
+  {
+   "claim": "The report's findings informed statewide recommendations within the Arizona Association of School Psychologists and the Arizona Department of Education's Comprehensive School Safety Advisory Council.",
+   "stat": "",
+   "attribution": "Stacy Anderson"
+  },
+  {
+   "claim": "A social story tool developed with a speech-language pathologist to explain emergency rally points remains a requested resource across multiple campuses.",
+   "stat": "",
+   "attribution": "Stacy Anderson"
+  }
+ ],
+ "vocabulary": [
+  "active shooter drills",
+  "consensus study report",
+  "NASEM / National Academies",
+  "mental, emotional and behavioral health",
+  "trauma-informed practices",
+  "developmentally appropriate implementation",
+  "School Emergency Response Teams (SERTs)",
+  "Emergency Operations Plans (EOPs)",
+  "psychological safety",
+  "school climate",
+  "security measures",
+  "phased implementation plans",
+  "individualized support plans",
+  "Comprehensive School Threat Assessment Guidelines",
+  "NASP PREPaRE curricula",
+  "pathways to violence",
+  "multidisciplinary school safety teams",
+  "social story",
+  "neurodiverse students",
+  "high-simulation events",
+  "safety walk-throughs",
+  "Comprehensive School Safety Advisory Council"
+ ],
+ "topics_covered": []
+}

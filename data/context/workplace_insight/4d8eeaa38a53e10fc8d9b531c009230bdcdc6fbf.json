@@ -1,0 +1,63 @@
+{
+ "id": "4d8eeaa38a53e10fc8d9b531c009230bdcdc6fbf",
+ "source_id": "workplace_insight",
+ "url": "https://workplaceinsight.net/your-office-may-be-busy-but-is-it-working/?utm_source=rss&utm_medium=rss&utm_campaign=your-office-may-be-busy-but-is-it-working",
+ "published_at": "2026-09-17",
+ "observed_at": "2026-09-21",
+ "summary": "Workplace Insight argues that office attendance metrics, now among the most watched workplace numbers under hybrid work, are being misused as a proxy for workplace performance. Bookings, badge swipes and sensor counts are easy to quantify and feel solid when leaders make lease, policy and design decisions, but each only captures part of the picture. The piece separates evidence into three layers: intent (reservations and schedules), presence (access control, Wi-Fi, sensors, observation) and outcome (whether the office supported the work). The error is assuming one layer proves the next: a booked desk may be a no-show, a swipe may represent a brief visit, a full room may host a meeting that should have been an email.\n\nIt cites US General Services Administration guidance that describes multiple occupancy methods and their limits: reservation data is more useful combined with turnstile or sensor data, visual analysis reveals patterns and valued amenities but not absolute occupancy, and timecard analysis infers presence but is not fully accurate.\n\nTwo illustrative scenarios are offered: a crowded Tuesday where people are on individual video calls, project teams are scattered across zones and groups hunt for rooms listed as available but occupied; and a quiet floor where a small project group, a manager onboarding a new hire, or a client workshop creates disproportionate value. Low density does not mean low usefulness, and utilization sounds like a verdict when it is only a description.\n\nThe recommended approach treats the office as part of the work system, joining operational data with experience evidence such as short pulse questions, service requests, room conflicts and team observations. Leesman research is referenced for the claim that there is no universal hybrid recipe and that place should be judged on experience and performance. A management warning: if attendance becomes the headline measure, people optimize for attendance rather than connection, learning or collaboration. Data should trigger investigation, not end it.",
+ "claims": [
+  {
+   "claim": "Reservation data can contribute to occupancy reporting but becomes more useful when combined with turnstile or sensor data",
+   "stat": "",
+   "attribution": "US General Services Administration guidance, cited by Workplace Insight"
+  },
+  {
+   "claim": "Visual analysis can reveal patterns and valued amenities but does not capture absolute occupancy",
+   "stat": "",
+   "attribution": "US General Services Administration guidance"
+  },
+  {
+   "claim": "Timecard analysis can infer presence but is not fully accurate",
+   "stat": "",
+   "attribution": "US General Services Administration guidance"
+  },
+  {
+   "claim": "There is no universal recipe for hybrid work; employee requirements, circumstances and concerns must be understood",
+   "stat": "",
+   "attribution": "Leesman hybrid-work research"
+  },
+  {
+   "claim": "If an attendance target becomes the headline measure, people will optimize for attendance rather than the underlying aim",
+   "stat": "",
+   "attribution": "Workplace Insight (author)"
+  }
+ ],
+ "vocabulary": [
+  "hybrid work",
+  "office attendance",
+  "badge swipe",
+  "occupancy data",
+  "sensor data",
+  "turnstile data",
+  "desk booking",
+  "no-show",
+  "utilization",
+  "access control",
+  "Wi-Fi presence data",
+  "timecard analysis",
+  "occupancy reporting",
+  "workplace experience",
+  "pulse survey",
+  "service requests",
+  "room conflicts",
+  "peak days",
+  "supply and demand",
+  "executive scorecard",
+  "work system",
+  "Leesman",
+  "General Services Administration"
+ ],
+ "topics_covered": [
+  "attendance_tracking_and_monitoring_tools"
+ ]
+}

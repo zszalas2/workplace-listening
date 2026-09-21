@@ -1,0 +1,42 @@
+{
+ "id": "51ec3ede056bec60a202880c8ef7dc4cadcfd58d",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/how-to-talk-with-your-teams-about-ai-risk-without-promising-certainty/",
+ "published_at": "2026-09-17",
+ "observed_at": "2026-09-21",
+ "summary": "Charter's piece advises managers on how to discuss AI risk with employees without offering false certainty. It opens with news hooks: an Anthropic researcher, Jacob Coxon, resigned and warned that frontier labs are \"gambling with our lives.\" A technology leader at the same company publicly agreed, stating his personal odds of AI causing human extinction within the next decade exceed 10%. Two days later, Anthropic CEO Dario Amodei published an essay warning that harmful AI agents could be capable of taking over the entire internet within a six to 12 month window.\n\nThe framing argument is that employees are reading the same alarming headlines as leadership, and those existential concerns land on top of the job-related anxieties workers already carry about AI: whether their role survives, and whether their accumulated expertise still holds value. The implication for people leaders is that these two anxiety streams, civilizational and personal-career, now blend together in the workplace and cannot be waved away with reassurance that is not credible.\n\nThe excerpt provided is a lead-in only and does not include the article's practical guidance, so the specific communication tactics, manager scripts, or frameworks Charter recommends are not captured here. The substance available is the setup: high-profile AI safety dissent inside a leading lab, leadership commentary quantifying extinction risk, and the resulting internal communications challenge for employers. Note that the item does not address workplace operations topics such as space management, attendance, visitor handling, or facilities tooling. Its relevance is to AI-related workforce sentiment and internal communications strategy rather than to workplace technology deployment or governance of agentic tools inside a company.",
+ "claims": [
+  {
+   "claim": "An Anthropic researcher resigned and warned that frontier AI labs are \"gambling with our lives.\"",
+   "stat": "",
+   "attribution": "Jacob Coxon, former Anthropic researcher, as reported by Charter"
+  },
+  {
+   "claim": "An Anthropic technology leader publicly agreed with the departing researcher and put his odds of AI killing humanity within the next decade above 10%.",
+   "stat": "above 10% within the next decade",
+   "attribution": "Unnamed Anthropic technology leader, as reported by Charter"
+  },
+  {
+   "claim": "Harmful AI agents could be capable of taking over the entire internet within six to 12 months.",
+   "stat": "6 to 12 months",
+   "attribution": "Dario Amodei, Anthropic CEO, in a published essay"
+  },
+  {
+   "claim": "Many employees already have job-related concerns about AI, including whether they will still have a job and whether their expertise remains valuable.",
+   "stat": "",
+   "attribution": "Charter"
+  }
+ ],
+ "vocabulary": [
+  "AI risk",
+  "frontier labs",
+  "AI agents",
+  "existential concerns",
+  "Anthropic",
+  "Dario Amodei",
+  "odds of AI killing humanity",
+  "scary headlines",
+  "expertise"
+ ],
+ "topics_covered": []
+}

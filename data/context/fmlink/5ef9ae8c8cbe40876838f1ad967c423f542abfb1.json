@@ -1,0 +1,98 @@
+{
+ "id": "5ef9ae8c8cbe40876838f1ad967c423f542abfb1",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/extending-raised-access-flooring-in-a-midcentury-building-was-ideal-for-the-data-power-and-hvac-distribution-that-keeps-kinsale-insurance-operational/",
+ "published_at": "2026-09-16",
+ "observed_at": "2026-09-21",
+ "summary": "FMLink profiles the conversion of the former Anthem North Building in Richmond, Virginia into Kinsale North, a Class A office for insurer Kinsale Insurance. The 1960s concrete midcentury structure sits across the street from Kinsale's existing campus and was chosen because it offered size and proximity without leaving the campus. Roughly 280,000 square feet were adapted to support more than 900 employees, who moved in during November 2025.\n\nDesign firm Baskervill worked with construction manager Hourigan under a design-build model, with Introba leading mechanical and plumbing. Design began in late summer 2023 and demolition started in early 2024 before construction documents were complete; early demolition packages and phased GMP releases let design and construction run in parallel toward substantial completion in late 2025.\n\nArchitecturally, a new two-story entry volume on the north side gives Kinsale a clearer identity and primary entrance, responding to site slope with entries at different levels. The lower level holds mission-critical infrastructure including switchgear and generators serving both North and South campus buildings. Offices and amenities occupy floors one through four, with upper floor plates averaging over 40,000 square feet. The original 1966 precast facade was fully removed and replaced with metal stud framing, storefront, selective curtain wall and spandrel panels.\n\nThe central technical decision was retaining and extending the existing Tate Access Floors ConCore 1000 PosiLock raised access floor, upgraded to ConCore 1250 PosiLock. Underfloor routing supports data, power and HVAC distribution and absorbed slab irregularities, with pedestals mostly around 20 inches and some near 30 inches, avoiding costly slab correction. About 75 to 80 percent of each floor plate uses carpet tile to preserve plenum access; hard surfaces appear selectively in restrooms, coffee bars and amenity spaces. Underfloor air delivery required rethinking acoustics, wall construction and confidentiality planning, with some walls extended fully to slab.",
+ "claims": [
+  {
+   "claim": "The renovation adapts the former Anthem North Building into a Class A office environment",
+   "stat": "approximately 280,000 square feet supporting more than 900 employees",
+   "attribution": "FMLink article"
+  },
+  {
+   "claim": "Employees moved into the new offices",
+   "stat": "November 2025",
+   "attribution": "FMLink article"
+  },
+  {
+   "claim": "The original structure is a concrete midcentury building constructed in the 1960s, with a 1966 precast facade that was removed entirely",
+   "stat": "",
+   "attribution": "FMLink article"
+  },
+  {
+   "claim": "Design began in late summer 2023, demolition started in early 2024 before construction documents were complete, and substantial completion came in late 2025",
+   "stat": "",
+   "attribution": "FMLink article"
+  },
+  {
+   "claim": "Design and construction had to move together because of the timeline",
+   "stat": "",
+   "attribution": "Christopher Cromer, AIA, project architect at Baskervill"
+  },
+  {
+   "claim": "Upper floor plates average more than 40,000 square feet",
+   "stat": "40,000+ sq ft",
+   "attribution": "FMLink article"
+  },
+  {
+   "claim": "Raised access floor pedestals varied due to slab depressions, allowing the team to avoid expensive slab correction",
+   "stat": "most pedestals around 20 inches, some reaching about 30 inches",
+   "attribution": "Christopher Cromer, Baskervill"
+  },
+  {
+   "claim": "Carpet tile was used across most of each floor plate to preserve access to the underfloor plenum",
+   "stat": "approximately 75-80% of each floor plate",
+   "attribution": "FMLink article"
+  },
+  {
+   "claim": "A clear ceiling plenum made ceilings much easier to design and coordinate, described as almost like flipping the building",
+   "stat": "",
+   "attribution": "Eline Warren, CID, NCIDQ, WELL AP, lead interior designer at Baskervill"
+  },
+  {
+   "claim": "With air delivered from below, basic assumptions about acoustics and privacy had to be rethought; walls extended fully to slab in higher-privacy areas",
+   "stat": "",
+   "attribution": "Eline Warren, Baskervill"
+  },
+  {
+   "claim": "The existing ConCore 1000 PosiLock raised access floor was installed during an early 2000s renovation and upgraded to ConCore 1250 PosiLock in this renovation",
+   "stat": "",
+   "attribution": "FMLink article / Tate Access Floors"
+  }
+ ],
+ "vocabulary": [
+  "raised access flooring",
+  "ConCore 1000 PosiLock",
+  "ConCore 1250 PosiLock",
+  "Tate Access Floors",
+  "underfloor plenum",
+  "underfloor air distribution",
+  "ceiling plenum",
+  "HVAC distribution",
+  "design-build delivery model",
+  "GMP releases",
+  "early demolition packages",
+  "Class A office",
+  "floor plate",
+  "slab-on-grade",
+  "pedestals",
+  "precast facade",
+  "curtain wall",
+  "spandrel panels",
+  "storefront systems",
+  "switchgear",
+  "generators",
+  "mission-critical infrastructure",
+  "carpet tile",
+  "acoustics",
+  "field-applied finishes",
+  "WELL AP",
+  "NCIDQ",
+  "construction manager",
+  "project architect",
+  "lead interior designer"
+ ],
+ "topics_covered": []
+}

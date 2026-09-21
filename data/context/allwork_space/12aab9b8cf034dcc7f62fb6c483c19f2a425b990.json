@@ -1,0 +1,80 @@
+{
+ "id": "12aab9b8cf034dcc7f62fb6c483c19f2a425b990",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/09/the-stickiest-job-titles-nearly-2-in-3-position-changes-into-high-volume-roles-keep-the-same-title/",
+ "published_at": "2026-09-17",
+ "observed_at": "2026-09-21",
+ "summary": "Monster's Workforce Mobility Report (Volume 1), covered by Allwork.Space, analyzes 990,922 resume-observed position changes ending in 20 high-volume roles and finds that 63% retained the exact same recorded job title, meaning workers moved employers without a title change. A position change is logged when someone changes employer, title or both. Same-title rates ranged from 55% to 72% across all 20 destination roles, so every title studied qualified as sticky.\n\nHealthcare support led: Certified Nursing Assistant 72%, Medical Assistant 71%. Hospitality followed: Bartender 70%, Server 67%, Crew Member 66%. Cashier also 66%. Administrative and workplace-adjacent roles sat mid-table: Administration Assistant 64%, Customer Service Representative 63%, Security Officer 63%, Barista 63%, Manager 62%, Team Member 62%, Laborer 62%, Sales 61%, Receptionist 60%, Cook 60%, Warehouse Associate 58%. Transportation and care roles were least sticky: Driver 56%, Caregiver 56%, Delivery Driver 55%. In total 620,413 transitions kept the same title and 370,509 (37%) came from a different recorded title.\n\nMonster career expert Vicki Salemi argues a title-stable move can still be a significant career step, driven by pay, benefits, schedule, stability or a healthier work environment, so mobility is not always visible in the title.\n\nThe piece draws an employer implication: organizations are largely competing for people already doing the same job elsewhere, which links recruitment and retention. Differentiating the employment experience (compensation, scheduling, benefits, management, culture, advancement) may matter as much as describing the role.\n\nCaveats noted: sticky titles do not imply stagnant careers, since same-title jobs vary in pay, hours, location, scope and conditions. Conversely, recorded title changes such as Certified Nurses Aide versus Certified Nursing Assistant may describe near-identical work, so exact-match methodology may understate occupational continuity. The findings describe recorded title-to-title transitions, not promotions or occupational moves.",
+ "claims": [
+  {
+   "claim": "Most observed position changes into high-volume roles kept the exact same job title",
+   "stat": "63% of 990,922 resume-observed position changes",
+   "attribution": "Monster Workforce Mobility Report, Volume 1"
+  },
+  {
+   "claim": "Every role analyzed was sticky, with more than half of transitions coming from an identical title",
+   "stat": "Same-title rates ranged 55% to 72% across 20 roles",
+   "attribution": "Monster Workforce Mobility Report"
+  },
+  {
+   "claim": "Certified Nursing Assistant was the stickiest title",
+   "stat": "72%, 30,167 same-title transitions",
+   "attribution": "Monster Workforce Mobility Report"
+  },
+  {
+   "claim": "Medical Assistant ranked second stickiest",
+   "stat": "71%, 21,575 transitions",
+   "attribution": "Monster Workforce Mobility Report"
+  },
+  {
+   "claim": "Hospitality titles showed strong continuity",
+   "stat": "Bartender 70%, Server 67%, Crew Member 66%",
+   "attribution": "Monster Workforce Mobility Report"
+  },
+  {
+   "claim": "Administrative and front-of-house roles showed mid-range stickiness",
+   "stat": "Administration Assistant 64%, Receptionist 60%, Security Officer 63%",
+   "attribution": "Monster Workforce Mobility Report"
+  },
+  {
+   "claim": "Transportation and care titles had the lowest exact-match rates",
+   "stat": "Delivery Driver 55%, Driver 56%, Caregiver 56%",
+   "attribution": "Monster Workforce Mobility Report"
+  },
+  {
+   "claim": "Total same-title versus different-title volumes across the 20 roles",
+   "stat": "620,413 same-title changes; 370,509 (37%) from a different title",
+   "attribution": "Monster Workforce Mobility Report"
+  },
+  {
+   "claim": "A title-stable job change can still be a meaningful career move, pursued for pay, benefits, schedule, stability or work environment",
+   "stat": "",
+   "attribution": "Vicki Salemi, Monster career expert"
+  },
+  {
+   "claim": "Exact-match methodology may understate occupational continuity because near-identical titles are recorded differently",
+   "stat": "",
+   "attribution": "Monster (methodology note)"
+  }
+ ],
+ "vocabulary": [
+  "sticky job titles",
+  "Workforce Mobility Report",
+  "position change",
+  "resume-observed position changes",
+  "same-title rate",
+  "exact same-title rate",
+  "destination job title",
+  "high-volume roles",
+  "career mobility",
+  "employer-to-employer movement",
+  "recruitment and retention",
+  "differentiating the employment experience",
+  "Administration Assistant",
+  "Receptionist",
+  "frontline roles",
+  "occupational continuity",
+  "exact-match methodology"
+ ],
+ "topics_covered": []
+}

@@ -1,0 +1,16 @@
+{
+ "id": "34bb7a76064b2c98a5d8824c7c2317e5677f1b4d",
+ "source_id": "facility_executive",
+ "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRG1qVEFVWnlUS1pmbXJxLTBsZWxFdk1OUW9pOU5yVEY5bW56RGtHWmJnWTc2UWFqTXZNZk9wVURzcTI5N1drRm5sclhaRXZlWE0wbGdzbkJMOC1ZXzZtS1AteFpnTkFtVzNaTWJEMXRqaHJTcFMxS3U3M3Y2Wm42VUpHbXZzUVNOSXpGLTNid1JkTnZRaEJz?oc=5",
+ "published_at": "2026-05-28",
+ "observed_at": "2026-09-21",
+ "summary": "This item is a headline-only RSS stub from Facility Executive Magazine titled \"Beyond Policy: How Empathy Shapes Better Workplace Performance.\" The captured text repeats only the title and publication name, with the link routed through a Google News redirect rather than the publisher page, so no article body, byline, date, quotes, or data are available for summarization.\n\nFrom the title alone, the piece appears to argue that formal workplace policy is insufficient on its own and that empathy or empathetic leadership is a driver of better workplace performance. Given the source is a facilities and workplace management trade publication, the likely audience is facility executives, workplace experience leaders, and real estate or HR partners, and the likely framing is that policy documents covering topics such as attendance, flexibility, or workplace conduct need to be paired with human-centered management practice to produce results.\n\nNo specifics can be confirmed. There is no evidence in the captured text about whether the article addresses hybrid or return-to-office mandates, desk and room booking, visitor management, workplace analytics, or facilities operations, and no statistics, survey findings, or vendor references are present. Any inference about adjacent themes such as RTO policy or employee experience would be speculation based on the title's use of the word \"policy.\"\n\nRecommended handling for the listening pipeline: treat this as an unresolved stub and re-fetch the canonical Facility Executive URL to obtain the full text before scoring. If the full article cannot be retrieved, exclude it from saturation and claim extraction, since tagging on a title alone risks inflating theme coverage counts without supporting substance.",
+ "claims": [],
+ "vocabulary": [
+  "workplace performance",
+  "empathy",
+  "policy",
+  "facility executive"
+ ],
+ "topics_covered": []
+}

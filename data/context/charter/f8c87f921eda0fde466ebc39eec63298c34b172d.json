@@ -1,0 +1,44 @@
+{
+ "id": "f8c87f921eda0fde466ebc39eec63298c34b172d",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/book-briefing-manage-the-machine-by-paula-goldman/",
+ "published_at": "2026-09-17",
+ "observed_at": "2026-09-21",
+ "summary": "Charter's Book Briefing covers \"Manage the Machine\" by Paula Goldman, Salesforce's first chief ethical and humane use officer. The book is framed as a practical guide to adopting AI across business functions, spanning customer service through legal affairs. Goldman embeds advice on guardrails, accountability measures, and communications best practices intended to build trust in AI deployments and mitigate risk. The briefing notes that Goldman wrote about AI fear before the current wave of AI doomsday headlines, citing anxieties that AI will make humans obsolete or run amok. Her stated counter-goal is to build confidence in a system where AI efficiency gains are paired with human agency, human control, and what she calls a blossoming of human potential. The item is a short book overview rather than a data-driven report, and contains no workplace occupancy, attendance, visitor management, or space booking content. Its relevance to workplace technology audiences is limited to AI adoption governance: the guardrails and accountability framing, and the emphasis on human oversight of AI systems, which maps loosely to how organizations govern AI assistants and agentic tooling internally. No statistics, survey data, or vendor product comparisons are presented in the excerpt.",
+ "claims": [
+  {
+   "claim": "Paula Goldman is Salesforce's first chief ethical and humane use officer",
+   "stat": "",
+   "attribution": "Charter book briefing"
+  },
+  {
+   "claim": "The book spans AI adoption advice across functions from customer service to legal affairs",
+   "stat": "",
+   "attribution": "Charter book briefing"
+  },
+  {
+   "claim": "Fears about AI dominating headlines include fear of AI making humans obsolete and fear of AI run amok",
+   "stat": "",
+   "attribution": "Paula Goldman, Manage the Machine"
+  },
+  {
+   "claim": "The goal is a system where AI efficiency gains are coupled with human agency, human control, and a blossoming of human potential",
+   "stat": "",
+   "attribution": "Paula Goldman, Manage the Machine"
+  }
+ ],
+ "vocabulary": [
+  "chief ethical and humane use officer",
+  "guardrails",
+  "accountability measures",
+  "AI adoption",
+  "human agency",
+  "human control",
+  "mitigate risk",
+  "communications best practices",
+  "AI doomsday"
+ ],
+ "topics_covered": [
+  "agentic_ai_tooling_and_governance"
+ ]
+}

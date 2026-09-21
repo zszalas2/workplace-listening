@@ -1,0 +1,88 @@
+{
+ "id": "cb83e28b56cd7c35baaf24b68296c5bc7816f851",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/michigan-state-university-the-invisible-workforce-behind-an-outstanding-spartan-experience/",
+ "published_at": "2026-09-17",
+ "observed_at": "2026-09-21",
+ "summary": "An ISSA-sourced profile of Michigan State University's behind-the-scenes residential facilities workforce. MSU, founded in 1855 in East Lansing as a pioneer land-grant college and the first to teach scientific agriculture, spans roughly 5,200 acres, enrolls more than 51,000 students from 139 countries, all 50 states and all 83 Michigan counties, and houses about 16,000 students year-round across 27 residence halls and apartment communities totaling some 5.6 million square feet.\n\nThe piece profiles two Residence Education and Housing Services (REHS) leaders: Charles Stephens, associate director for residence hall services, who oversees the 27 residence halls, and Marque Black, associate director for university apartments and central services, who covers 1855 Place, University Village, central maintenance and food-equipment services. REHS sits within the Residential and Hospitality Services division alongside culinary, athletics, lean enterprises and assessment, and business operations.\n\nMuch of the work is invisible: food technicians service dining equipment by 6:00 a.m.; central maintenance handles key boxes during move-in and move-out, including one technician who hand-built eight wooden key holders; patching and plastering in older, \"seasoned\" buildings is scheduled during low-occupancy summer and spring break windows. Teams follow ISSA and APPA cleaning guidelines and apply comparable standards to maintenance, framing facility quality as a direct contributor to student learning.\n\nOn workforce issues, Stephens says the pandemic disrupted staffing as people reassessed priorities. The pair hired a dedicated trainer where none existed; that trainer was promoted to lead division-wide training, and the role is being backfilled. Black describes rebuilding morale and trust from the frontline up, using surveys, town halls and staff meetings, and acting on the feedback rather than shelving it, including working alongside crews in crawl spaces. Consistency is framed through a \"one team\" philosophy and the DOSE mantra, \"delivering outstanding Spartan experiences,\" attributed to Vennie Gore.",
+ "claims": [
+  {
+   "claim": "MSU spans roughly 5,200 acres and is one of the largest campuses in the nation",
+   "stat": "5,200 acres",
+   "attribution": "FMLink/ISSA article"
+  },
+  {
+   "claim": "MSU enrolls more than 51,000 students from 139 countries, all 50 states, and all 83 Michigan counties",
+   "stat": "51,000+ students; 139 countries; 50 states; 83 counties",
+   "attribution": "FMLink/ISSA article"
+  },
+  {
+   "claim": "About 16,000 students live on campus year-round",
+   "stat": "~16,000 residents",
+   "attribution": "FMLink/ISSA article"
+  },
+  {
+   "claim": "MSU housing comprises 27 residence halls and apartments totaling about 5.6 million square feet",
+   "stat": "27 halls; 5.6M sq ft",
+   "attribution": "FMLink/ISSA article"
+  },
+  {
+   "claim": "MSU was founded in 1855 as a pioneer land-grant college and the first in the country to teach scientific agriculture",
+   "stat": "1855",
+   "attribution": "FMLink/ISSA article"
+  },
+  {
+   "claim": "Food technicians are in dining halls by 6:00 a.m. servicing equipment",
+   "stat": "6:00 a.m.",
+   "attribution": "FMLink/ISSA article"
+  },
+  {
+   "claim": "A maintenance technician built eight wooden key holders from scratch over several months",
+   "stat": "8 key holders",
+   "attribution": "Marque Black"
+  },
+  {
+   "claim": "The pandemic significantly disrupted facilities staffing as workers reconsidered life priorities",
+   "stat": "",
+   "attribution": "Charles Stephens"
+  },
+  {
+   "claim": "The unit had no dedicated trainer before the two leaders arrived; they hired one who was then promoted to lead training for the whole division",
+   "stat": "",
+   "attribution": "Charles Stephens"
+  },
+  {
+   "claim": "Cleaning and maintenance follow ISSA and APPA guidelines",
+   "stat": "",
+   "attribution": "Charles Stephens"
+  },
+  {
+   "claim": "The DOSE philosophy, delivering outstanding Spartan experiences, was instilled by Vennie Gore",
+   "stat": "",
+   "attribution": "Charles Stephens"
+  }
+ ],
+ "vocabulary": [
+  "facilities management",
+  "custodial operations",
+  "Residence Education and Housing Services (REHS)",
+  "Residential and Hospitality Services",
+  "central maintenance",
+  "food-equipment services",
+  "ISSA guidelines",
+  "APPA guidelines",
+  "housing assets",
+  "low-occupancy periods",
+  "move-in and move-out",
+  "key boxes",
+  "seasoned buildings",
+  "staffing, training, retention and morale",
+  "frontline custodians",
+  "town halls",
+  "one team",
+  "DOSE (delivering outstanding Spartan experiences)",
+  "land-grant institution",
+  "lean enterprises and assessment"
+ ],
+ "topics_covered": []
+}

@@ -1,0 +1,94 @@
+{
+ "id": "43f0624233179a256a36e497627b2b7a4f4978ce",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/09/the-spatial-intelligence-gap-is-making-office-space-more-expensive-than-it-needs-to-be/",
+ "published_at": "2026-09-18",
+ "observed_at": "2026-09-21",
+ "summary": "Allwork.Space argues that most organizations lack \"spatial intelligence\": they know square footage, cost per square foot, energy costs and occupancy rates, but not how the office is actually used. A Wakefield Research survey of 400 workplace decision makers found 62% cannot determine space usage without asking employees directly or deploying privacy-compromising monitoring technology, neither of which produces genuine insight (surveys yield what leadership wants to hear; monitoring erodes trust and drives performative behavior).\n\nConsequences cited: 36% rely on gut instinct for decisions about amenities, redesign and lease size; 76% worry their layout is not delivering productive use of space; 24% of under- or unoccupied space is regularly heated and cooled. These costs land as productivity loss, retention issues, energy spend and capital expense, at a moment when fit-out investment is rising. JLL reports 59% of organizations are increasing office fit-out investment, with renovation costs up 2% to 6% globally and North America highest at $230 to $375 per square foot.\n\nThe common remedy, stitching together occupancy counters, badge swipes and room reservation systems into a dashboard, leaves a blind spot: it captures who is in the building and for how long, not how behavior shifts through the day or season. Examples include sun glare pushing people to relocate or leave. Survey respondents see savings potential in energy (62%) and cleaning (60%).\n\nThe piece promotes thermal sensing as an anonymous alternative, since it reads body heat rather than capturing images. Mapped to floorplans, thermal data revealed one employer lacked conference rooms and private work areas; another saves $1,400 per restroom per year. AI is positioned as the layer that turns millions of frames into trend narratives and recommendations on layout, desk assignments and scheduling models, including modeling spikes in support desk calls. Conclusion: office investment decisions should be rooted in real, anonymized behavioral data.",
+ "claims": [
+  {
+   "claim": "Most workplace decision makers cannot determine how office space is used without asking employees or using privacy-compromising observation technology",
+   "stat": "62%",
+   "attribution": "Wakefield Research survey of 400 workplace decision makers"
+  },
+  {
+   "claim": "Decision makers rely on gut instinct for critical office decisions including amenities, redesign and space leased",
+   "stat": "36%",
+   "attribution": "Wakefield Research survey"
+  },
+  {
+   "claim": "Decision makers are concerned the current office layout is not delivering the most productive use of space",
+   "stat": "76%",
+   "attribution": "Wakefield Research survey"
+  },
+  {
+   "claim": "Under- or unoccupied office space is regularly heated and cooled",
+   "stat": "24%",
+   "attribution": "Wakefield Research survey"
+  },
+  {
+   "claim": "Respondents believe building energy costs are a top area where better utilization insights could deliver measurable savings",
+   "stat": "62%",
+   "attribution": "Wakefield Research survey"
+  },
+  {
+   "claim": "Respondents believe data on cleaning costs could yield measurable savings",
+   "stat": "60%",
+   "attribution": "Wakefield Research survey"
+  },
+  {
+   "claim": "Organizations are increasing investment in office fit-outs",
+   "stat": "59%",
+   "attribution": "JLL Future of Work data"
+  },
+  {
+   "claim": "Renovation costs are rising globally, with North America the most expensive region",
+   "stat": "2%-6% higher globally; $230-$375 per square foot in North America",
+   "attribution": "JLL Global Office Fit-Out Costs Guide"
+  },
+  {
+   "claim": "One employer used thermal data mapped to office layout to discover it lacked enough conference rooms and private work areas, then reconfigured the office",
+   "stat": "",
+   "attribution": "Allwork.Space article (unnamed employer)"
+  },
+  {
+   "claim": "A company saves money per restroom annually through smarter resource planning based on thermal data",
+   "stat": "$1,400 per restroom per year",
+   "attribution": "Allwork.Space article (unnamed company)"
+  },
+  {
+   "claim": "Thermal sensing cannot capture images because it relies on body heat rather than cameras",
+   "stat": "",
+   "attribution": "Allwork.Space article"
+  }
+ ],
+ "vocabulary": [
+  "spatial intelligence gap",
+  "hybrid work",
+  "occupancy rates",
+  "cost per square foot",
+  "occupancy counters",
+  "badge swipes",
+  "room reservation systems",
+  "dashboard",
+  "thermal sensing technology",
+  "anonymized data",
+  "space utilization",
+  "office fit-out",
+  "facilities management",
+  "capital expense",
+  "CRE executives",
+  "property managers",
+  "desk assignments",
+  "support desk",
+  "workforce surveys",
+  "monitoring tools",
+  "assumption-based planning",
+  "amenities",
+  "office layout",
+  "AI trend analysis"
+ ],
+ "topics_covered": [
+  "attendance_tracking_and_monitoring_tools"
+ ]
+}
