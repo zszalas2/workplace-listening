@@ -1,0 +1,54 @@
+{
+ "id": "e245e3f2d02e5e641e32c442a0c437d23778e376",
+ "source_id": "work_design_mag",
+ "url": "https://www.workdesign.com/2026/09/your-office-was-built-for-the-wrong-work/",
+ "published_at": "2026-09-24",
+ "observed_at": "2026-09-28",
+ "summary": "Work Design Magazine podcast episode featuring Rebecca Swanner, workplace sector leader at HED, discussing a national research study on how AI is reshaping work and what that means for physical office design. The core argument: offices have been built for the wrong kind of work. Collaboration space is largely adequate, but focus and restoration, the two needs that matter most as AI pushes people toward higher-cognitive-load work, are critically underserved. Only 15% of respondents felt restoration was properly supported in their workplace.\n\nSwanner highlights a disconnect between leadership and employees. Leadership tends to see the office as a venue for presence and visibility, while employees need the ability to think deeply and to recover from that cognitive effort. She argues this gap carries real cost in burnout, employee resistance, and lost innovation, more than organizations recognize.\n\nThe conversation covers the research findings, design implications, and the emerging role of responsive and wearable technology in the workplace. Swanner raises the prospect of what she calls the potential death of the open office.\n\nHer central recommendation for leaders is a metric shift: move from measuring occupancy to measuring outcomes. The episode explores what that looks like in practice, both when designing space from scratch and when recalibrating existing space.\n\nCredits: created and directed by Bob Fox, produced by Work Design Studios.",
+ "claims": [
+  {
+   "claim": "Only a small minority of survey respondents felt restoration was properly supported in their workplace.",
+   "stat": "15%",
+   "attribution": "Rebecca Swanner, HED national research study"
+  },
+  {
+   "claim": "Collaboration spaces are working adequately, while focus and restoration spaces are critically underserved.",
+   "stat": "",
+   "attribution": "Rebecca Swanner, HED"
+  },
+  {
+   "claim": "Leadership views the office as being about presence and visibility, while employees need deep thinking and recovery, and the gap costs organizations in burnout, resistance, and lost innovation.",
+   "stat": "",
+   "attribution": "Rebecca Swanner, HED"
+  },
+  {
+   "claim": "The most important metric shift leaders can make is moving from occupancy to outcomes.",
+   "stat": "",
+   "attribution": "Rebecca Swanner, HED"
+  },
+  {
+   "claim": "The open office may be heading toward its death.",
+   "stat": "",
+   "attribution": "Rebecca Swanner, HED"
+  }
+ ],
+ "vocabulary": [
+  "workplace sector leader",
+  "open office",
+  "restoration",
+  "focus space",
+  "collaboration space",
+  "higher-cognitive-load work",
+  "occupancy",
+  "outcomes",
+  "responsive tech",
+  "wearable tech",
+  "burnout",
+  "workplace design",
+  "national research study",
+  "presence and visibility"
+ ],
+ "topics_covered": [
+  "hot_desking_backlash"
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "id": "fc1da79f3f4e0e1ba88535f0dcd2399972cecf71",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/09/40-of-workers-say-being-overqualified-has-cost-them-a-job/",
+ "published_at": "2026-09-28",
+ "observed_at": "2026-09-28",
+ "summary": "An Allwork.Space report on new Monster survey data covering how perceived overqualification affects hiring outcomes and candidate behavior.\n\nKey findings: 40% of workers believe they lost a job opportunity because an employer judged them overqualified. A further 45% say they have been excited about a role but worried their level of experience would count against them.\n\nResume editing is widespread. 57% say they would remove experience from their resume if it doubled their odds of being hired, and 43% report already having removed or downplayed part of their background. Older work experience was the most commonly omitted item at 18%. Other elements workers downplay include graduation dates, total years of experience, accomplishments, advanced degrees, leadership experience and senior job titles.\n\nOn perceived employer motives, 36% of workers think employers fear an overqualified hire will leave for a better opportunity, and 35% believe employers assume such candidates will demand higher pay. Smaller shares cite employer concerns that experienced candidates will challenge management, fail to fit the team, or get bored.\n\nThe piece also notes that applying below one's experience level is often deliberate. Among workers who would knowingly do so, 25% cite better work-life balance as the main reason. Additional motivations include wanting to work for a particular company, reducing stress or responsibility, seeking job stability, finding remote or flexible work, and career change.\n\nThe article does not address workplace technology, office operations, hybrid policy or facilities topics; it is focused on labor market and hiring perception dynamics.",
+ "claims": [
+  {
+   "claim": "Workers believe they have lost a job because an employer considered them overqualified",
+   "stat": "40%",
+   "attribution": "Monster report, via Allwork.Space"
+  },
+  {
+   "claim": "Workers have been excited about a job but worried their experience would work against them",
+   "stat": "45%",
+   "attribution": "Monster report"
+  },
+  {
+   "claim": "Workers would remove experience from their resumes if it doubled their chances of getting hired",
+   "stat": "57%",
+   "attribution": "Monster report"
+  },
+  {
+   "claim": "Workers have already removed or downplayed something from their background",
+   "stat": "43%",
+   "attribution": "Monster report"
+  },
+  {
+   "claim": "Workers left older work experience off their resume, the most common omission",
+   "stat": "18%",
+   "attribution": "Monster report"
+  },
+  {
+   "claim": "Workers believe employers worry overqualified candidates will leave for a better opportunity",
+   "stat": "36%",
+   "attribution": "Monster report"
+  },
+  {
+   "claim": "Workers believe employers assume overqualified candidates will expect higher pay",
+   "stat": "35%",
+   "attribution": "Monster report"
+  },
+  {
+   "claim": "Among workers who would knowingly apply below their experience level, better work-life balance was the most common reason",
+   "stat": "25%",
+   "attribution": "Monster report"
+  }
+ ],
+ "vocabulary": [
+  "overqualified",
+  "resume",
+  "downplaying experience",
+  "retention",
+  "compensation",
+  "work-life balance",
+  "job stability",
+  "remote or flexible work",
+  "career change",
+  "senior job titles",
+  "advanced degrees",
+  "leadership experience",
+  "graduation dates"
+ ],
+ "topics_covered": []
+}

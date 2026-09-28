@@ -1,0 +1,63 @@
+{
+ "id": "74a19b257571d794f7343a31000da3f973c1da65",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/lixil-unicef-impact-update-sanitation-access-nearly-doubles-to-1-3m-people/",
+ "published_at": "2026-09-25",
+ "observed_at": "2026-09-28",
+ "summary": "FMLink reports that LIXIL Corporation and UNICEF have published the 2025-2026 Impact Update for their \"Make a Splash!\" partnership, a global shared-value collaboration aimed at expanding access to safe sanitation and hygiene in underserved communities by building self-sustaining local sanitation markets. The partnership has supported almost 20 million people to date.\n\nThe report covers the 12 months to March 2026 across six focus countries: Ethiopia, India, Indonesia, Kenya, Nigeria, and Tanzania. Headline results include 1.3 million people gaining new direct access to at least basic sanitation, 1.8 million people benefiting indirectly through systems-strengthening activities, and 625,000 people gaining access to basic handwashing services.\n\nThe piece highlights that direct basic sanitation access nearly doubled year over year, rising to 1.3 million people from 727,000 in the prior reporting period. The increase is attributed to a market-based approach built on what the partnership calls the \"five dimensions of market strengthening,\" which include developing supply chains and creating consumer demand.\n\nThe article directs readers to a PDF of the 2025-2026 Impact Update hosted by LIXIL, and includes a disclaimer that UNICEF does not endorse any company, brand, product or service. The item is a corporate social responsibility and global development announcement carried by a facilities management trade outlet, with no coverage of workplace technology, office operations, hybrid policy, or facilities software.",
+ "claims": [
+  {
+   "claim": "The LIXIL and UNICEF \"Make a Splash!\" partnership has supported almost 20 million people to date",
+   "stat": "almost 20 million people",
+   "attribution": "LIXIL/UNICEF 2025-2026 Impact Update"
+  },
+  {
+   "claim": "People gaining new direct access to at least basic sanitation in the 12 months to March 2026",
+   "stat": "1.3 million people",
+   "attribution": "LIXIL/UNICEF 2025-2026 Impact Update"
+  },
+  {
+   "claim": "People benefited indirectly through systems-strengthening activities",
+   "stat": "1.8 million people",
+   "attribution": "LIXIL/UNICEF 2025-2026 Impact Update"
+  },
+  {
+   "claim": "People gained access to basic handwashing services",
+   "stat": "625,000 people",
+   "attribution": "LIXIL/UNICEF 2025-2026 Impact Update"
+  },
+  {
+   "claim": "Direct basic sanitation access rose year over year, nearly doubling",
+   "stat": "1.3 million, up from 727,000 the previous year",
+   "attribution": "LIXIL/UNICEF 2025-2026 Impact Update"
+  },
+  {
+   "claim": "The program spans six focus countries",
+   "stat": "6 countries: Ethiopia, India, Indonesia, Kenya, Nigeria, Tanzania",
+   "attribution": "LIXIL/UNICEF 2025-2026 Impact Update"
+  },
+  {
+   "claim": "The increase in access was driven by a market-based approach using the \"five dimensions of market strengthening,\" including building supply chains and creating demand",
+   "stat": "five dimensions",
+   "attribution": "LIXIL/UNICEF 2025-2026 Impact Update"
+  }
+ ],
+ "vocabulary": [
+  "shared-value partnership",
+  "Make a Splash!",
+  "Impact Update",
+  "safe sanitation and hygiene",
+  "self-sustaining local sanitation markets",
+  "direct sanitation access",
+  "indirect systems reach",
+  "systems-strengthening",
+  "basic handwashing services",
+  "market-based approach",
+  "five dimensions of market strengthening",
+  "supply chains",
+  "demand creation",
+  "LIXIL",
+  "UNICEF"
+ ],
+ "topics_covered": []
+}

@@ -1,0 +1,81 @@
+{
+ "id": "75dd75c7337eac79cbc9ea359e49aab79b9ddfb2",
+ "source_id": "workplace_insight",
+ "url": "https://workplaceinsight.net/the-ai-utilisation-gap-why-employees-use-ai-more-deeply-at-home-than-at-work/?utm_source=rss&utm_medium=rss&utm_campaign=the-ai-utilisation-gap-why-employees-use-ai-more-deeply-at-home-than-at-work",
+ "published_at": "2026-09-24",
+ "observed_at": "2026-09-28",
+ "summary": "Workplace Insight argues there is an \"AI utilisation gap\": employees use AI more deeply and broadly in their personal lives than at work. Citing the 2026 annual WIN World AI Index (roughly 40,000 respondents across 44 countries), the piece reports global AI adoption at 74 percent, up from 62 percent a year earlier, with 39 percent of people intentionally using AI often or every day, signalling a shift from experimentation to habit.\n\nDaily use is nearly level across contexts (12 percent personal versus 10 percent at work), but the composition differs sharply. Workplace use clusters in a narrow set of approved, productivity-linked activities: research and data analysis (38 percent of users) and workflow automation (28 percent). Personal use is far wider: entertainment (39 percent), schoolwork (32 percent) and content creation (31 percent), plus question answering, learning, ideation and everyday problem solving.\n\nThe author attributes the divergence to freedom versus control. At home people can experiment and learn by trial and error; at work AI arrives wrapped in governance frameworks, compliance requirements and approved use cases that, while necessary, may narrow exploration and limit confidence. The result is a workforce moving faster than the workplace, with employees treating AI as a thinking partner while organisations treat it as a task-specific tool.\n\nThe recommendation is to shift from adoption drives to enablement: governance without enablement leaves staff permitted but not empowered. Forward-thinking employers should stop asking where AI saves time and instead ask where it helps people make better decisions, solve complex problems and focus on higher-value work, using AI to rethink how work gets done rather than automating existing processes.\n\nThe piece notes a caveat from the index: trust in AI capability has improved while comfort has declined, meaning people are more confident in what AI can do but less certain about wider implications. If organisations fail to create enabling conditions, the gap between personal confidence and workplace application will widen.",
+ "claims": [
+  {
+   "claim": "Global AI adoption has risen year on year",
+   "stat": "74 percent, up from 62 percent a year earlier",
+   "attribution": "2026 annual WIN World AI Index (approx. 40,000 respondents, 44 countries)"
+  },
+  {
+   "claim": "A significant share of people now use AI intentionally on a frequent basis, marking a shift from experimentation to habit",
+   "stat": "39 percent use AI 'often' or 'every day'",
+   "attribution": "WIN World AI Index"
+  },
+  {
+   "claim": "Daily personal AI use slightly exceeds daily work AI use",
+   "stat": "12 percent daily personal versus 10 percent daily at work",
+   "attribution": "WIN World AI Index"
+  },
+  {
+   "claim": "The most common workplace AI use case is research and data analysis",
+   "stat": "38 percent of users",
+   "attribution": "WIN World AI Index"
+  },
+  {
+   "claim": "Workflow automation is the second most common workplace AI use case",
+   "stat": "28 percent",
+   "attribution": "WIN World AI Index"
+  },
+  {
+   "claim": "Entertainment is the leading personal AI application",
+   "stat": "39 percent",
+   "attribution": "WIN World AI Index"
+  },
+  {
+   "claim": "Schoolwork is a leading personal AI application",
+   "stat": "32 percent",
+   "attribution": "WIN World AI Index"
+  },
+  {
+   "claim": "Content creation is a leading personal AI application",
+   "stat": "31 percent",
+   "attribution": "WIN World AI Index"
+  },
+  {
+   "claim": "Trust in AI capability has improved while comfort with AI has declined",
+   "stat": "",
+   "attribution": "WIN World AI Index"
+  },
+  {
+   "claim": "Workplace governance frameworks, compliance requirements and approved use cases may inadvertently narrow AI exploration and limit employee confidence",
+   "stat": "",
+   "attribution": "Article author (Workplace Insight)"
+  }
+ ],
+ "vocabulary": [
+  "AI utilisation gap",
+  "WIN World AI Index",
+  "AI adoption",
+  "AI fluency",
+  "approved use cases",
+  "governance frameworks",
+  "compliance requirements",
+  "workflow automation",
+  "research and data analysis",
+  "content creation",
+  "thinking partner",
+  "workplace technology programmes",
+  "procurement and policy",
+  "enablement",
+  "knowledge work",
+  "productivity tool"
+ ],
+ "topics_covered": [
+  "agentic_ai_tooling_and_governance"
+ ]
+}

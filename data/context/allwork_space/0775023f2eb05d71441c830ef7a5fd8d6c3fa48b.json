@@ -1,0 +1,61 @@
+{
+ "id": "0775023f2eb05d71441c830ef7a5fd8d6c3fa48b",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/09/arora-group-announces-major-expansion-into-flexible-workspaces-with-the-launch-of-arora-works/",
+ "published_at": "2026-09-25",
+ "observed_at": "2026-09-28",
+ "summary": "Press release announcing that UK property and hospitality firm Arora Group is entering the flexible workspace sector with a new brand, Arora Works. The first site opens in Hammersmith, West London, taking over an existing location inside the Metro Building and spanning three floors positioned as an elevated, high-specification flexible workspace with hospitality-first service. A second site, Arora Works Heathrow, is planned for early 2027 in the World Business Centre at Heathrow, marketed on panoramic runway views and proximity to the airport terminals.\n\nThe brand targets a mix of occupiers: fast-scaling entrepreneurs, regional remote teams, and multinationals needing adaptable satellite operations. Each site combines two propositions: private flexible offices that are premium, secure, customisable and available on flexible commitment terms for teams of any size; and shared communal open-plan workspaces featuring flexible hot-desking, meeting facilities and breakout lounges.\n\nCEO Sanjay Arora frames the launch around the dissolution of boundaries between work, travel and hospitality, arguing occupiers gain access to a premium ecosystem of service, connectivity and flexibility rather than simply renting a desk or office. The Heathrow site is pitched at international travellers, aviation businesses and global executives seeking transit-aligned workspace, while Hammersmith targets West London's tech, media and professional services corridor.\n\nAll locations will emphasise premium amenities, high-speed infrastructure, ergonomic design and dedicated on-site teams. Background on Arora Group notes a UK asset base exceeding 3 billion pounds across property, hotel, leisure and construction divisions, end-to-end capability from land acquisition through construction to asset management, a hotel division managing over 8,000 rooms, assets from Heathrow and Gatwick to Windsor Park, and simultaneous partnerships with Accor, Marriott, Hilton and IHG. Interested parties are directed to aroraworks.com.",
+ "claims": [
+  {
+   "claim": "Arora Group's UK asset portfolio across property, hotel, leisure and construction divisions exceeds a stated value",
+   "stat": "more than 3 billion pounds",
+   "attribution": "Arora Group press release"
+  },
+  {
+   "claim": "Arora Group's hotel division manages a large room inventory",
+   "stat": "over 8,000 rooms",
+   "attribution": "Arora Group press release"
+  },
+  {
+   "claim": "Arora Works Hammersmith spans three floors in the Metro Building, West London",
+   "stat": "3 floors",
+   "attribution": "Arora Group press release"
+  },
+  {
+   "claim": "The second site, Arora Works Heathrow, will open at the World Business Centre",
+   "stat": "early 2027",
+   "attribution": "Arora Group press release"
+  },
+  {
+   "claim": "Traditional boundaries between work, travel and hospitality have permanently dissolved",
+   "stat": "",
+   "attribution": "Sanjay Arora, CEO of Arora Group"
+  },
+  {
+   "claim": "Arora Group collaborates simultaneously with global hotel brands Accor, Marriott, Hilton and IHG",
+   "stat": "4 brands",
+   "attribution": "Arora Group press release"
+  }
+ ],
+ "vocabulary": [
+  "flexible workspace",
+  "hot-desking",
+  "private flexible office spaces",
+  "shared communal workspaces",
+  "open-plan workspaces",
+  "breakout lounges",
+  "meeting facilities",
+  "occupiers",
+  "flexible commitment terms",
+  "hospitality-first service",
+  "satellite operations",
+  "transit-aligned workspace",
+  "asset management",
+  "ergonomic design",
+  "rent a desk",
+  "high-speed infrastructure"
+ ],
+ "topics_covered": [
+  "quiet_space_calls_and_coworking_choice"
+ ]
+}

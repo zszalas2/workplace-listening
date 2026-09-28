@@ -1,0 +1,66 @@
+{
+ "id": "a78f479e5f2a3782cece568959cfcc029f45eedd",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/09/experts-warn-these-6-gen-z-call-habits-could-be-hurting-your-career/",
+ "published_at": "2026-09-25",
+ "observed_at": "2026-09-28",
+ "summary": "A vendor-sourced press release from TollFreeForwarding.com, published on Allwork.Space (dated Sept. 25, 2026), argues that younger workers carry casual digital habits into professional calls in ways that make them appear less competent. It frames the issue against the growth of remote work, citing Bureau of Labor Statistics data that more than one in three U.S. employees now do some or all of their work from home on days worked, about 46% higher than pre-pandemic.\n\nJason O'Brien, Chief Operating Officer at TollFreeForwarding.com, lists six subtle call habits: (1) reflexively ignoring unexpected calls and replying by message instead, which can make someone seem hard to reach; (2) prefacing contributions with \"sorry,\" which undercuts authority; (3) narrating every minor technical glitch such as freezes, lag, or Wi-Fi issues, which reads as flustered rather than composed; (4) poor camera positioning, for example a laptop well below eye level or sitting too close, which makes the speaker look distracted or inattentive, with the fix being a camera near eye level and a background free of movement; (5) frequent verbal acknowledgments like \"yeah,\" \"right,\" or \"exactly\" over a microphone, which can sound impatient or interruptive, since virtual calls require leaving more space for others to finish; and (6) talking yourself out of your own answer by adding disclaimers when silence feels awkward, which turns a confident point into an uncertain one.\n\nO'Brien stresses these are not uniquely Gen Z behaviors and that the real skill is code-switching by context: messaging a colleague differs from speaking with a new client, an informal catch-up differs from an interview, and a short internal call differs from a sales meeting. His closing point is that professional communication is not about sounding corporate but about conveying attention, purpose, and trustworthiness. The piece ends with a link to the sponsor's blog.",
+ "claims": [
+  {
+   "claim": "More than one in three U.S. employees now do some or all of their work from home on days they work.",
+   "stat": "more than 1 in 3",
+   "attribution": "Bureau of Labor Statistics, cited in the article"
+  },
+  {
+   "claim": "The share of employees working from home on days worked is roughly 46% higher than before the pandemic.",
+   "stat": "about 46% higher",
+   "attribution": "Bureau of Labor Statistics, cited in the article"
+  },
+  {
+   "claim": "Remote and hybrid work have created new expectations around professional communication that are not intuitive even for digitally fluent workers.",
+   "stat": "",
+   "attribution": "Jason O'Brien, COO, TollFreeForwarding.com"
+  },
+  {
+   "claim": "Repeatedly screening unscheduled work calls creates an impression of being difficult to reach for managers, clients and colleagues.",
+   "stat": "",
+   "attribution": "Jason O'Brien, COO, TollFreeForwarding.com"
+  },
+  {
+   "claim": "Using \"sorry\" as a conversational entry point habitually undermines a speaker's authority.",
+   "stat": "",
+   "attribution": "Jason O'Brien, COO, TollFreeForwarding.com"
+  },
+  {
+   "claim": "Placing a camera closer to eye level and removing distracting background movement materially improves how attentive someone appears.",
+   "stat": "",
+   "attribution": "Jason O'Brien, COO, TollFreeForwarding.com"
+  },
+  {
+   "claim": "Silence feels longer on a video call than it actually is, prompting people to undercut their own points.",
+   "stat": "",
+   "attribution": "Jason O'Brien, COO, TollFreeForwarding.com"
+  },
+  {
+   "claim": "None of the six habits are uniquely Gen Z problems; the skill is adapting to context.",
+   "stat": "",
+   "attribution": "Jason O'Brien, COO, TollFreeForwarding.com"
+  }
+ ],
+ "vocabulary": [
+  "remote and hybrid work",
+  "work from home",
+  "call etiquette",
+  "camera etiquette",
+  "virtual meeting",
+  "professional communication",
+  "digitally fluent",
+  "verbal acknowledgments",
+  "troubleshoot",
+  "Gen Z",
+  "Bureau of Labor Statistics",
+  "telecommunications provider",
+  "Chief Operating Officer"
+ ],
+ "topics_covered": []
+}

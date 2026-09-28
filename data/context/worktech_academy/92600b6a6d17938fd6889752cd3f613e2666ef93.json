@@ -1,0 +1,15 @@
+{
+ "id": "92600b6a6d17938fd6889752cd3f613e2666ef93",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVjFLdjk5YjhQbXU4SGg1ZHBCNnhyOVZHRkNhMDByU2FLU3FPNldyVDV2YUhHRjdZeGZ6WGxnbXh1cXVQRzh1RVZPX1pma256OXdZR2lzb1VPR0VkXy00c3JXSFIwdHR6Sk5JR0tqQjhkdk90LVV6ZUUwb0RtWm5YX3k0SzdhcVpVQ2xVMVEtWjZvd2s?oc=5",
+ "published_at": "2026-09-25",
+ "observed_at": "2026-09-28",
+ "summary": "This item is a Google News syndication stub for a WORKTECH Academy piece titled \"Signal file: tech governance is becoming mission critical.\" No article body was supplied beyond the repeated headline and publisher name, so the substance of the argument cannot be summarized with confidence. From the headline alone, the piece appears to sit in WORKTECH Academy's recurring \"Signal file\" format, which typically flags emerging trends for corporate real estate, workplace and technology leaders. The implied thesis is that governance of workplace technology, covering how tools are selected, controlled, monitored and made accountable, is shifting from a back-office compliance concern to a mission critical capability for organisations. Plausible adjacent subject matter, given the publisher's usual coverage, would include AI oversight in the workplace, data and privacy controls, vendor and platform risk, and the governance responsibilities of workplace, IT and facilities functions. None of this can be verified from the text provided. No statistics, named sources, case studies, vendors or quoted experts are present in the supplied content. No specific claims about visitor management, desk or room booking, hybrid and return to office policy, workplace analytics or facilities operations appear. Recommend re-ingesting the full article body from the WORKTECH Academy site before using this item for theme saturation scoring or claim extraction, as the current record contains only title metadata and offers no usable evidence. Tagging has been left empty because the headline alone does not establish coverage of any registry theme to the standard required.",
+ "claims": [],
+ "vocabulary": [
+  "tech governance",
+  "signal file",
+  "mission critical"
+ ],
+ "topics_covered": []
+}

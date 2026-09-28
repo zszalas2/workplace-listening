@@ -1,0 +1,92 @@
+{
+ "id": "83e075697b381440e10537dcb3393da2b5ee25d2",
+ "source_id": "workplace_insight",
+ "url": "https://workplaceinsight.net/men-face-greater-career-penalty-for-working-from-home-study-finds/?utm_source=rss&utm_medium=rss&utm_campaign=men-face-greater-career-penalty-for-working-from-home-study-finds",
+ "published_at": "2026-09-28",
+ "observed_at": "2026-09-28",
+ "summary": "New research finds that employees described as working from home are rated less favourably for jobs and promotions than comparable office-based workers, and that men, especially fathers and workers without children, face a larger drop in ratings than mothers. The study, led by King's Business School at King's College London, analysed nearly 13,000 assessments by roughly 5,300 employed people in the UK and Germany, using fictional candidates whose gender, parental status and homeworking frequency were varied experimentally. Data was collected in the second half of 2023.\n\nThe penalty scaled with homeworking frequency. In the UK, ratings fell 0.56 points on a 10-point scale for one or two remote days a week and 0.94 points for three or four days. In Germany the reductions were 0.24 and 0.74 points respectively. For low-frequency homeworking the penalty was significantly smaller in Germany than the UK, but at three or four days the cross-country difference was not statistically significant.\n\nOne or two days of homeworking produced no statistically significant rating reduction for mothers in either country, or for women without children in Germany. The authors caution this is not an advantage for mothers: in the UK, mothers already started from lower office-based ratings, so the smaller additional penalty partly reflects a lower baseline. Men started from stronger office-based ratings, leaving more room to fall.\n\nProfessor Heejung Chung argues flexible working should not be framed as a mothers' issue and that fathers also need protection from career penalties. Recommendations include reviewing whether promotion and performance processes over-weight physical visibility, addressing proximity bias, emphasising outcomes over time in the workplace, and normalising flexibility across the whole workforce rather than positioning it for carers.\n\nThe authors stress the study measured hypothetical judgments, not actual hiring or promotion outcomes. Co-authors were Senhu Wang (National University of Singapore) and Yvonne Lott (Hans-Böckler Foundation). The paper appeared in Community, Work & Family.",
+ "claims": [
+  {
+   "claim": "Workers described as working from home were rated less favourably than comparable office-based workers when considered for jobs and promotions",
+   "stat": "",
+   "attribution": "King's Business School, King's College London study"
+  },
+  {
+   "claim": "In the UK, ratings fell for homeworkers relative to office-based workers, with a larger fall at higher remote frequency",
+   "stat": "0.56 points on a 10-point scale for 1-2 remote days; 0.94 points for 3-4 days",
+   "attribution": "King's Business School study"
+  },
+  {
+   "claim": "In Germany, the equivalent rating reductions were smaller",
+   "stat": "0.24 points for 1-2 remote days; 0.74 points for 3-4 days",
+   "attribution": "King's Business School study"
+  },
+  {
+   "claim": "The study analysed a large set of assessments across two countries",
+   "stat": "almost 13,000 assessments by around 5,300 employed people in the UK and Germany",
+   "attribution": "King's Business School study"
+  },
+  {
+   "claim": "Fathers and workers without children generally experienced larger declines in ratings than mothers",
+   "stat": "",
+   "attribution": "King's Business School study"
+  },
+  {
+   "claim": "Working from home one or two days a week did not produce a statistically significant rating reduction for mothers in either country, or for women without children in Germany",
+   "stat": "",
+   "attribution": "King's Business School study"
+  },
+  {
+   "claim": "In the UK, mothers already received relatively low ratings even when described as fully office-based, so their smaller homeworking penalty reflects a lower starting point",
+   "stat": "",
+   "attribution": "Researchers"
+  },
+  {
+   "claim": "The low-frequency homeworking penalty was significantly smaller in Germany than the UK, but the gap was not statistically significant at three or four remote days",
+   "stat": "",
+   "attribution": "King's Business School study"
+  },
+  {
+   "claim": "Flexible working has often been framed as a mothers' issue, but fathers also need protection from career penalties",
+   "stat": "",
+   "attribution": "Heejung Chung, professor of work and employment, King's Business School"
+  },
+  {
+   "claim": "Making flexibility safe and normal for fathers can support mothers' employment while improving outcomes for fathers and children",
+   "stat": "",
+   "attribution": "Heejung Chung"
+  },
+  {
+   "claim": "The study measured hypothetical assessments of fictional candidates and did not track real hiring, promotion or subsequent career outcomes",
+   "stat": "",
+   "attribution": "Researchers"
+  },
+  {
+   "claim": "Data for the experiment was collected in the second half of 2023",
+   "stat": "",
+   "attribution": "Workplace Insight / study authors"
+  },
+  {
+   "claim": "The paper was co-authored and published in an academic journal",
+   "stat": "",
+   "attribution": "Heejung Chung, Senhu Wang (National University of Singapore), Yvonne Lott (Institute of Economic and Social Research, Hans-Boeckler Foundation), in Community, Work & Family"
+  }
+ ],
+ "vocabulary": [
+  "working from home",
+  "homeworking penalty",
+  "flexibility stigma",
+  "proximity bias",
+  "hybrid working",
+  "remote working",
+  "flexible working",
+  "parental status",
+  "intersectionality of stigma",
+  "promotion and performance processes",
+  "physical visibility",
+  "outcomes rather than time spent in the workplace",
+  "10-point scale",
+  "experimental vignette assessments"
+ ],
+ "topics_covered": []
+}

@@ -1,0 +1,71 @@
+{
+ "id": "da901911133e8c765a234067931317df4eb593f8",
+ "source_id": "work_design_mag",
+ "url": "https://www.workdesign.com/2026/09/nature-inside-what-the-best-workplaces-already-know/",
+ "published_at": "2026-09-25",
+ "observed_at": "2026-09-28",
+ "summary": "A Work Design Magazine podcast episode featuring Bill Browning and Catie Ryan of Terrapin Bright Green arguing that biophilic design is essential workplace strategy rather than an optional perk. The pair frame nature-inspired office and green office design as levers for workplace productivity, employee wellbeing and return-to-office appeal, positioning it as a workplace experience that amenities like ping pong tables cannot match.\n\nThe discussion spans fractal lighting and fractal fluency, daylighting, and dynamic lighting that shifts brain states between calm and engaged, with designers now tuning for what the episode calls a narrow sweet spot. It also covers emerging biophilia science: epigenetics and nature, the connection between nature exposure and genetic expression, and the use of VR and biometrics to test biophilic design interventions.\n\nCase studies referenced include the Interface headquarters; an Iowa fire station designed to reduce firefighter PTSD and suicide; schools in Baltimore and South Carolina where research examined academic outcomes, absenteeism and teacher retention; and Portland Airport, described as having 49 skylights and being one of the most sophisticated daylighting projects ever built.\n\nThe episode also addresses neurodiversity in the workplace, arguing that design solutions developed for people on the autism spectrum benefit everyone, and notes that COVID made biophilic design suddenly urgent for return-to-office efforts. Applications are said to span hybrid work environments and corporate real estate portfolios.\n\nGuest credentials: Browning is a founding partner of Terrapin Bright Green and an expert in biophilic design and sustainable economics; Ryan is a principal there and co-author of 14 Patterns of Biophilic Design. Created and directed by Bob Fox, produced by Work Design Studios.\n\nThe piece is promotional show notes rather than a reported article, so claims are asserted without supporting data beyond the skylight count.",
+ "claims": [
+  {
+   "claim": "Portland Airport has 49 skylights and is one of the most sophisticated daylighting projects ever built",
+   "stat": "49 skylights",
+   "attribution": "Work Design Magazine episode description / Bill Browning and Catie Ryan"
+  },
+  {
+   "claim": "COVID made biophilic design suddenly urgent for return-to-office",
+   "stat": "",
+   "attribution": "Bill Browning and Catie Ryan"
+  },
+  {
+   "claim": "An Iowa fire station was designed to reduce firefighter PTSD and suicide",
+   "stat": "",
+   "attribution": "Bill Browning and Catie Ryan"
+  },
+  {
+   "claim": "Research on Baltimore and South Carolina schools examined effects on academic outcomes, absenteeism and teacher retention",
+   "stat": "",
+   "attribution": "Bill Browning and Catie Ryan"
+  },
+  {
+   "claim": "Nature exposure is connected to genetic expression (epigenetics)",
+   "stat": "",
+   "attribution": "Bill Browning and Catie Ryan, citing new research"
+  },
+  {
+   "claim": "Biophilic design solutions for people on the autism spectrum are better for everyone",
+   "stat": "",
+   "attribution": "Bill Browning and Catie Ryan"
+  },
+  {
+   "claim": "Catie Ryan is co-author of 14 Patterns of Biophilic Design",
+   "stat": "14 patterns",
+   "attribution": "Work Design Magazine"
+  }
+ ],
+ "vocabulary": [
+  "biophilic design",
+  "biophilia",
+  "biophilic architecture",
+  "fractal lighting",
+  "fractal fluency",
+  "daylighting",
+  "dynamic lighting",
+  "nature-inspired office",
+  "green office design",
+  "human centered design",
+  "workplace experience",
+  "workplace wellbeing",
+  "employee wellbeing",
+  "neurodiversity in the workplace",
+  "epigenetics and nature",
+  "VR and biometrics",
+  "corporate real estate portfolios",
+  "hybrid work environments",
+  "return to office",
+  "sustainable workplace design",
+  "workplace strategy",
+  "Terrapin Bright Green",
+  "14 Patterns of Biophilic Design"
+ ],
+ "topics_covered": []
+}

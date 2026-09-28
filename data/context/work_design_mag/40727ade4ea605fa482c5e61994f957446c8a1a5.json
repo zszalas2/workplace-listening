@@ -1,0 +1,59 @@
+{
+ "id": "40727ade4ea605fa482c5e61994f957446c8a1a5",
+ "source_id": "work_design_mag",
+ "url": "https://www.workdesign.com/2026/09/why-open-offices-fail-and-what-actually-works/",
+ "published_at": "2026-09-25",
+ "observed_at": "2026-09-28",
+ "summary": "A Work Design Magazine podcast episode (created and directed by Bob Fox, produced by Work Design Studios) features Adam Morgan, co-founder of Bureau, a company that designs and builds soundproof booths for modern workplaces. The framing anecdote: a consulting firm spent 18 months designing what it considered the perfect workspace, then tore it out six months after move-in. That episode prompted Morgan to rethink how offices get designed and built, and why he believes most are still getting it wrong.\n\nMorgan, who comes from a finance background, treats the office as a performance system and points to utilization data as evidence: focus spaces run at roughly 56 to 57 percent utilization while open collaborative areas sit at only 25 to 30 percent. His conclusion is that workers are not broken, the spaces are.\n\nThe conversation between Bob and Adam covers why the open office was designed for a way of working that no longer exists; what CO2 levels are quietly doing to afternoon productivity; how AI companies are reshaping office demand, including what the rush to spec suites signals about the market; return-to-office mandates, specifically what actually works versus what quietly backfires; and the real reason people come into the office, which the show notes suggest is not amenities like a ping pong table.\n\nThe item is show notes rather than a full transcript, so most claims are teased rather than substantiated. The core quantified assertion is the utilization split between focus and open collaborative space, which underpins the argument for enclosed, acoustically treated focus environments such as booths. Vendor interest should be noted given Morgan's commercial position in the booth category.",
+ "claims": [
+  {
+   "claim": "Focus spaces are running at meaningfully higher utilization than open collaborative areas",
+   "stat": "56-57% utilization for focus spaces vs 25-30% for open collaborative areas",
+   "attribution": "Adam Morgan, co-founder of Bureau"
+  },
+  {
+   "claim": "A consulting firm spent 18 months designing a workspace and removed it six months after move-in",
+   "stat": "18 months design, torn out 6 months after move-in",
+   "attribution": "Work Design Magazine show notes / Adam Morgan"
+  },
+  {
+   "claim": "CO2 levels in offices affect afternoon productivity",
+   "stat": "",
+   "attribution": "Adam Morgan"
+  },
+  {
+   "claim": "AI companies are reshaping office demand, evidenced by a rush to spec suites",
+   "stat": "",
+   "attribution": "Adam Morgan"
+  },
+  {
+   "claim": "Some return-to-office mandates quietly backfire while other approaches work",
+   "stat": "",
+   "attribution": "Adam Morgan and Bob Fox"
+  },
+  {
+   "claim": "The open office was built for a way of working that no longer exists",
+   "stat": "",
+   "attribution": "Adam Morgan"
+  }
+ ],
+ "vocabulary": [
+  "open office",
+  "open plan",
+  "soundproof booths",
+  "focus spaces",
+  "open collaborative areas",
+  "utilization",
+  "performance system",
+  "CO2 levels",
+  "spec suites",
+  "return-to-office mandates",
+  "office demand",
+  "Bureau",
+  "workspace design"
+ ],
+ "topics_covered": [
+  "hybrid_rto_mandate_pushback",
+  "quiet_space_calls_and_coworking_choice"
+ ]
+}

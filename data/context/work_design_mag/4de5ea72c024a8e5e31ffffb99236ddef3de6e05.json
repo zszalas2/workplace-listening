@@ -1,0 +1,42 @@
+{
+ "id": "4de5ea72c024a8e5e31ffffb99236ddef3de6e05",
+ "source_id": "work_design_mag",
+ "url": "https://www.workdesign.com/2026/09/who-actually-owns-the-workplace-no-one-and-thats-the-problem/",
+ "published_at": "2026-09-24",
+ "observed_at": "2026-09-28",
+ "summary": "Work Design Magazine publishes show notes for an episode of the podcast \"What the F* is Happening to the Office?\" featuring workplace strategist Phil Kirschner. The central argument is that the workplace has become a blind spot in modern organizations because no single executive function owns it. At major industry conferences, CFOs, CHROs and CIOs set enterprise strategy but rarely put the workplace on the agenda, while workplace and corporate real estate discussions happen in parallel without those same C-suite leaders present. Kirschner frames this as a leadership and governance failure rather than a design or space-planning problem.\n\nThe episode outline covers why workplace strategy keeps getting ignored at the top of the organization, the reason offices feel generic and underperform against expectations, and why companies are oriented toward \"fixing the past\" rather than designing for future ways of working. It also addresses what the notes call a hidden conflict between HR, IT, Finance and Real Estate, four functions with overlapping but unaligned claims on workplace decisions. Further segments ask who should own the workplace and why, in practice, no one does, and what the workplace should actually be doing for organizations today.\n\nThe item is promotional show-note copy rather than reported analysis: it contains no statistics, survey data, vendor references or named case studies. Credits list Bob Fox as creator and director, with production by Work Design Studios. The piece is relevant as context on workplace ownership and cross-functional accountability, but offers no operational detail on booking, visitor management, attendance or analytics tooling.",
+ "claims": [
+  {
+   "claim": "CFOs, CHROs and CIOs shape organizational strategy at major conferences but rarely discuss the workplace, while workplace and real estate conversations happen without them.",
+   "stat": "",
+   "attribution": "Phil Kirschner, on the What the F* is Happening to the Office? podcast"
+  },
+  {
+   "claim": "The lack of clear workplace ownership is a leadership problem rather than a design issue.",
+   "stat": "",
+   "attribution": "Phil Kirschner"
+  },
+  {
+   "claim": "There is a hidden conflict between HR, IT, Finance and Real Estate over workplace decisions.",
+   "stat": "",
+   "attribution": "Phil Kirschner / episode description"
+  },
+  {
+   "claim": "Companies are \"fixing the past\" instead of building the future with their workplace strategies.",
+   "stat": "",
+   "attribution": "Phil Kirschner"
+  }
+ ],
+ "vocabulary": [
+  "workplace strategy",
+  "workplace ownership",
+  "corporate real estate",
+  "C-suite (CFO, CHRO, CIO)",
+  "HR, IT, Finance and Real Estate",
+  "blind spot",
+  "fixing the past",
+  "underperforming offices",
+  "Work Design Studios"
+ ],
+ "topics_covered": []
+}

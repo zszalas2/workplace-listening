@@ -1,0 +1,70 @@
+{
+ "id": "ba1e55d3eb7e3d14f394bdd1a0f7a814fa13300c",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/the-higher-ed-playbook-for-iwms-vendor-selection-from-start-to-finish/",
+ "published_at": "2026-09-21",
+ "observed_at": "2026-09-28",
+ "summary": "FMLink promotes a Planon-authored guide, the Higher Education Leader's Guide to IWMS RFP Success, arguing that selecting an integrated workplace management system (IWMS) is an operational strategy decision rather than a simple software purchase, because the system outlasts the people who approved it. A poorly built request for proposal leads to years of workarounds, unplanned budget overruns, and low adoption across the campus community; a well built one becomes the foundation for managing space, maintenance, real estate, and sustainability commitments for a decade.\n\nThe guide's recommended steps: (1) Start with an honest operational assessment, mapping decades of incremental facilities processes plus the shadow channels academic departments use to book rooms and report issues that bypass central facilities, including undisclosed spreadsheets and side channels, so requirements surface real integration gaps. (2) Build a weighted evaluation framework covering functional fit, technical compatibility, and implementation support, weighted to institutional risk. (3) Run demos and reference checks with real rigor: use demo scripts that force apples-to-apples comparison rather than vendor-led polished walkthroughs, include facilities, IT, financial, and academic stakeholders so each evaluates through its own lens, and ask references about timeline adherence, change management, and what broke six months after go-live. (4) Use templates: organizational overview, functional requirements checklists, cloud deployment and security templates for IT, and budget frameworks that normalize licensing models for total cost of ownership comparison rather than headline pricing, with scorecards making the decision defensible to outsiders. (5) Lead the process beyond procurement, with stakeholder communication tailored to executives, department heads, and end users, timelines respecting academic calendars and IT resource windows, and change champions built before vendor selection.\n\nThe audience is facilities, real estate, space, and IT leaders entering or course-correcting an IWMS selection. Deliverables include assessment structure, weighted framework, demo scripts, reference-check questions, requirements and budget templates, and a change management plan starting before contract signature.",
+ "claims": [
+  {
+   "claim": "A poorly constructed IWMS RFP results in years of workarounds, unplanned budget overruns, and a campus community that never fully adopts the system.",
+   "stat": "",
+   "attribution": "FMLink / Planon IWMS RFP guide"
+  },
+  {
+   "claim": "An IWMS selection shapes how an institution manages space, maintenance, real estate, and sustainability commitments for the next decade.",
+   "stat": "next decade",
+   "attribution": "FMLink / Planon IWMS RFP guide"
+  },
+  {
+   "claim": "Academic departments often book rooms and report issues through channels that bypass central facilities entirely.",
+   "stat": "",
+   "attribution": "FMLink / Planon IWMS RFP guide"
+  },
+  {
+   "claim": "Reference checks should probe timeline adherence, vendor change management, and what broke six months after go-live.",
+   "stat": "six months after go-live",
+   "attribution": "FMLink / Planon IWMS RFP guide"
+  },
+  {
+   "claim": "Budget frameworks should normalize licensing models so vendors are compared on total cost of ownership rather than headline pricing.",
+   "stat": "",
+   "attribution": "FMLink / Planon IWMS RFP guide"
+  },
+  {
+   "claim": "Most RFP guides stop at vendor selection, whereas this one extends into stakeholder communication and change management.",
+   "stat": "",
+   "attribution": "FMLink / Planon IWMS RFP guide"
+  }
+ ],
+ "vocabulary": [
+  "integrated workplace management system",
+  "IWMS",
+  "request for proposal",
+  "RFP",
+  "operational assessment",
+  "evaluation framework",
+  "functional fit",
+  "technical compatibility",
+  "implementation support",
+  "demo scripts",
+  "reference checks",
+  "scorecards",
+  "functional requirements checklist",
+  "cloud deployment and security templates",
+  "total cost of ownership",
+  "licensing models",
+  "change management",
+  "change champions",
+  "go-live",
+  "space management",
+  "real estate",
+  "sustainability commitments",
+  "steering committee",
+  "higher ed / campus facilities",
+  "Planon"
+ ],
+ "topics_covered": [
+  "risk_assessment_vendor_review_workload"
+ ]
+}

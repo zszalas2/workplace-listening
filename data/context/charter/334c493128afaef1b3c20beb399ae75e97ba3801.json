@@ -1,0 +1,58 @@
+{
+ "id": "334c493128afaef1b3c20beb399ae75e97ba3801",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/how-to-cut-through-political-tension-at-work/",
+ "published_at": "2026-09-27",
+ "observed_at": "2026-09-28",
+ "summary": "Charter's newsletter covers AI's employment effects, political tension at work, and gender pay gaps. In the AI and Work Radar section: among firms adopting AI, employment rose 3.3%, but gains concentrated in senior roles (up 6.7%) while junior roles fell 3%, per Stanford and King's College London researchers. Unions have made AI protections a top bargaining priority, seeking provisions on notification of new technology, human oversight of AI-generated reports, and training and re-skilling. A study on the 'connectivity tradeoff' finds greater access to information reduces retention; researchers warn employers encouraging AI-based knowledge retrieval may be optimizing for access while undermining learning. Countermeasures include applying information to novel problems, discussing with colleagues, and teaching others to offset cognitive offloading.\n\nThe main feature is an interview with Julia Minson, Harvard Kennedy School public policy professor and co-author of How to Disagree Better. Research found 50% of workers experienced a political disagreement at work in the past month, with midterm election tension spilling into workplaces. Minson says the old prescription against discussing money, religion, and politics has eroded as remote work gave colleagues views into each other's homes and leaders urged employees to bring their whole authentic selves to work. Effects of political disagreement are largely negative: people avoid working with, or asking advice from, those they disagreed with, and may withhold useful information.\n\nMinson argues companies should train people to disagree well, since heated conflict arises over contract clauses as readily as politics. Disagreeing well requires expressing your view and genuinely listening; the impulse to persuade crowds out understanding. She offers the HEAR framework: Hedging (maybe, sometimes, possibly), Emphasizing agreement, Acknowledgement (restating the counterpart's view in your own words), and Reframing to the positive (avoiding words like no, can't, hate).",
+ "claims": [
+  {
+   "claim": "Among firms that have adopted AI, employment has increased overall, but gains are concentrated in senior roles while junior roles declined.",
+   "stat": "Employment +3.3%; senior roles +6.7%; junior roles -3% over five years",
+   "attribution": "Recent paper from Stanford and King's College London researchers"
+  },
+  {
+   "claim": "Unions have placed AI protections at the top of bargaining agendas, seeking notification of new technology, human oversight of AI-generated reports, and training and re-skilling.",
+   "stat": "",
+   "attribution": "Charter newsletter"
+  },
+  {
+   "claim": "When workers have greater access to information, they are less likely to remember it, described as the 'connectivity tradeoff'; employers relying on AI for knowledge retrieval may be optimizing for access while undermining learning.",
+   "stat": "",
+   "attribution": "Recent study on the 'connectivity tradeoff'"
+  },
+  {
+   "claim": "Half of workers report a political disagreement at work in the past month.",
+   "stat": "50%",
+   "attribution": "Recent research co-authored by Julia Minson"
+  },
+  {
+   "claim": "Political disagreement at work produces negative effects: reluctance to work on the same team, to seek advice, and withholding useful information.",
+   "stat": "",
+   "attribution": "Julia Minson, Harvard Kennedy School"
+  },
+  {
+   "claim": "Norms against discussing money, religion, and politics at work eroded due to remote work exposing colleagues' homes and leadership calls to bring one's whole authentic self to work.",
+   "stat": "",
+   "attribution": "Julia Minson"
+  }
+ ],
+ "vocabulary": [
+  "AI and Work Radar",
+  "cognitive offloading",
+  "connectivity tradeoff",
+  "human oversight",
+  "re-skilling",
+  "bargaining agenda",
+  "HEAR framework",
+  "hedging",
+  "emphasizing agreement",
+  "acknowledgement",
+  "reframing to the positive",
+  "bring your whole authentic self",
+  "remote work",
+  "productive disagreement",
+  "gender pay gap"
+ ],
+ "topics_covered": []
+}

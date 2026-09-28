@@ -1,0 +1,64 @@
+{
+ "id": "c01f13de9d2bd6db6a20092b176b07b2cd3d4b40",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/find-practical-answers-to-fm-challenges-at-nfmt-west-las-vegas-nov-3-4/",
+ "published_at": "2026-09-21",
+ "observed_at": "2026-09-28",
+ "summary": "FMLink promotes NFMT West, the National Facilities Management & Technology Conference & Expo West, taking place in Las Vegas on November 3-4 at the Horseshoe Event Center. The event is positioned as a sibling to NFMT East in Baltimore and is pitched at facility management teams attending together for two days of education, networking, and vendor discovery.\n\nThe piece describes the scale of the event as dozens of expert-led sessions, hundreds of exhibitors, and thousands of FM decision-makers under one roof. Education programming is led by practitioners and framed around day-to-day operational challenges. All conference sessions qualify for continuing education credits (CEUs), with NFMT handling registration, scheduling, and certificate delivery.\n\nFive session tracks are listed: The Digital Evolution; People & Performance; Tech & Market Trends; Safe, Sound and Healthy; and Efficiency/Optimization.\n\nThe Expo Hall is presented as a place to evaluate building operations technology, compare solutions side by side, and speak with manufacturers. Expo features include hundreds of exhibitors across FM categories, live demos and hands-on product evaluations, prize giveaways across both days, and free admission with event registration.\n\nThe article advises teams to either attend sessions together or split up to cover more topics and reconvene to share learnings, and to divide and conquer on the expo floor. Networking is highlighted, including an Opening Night Poker Party.\n\nGroup registration rules are spelled out: all attendees must be from the same company, all must register for ALL ACCESS, a designated Group Contact must register everyone at the same time, all group attendees must be registered with the same credit card, and each attendee receives an individual email confirmation.\n\nThe item is essentially event marketing rather than analysis, with no data, research findings, or named sources beyond the organizer. Readers are directed to the NFMT West site for details.",
+ "claims": [
+  {
+   "claim": "NFMT West will be held in Las Vegas November 3-4 at the Horseshoe Event Center",
+   "stat": "November 3-4",
+   "attribution": "FMLink / NFMT West"
+  },
+  {
+   "claim": "The event features dozens of expert-led sessions, hundreds of exhibitors, and thousands of FM decision-makers",
+   "stat": "dozens of sessions; hundreds of exhibitors; thousands of attendees",
+   "attribution": "FMLink / NFMT West"
+  },
+  {
+   "claim": "All conference sessions qualify for continuing education credits, with NFMT handling registration, scheduling and certificate delivery",
+   "stat": "",
+   "attribution": "FMLink / NFMT West"
+  },
+  {
+   "claim": "Session tracks include The Digital Evolution; People & Performance; Tech & Market Trends; Safe, Sound and Healthy; and Efficiency/Optimization",
+   "stat": "5 tracks",
+   "attribution": "FMLink / NFMT West"
+  },
+  {
+   "claim": "The Expo Hall is free to attend with event registration",
+   "stat": "",
+   "attribution": "FMLink / NFMT West"
+  },
+  {
+   "claim": "Group registration requires all attendees from the same company, registered for ALL ACCESS at the same time by a designated Group Contact using the same credit card",
+   "stat": "",
+   "attribution": "NFMT West"
+  }
+ ],
+ "vocabulary": [
+  "facility management",
+  "FM",
+  "NFMT West",
+  "National Facilities Management & Technology Conference & Expo",
+  "Expo Hall",
+  "CEUs",
+  "continuing education credits",
+  "session tracks",
+  "The Digital Evolution",
+  "People & Performance",
+  "Tech & Market Trends",
+  "Safe, Sound and Healthy",
+  "Efficiency/Optimization",
+  "exhibitors",
+  "live demos",
+  "product evaluations",
+  "FM decision-makers",
+  "group registration",
+  "ALL ACCESS",
+  "Group Contact",
+  "building operations technology"
+ ],
+ "topics_covered": []
+}

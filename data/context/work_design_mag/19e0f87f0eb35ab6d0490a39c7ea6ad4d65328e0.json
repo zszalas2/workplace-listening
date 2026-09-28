@@ -1,0 +1,56 @@
+{
+ "id": "19e0f87f0eb35ab6d0490a39c7ea6ad4d65328e0",
+ "source_id": "work_design_mag",
+ "url": "https://www.workdesign.com/2026/09/why-employees-are-hacking-the-workplace/",
+ "published_at": "2026-09-24",
+ "observed_at": "2026-09-28",
+ "summary": "Work Design Magazine podcast show notes for a conversation between host Bob Fox and Ken Baker, Regional Managing Principal at Gensler, framed around Gensler's newly released Global Workplace Survey and what organizations still get wrong about the office. Baker is positioned as bringing a dual perspective: a designer, and a leader of a global firm facing the same workplace pressures as his clients.\n\nThe listed discussion points include why the office is struggling to keep pace with how people actually work, prompting employees to \"hack\" the workplace to make it fit their needs. The conversation covers AI as an amplifier of human interaction rather than a replacement for it, and a broader shift in workplace priorities away from efficiency and toward experience, performance, and connection.\n\nA central theme is that the best workplaces are becoming \"magnets, not mandates,\" implying attraction-based strategies rather than enforced return-to-office rules. The notes also flag a growing role for hospitality, learning environments, and focus spaces within office design, and assert a direct tie between better design and profitability, retention, and performance.\n\nThe episode also addresses what leaders are missing about their own organizations, and closes on a wider urban argument that the future may depend on how cities are rethought and reused, suggesting adaptive reuse of building stock.\n\nThese are promotional show notes rather than a full transcript, so no survey figures, sample sizes, or specific data points from the Gensler Global Workplace Survey are included. Credits list the program as created and directed by Bob Fox and produced by Work Design Studios.",
+ "claims": [
+  {
+   "claim": "The office is struggling to keep up with how people actually work, leading employees to \"hack\" the workplace.",
+   "stat": "",
+   "attribution": "Ken Baker, Gensler, in conversation with Bob Fox"
+  },
+  {
+   "claim": "AI is amplifying human interaction rather than replacing it.",
+   "stat": "",
+   "attribution": "Ken Baker, Gensler"
+  },
+  {
+   "claim": "Workplace priorities are shifting from efficiency toward experience, performance, and connection.",
+   "stat": "",
+   "attribution": "Ken Baker, Gensler"
+  },
+  {
+   "claim": "The best workplaces are becoming \"magnets, not mandates.\"",
+   "stat": "",
+   "attribution": "Ken Baker, Gensler"
+  },
+  {
+   "claim": "Better workplace design is directly tied to profitability, retention, and performance.",
+   "stat": "",
+   "attribution": "Ken Baker, Gensler"
+  },
+  {
+   "claim": "Gensler has newly released a Global Workplace Survey.",
+   "stat": "",
+   "attribution": "Work Design Magazine / Gensler"
+  }
+ ],
+ "vocabulary": [
+  "Global Workplace Survey",
+  "magnets, not mandates",
+  "hacking the workplace",
+  "hospitality",
+  "focus spaces",
+  "learning spaces",
+  "experience",
+  "retention",
+  "adaptive reuse of cities",
+  "Regional Managing Principal",
+  "workplace design"
+ ],
+ "topics_covered": [
+  "hybrid_rto_mandate_pushback"
+ ]
+}

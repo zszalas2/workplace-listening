@@ -1,0 +1,71 @@
+{
+ "id": "8db5135d43644d672bc03c89d6c2447d0326a693",
+ "source_id": "workplace_insight",
+ "url": "https://workplaceinsight.net/rethinking-office-space-can-phone-booths-cut-costs-and-free-up-meeting-rooms/?utm_source=rss&utm_medium=rss&utm_campaign=rethinking-office-space-can-phone-booths-cut-costs-and-free-up-meeting-rooms",
+ "published_at": "2026-09-25",
+ "observed_at": "2026-09-28",
+ "summary": "A sponsored-style Workplace Insight piece arguing that acoustic phone booths and meeting pods (referencing MEAVO designs) are a cheaper, more flexible way to add enclosed space than building or leasing more meeting rooms.\n\nContext: hybrid work has settled into anchor days, and office attendance is rising and becoming more predictable. The article cites JLL and CBRE benchmark data on days in office, fixed-day policies and utilisation rates. Peak midweek days create contention for meeting rooms, which are frequently used for activities needing far less space: solo video calls, one-to-ones, or focused individual work.\n\nThe proposed fix is matching space to purpose. Single-person phone booths handle calls and video meetings with acoustic privacy; four-person meeting pods support huddles, planning and hybrid sessions. A floor plan might mix phone booths near busy desk areas, focus booths in quieter zones, and meeting pods near team neighbourhoods. This keeps larger rooms free for workshops, team sessions and client meetings.\n\nCost argument: every square foot carries rent, business rates, service charges, energy and fit-out costs across the lease. Lambert Smith Hampton's Total Office Cost Survey uses 100 sq ft as the benchmark for one workstation; a single-person booth takes little more than a square metre, roughly a tenth of that. Booths are freestanding, installable without partitions or building works, repositionable as teams change, and can move to the next office, so the investment carries forward. This effectively adds meeting capacity without adding floor space and avoids construction, extra rent, rates and service charges.\n\nImplementation advice: audit how meeting rooms are booked and used over several weeks, noting typical attendee counts and how often rooms host solo calls; design for peak midweek attendance rather than weekly averages; run a pilot mix of booths and pods in popular areas and track usage plus user feedback; refine the mix and reimagine freed-up rooms as collaboration space. Quality matters: verified acoustic performance, quiet ventilation and good lighting.",
+ "claims": [
+  {
+   "claim": "The share of employees coming into the office three to four days a week has risen sharply in one year",
+   "stat": "55%, up 19 percentage points year on year",
+   "attribution": "JLL Global Occupancy Planning Benchmark Report 2026"
+  },
+  {
+   "claim": "A majority of organisations now set a fixed number of office days",
+   "stat": "62%",
+   "attribution": "JLL Global Occupancy Planning Benchmark Report 2026"
+  },
+  {
+   "claim": "Global office utilisation has climbed closer to pre-pandemic levels",
+   "stat": "56%",
+   "attribution": "JLL Global Occupancy Planning Benchmark Report 2026"
+  },
+  {
+   "claim": "Average peak office utilisation has reached a high level",
+   "stat": "80%",
+   "attribution": "CBRE 2026 Global Workplace and Occupancy Insights"
+  },
+  {
+   "claim": "The benchmark footprint for a single workstation is 100 sq ft, while a single-person phone booth occupies little more than a square metre, about a tenth of that",
+   "stat": "100 sq ft vs roughly 1 sq m",
+   "attribution": "Lambert Smith Hampton Total Office Cost Survey (cited by the article)"
+  },
+  {
+   "claim": "The Total Office Cost Survey tracks occupancy costs across more than 50 UK locations and 22 separate cost metrics",
+   "stat": "50+ locations, 22 cost metrics",
+   "attribution": "Lambert Smith Hampton"
+  }
+ ],
+ "vocabulary": [
+  "hybrid office",
+  "anchor days",
+  "acoustic office pods",
+  "phone booths",
+  "meeting pods",
+  "focus booth",
+  "occupancy planning",
+  "utilisation",
+  "peak utilisation",
+  "fixed number of office days",
+  "meeting room booking",
+  "open floor",
+  "team neighbourhoods",
+  "fit-out costs",
+  "business rates",
+  "service charges",
+  "Total Office Cost Survey",
+  "workstation benchmark",
+  "freestanding pods",
+  "verified acoustic performance",
+  "pilot",
+  "MEAVO",
+  "JLL",
+  "CBRE",
+  "Lambert Smith Hampton"
+ ],
+ "topics_covered": [
+  "meeting_room_booking_conflicts",
+  "quiet_space_calls_and_coworking_choice"
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "id": "ade9e8c1d328e52b2599130e6c3081fefc63f873",
+ "source_id": "workplace_insight",
+ "url": "https://workplaceinsight.net/how-people-move-may-offer-clues-to-their-mental-health/?utm_source=rss&utm_medium=rss&utm_campaign=how-people-move-may-offer-clues-to-their-mental-health",
+ "published_at": "2026-09-24",
+ "observed_at": "2026-09-28",
+ "summary": "Workplace Insight reports on new research suggesting that the way people move may offer clues about mental health symptoms and behaviour patterns. Researchers from Northwestern University in Illinois and other institutions examined relationships between movement characteristics and psychological symptoms including anxiety, depression, mania, dissociation, substance use and psychosis. Movement difficulties had previously been linked to schizophrenia and other disorders, but it was unclear whether specific movement types map to specific symptoms rather than to diagnostic categories.\n\nThe study analysed data from 3,460 participants in the Multi-Site Assessment of Psychosis-Risk study. Participants self-reported psychological symptoms plus movement and physical activity information, including coordination problems and involuntary movements. Overall movement problems, involuntary or uncontrolled movements and coordination difficulties were positively associated, to varying degrees, with all psychological symptom domains examined. Greater physical activity was associated with mania and substance use symptoms, while lower activity levels were associated with detachment, fear and distress. No simple one-to-one connections between individual movement patterns and particular symptoms were found.\n\nThe piece stresses that for employers and occupational health professionals this is not evidence that workplace behaviour or movement should be used to identify or diagnose an employee's mental health. Measures were self-reported and the study does not establish movements as reliable indicators of specific conditions. Instead, motor characteristics could add a dimension for researchers and clinicians studying mechanisms, prognosis and treatment of serious mental illness, functioning as a broad marker and sometimes a more specific predictor.\n\nThe work supports a transdiagnostic approach, using the Hierarchical Taxonomy of Psychopathology (HiTOP), which organises psychological problems by overlapping dimensions rather than discrete categories. The authors call for further research including people with diagnosed mental illnesses. The paper, by Jessica Fattal and colleagues, appeared online in Clinical Psychological Science on 15 June 2026.",
+ "claims": [
+  {
+   "claim": "The study analysed data from participants in the Multi-Site Assessment of Psychosis-Risk study",
+   "stat": "3,460 participants",
+   "attribution": "Researchers from Northwestern University and other institutions, via Clinical Psychological Science"
+  },
+  {
+   "claim": "Overall movement problems, involuntary or uncontrolled movements and coordination difficulties were positively associated with all psychological symptom domains examined",
+   "stat": "",
+   "attribution": "Study authors, Clinical Psychological Science"
+  },
+  {
+   "claim": "Greater physical activity was associated with symptoms of mania and substance use, while lower activity was associated with detachment, fear and distress",
+   "stat": "",
+   "attribution": "Study authors"
+  },
+  {
+   "claim": "The research should not be treated as evidence that workplace behaviour or movement can identify or diagnose an employee's mental health",
+   "stat": "",
+   "attribution": "Workplace Insight / study authors"
+  },
+  {
+   "claim": "The paper was first published online in Clinical Psychological Science on 15 June 2026",
+   "stat": "15 June 2026",
+   "attribution": "Workplace Insight, citing Jessica Fattal and colleagues"
+  }
+ ],
+ "vocabulary": [
+  "transdiagnostic approach",
+  "Hierarchical Taxonomy of Psychopathology (HiTOP)",
+  "psychomotor perspective",
+  "motor abnormalities",
+  "psychosis-risk",
+  "occupational health",
+  "psychological wellbeing",
+  "dimensional symptom framework",
+  "self-reported movement"
+ ],
+ "topics_covered": []
+}

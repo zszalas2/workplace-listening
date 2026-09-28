@@ -1,0 +1,51 @@
+{
+ "id": "a2b49c4aa7853209185c8c413afaf1e311b8e333",
+ "source_id": "work_design_mag",
+ "url": "https://www.workdesign.com/2026/09/the-smart-office-revolution-what-buildings-know/",
+ "published_at": "2026-09-25",
+ "observed_at": "2026-09-28",
+ "summary": "Podcast show notes from Work Design Magazine. Host Bob Fox interviews Melissa Marsh, founder and CEO of PLASTARC, a workplace strategy consultancy, drawing on her 25-plus years in the field. The conversation argues most organizations remain behind the curve on workplace change.\n\nKey threads: the shift from designing physical space to designing employee experience; the rise of smart buildings and occupancy sensors as sources of operational data; and digital twins as a tool changing how buildings are operated and planned over time.\n\nThe episode also raises a pointed question about return-to-office mandates: whether they are genuinely motivated by people, culture and collaboration, or whether they function primarily to protect the value of corporate real estate assets. This framing positions RTO policy as partly a real estate economics decision rather than a purely workforce one.\n\nMarsh discusses organizational silos, noting that HR, IT and Real Estate functions effectively speak different languages, which complicates joint decision-making about workplace. She introduces newer measurement concepts, including experience density, and explains what such metrics actually capture compared with traditional utilization or square-footage measures.\n\nFinally, she argues that the real estate industry is, in her words, profoundly unprepared for the organizational impact of AI, implying that changes in how work gets done will outpace the sector's ability to adapt its portfolios and operating models.\n\nThe notes frame the discussion as one that prompts listeners to reconsider what a building is, what an office is for, and who should be responsible for designing both. Credits list the show as created and directed by Bob Fox and produced by Work Design Studios. No specific data points, survey figures or case study results are cited in the show notes themselves.",
+ "claims": [
+  {
+   "claim": "Melissa Marsh has more than 25 years of experience in the workplace field and is founder and CEO of PLASTARC.",
+   "stat": "25+ years",
+   "attribution": "Work Design Magazine show notes"
+  },
+  {
+   "claim": "Most organizations are still behind on where the workplace is headed.",
+   "stat": "",
+   "attribution": "Melissa Marsh, PLASTARC"
+  },
+  {
+   "claim": "HR, IT and Real Estate functions speak entirely different languages, hindering workplace decision-making.",
+   "stat": "",
+   "attribution": "Melissa Marsh, PLASTARC"
+  },
+  {
+   "claim": "Real estate is profoundly unprepared for the organizational impact of AI.",
+   "stat": "",
+   "attribution": "Melissa Marsh, PLASTARC"
+  },
+  {
+   "claim": "Return-to-office mandates may be motivated by protecting real estate value rather than by people.",
+   "stat": "",
+   "attribution": "Bob Fox and Melissa Marsh (episode framing)"
+  }
+ ],
+ "vocabulary": [
+  "smart office",
+  "smart buildings",
+  "occupancy sensors",
+  "digital twins",
+  "experience density",
+  "return-to-office mandates",
+  "designing experience",
+  "workplace strategy",
+  "corporate real estate",
+  "PLASTARC",
+  "organizational impact of AI"
+ ],
+ "topics_covered": [
+  "hybrid_rto_mandate_pushback"
+ ]
+}

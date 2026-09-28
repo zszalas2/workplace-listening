@@ -1,0 +1,84 @@
+{
+ "id": "4a70fe15a94b6e35256c41513ba22c7d090961b2",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/ai-skills-are-entering-performance-reviews-are-managers-ready/",
+ "published_at": "2026-09-22",
+ "observed_at": "2026-09-28",
+ "summary": "Charter (publishing HiBob research) argues that AI skills are entering formal performance and promotion decisions before most organizations have defined what good AI use looks like, creating an \"AI readiness gap.\" AI is no longer a specialist capability owned by technical or innovation teams; it now appears in everyday workflows, job expectations, performance conversations, and career decisions. HiBob's 2026 AI skills research surveyed 1,200 business leaders across multiple countries, all of whom had engaged in at least one AI-related decision (role design, compensation standards, or reporting AI-linked business outcomes) in the past year.\n\nKey findings: three quarters of AI decision-makers expect moderate AI proficiency to be standard in most non-technical roles within 24 months; two thirds link AI skills to promotion criteria; half tie them to performance ratings. Nearly three quarters say their organizations invest in AI upskilling, but no single training topic exceeded 27 percent adoption, indicating a scattered approach spanning workflow redesign, security, acceptable use, documentation, data reasoning, and verification.\n\nThe sharpest gap is at the manager layer. Direct managers and team leaders are the group most often expected to build AI capability, yet only 36 percent of those respondents view managers as highly prepared to upskill their teams. Without shared standards, one manager rewards experimentation, another prioritizes risk avoidance, and a third cannot evaluate AI-assisted work at all, producing mixed signals and inequity.\n\nThe recommended fix is infrastructure rather than more training: a behavioral framework defining observable AI behaviors, moving past broad \"AI literacy\" language. The research says decision-makers most value safe, dependable execution such as reviewing output quality, documenting workflow decisions, applying judgment, and using AI ethically and in line with business goals. Managers need rubrics, workflow-connected training, shared coaching language, and systems that surface AI capability in hiring, internal mobility, performance, learning, and compensation.",
+ "claims": [
+  {
+   "claim": "HiBob's 2026 AI skills research surveyed business leaders across multiple countries, all of whom had made at least one AI-related organizational decision in the past year",
+   "stat": "1,200 business leaders",
+   "attribution": "HiBob 2026 AI skills research, cited by Charter"
+  },
+  {
+   "claim": "AI decision-makers expect moderate AI proficiency to become standard across most non-technical roles within the next 24 months",
+   "stat": "75%",
+   "attribution": "HiBob 2026 AI skills research"
+  },
+  {
+   "claim": "Organizations link AI skills to promotion criteria",
+   "stat": "67%",
+   "attribution": "HiBob 2026 AI skills research"
+  },
+  {
+   "claim": "Organizations tie AI skills directly to performance ratings",
+   "stat": "50%",
+   "attribution": "HiBob 2026 AI skills research"
+  },
+  {
+   "claim": "AI decision-makers say their organizations invest in AI upskilling",
+   "stat": "73%",
+   "attribution": "HiBob 2026 AI skills research"
+  },
+  {
+   "claim": "No single AI training topic exceeded a given adoption rate, suggesting a scattered approach to AI development",
+   "stat": "27% adoption rate ceiling",
+   "attribution": "HiBob 2026 AI skills research"
+  },
+  {
+   "claim": "Among respondents who expect managers to lead AI upskilling, only a minority see managers as highly prepared to do so",
+   "stat": "36%",
+   "attribution": "HiBob 2026 AI skills research"
+  },
+  {
+   "claim": "Direct managers and team leaders are the top group organizations expect to take responsibility for building AI capability across teams",
+   "stat": "",
+   "attribution": "HiBob 2026 AI skills research"
+  },
+  {
+   "claim": "Decision-makers place high value on safe, dependable AI execution such as reviewing output quality, documenting workflow decisions, and applying judgment, rather than flashy technical tricks",
+   "stat": "",
+   "attribution": "HiBob 2026 AI skills research"
+  }
+ ],
+ "vocabulary": [
+  "AI readiness gap",
+  "AI proficiency",
+  "AI decision-makers",
+  "AI upskilling",
+  "AI literacy",
+  "behavioral framework",
+  "observable behaviors",
+  "rubrics",
+  "promotion criteria",
+  "performance ratings",
+  "performance management",
+  "people strategy",
+  "workflow redesign",
+  "acceptable use",
+  "data reasoning",
+  "verification",
+  "output quality review",
+  "AI maturity",
+  "prompt",
+  "internal mobility",
+  "compensation standards",
+  "AI-ready talent",
+  "AI transformation",
+  "operating model",
+  "human judgment",
+  "accountability and trust"
+ ],
+ "topics_covered": []
+}

@@ -1,0 +1,41 @@
+{
+ "id": "62cc1a909a838c10a00bcfe1d1933cefe723b2e9",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/how-zero-based-calendaring-can-prevent-burnout-for-your-team/",
+ "published_at": "2026-09-24",
+ "observed_at": "2026-09-28",
+ "summary": "Charter covers \"zero-based calendaring,\" a scheduling mindset promoted by Laura Mae Martin, Google's executive productivity advisor and author of Uptime. The framing starts with evidence of workload overload: a recent Korn Ferry survey found nearly two-thirds of professionals say they are currently performing the responsibilities of more than one role, and half say AI tools have contributed to an increasing workload. The piece argues that for many leaders, workload expansion was gradual rather than sudden, with one or two extra tasks or recurring meetings compounding into an unmanageable to-do list. Rather than letting schedules accumulate until burnout occurs, Martin recommends periodically resetting the calendar from a blank slate. The core diagnostic question she offers is: if you had a new calendar tomorrow, would you still accept that weekly one-hour meeting if you were invited to it today? Martin's role at Google includes leading the company's internal productivity initiative, coaching executives on their workflows, and advising Google's customers. The excerpt is short and does not detail implementation mechanics, team rollout guidance, or tooling, but positions calendar auditing as a burnout prevention lever for leaders and their teams rather than purely a personal time management tactic.",
+ "claims": [
+  {
+   "claim": "Nearly two-thirds of professionals say they are currently performing the responsibilities of more than one role",
+   "stat": "~2/3",
+   "attribution": "Korn Ferry survey"
+  },
+  {
+   "claim": "Half of professionals say AI tools have contributed to an increasing workload",
+   "stat": "50%",
+   "attribution": "Korn Ferry survey"
+  },
+  {
+   "claim": "Leaders should reassess recurring meetings by asking whether they would accept a weekly one-hour meeting if invited to it today",
+   "stat": "",
+   "attribution": "Laura Mae Martin, Google executive productivity advisor and author of Uptime"
+  }
+ ],
+ "vocabulary": [
+  "zero-based calendaring",
+  "executive productivity advisor",
+  "burnout",
+  "workload",
+  "recurring meeting",
+  "weekly one-hour meeting",
+  "to-do list",
+  "productivity initiative",
+  "workflows",
+  "AI tools",
+  "Uptime"
+ ],
+ "topics_covered": [
+  "exec_calendar_conflict_management"
+ ]
+}

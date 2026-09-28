@@ -1,0 +1,82 @@
+{
+ "id": "b76026f77c0e33702360da601b6b5bc12b033ac9",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/09/your-keyboard-could-be-the-next-workplace-tool-to-become-obsolete/",
+ "published_at": "2026-09-27",
+ "observed_at": "2026-09-28",
+ "summary": "Allwork.Space profiles SAP CEO Christian Klein, interviewed at the World Economic Forum in Davos, who predicts the keyboard's decline as a business data-input device. Klein argues voice recognition built on large language models is now strong enough that typing data into SAP systems will end at the firm within two to three years, though work remains to translate voice into business language and business data. Users will instead ask analytical questions aloud, trigger operational task workflows, and make entries such as performance feedback and pipeline records by voice. The piece frames 2026 as the era of applied rather than theoretical AI, with software vendors generating substantial revenue.\n\nKlein divides companies into two AI adoption camps: those saying AI is changing how they run the business, and those who spent heavily but see low value. He attributes failure to treating AI as an efficiency hack confined to one division or function, with no reach across the rest of the firm. He advocates applying AI horizontally across the whole business, with employee training. An example: a large consumer goods client where an agent predicts demand better than its human planners, but inventory adjustment still took months because of procurement and manufacturing dependencies. SAP is building an end-to-end agentic planning scenario projected to optimize inventory by 20%.\n\nAnother example describes employees feeding millions of financial analysis PowerPoints to an AI model to surface recommended measures, packaged with graphs, commentary and recommended actions.\n\nThe article closes on geopolitics: Trump's Greenland annexation threat and tariff wars dominated Davos, spheres of influence and mercantilism are returning, and the G4 (America, China, Europe, India) diverge on trade. Klein cites rising sovereignty requirements, including in-country cloud servers and differing data protection rules, forcing global software vendors to adapt to a fragmented world.\n\nBackground: SAP stands for Systemanalyse Programmentwicklung, was founded in 1972 and is headquartered in Walldorf, Germany.",
+ "claims": [
+  {
+   "claim": "English engineer Henry Mill submitted the first patent for a machine transcribing letters in 1714, a forerunner of the typewriter and electronic keyboard, though it never went into production",
+   "stat": "1714; 312 years ago",
+   "attribution": "Allwork.Space article"
+  },
+  {
+   "claim": "The end of the keyboard is near because voice recognition from large language models is very strong",
+   "stat": "",
+   "attribution": "Christian Klein, CEO of SAP"
+  },
+  {
+   "claim": "Data-inputting via typing will end at SAP within the next two to three years",
+   "stat": "2 to 3 years",
+   "attribution": "SAP / Christian Klein"
+  },
+  {
+   "claim": "SAP is building an end-to-end agentic planning scenario for a large consumer goods client that helps optimize inventory",
+   "stat": "20% inventory optimization",
+   "attribution": "Christian Klein, SAP"
+  },
+  {
+   "claim": "An AI agent predicted demand more intelligently than the client's human planning staff, but inventory adjustment still took months due to procurement and manufacturing dependencies",
+   "stat": "",
+   "attribution": "Unnamed consumer goods company, relayed by Christian Klein"
+  },
+  {
+   "claim": "Klein, 44, is the youngest CEO of a major business listed on Germany's DAX index",
+   "stat": "Age 44",
+   "attribution": "Allwork.Space article"
+  },
+  {
+   "claim": "SAP was founded in 1972 and is headquartered in Walldorf, Germany, providing cloud services to the world's largest companies and millions of SMEs",
+   "stat": "Founded 1972",
+   "attribution": "Allwork.Space article"
+  },
+  {
+   "claim": "SAP software operates in over 100 countries, but customers question how this works in a more fragmented world with new sovereignty requirements",
+   "stat": "100+ countries",
+   "attribution": "Christian Klein, SAP"
+  },
+  {
+   "claim": "Companies fall into two AI adoption categories: those where AI changes how they run the business, and those who invested heavily but see low value",
+   "stat": "",
+   "attribution": "Christian Klein, SAP"
+  }
+ ],
+ "vocabulary": [
+  "voice recognition",
+  "large language models",
+  "business language",
+  "business data",
+  "coworker tool",
+  "operational task workflows",
+  "pipeline entries",
+  "applied AI",
+  "agents",
+  "agentic planning",
+  "end-to-end planning scenario",
+  "demand planning",
+  "financial planning",
+  "inventory control",
+  "horizontal vs vertical AI adoption",
+  "cloud services",
+  "sovereignty requirements",
+  "data residency",
+  "DAX index",
+  "G4",
+  "World Economic Forum",
+  "QWERTY"
+ ],
+ "topics_covered": [
+  "agentic_ai_tooling_and_governance"
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "id": "e604468553a7d4b80a99c554413fa9c2b965772e",
+ "source_id": "work_design_mag",
+ "url": "https://www.workdesign.com/2026/09/the-science-behind-thermostat-wars/",
+ "published_at": "2026-09-25",
+ "observed_at": "2026-09-28",
+ "summary": "A Work Design Magazine podcast episode in which host Bob Fox interviews Dr. Nicola Garrett, Ph.D., a thermophysiologist at Gentherm, described as one of roughly 300 people worldwide who study thermophysiology professionally. Garrett's background is in human performance research with soldiers in extreme environments, elite athletes and drivers, and she now applies that science to the workplace.\n\nThe discussion argues that office HVAC systems were designed around a narrow and outdated user profile, and that because body size, age and sex all affect thermal comfort, a single optimal room temperature is essentially a myth. Garrett distinguishes behavioral thermoregulation, such as putting on a jacket, from physiological responses including vasoconstriction, sweating and shivering, which engage when behavioral adjustments are insufficient.\n\nThe conversation then turns to product and engineering responses: heated and cooled seats, radiant panels, under-desk heating, and the microclimate approach Gentherm pioneered in vehicles, which conditions the individual rather than the whole room. Practical engineering challenges are covered, notably power delivery to a chair that users do not want tethered to a wall.\n\nOther claims discussed include the effect of thermal discomfort on focus and typing accuracy, and the use of cooling to keep drowsy drivers alert, with a suggested parallel application for post-lunch alertness in the office. Garrett also reflects on attending NeoCon for the first time as a scientist entering the design world.\n\nThe episode was created and directed by Bob Fox and produced by Work Design Studios. The framing is that individualized thermal comfort technology could replace the shared thermostat as the way workplaces manage comfort, reframing the familiar office thermostat dispute as a physiology and product design problem rather than a matter of personal preference or office politics.",
+ "claims": [
+  {
+   "claim": "Only a small number of people worldwide study thermophysiology professionally",
+   "stat": "roughly 300 people",
+   "attribution": "Work Design Magazine episode description, describing Dr. Nicola Garrett"
+  },
+  {
+   "claim": "Office HVAC systems were built around a narrow, outdated user profile",
+   "stat": "",
+   "attribution": "Dr. Nicola Garrett, Gentherm"
+  },
+  {
+   "claim": "A single optimal room temperature is essentially a myth because body size, age and sex vary",
+   "stat": "",
+   "attribution": "Dr. Nicola Garrett, Gentherm"
+  },
+  {
+   "claim": "Thermal discomfort quietly degrades focus and typing accuracy",
+   "stat": "",
+   "attribution": "Dr. Nicola Garrett, Gentherm"
+  },
+  {
+   "claim": "Cooling has been used to keep drowsy drivers alert and could do the same for office workers after lunch",
+   "stat": "",
+   "attribution": "Dr. Nicola Garrett, Gentherm"
+  },
+  {
+   "claim": "Gentherm pioneered the microclimate approach to thermal comfort in vehicles",
+   "stat": "",
+   "attribution": "Work Design Magazine episode description"
+  },
+  {
+   "claim": "Delivering power to a heated or cooled chair without tethering it to a wall is a key engineering challenge",
+   "stat": "",
+   "attribution": "Dr. Nicola Garrett, Gentherm"
+  }
+ ],
+ "vocabulary": [
+  "thermophysiologist",
+  "thermostat wars",
+  "HVAC",
+  "behavioral thermoregulation",
+  "physiological responses",
+  "vasoconstriction",
+  "microclimate",
+  "heated and cooled seats",
+  "radiant panels",
+  "under-desk heating",
+  "thermal discomfort",
+  "human performance",
+  "NeoCon",
+  "Gentherm",
+  "Work Design Studios"
+ ],
+ "topics_covered": []
+}

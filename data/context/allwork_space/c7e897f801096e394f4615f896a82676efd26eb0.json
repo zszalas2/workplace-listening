@@ -1,0 +1,42 @@
+{
+ "id": "c7e897f801096e394f4615f896a82676efd26eb0",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/09/why-your-career-stage-not-your-tech-skills-should-determine-how-you-use-ai-at-work/",
+ "published_at": "2026-09-28",
+ "observed_at": "2026-09-28",
+ "summary": "An opinion piece arguing that career stage, not technical fluency, should determine how professionals use AI at work. The author observes that an experienced professional and an early-career worker can prompt the same AI tool and appear equally capable, but they are handing over fundamentally different kinds of work. The experienced person delegates execution they already know how to perform, supplying judgment, context and pattern recognition built over years, including the ability to sense when a plausible answer is wrong. The early-career person may be delegating exactly the tasks through which that judgment would have formed, so AI accelerates execution without accelerating experience.\n\nFor senior professionals, the article says value now rests on context: knowing which questions to ask before analysis begins, spotting hidden assumptions, and distinguishing ideas that work on paper from ones that survive inside a real organization. Recommended practice includes using multiple AI tools, having one model critique another, pushing for what is missing, and rejecting outputs that technically answer the question. An illustrative example describes a VP of HR modeling a restructuring where AI flags a team as redundant on cost and overlap, while the executive knows that team is the informal escalation point other groups rely on. The model sees the formal organization; she sees the informal one. Self-checks offered: notice whether you still challenge output or merely approve it, and whether you can name what you added beyond review.\n\nFor early-career workers, AI can produce sophisticated work before the judgment exists to evaluate it, creating capability that is partly apparent rather than real. The article cites Harvard Business School research on \"knowledge distance,\" and lists learning experiences AI compresses away: spreadsheet mistakes, heavily edited drafts, sitting in meetings and learning what moves a group to a decision, and understanding why two identical recommendations land differently.",
+ "claims": [
+  {
+   "claim": "AI helped participants generate ideas and frame problems, but those without sufficient domain expertise still struggled to match expert performance on execution, a limit researchers call \"knowledge distance.\"",
+   "stat": "study comparing experts with workers from adjacent and more distant fields",
+   "attribution": "Research from Harvard Business School, cited by Allwork.Space"
+  },
+  {
+   "claim": "Identical AI usage can produce very different career outcomes depending on career stage, either deepening expertise or skipping the process that creates it.",
+   "stat": "",
+   "attribution": "Allwork.Space article author"
+  },
+  {
+   "claim": "After more than a decade in a field, professional value comes largely from context rather than knowledge alone.",
+   "stat": "more than a decade",
+   "attribution": "Allwork.Space article author"
+  }
+ ],
+ "vocabulary": [
+  "AI at work",
+  "early-career professional",
+  "experienced professional",
+  "knowledge distance",
+  "domain expertise",
+  "delegating execution",
+  "professional judgment",
+  "AI-generated output",
+  "model critique",
+  "formal organization vs informal organization",
+  "VP of HR",
+  "restructuring model",
+  "career stage",
+  "upskilling"
+ ],
+ "topics_covered": []
+}

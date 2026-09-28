@@ -1,0 +1,70 @@
+{
+ "id": "eeb1d28bfaa1b088966cb163bb41fe4c2868c73b",
+ "source_id": "workplace_insight",
+ "url": "https://workplaceinsight.net/health-insurance-renewal-why-you-should-review-before-you-renew/?utm_source=rss&utm_medium=rss&utm_campaign=health-insurance-renewal-why-you-should-review-before-you-renew",
+ "published_at": "2026-09-22",
+ "observed_at": "2026-09-28",
+ "summary": "A Workplace Insight guide (sponsored/advisory in tone) arguing that UK businesses should actively review business health insurance rather than auto-renewing. It explains why premiums rise at renewal: medical inflation driven by drug costs, specialist fees, diagnostic technology and hospital facilities; the policy's own claims experience; age-related repricing as the workforce ages; and insurer portfolio repricing decisions unrelated to the individual policy, such as an insurer becoming more or less competitive in the SME market.\n\nIt then sets out a five-part renewal review. First, whether cover still fits the team, since headcount, age profile, benefit expectations and occupational risk profiles change, leaving cover either insufficient or padded with unused benefits. Second, whether the premium is competitive, which requires a like-for-like market comparison across multiple insurers accounting for hospital networks, excess levels, outpatient limits and added-value services. Third, whether cover level and structure remain appropriate, given that product tiers shift and mental health provision, virtual GP access and cancer care pathways have evolved significantly. Fourth, whether the underwriting basis is still right: under moratorium underwriting, employees on the scheme two or more years may have had exclusions lifted, and a growing business may now qualify for medical history disregarded underwriting. Any change of underwriting basis takes effect at renewal, not mid-year. Fifth, whether the insurer performs well on claims, judged by process simplicity, assessment and payment speed, and network accessibility, with published ABI claims data offering a comparison baseline.\n\nThe piece closes (text truncated) on switching insurers: a legitimate outcome of review, but new underwriting terms apply as if the scheme were brand new, with the moratorium look-back period recalculated from the new start date, potentially reinstating exclusions previously lifted.\n\nCore message: treat renewal as an active decision, brokered and benchmarked, not an annual formality.",
+ "claims": [
+  {
+   "claim": "Medical inflation has consistently outpaced general inflation in the UK, so health insurance premiums typically rise by more than CPI each year",
+   "stat": "premiums rise by more than CPI",
+   "attribution": "Workplace Insight article"
+  },
+  {
+   "claim": "Under moratorium underwriting, employees on a scheme for two or more years may have had previous exclusions lifted",
+   "stat": "two or more years",
+   "attribution": "Workplace Insight article"
+  },
+  {
+   "claim": "Any change of underwriting basis takes effect at renewal, not mid-year",
+   "stat": "",
+   "attribution": "Workplace Insight article"
+  },
+  {
+   "claim": "When switching insurer, the new policy's underwriting terms apply as if the scheme were brand new, with the moratorium look-back period calculated from the new start date",
+   "stat": "",
+   "attribution": "Workplace Insight article"
+  },
+  {
+   "claim": "Published ABI claims data provides a baseline for comparing claim payment rates across insurers",
+   "stat": "",
+   "attribution": "Workplace Insight article, citing ABI"
+  },
+  {
+   "claim": "The gap between an auto-renewed premium and a properly reviewed one is often significant and widens each year a review is skipped",
+   "stat": "",
+   "attribution": "Workplace Insight article"
+  }
+ ],
+ "vocabulary": [
+  "business health insurance",
+  "renewal notice",
+  "auto-renewed policy",
+  "medical inflation",
+  "claims experience",
+  "age-related repricing",
+  "insurer portfolio adjustments",
+  "SME market",
+  "benchmarking",
+  "like-for-like comparison",
+  "hospital networks",
+  "excess levels",
+  "outpatient limits",
+  "added-value services",
+  "product tiers",
+  "virtual GP access",
+  "mental health provision",
+  "cancer care pathways",
+  "underwriting basis",
+  "moratorium underwriting",
+  "medical history disregarded underwriting",
+  "pre-existing conditions",
+  "look-back period",
+  "claims process",
+  "ABI claims data",
+  "broker",
+  "employee benefits"
+ ],
+ "topics_covered": []
+}

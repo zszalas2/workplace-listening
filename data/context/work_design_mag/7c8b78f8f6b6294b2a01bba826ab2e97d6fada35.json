@@ -1,0 +1,81 @@
+{
+ "id": "7c8b78f8f6b6294b2a01bba826ab2e97d6fada35",
+ "source_id": "work_design_mag",
+ "url": "https://www.workdesign.com/2026/09/engagement-does-not-drive-revenue-so-what-does/",
+ "published_at": "2026-09-25",
+ "observed_at": "2026-09-28",
+ "summary": "Work Design Magazine podcast show notes for an episode in which host Bob Fox interviews Dr. Yasmeen Coning, founder of Ember, about the limits of employee engagement as a business metric. Coning's argument is that engagement is largely a sentiment measure and therefore too unstable to predict revenue, retention, or performance. She proposes instead collective organizational identification, defined as how strongly people connect their work to their own self-concept, as a more stable behavioral signal.\n\nThe episode outlines the science behind identification and how it differs from engagement, and positions strategy, culture, and identification as a layered stack. Ember has productized this into a Workplace Identification Score (WIS), which the show notes say is being used by leaders to design offices, operating models, and hybrid work patterns based on observed human behavior rather than guesswork. Coning summarizes her thesis as \"Workforce is the new workplace.\"\n\nEmber's framework is built on six core factors listed in the notes: core identity, connected leadership, collective drive, aligned ambition, future affinity, and market gravity. The conversation covers how workplace data informs decisions about collaboration areas, innovation spaces, and office consolidation, and argues that identity-based measurement can support diversity by recognizing the whole person rather than a narrow work persona. The episode closes with what Coning says should be the first question any headquarters planning team asks.\n\nThe piece is promotional show-note copy rather than reported journalism, with no cited studies, sample sizes, or client results. It sits in the workplace strategy and people-analytics space, adjacent to hybrid work design, but does not address operational workplace topics such as booking systems, visitor management, attendance tracking, or facilities administration. Credits list the show as created and directed by Bob Fox and produced by Work Design Studios.",
+ "claims": [
+  {
+   "claim": "Engagement, the metric most companies rely on, is too sentiment-driven to reliably predict revenue, retention, or performance",
+   "stat": "",
+   "attribution": "Dr. Yasmeen Coning, founder of Ember"
+  },
+  {
+   "claim": "Employee happiness and engagement do not reliably translate into better business outcomes",
+   "stat": "",
+   "attribution": "Dr. Yasmeen Coning"
+  },
+  {
+   "claim": "Collective organizational identification, how strongly people connect their work to their self-concept, is the real driver of performance",
+   "stat": "",
+   "attribution": "Dr. Yasmeen Coning"
+  },
+  {
+   "claim": "Identification functions as a stable behavioral signal whereas engagement is sentiment",
+   "stat": "",
+   "attribution": "Dr. Yasmeen Coning"
+  },
+  {
+   "claim": "Ember's Workplace Identification Score is helping leaders design offices, operating models, and hybrid work patterns based on actual human behavior",
+   "stat": "",
+   "attribution": "Work Design Magazine show notes / Ember"
+  },
+  {
+   "claim": "Ember's model is built on six core factors: core identity, connected leadership, collective drive, aligned ambition, future affinity, and market gravity",
+   "stat": "six core factors",
+   "attribution": "Ember"
+  },
+  {
+   "claim": "Workplace data can shape decisions about collaboration areas, innovation spaces, and office consolidation",
+   "stat": "",
+   "attribution": "Dr. Yasmeen Coning"
+  },
+  {
+   "claim": "Identity-based measurement can support diversity by recognizing the whole person",
+   "stat": "",
+   "attribution": "Dr. Yasmeen Coning"
+  },
+  {
+   "claim": "\"Workforce is the new workplace\"",
+   "stat": "",
+   "attribution": "Dr. Yasmeen Coning"
+  }
+ ],
+ "vocabulary": [
+  "engagement",
+  "employee engagement",
+  "collective organizational identification",
+  "self-concept",
+  "Workplace Identification Score (WIS)",
+  "Ember",
+  "sentiment vs. behavioral signal",
+  "strategy, culture, and identification stack",
+  "core identity",
+  "connected leadership",
+  "collective drive",
+  "aligned ambition",
+  "future affinity",
+  "market gravity",
+  "operating models",
+  "hybrid work patterns",
+  "workplace design",
+  "workplace data",
+  "collaboration areas",
+  "innovation spaces",
+  "office consolidation",
+  "headquarters planning team",
+  "workforce is the new workplace"
+ ],
+ "topics_covered": []
+}

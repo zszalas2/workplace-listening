@@ -1,0 +1,36 @@
+{
+ "id": "24128df4bfd34b79d45655fd9f100a2aeffcab9b",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/book-briefing-the-insider-advantage-by-matthew-bidwell/",
+ "published_at": "2026-09-24",
+ "observed_at": "2026-09-28",
+ "summary": "Charter's Book Briefing covers The Insider Advantage by Wharton management professor Matthew Bidwell, which challenges the conventional career wisdom that job-hopping beats staying put. Drawing on more than two decades of research into how careers unfold inside organizations, Bidwell argues that leaders who grow within a single employer retain real, measurable advantages over those who advance by switching companies. He cites a study of performance ratings data showing that internally promoted employees tend to outperform external hires on their ratings for roughly two years. Bidwell attributes this gap not to individual quality but to the time needed to build trusted relationships and absorb organizational culture. In an interview with Charter he said it is not that internal promotes are better people, but that it takes a long time to learn to be effective inside a company. The piece is framed as a career and talent management item rather than a workplace operations or facilities story, and does not address office space, attendance, scheduling, or workplace technology topics.",
+ "claims": [
+  {
+   "claim": "Employees promoted from within tend to outperform outside hires on performance ratings for about two years, largely because building trusted relationships and learning the culture takes time.",
+   "stat": "roughly two years",
+   "attribution": "Matthew Bidwell, Wharton management professor, citing a study in The Insider Advantage"
+  },
+  {
+   "claim": "The performance gap is not about individual quality but about how long it takes to become effective in a company.",
+   "stat": "",
+   "attribution": "Matthew Bidwell, in an interview with Charter"
+  },
+  {
+   "claim": "Bidwell has spent more than two decades studying how careers unfold inside organizations.",
+   "stat": "more than two decades",
+   "attribution": "Charter"
+  }
+ ],
+ "vocabulary": [
+  "job-hopping",
+  "internal promotion",
+  "outside hires",
+  "performance ratings",
+  "career mobility",
+  "organizational culture",
+  "talent management",
+  "Book Briefing"
+ ],
+ "topics_covered": []
+}

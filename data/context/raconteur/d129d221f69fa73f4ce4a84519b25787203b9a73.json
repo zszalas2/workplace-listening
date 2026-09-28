@@ -1,0 +1,60 @@
+{
+ "id": "d129d221f69fa73f4ce4a84519b25787203b9a73",
+ "source_id": "raconteur",
+ "url": "https://www.raconteur.net/ai/why-adding-more-ai-tools-will-not-make-work-flow",
+ "published_at": "2026-09-24",
+ "observed_at": "2026-09-28",
+ "summary": "A sponsored-feature style piece arguing that adding AI tools one at a time does not transform how work flows. Most enterprises have layered AI subscriptions onto existing processes, systems and organisational boundaries, producing task-level time savings but little enterprise-wide change. The article cites Gartner and McKinsey data showing limited scaling and profitability impact, and notes that fragmentation creates governance and security problems requiring human oversight and controls over AI access to sensitive business and customer data.\n\nOneAdvanced, a sector-focused AI-powered SaaS provider, is positioned as a guide. Chief Product Officer Marko Perisic argues that applying AI on top of archaic workflows creates an \"AI supercharged mess\" and more compliance problems than benefits. He calls for conscious, purposeful, structured transformation: rethinking workflows from the ground up, deleting steps rather than automating them, and asking what the organisation actually wants to accomplish.\n\nThe piece describes persona-first workflow design, where software is built around the needs, responsibilities and context of a specific role such as a Financial Controller or Chief Marketing Officer. OneAdvanced maps the key workflows for that role, assesses potential return in time, efficiency or cost, and prioritises the highest-value ones.\n\nA case study covers OneAdvanced IQ, described as connecting people, data, workflows and AI in one system of work. A law firm used IQ to automate non-billable client onboarding, including anti-money laundering checks. A new-client request triggers the workflow; AI agents gather information, run checks, flag exceptions and return evidence for review, escalating ambiguous cases requiring professional judgement to a human rather than deciding autonomously.\n\nOn governance, Perisic recommends starting with very narrow, limited permission sets and expanding consciously with controls, so people understand what data agents can access and what actions they can take. Organisations also need visibility into where sensitive data sits, explainability for AI decisions, and clear checkpoints for human review, approval or intervention proportionate to customer, patient or citizen impact.",
+ "claims": [
+  {
+   "claim": "Only a minority of enterprises have successfully scaled AI across multiple business departments",
+   "stat": "22% of enterprises",
+   "attribution": "Gartner, survey of 1,300 leaders"
+  },
+  {
+   "claim": "A minority of leaders say AI has increased profitability",
+   "stat": "37% of 1,700 leaders surveyed",
+   "attribution": "McKinsey"
+  },
+  {
+   "claim": "Applying AI to existing poor workflows produces an 'AI supercharged mess' and in many cases creates more problems and compliance issues than positive outcomes",
+   "stat": "",
+   "attribution": "Marko Perisic, Chief Product Officer, OneAdvanced"
+  },
+  {
+   "claim": "A law firm used OneAdvanced IQ to automate client onboarding, a time-consuming non-billable process that includes anti-money laundering checks, freeing legal experts for higher-value work",
+   "stat": "",
+   "attribution": "OneAdvanced / Marko Perisic"
+  },
+  {
+   "claim": "Organisations should start AI deployments with very narrow, limited permission sets and expand consciously with controls",
+   "stat": "",
+   "attribution": "Marko Perisic, OneAdvanced"
+  }
+ ],
+ "vocabulary": [
+  "AI adoption",
+  "scaled AI",
+  "intelligent workflows",
+  "agents",
+  "AI agents",
+  "end-to-end workflow",
+  "persona-first workflows",
+  "system of work",
+  "OneAdvanced IQ",
+  "AI supercharged mess",
+  "permission sets",
+  "human oversight",
+  "human review, approval, or intervention",
+  "governance and security",
+  "explainability",
+  "client onboarding",
+  "anti-money laundering checks",
+  "sector-focused SaaS",
+  "structured transformation",
+  "control framework"
+ ],
+ "topics_covered": [
+  "agentic_ai_tooling_and_governance"
+ ]
+}

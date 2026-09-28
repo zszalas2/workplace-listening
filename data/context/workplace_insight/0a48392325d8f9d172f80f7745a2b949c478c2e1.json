@@ -1,0 +1,81 @@
+{
+ "id": "0a48392325d8f9d172f80f7745a2b949c478c2e1",
+ "source_id": "workplace_insight",
+ "url": "https://workplaceinsight.net/the-right-workplace-culture-can-enhance-trust-creativity-and-performance-report-claims/?utm_source=rss&utm_medium=rss&utm_campaign=the-right-workplace-culture-can-enhance-trust-creativity-and-performance-report-claims",
+ "published_at": "2026-09-24",
+ "observed_at": "2026-09-28",
+ "summary": "Workplace Insight reports on O.C. Tanner's 2027 Global Culture Report, based on responses from more than 25,000 workers across 23 countries. The report argues organisational culture acts as an \"amplifier\" that either worsens uncertainty and burnout or strengthens trust, connection and purpose, and that employers should focus on compassion, employee development, trust and recognition.\n\nFour priority areas are identified: embedding compassion into organisational processes; creating growth opportunities; developing \"active trust\"; and recognising people for contributing ideas, including unsuccessful ones. Organisations that build care into systems and policies are said to be 11 times more likely to report growth and innovation, while organisational compassion is linked to 88 percent lower odds of burnout among frontline employees.\n\nThe report separates conventional learning and development from a broader \"culture of growth\" defined by six factors: empathy, communication, community, support, opportunity and balance. Where all six exist, organisations reportedly have 48 times higher odds of \"cultural elasticity\", the capacity to build skills and adapt. Frontline workers in these organisations report a greater sense of opportunity and success.\n\nTrust is framed as an organisational practice rather than an interpersonal trait, with six components: transparency, reliability, accountability, judgement, safety and care. Where present, employees are 14 times more likely to believe their organisation cares about them. Frontline workers are less likely than office-based colleagues to trust their managers.\n\nOn recognition, employees not recognised for trying new things have 93 percent lower odds of thinking creatively, while those recognised across developing, sharing and acting on ideas are 21 times more likely to show innovative behaviours.\n\nDr Alexander Lovell of the O.C. Tanner Institute said employers demand more from staff without fixing conditions, warning capacity is not limitless. Robert Ordever, Managing Director Europe, said European employers have progressed on work-life balance and flexibility but are neglecting recognition amid economic uncertainty and AI-led transformation.",
+ "claims": [
+  {
+   "claim": "The report is based on data from workers across multiple countries",
+   "stat": "more than 25,000 workers in 23 countries",
+   "attribution": "O.C. Tanner 2027 Global Culture Report"
+  },
+  {
+   "claim": "Organisations that incorporate care into systems and policies report more growth and innovation",
+   "stat": "11 times more likely",
+   "attribution": "O.C. Tanner 2027 Global Culture Report"
+  },
+  {
+   "claim": "Organisational compassion is associated with lower burnout among frontline employees",
+   "stat": "88 percent lower odds of burnout",
+   "attribution": "O.C. Tanner 2027 Global Culture Report"
+  },
+  {
+   "claim": "Organisations with all six culture-of-growth factors show higher cultural elasticity",
+   "stat": "48 times higher odds",
+   "attribution": "O.C. Tanner 2027 Global Culture Report"
+  },
+  {
+   "claim": "Where active trust components are evident, employees believe their organisation cares about them",
+   "stat": "14 times more likely",
+   "attribution": "O.C. Tanner 2027 Global Culture Report"
+  },
+  {
+   "claim": "Employees not recognised for trying new things are less likely to think creatively",
+   "stat": "93 percent lower odds",
+   "attribution": "O.C. Tanner 2027 Global Culture Report"
+  },
+  {
+   "claim": "Employees recognised across developing, sharing and acting on ideas demonstrate more innovative behaviour",
+   "stat": "21 times more likely",
+   "attribution": "O.C. Tanner 2027 Global Culture Report"
+  },
+  {
+   "claim": "Frontline workers are less likely than office-based colleagues to report trusting their managers",
+   "stat": "",
+   "attribution": "O.C. Tanner 2027 Global Culture Report"
+  },
+  {
+   "claim": "Organisations are demanding more from employees without addressing the conditions needed to sustain those demands",
+   "stat": "",
+   "attribution": "Dr Alexander Lovell, Vice President, O.C. Tanner Institute"
+  },
+  {
+   "claim": "European employers have progressed on work-life balance and flexibility but are neglecting recognition amid economic uncertainty and AI-led transformation",
+   "stat": "",
+   "attribution": "Robert Ordever, Managing Director Europe, O.C. Tanner"
+  }
+ ],
+ "vocabulary": [
+  "workplace culture",
+  "2027 Global Culture Report",
+  "organisational culture",
+  "amplifier",
+  "organisational compassion",
+  "culture of growth",
+  "cultural elasticity",
+  "active trust",
+  "recognition",
+  "burnout",
+  "frontline employees",
+  "learning and development",
+  "employee development",
+  "innovative behaviours",
+  "work-life balance",
+  "flexibility",
+  "AI-led transformation",
+  "engagement"
+ ],
+ "topics_covered": []
+}

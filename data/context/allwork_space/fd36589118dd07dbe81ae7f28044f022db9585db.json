@@ -1,0 +1,84 @@
+{
+ "id": "fd36589118dd07dbe81ae7f28044f022db9585db",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/09/denver-office-leasing-hits-a-four-year-high-as-tenants-sign-longer-deals/",
+ "published_at": "2026-09-28",
+ "observed_at": "2026-09-28",
+ "summary": "Allwork.Space reports Denver's office market is improving, with leasing activity at its highest level since early 2022. Q2 office leasing totaled 1.7 million square feet, up 30% year over year, and tenants absorbed roughly 120,000 square feet more than they vacated, per CBRE and Cushman & Wakefield.\n\nThe more notable shift is in deal structure. Brokers cited by Bisnow say tenants are pursuing five-, 10- and 15-year leases after several years of shorter commitments and smaller footprints. Named examples include UMB Bank's 55,000-square-foot prelease in Cherry Creek North, SM Energy's 50,000-square-foot expansion at 1700 Lincoln St., and Alterra Mountain Co.'s nearly 65,000-square-foot, 12-year lease at 101 W. Colfax Ave.\n\nFundamentals remain weak. Denver office vacancy sits between 26.6% and 28.7%, near 30%. Some large employers, including Optiv Security and Palantir Technologies, are moving headquarters out of state, adding to supply pressure.\n\nLandlords are competing aggressively on concessions. Tenant improvement allowances have risen from about $90 to $100 per square foot to $125 to $150 per square foot. Some deals include multiple years of free rent and up to three years of free parking.\n\nBrokers caution that leasing momentum will take time to reduce vacancy materially, since significant space still needs to be absorbed. That means tenants should retain considerable negotiating leverage even as larger, longer-term deals become more common.\n\nThe piece is a commercial real estate market update rather than a workplace operations story. It does not address hybrid policy specifics, desk or room booking technology, visitor management, or workplace analytics tooling, though the move to longer leases implies more employer confidence in sustained office footprint needs.",
+ "claims": [
+  {
+   "claim": "Denver office leasing reached its highest level since early 2022",
+   "stat": "1.7 million square feet in Q2, up 30% year over year",
+   "attribution": "CBRE and Cushman & Wakefield, via Allwork.Space"
+  },
+  {
+   "claim": "Denver tenants absorbed more space than they vacated",
+   "stat": "about 120,000 square feet of net absorption",
+   "attribution": "CBRE and Cushman & Wakefield"
+  },
+  {
+   "claim": "Tenants are increasingly signing longer leases after years of short commitments",
+   "stat": "five-, 10- and 15-year lease terms",
+   "attribution": "Brokers, via Bisnow"
+  },
+  {
+   "claim": "UMB Bank preleased space in Cherry Creek North",
+   "stat": "55,000 square feet",
+   "attribution": "Allwork.Space"
+  },
+  {
+   "claim": "SM Energy expanded at 1700 Lincoln St.",
+   "stat": "50,000 square feet",
+   "attribution": "Allwork.Space"
+  },
+  {
+   "claim": "Alterra Mountain Co. signed a long-term lease at 101 W. Colfax Ave.",
+   "stat": "nearly 65,000 square feet, 12-year term",
+   "attribution": "Allwork.Space"
+  },
+  {
+   "claim": "Denver office vacancy remains near 30%",
+   "stat": "between 26.6% and 28.7%",
+   "attribution": "Allwork.Space"
+  },
+  {
+   "claim": "Some major employers are relocating headquarters out of Colorado",
+   "stat": "",
+   "attribution": "Allwork.Space, citing Optiv Security and Palantir Technologies"
+  },
+  {
+   "claim": "Tenant improvement allowances have risen sharply as landlords compete",
+   "stat": "from roughly $90-$100 per square foot to $125-$150 per square foot",
+   "attribution": "Allwork.Space"
+  },
+  {
+   "claim": "Some Denver lease deals include free rent and free parking concessions",
+   "stat": "multiple years of free rent and up to three years of free parking",
+   "attribution": "Allwork.Space"
+  },
+  {
+   "claim": "Tenants are likely to retain considerable negotiating power despite leasing gains",
+   "stat": "",
+   "attribution": "Brokers, via Allwork.Space"
+  }
+ ],
+ "vocabulary": [
+  "office leasing",
+  "leasing activity",
+  "net absorption",
+  "prelease",
+  "office vacancy",
+  "tenant improvement allowances",
+  "free rent",
+  "concessions",
+  "footprint",
+  "lease term",
+  "negotiating power",
+  "square feet",
+  "headquarters relocation",
+  "CBRE",
+  "Cushman & Wakefield",
+  "Bisnow"
+ ],
+ "topics_covered": []
+}

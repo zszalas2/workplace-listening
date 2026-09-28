@@ -1,0 +1,67 @@
+{
+ "id": "da93d9448c0152961575d989dc02e57f1e5e4272",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/when-ai-fails-rebuilding-a-successful-foundation-to-deliver-measurable-results/",
+ "published_at": "2026-09-25",
+ "observed_at": "2026-09-28",
+ "summary": "An FMJ/FMLink article argues that AI projects in facility management are easy to pilot but hard to scale, because live operations introduce variables pilots ignore: building management systems never designed to exchange data, inconsistent maintenance records across sites, and workforce pressures. The author's thesis is that operational infrastructure and organizational culture, not the AI models, determine whether value is delivered.\n\nEvidence comes from a Censuswide study for Fluke Corporation covering more than 600 senior decision-makers and maintenance professionals in the US, UK and Germany. It found that two-thirds of organizations allocate 16 to 30 percent of maintenance budgets to new technologies, with the largest share going to behind-the-scenes areas: cybersecurity (business continuity), data management (decision quality), generative AI and industrial AI (reliability and uptime). The framing is a shift from experimentation to measurable operational outcomes such as improved asset performance, reduced maintenance cost and lower energy consumption, with accountability heightened where compliance, occupant comfort and business continuity are at stake.\n\nA central section explains why historical FM data is hard for AI to interpret. Maintenance notes like \"chiller inspected, operating normally\" or an unusual vibration reading carry meaning for the engineer who logged them but lack the site-specific context a model would need. Teams already hold vast data across CMMS platforms, BMS, energy monitoring software and asset databases; the constraint is consistency, contextualization and accessibility, so scaling AI demands prior work on data quality, governance and standardization.\n\nFinally, the piece cites Fluke research on digital maturity finding roughly 78 percent of reported barriers to progress relate to workforce and capability issues rather than technology or budget. Many organizations have more technology than people prepared to use it. The teams that extract value invest equally in workforce development, process maturity and knowledge transfer. The article ends pointing toward the distinction between generative AI and industrial AI.",
+ "claims": [
+  {
+   "claim": "Two-thirds of organizations allocate between 16 and 30 percent of their maintenance budgets to new technologies",
+   "stat": "two-thirds; 16-30% of maintenance budgets",
+   "attribution": "Censuswide research conducted for Fluke Corporation"
+  },
+  {
+   "claim": "The study surveyed senior decision-makers and maintenance professionals across three countries",
+   "stat": "more than 600 respondents across the US, UK and Germany",
+   "attribution": "Censuswide for Fluke Corporation"
+  },
+  {
+   "claim": "Most reported barriers to digital progress are workforce and capability issues rather than technology or budget constraints",
+   "stat": "approximately 78% of reported barriers",
+   "attribution": "Fluke digital maturity research"
+  },
+  {
+   "claim": "Largest technology investments are going to cybersecurity, data management, generative AI and industrial AI because they tie directly to operational performance",
+   "stat": "",
+   "attribution": "Censuswide/Fluke research as interpreted by the article"
+  },
+  {
+   "claim": "The core data problem in FM is not volume but whether information is consistent, contextualized and accessible enough to support reliable decisions",
+   "stat": "",
+   "attribution": "article author (FMJ)"
+  }
+ ],
+ "vocabulary": [
+  "facility management",
+  "FM leaders",
+  "pilot programs",
+  "building management systems (BMS)",
+  "CMMS platforms",
+  "energy monitoring software",
+  "asset databases",
+  "asset reliability",
+  "asset management",
+  "operational continuity",
+  "predictive models",
+  "dashboards",
+  "generative AI",
+  "industrial AI",
+  "cybersecurity",
+  "data management",
+  "data quality, governance and standardization",
+  "digital maturity",
+  "process maturity",
+  "knowledge transfer",
+  "maintenance budgets",
+  "uptime",
+  "occupant comfort",
+  "compliance",
+  "HVAC",
+  "chiller",
+  "vibration reading",
+  "measurable operational outcomes",
+  "workforce capability"
+ ],
+ "topics_covered": []
+}

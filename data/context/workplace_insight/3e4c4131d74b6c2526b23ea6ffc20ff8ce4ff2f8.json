@@ -1,0 +1,91 @@
+{
+ "id": "3e4c4131d74b6c2526b23ea6ffc20ff8ce4ff2f8",
+ "source_id": "workplace_insight",
+ "url": "https://workplaceinsight.net/hybrid-working-could-deliver-productivity-gains-from-staff-retention-alone-report-claims/?utm_source=rss&utm_medium=rss&utm_campaign=hybrid-working-could-deliver-productivity-gains-from-staff-retention-alone-report-claims",
+ "published_at": "2026-09-24",
+ "observed_at": "2026-09-28",
+ "summary": "Workplace Insight reports on economic modelling from International Workplace Group (IWG) and Arup arguing that hybrid working could generate substantial productivity gains, primarily through improved staff retention. The modelling estimates retention-linked gains worth $204.7 billion to the US economy and £10.8 billion to the UK over five years, making retention the largest single source of projected benefit. The argument is that lower turnover preserves experience, institutional knowledge and productive capacity, not just recruitment cost savings. Reduced disruption from lost organisational knowledge is valued at $65.5 billion (US) and £5.7 billion (UK) over five years, improved talent attraction at $98.3 billion and £6.5 billion, and recruitment and onboarding efficiencies at $9.4 billion and £600 million.\n\nIWG also cites survey research on flexibility as a recruitment lever: 81 percent of chief human resources officers said hybrid working was important for retaining top talent, and 86 percent identified flexible working as the benefit most sought by prospective employees. Hybrid or flexible working was cited by 37 percent of business leaders as a way to attract tech talent, ahead of competitive pay at 35 percent. Some 72 percent said flexible working mattered for attracting younger leaders, and 78 percent believed employers offering hybrid arrangements have an advantage over those that do not.\n\nThe piece also touches on AI: four in five CEOs surveyed by IWG said combining AI with hybrid working increased employee productivity, while around 60 percent of US workers and 68 percent of UK workers said AI was improving their hybrid work experience.\n\nWorkplace Insight adds an explicit caveat that the figures derive from economic modelling and IWG-commissioned research rather than observed economy-wide productivity gains, so projections depend on assumptions about the links between flexible working, recruitment, retention and productivity. The item is framed as a contribution to the ongoing debate over working location and organisational performance as employers reassess pandemic-era policies.",
+ "claims": [
+  {
+   "claim": "Improved employee retention linked to flexible working could be worth billions to the US and UK economies over five years",
+   "stat": "$204.7 billion (US); £10.8 billion (UK) over five years",
+   "attribution": "IWG and Arup economic modelling"
+  },
+  {
+   "claim": "Reducing disruption from loss of organisational knowledge could contribute productivity gains",
+   "stat": "$65.5 billion (US); £5.7 billion (UK) over five years",
+   "attribution": "IWG and Arup"
+  },
+  {
+   "claim": "Improved talent attraction could contribute additional productivity gains",
+   "stat": "$98.3 billion (US); £6.5 billion (UK)",
+   "attribution": "IWG and Arup"
+  },
+  {
+   "claim": "Recruitment and onboarding efficiencies add further value",
+   "stat": "$9.4 billion (US); £600 million (UK)",
+   "attribution": "IWG and Arup"
+  },
+  {
+   "claim": "Hybrid working is seen as important for retaining top talent by HR leaders",
+   "stat": "81 percent of chief human resources officers",
+   "attribution": "Research cited by IWG"
+  },
+  {
+   "claim": "Flexible working is the benefit most sought by prospective employees",
+   "stat": "86 percent of CHROs identified it",
+   "attribution": "Research cited by IWG"
+  },
+  {
+   "claim": "Hybrid or flexible working is the most commonly cited strategy for attracting technology workers, ahead of pay",
+   "stat": "37 percent cited hybrid/flexible working vs 35 percent competitive pay",
+   "attribution": "IWG survey of business leaders"
+  },
+  {
+   "claim": "Flexible working is important for attracting younger leaders",
+   "stat": "72 percent of business leaders",
+   "attribution": "IWG survey"
+  },
+  {
+   "claim": "Employers offering hybrid or flexible arrangements are believed to have an advantage",
+   "stat": "78 percent of business leaders",
+   "attribution": "IWG survey"
+  },
+  {
+   "claim": "Combining AI with hybrid working increases employee productivity",
+   "stat": "Four in five CEOs",
+   "attribution": "IWG CEO survey"
+  },
+  {
+   "claim": "AI is improving workers' experience of hybrid work",
+   "stat": "About 60 percent of US workers and 68 percent of UK workers",
+   "attribution": "IWG survey"
+  },
+  {
+   "claim": "The projected values are modelled rather than observed and depend on assumptions used",
+   "stat": "",
+   "attribution": "Workplace Insight"
+  }
+ ],
+ "vocabulary": [
+  "hybrid working",
+  "flexible working",
+  "staff retention",
+  "talent attraction",
+  "institutional knowledge",
+  "organisational knowledge",
+  "employee turnover",
+  "recruitment and onboarding",
+  "chief human resources officers (CHROs)",
+  "economic modelling",
+  "productivity gains",
+  "tech talent",
+  "workplace policies",
+  "AI and hybrid working",
+  "International Workplace Group (IWG)",
+  "Arup"
+ ],
+ "topics_covered": [
+  "hybrid_rto_mandate_pushback"
+ ]
+}

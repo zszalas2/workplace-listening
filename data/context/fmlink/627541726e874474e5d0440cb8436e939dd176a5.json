@@ -1,0 +1,73 @@
+{
+ "id": "627541726e874474e5d0440cb8436e939dd176a5",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/local-government-and-education-market-adds-42000-jobs-in-august/",
+ "published_at": "2026-09-21",
+ "observed_at": "2026-09-28",
+ "summary": "FMLink reports August US labor market data with a focus on facility management hiring in local government and education. Local government and education added 42,000 jobs in August, largely offsetting a decline the previous month. The category includes public universities, colleges, and related administrative roles, and was among the top contributors to total job gains. Other gains came from food services and drinking places (59,000) and leisure/hospitality (62,000).\n\nOverall, employers created 162,000 jobs in August, far surpassing forecaster expectations. July figures were revised upward by 21,000 to a gain of 51,000, reversing the Bureau of Labor Statistics' earlier report that employers cut 23,000 jobs in July. June payroll gains were also revised higher, indicating the summer job market was stronger than economists predicted. ADP's National Employment Report, released September 2, showed a much lower figure of 38,000 private-sector jobs added in August. The unemployment rate held steady at 4.1%, and the labor force participation rate rose to 61.6% after falling to 61.4% the prior month. The article frames the data as encouraging after spring uncertainty about hiring momentum, saying the labor market appears to be on sturdier footing.\n\nThe bulk of the piece is a listing of open facility management roles from the FMLink Career Center. Higher education postings include Associate Vice Chancellor and Chief Facilities Officer at Vanderbilt, Executive Director of Facilities at Harvard Medical School, Associate Director of Facilities at University of Georgia, Associate VP for Facilities Management and Campus Planner at University at Albany (SUNY), Director of College Facilities Planning at University of Delaware, Director of Facilities Planning and Construction at Santa Monica College, and a Mechanical Maintenance Person at Roger Williams University. Government postings include roles at Systems Application & Technologies (US Army Dugway Proving Ground), NY CREATES, Leidos, Trademasters Services, and Anser. The piece promotes the FMLink Job Board and its career planning resources.",
+ "claims": [
+  {
+   "claim": "Local government and education added jobs in August, largely offsetting a prior-month decrease",
+   "stat": "42,000 jobs",
+   "attribution": "FMLink, citing labor market data"
+  },
+  {
+   "claim": "Food services and drinking places added jobs in August",
+   "stat": "59,000",
+   "attribution": "FMLink"
+  },
+  {
+   "claim": "Leisure and hospitality added jobs in August",
+   "stat": "62,000",
+   "attribution": "FMLink"
+  },
+  {
+   "claim": "Total August job creation by employers surpassed forecaster expectations",
+   "stat": "162,000 jobs",
+   "attribution": "FMLink"
+  },
+  {
+   "claim": "July figures were revised upward, bringing July to a gain rather than a loss",
+   "stat": "revised up 21,000 to 51,000, versus previously reported loss of 23,000",
+   "attribution": "Bureau of Labor Statistics (BLS)"
+  },
+  {
+   "claim": "Private employers added far fewer jobs in August than the headline figure",
+   "stat": "38,000",
+   "attribution": "ADP National Employment Report, released September 2"
+  },
+  {
+   "claim": "The unemployment rate was unchanged in August",
+   "stat": "4.1%",
+   "attribution": "FMLink"
+  },
+  {
+   "claim": "The labor force participation rate increased in August after falling the previous month",
+   "stat": "61.6% in August, up from 61.4%",
+   "attribution": "FMLink"
+  },
+  {
+   "claim": "June payroll gains were also revised higher, indicating a stronger summer job market than economists predicted",
+   "stat": "",
+   "attribution": "FMLink"
+  }
+ ],
+ "vocabulary": [
+  "facility manager",
+  "facilities management",
+  "FMLink Career Center",
+  "FMLink Job Board",
+  "Bureau of Labor Statistics (BLS)",
+  "ADP National Employment Report",
+  "payroll gains",
+  "labor force participation rate",
+  "unemployment rate",
+  "Chief Facilities Officer",
+  "Campus Planner",
+  "Planning, Design, and Construction",
+  "O&M",
+  "facilities and infrastructure",
+  "commercial planning and design"
+ ],
+ "topics_covered": []
+}
