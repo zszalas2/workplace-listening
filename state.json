@@ -4590,6 +4590,61 @@
    "sources_error": 0,
    "sources_skipped": 0,
    "new_items": 93
+  },
+  {
+   "run_id": "2026-10-01",
+   "cadence": "monthly",
+   "sources": [
+    {
+     "id": "paa_seed_keywords",
+     "new": 0,
+     "note": "ok"
+    },
+    {
+     "id": "capterra_reviews",
+     "new": 0,
+     "note": "ok"
+    },
+    {
+     "id": "trustradius_reviews",
+     "new": 0,
+     "note": "ok"
+    },
+    {
+     "id": "trends_seed_keywords",
+     "new": 0,
+     "note": "ok"
+    },
+    {
+     "id": "reports_gensler",
+     "new": 0,
+     "note": "ok"
+    },
+    {
+     "id": "reports_jll",
+     "new": 0,
+     "note": "ok"
+    },
+    {
+     "id": "reports_cbre",
+     "new": 0,
+     "note": "ok"
+    },
+    {
+     "id": "reports_gallup",
+     "new": 0,
+     "note": "ok"
+    },
+    {
+     "id": "reports_leesman",
+     "new": 0,
+     "note": "ok"
+    }
+   ],
+   "sources_ok": 9,
+   "sources_error": 0,
+   "sources_skipped": 0,
+   "new_items": 0
   }
  ]
 }
