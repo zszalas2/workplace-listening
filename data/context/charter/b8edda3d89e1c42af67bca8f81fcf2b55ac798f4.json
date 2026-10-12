@@ -1,0 +1,85 @@
+{
+ "id": "b8edda3d89e1c42af67bca8f81fcf2b55ac798f4",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/how-to-maintain-the-heartbeat-of-work-in-the-age-of-ai/",
+ "published_at": "2026-10-04",
+ "observed_at": "2026-10-12",
+ "summary": "A Charter newsletter item combining AI-and-work news briefs with an interview with MIT professor Sherry Turkle, author of Artificial Intimacy.\n\nNews briefs: California Governor Gavin Newsom signed several AI workplace bills, including the \"No Robo Bosses Act,\" which bars employers from relying on automated decision-making systems to fire or discipline workers and takes effect July 1, 2027. Companion laws ban AI workplace surveillance tools that infer emotional state or collect neural data, and prohibit AI surveillance of employees in workplace bathrooms. A Stanford and King's College London study across 41 countries found generative AI adopters are shifting workforce composition toward senior staff rather than cutting headcount, with junior employees' share dropping nearly two percentage points between 2021 and March 2026 versus comparable non-adopting firms. Employees at leading AI labs increasingly use the generic title \"member of the technical staff,\" up 50 percent in a year, with 39 percent of Anthropic and 31 percent of OpenAI staff listing it on LinkedIn as of last December; a historian warns the vague title \"deemphasizes accountability.\" A McKinsey Global Institute report estimates about 11 million US workers may need to switch occupations by 2035, 3.6 times the historical pace, with only one in seven having a direct pathway into growing jobs.\n\nTurkle interview: AI is reframing work as delegation, creating a loss of ownership, with students unable to recall what their own papers say and medical students bypassing chart review pledges. Lawyers and doctors worry juniors will lose professional formation, the \"heartbeat of the work.\" On remote work, she says people end days on Zoom and Slack without real conversation, and universities suffer from empty halls, classrooms and office hours, eroding community and citizenship. Her remedy for chatbot dependency: make friends, join or organize workplace clubs such as bowling leagues or hiking groups, and re-engage with local community.",
+ "claims": [
+  {
+   "claim": "California's \"No Robo Bosses Act\" bars employers from relying on automated decision-making systems to fire or discipline workers and is the first law of its kind in the US",
+   "stat": "Effective July 1, 2027",
+   "attribution": "California Gov. Gavin Newsom / enacted California law"
+  },
+  {
+   "claim": "Other newly signed California bills ban AI workplace surveillance tools that recognize emotional state or collect neural data, and ban AI surveillance of employees in workplace bathrooms",
+   "stat": "",
+   "attribution": "California legislation signed by Gov. Gavin Newsom"
+  },
+  {
+   "claim": "Companies adopting generative AI are shifting workforces toward senior employees rather than cutting overall headcount",
+   "stat": "Junior employees' share of the workforce dropped nearly two percentage points between 2021 and March 2026 versus similar non-adopting companies; study spanned 41 countries",
+   "attribution": "Stanford University and King's College London researchers"
+  },
+  {
+   "claim": "Employees at leading AI firms increasingly use the generic title \"member of the technical staff\"",
+   "stat": "Use up 50% in a year; 39% of Anthropic employees and 31% of OpenAI staffers listed it on LinkedIn as of last December",
+   "attribution": "Stanford analysis"
+  },
+  {
+   "claim": "The vague \"member of the technical staff\" title can signal egalitarian culture but also deemphasizes accountability",
+   "stat": "",
+   "attribution": "An unnamed historian cited by Charter"
+  },
+  {
+   "claim": "Millions of US workers may need to switch occupations by 2035, though the US could add more jobs over the next decade than automation eliminates",
+   "stat": "About 11 million workers; 3.6 times the historical average pace; only 1 in 7 has a direct pathway into growing jobs; nearly half face an \"unpaved\" route",
+   "attribution": "McKinsey Global Institute report"
+  },
+  {
+   "claim": "AI gives workers a new notion of work as delegation and a loss of ownership over their output",
+   "stat": "",
+   "attribution": "Sherry Turkle, MIT professor and founding director of the MIT Initiative on Technology and the Self"
+  },
+  {
+   "claim": "Medical students sign pacts not to use AI for chart review but use it anyway",
+   "stat": "",
+   "attribution": "Sherry Turkle"
+  },
+  {
+   "claim": "Remote work leaves people shell-shocked after days on Zoom and Slack without real conversation, eroding workplace learning and community",
+   "stat": "",
+   "attribution": "Sherry Turkle"
+  },
+  {
+   "claim": "Companies are shrinking social structures like bowling leagues and hiking clubs when they should be expanding them",
+   "stat": "",
+   "attribution": "Sherry Turkle"
+  }
+ ],
+ "vocabulary": [
+  "No Robo Bosses Act",
+  "automated decision-making systems",
+  "workplace surveillance tools",
+  "AI surveillance",
+  "neural data",
+  "emotional state recognition",
+  "generative AI adoption",
+  "member of the technical staff",
+  "occupational switching",
+  "unpaved route",
+  "heartbeat of work",
+  "work as delegation",
+  "chart review",
+  "artificial intimacy",
+  "chatbots",
+  "remote work",
+  "Zoom",
+  "Slack",
+  "empty halls",
+  "professional formation"
+ ],
+ "topics_covered": [
+  "attendance_tracking_and_monitoring_tools"
+ ]
+}

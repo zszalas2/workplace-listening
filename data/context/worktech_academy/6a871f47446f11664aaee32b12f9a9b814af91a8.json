@@ -1,0 +1,16 @@
+{
+ "id": "6a871f47446f11664aaee32b12f9a9b814af91a8",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUW1Cdy1TaUxZanRrVjVpT19wdGpNWmlMMnVSb3BYY0Y2dTI0ZlNVQUJ1NFBWQXY0SGlIM3FpN1RSUTBaenJ1aTE3NHBYem1qLUNOaGhzaE4wbWNIXzdRb0I2NjFxbnFDc3pMOFl3ZkoxZnZ1aks2NHBtRTRyQzlnUlpYWXFVQjIzV183QU5LMm9JSEluWVNYb1hFeldwVjBtU3dCUUQ4eHV1NFg4TW9v?oc=5",
+ "published_at": "2026-09-29",
+ "observed_at": "2026-10-12",
+ "summary": "This item is a headline-only entry from WORKTECH Academy, surfaced via a Google News RSS link. The title is \"Designing better collaboration: from fragmented tools to connected experiences.\" No article body, abstract, author, or publication date was included in the supplied text, which repeats only the title and the publisher name.\n\nBased on the title alone, the piece appears to address workplace collaboration technology and the problem of tool fragmentation, suggesting a move from disconnected point solutions toward integrated or connected employee experiences. Likely adjacent subjects for a WORKTECH Academy article of this type would include collaboration platforms, hybrid meeting experience, digital workplace strategy, and the integration of physical space with digital tooling, but none of this can be confirmed from the available content.\n\nBecause there is no substantive body text, no factual claims, statistics, named sources, or vendor references can be extracted. Vocabulary is limited to the few category terms visible in the title. No theme registry entries can be assigned with confidence: the title does not clearly map to visitor management, desk or room booking, attendance tracking, RTO mandates, EA and admin workload, support desk metrics, vendor risk review, agentic AI governance, home workspace stipends, AV kit, IT asset ownership, or credential handover. Assigning a theme on the strength of a headline about collaboration would risk inflating saturation scores, so the item is tagged with no themes.\n\nRecommendation for the pipeline: re-fetch the full article from the WORKTECH Academy source URL before scoring, or drop the item as non-substantive. If the full text becomes available and covers meeting room technology, booking behaviour, or hybrid collaboration logistics, it may then qualify for meeting room or AV related themes.",
+ "claims": [],
+ "vocabulary": [
+  "collaboration",
+  "fragmented tools",
+  "connected experiences",
+  "WORKTECH Academy"
+ ],
+ "topics_covered": []
+}

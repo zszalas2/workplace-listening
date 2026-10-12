@@ -1,0 +1,96 @@
+{
+ "id": "e61d90fc9fc1d1edb10fce7b03fa3b5579f0b924",
+ "source_id": "workplace_insight",
+ "url": "https://workplaceinsight.net/a-sense-of-control-over-workplace-technology-may-be-linked-to-wellbeing-and-productivity/?utm_source=rss&utm_medium=rss&utm_campaign=a-sense-of-control-over-workplace-technology-may-be-linked-to-wellbeing-and-productivity",
+ "published_at": "2026-10-07",
+ "observed_at": "2026-10-12",
+ "summary": "Workplace Insight reports on Logitech's inaugural Ctrl Tomorrow Study, a global survey arguing that a person's sense of control over workplace technology is linked to wellbeing, productivity and openness to technological change. The study describes a divide between people who feel confident and in command of their tools and those who feel overwhelmed or frustrated.\n\nKey findings: 77 percent agreed people who feel more in control of their technology get more out of life, and around three in five said technology problems affect their mood after work and their sense of control over personal life. Poor or hard-to-use technology produced frustration, anxiety or anger for 64 percent, while 46 percent felt helpless, embarrassed, exhausted or behind. Conversely 52 percent said control over technology let them accomplish something they thought was beyond them.\n\nLogitech created a Ctrl Score measuring how deliberately people construct their tech setup, their confidence in and openness to new tools, and whether they see technology as enabling or limiting. Only 30 percent showed high agency and 10 percent were classed as fully in command.\n\nOn automation, 41 percent said time freed by technology handling routine tasks would go to wellbeing, mental health or work-life balance, more so among lower Ctrl Scores. Physical hardware still matters: nearly two-thirds felt most in control interacting with physical devices and 42 percent rely on them more than five years ago. Gamers reported high confidence, with 81 percent saying gaming increased real-world confidence and reduced anxiety.\n\nGeographic splits were wide. 61 percent globally said technology helps them fulfil personal potential, rising to 80 percent in China and 78 percent in Brazil versus 45 percent in France, 55 percent US, 56 percent Germany. Technology optimism averaged 74 percent globally, 84 percent in India and Brazil, 60 percent in France. AI excitement: 41 percent India, 23 percent Switzerland, 16 percent US, 15 percent UK, 13 percent Australia. CEO Hanneke Faber framed control as the deciding factor in the age of AI.",
+ "claims": [
+  {
+   "claim": "Respondents agreed that people who feel more in control of their technology get more out of life",
+   "stat": "77 percent",
+   "attribution": "Logitech Ctrl Tomorrow Study"
+  },
+  {
+   "claim": "Around three in five said technology problems can affect their mood after work and their sense of control over personal life",
+   "stat": "roughly 60 percent",
+   "attribution": "Logitech Ctrl Tomorrow Study"
+  },
+  {
+   "claim": "Respondents reported frustration, anxiety or anger due to poorly functioning or hard-to-use technology",
+   "stat": "64 percent",
+   "attribution": "Logitech Ctrl Tomorrow Study"
+  },
+  {
+   "claim": "Respondents said technology failures left them feeling helpless, embarrassed, exhausted or falling behind",
+   "stat": "46 percent",
+   "attribution": "Logitech Ctrl Tomorrow Study"
+  },
+  {
+   "claim": "Respondents said having control over technology enabled them to accomplish something previously thought beyond them",
+   "stat": "52 percent",
+   "attribution": "Logitech Ctrl Tomorrow Study"
+  },
+  {
+   "claim": "Only a minority displayed a high degree of agency over their technology, with a smaller group classified as fully in command",
+   "stat": "30 percent high agency; 10 percent in command",
+   "attribution": "Logitech"
+  },
+  {
+   "claim": "Respondents said that if technology handled more routine tasks they would use the time for wellbeing, mental health or work-life balance",
+   "stat": "41 percent",
+   "attribution": "Logitech Ctrl Tomorrow Study"
+  },
+  {
+   "claim": "Respondents felt most in control when interacting with physical hardware",
+   "stat": "nearly two-thirds",
+   "attribution": "Logitech Ctrl Tomorrow Study"
+  },
+  {
+   "claim": "Respondents rely on physical devices more than they did five years ago",
+   "stat": "42 percent",
+   "attribution": "Logitech Ctrl Tomorrow Study"
+  },
+  {
+   "claim": "Gamers said gaming increased their confidence in the physical world and reduced anxiety",
+   "stat": "81 percent",
+   "attribution": "Logitech Ctrl Tomorrow Study"
+  },
+  {
+   "claim": "Respondents agreed technology helps them fulfil their personal potential",
+   "stat": "61 percent globally; 80 percent China; 78 percent Brazil; 56 percent Germany; 55 percent US; 45 percent France",
+   "attribution": "Logitech Ctrl Tomorrow Study"
+  },
+  {
+   "claim": "Respondents said technology creates opportunities rather than additional pressures",
+   "stat": "74 percent global average; 84 percent India and Brazil; 60 percent France",
+   "attribution": "Logitech Ctrl Tomorrow Study"
+  },
+  {
+   "claim": "Respondents said they were excited about AI expanding what they could achieve",
+   "stat": "41 percent India; 23 percent Switzerland; 16 percent US; 15 percent UK; 13 percent Australia",
+   "attribution": "Logitech Ctrl Tomorrow Study"
+  },
+  {
+   "claim": "Technological change feels like it is happening to people rather than with them, and control is the deciding factor in the age of AI",
+   "stat": "",
+   "attribution": "Hanneke Faber, chief executive, Logitech"
+  }
+ ],
+ "vocabulary": [
+  "Ctrl Tomorrow Study",
+  "Ctrl Score",
+  "agency over technology",
+  "workplace technology",
+  "technology adoption",
+  "automation",
+  "routine tasks",
+  "physical hardware",
+  "peripherals",
+  "AI interfaces",
+  "technology optimism",
+  "wellbeing and productivity",
+  "work-life balance"
+ ],
+ "topics_covered": []
+}

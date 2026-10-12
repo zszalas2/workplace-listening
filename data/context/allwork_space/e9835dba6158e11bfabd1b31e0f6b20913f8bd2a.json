@@ -1,0 +1,76 @@
+{
+ "id": "e9835dba6158e11bfabd1b31e0f6b20913f8bd2a",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/10/belgiums-flexible-office-market-expands-by-8/",
+ "published_at": "2026-10-09",
+ "observed_at": "2026-10-12",
+ "summary": "Allwork.Space reports that Belgium's flexible office market has passed 1 million square meters for the first time, citing data from Coworking Europe. The sector now accounts for 4.3% of total Belgian office stock, spanning 591 locations and 1,035,935 square meters, with both floor space and location count growing roughly 8% year over year.\n\nRevenue growth is lagging physical expansion. Market turnover reached 387 million euros in 2025, up from about 50 million euros in 2015, but turnover growth slowed to roughly 5% in 2026, trailing the 8% growth in floor space and locations. The gap is attributed to price competition driving revenue per square meter down. Sector EBITDA averages about 20% of turnover, yet operating profit sits below 3%, partly because opening new centers carries high costs.\n\nThe market remains fragmented. IWG, which operates the Regus and Spaces brands, is the largest player in Belgium with 56 locations and more than 121,000 square meters. Local operators Officenter and Silversquare follow with 14 and 11 locations respectively. More than half of all sites are independently operated.\n\nPenetration varies sharply by city: around 12% in Geel and more than 11% in Hasselt, versus approximately 4% in Brussels, indicating stronger relative flex adoption in smaller regional cities than in the capital.\n\nThe piece is a market-sizing update rather than a workplace operations or technology story. It does not address visitor management, desk or room booking tooling, hybrid policy design, or workplace analytics software, though it is relevant context for flexible workspace supply and coworking operator economics.",
+ "claims": [
+  {
+   "claim": "Belgium's flexible office market surpassed 1 million square meters for the first time",
+   "stat": "1,035,935 sq m across 591 locations; 4.3% of total office stock",
+   "attribution": "Coworking Europe, via Allwork.Space"
+  },
+  {
+   "claim": "Floor space and location count both grew about 8% over the year",
+   "stat": "~8%",
+   "attribution": "Coworking Europe"
+  },
+  {
+   "claim": "Market turnover reached 387 million euros in 2025, up from roughly 50 million euros in 2015",
+   "stat": "EUR 387m in 2025 vs ~EUR 50m in 2015",
+   "attribution": "Coworking Europe"
+  },
+  {
+   "claim": "Turnover growth slowed in 2026, trailing floor space growth due to price competition lowering revenue per square meter",
+   "stat": "~5% turnover growth vs 8% space growth",
+   "attribution": "Coworking Europe"
+  },
+  {
+   "claim": "Sector EBITDA averages about 20% of turnover but operating profit remains below 3%, partly due to high costs of opening new centers",
+   "stat": "EBITDA ~20% of turnover; operating profit <3%",
+   "attribution": "Coworking Europe"
+  },
+  {
+   "claim": "IWG leads the Belgian market",
+   "stat": "56 locations, more than 121,000 sq m",
+   "attribution": "Coworking Europe"
+  },
+  {
+   "claim": "Local operators Officenter and Silversquare follow IWG",
+   "stat": "14 and 11 locations respectively",
+   "attribution": "Coworking Europe"
+  },
+  {
+   "claim": "More than half of all flexible office sites in Belgium are independently operated",
+   "stat": ">50%",
+   "attribution": "Coworking Europe"
+  },
+  {
+   "claim": "Flexible office penetration varies widely by city",
+   "stat": "~12% in Geel, >11% in Hasselt, ~4% in Brussels",
+   "attribution": "Coworking Europe"
+  }
+ ],
+ "vocabulary": [
+  "flexible office market",
+  "flex penetration",
+  "office stock",
+  "coworking",
+  "turnover",
+  "EBITDA",
+  "operating profit",
+  "revenue per square meter",
+  "operator",
+  "independently operated",
+  "locations",
+  "floor space",
+  "IWG",
+  "Regus",
+  "Spaces",
+  "Silversquare",
+  "Officenter",
+  "Coworking Europe"
+ ],
+ "topics_covered": []
+}

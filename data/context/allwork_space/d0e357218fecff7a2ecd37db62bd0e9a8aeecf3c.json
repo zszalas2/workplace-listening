@@ -1,0 +1,83 @@
+{
+ "id": "d0e357218fecff7a2ecd37db62bd0e9a8aeecf3c",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/10/jll-ceo-says-the-office-is-core-to-the-future-of-work/",
+ "published_at": "2026-10-09",
+ "observed_at": "2026-10-12",
+ "summary": "Allwork.Space republishes a Fortune interview (by Kamal Ahmed) with JLL CEO Christian Ulbrich, who argues the office remains the core place of work. Ulbrich contrasts his own first job, seated on a pod of five desks next to his boss, where he learned by observing and overhearing conversations, with his son's first job during COVID-19, which was largely remote for 15 months and left him \"devastated\" with minimized learning.\n\nUlbrich acknowledges JLL has skin in the game as a commercial real estate giant. The piece cites JLL at position 175 on the Fortune 500, up from 188 a year earlier, a share price high of $393 in August against a five-year low of $123 in 2023, and a Q2 earnings call in July where Ulbrich raised profit guidance on 11% revenue growth and a 21% rise in advisory property services revenue.\n\nHis argument is efficiency and learning: interaction, communication and sharing best practice outweigh the cost of office space, and in an era of lifelong learning where university knowledge is obsolete within about three years, colleagues are the learning mechanism. He does not advocate five days a week. JLL practices flexibility, allowing occasional home days, but the \"basic principle is they have to come to the office.\"\n\nThe counterpart argument is quality of space: if you want people in offices, they should be good ones. JLL's new City of London office, near its original 1783 shop location, uses recycled building material and furniture, has roughly one corner office across three floors, and emphasizes sustainability, professional location, good architecture, light and terraces.\n\nUlbrich also claims London is the leading global hub because it attracts people regardless of racial background or passport, where some hesitate over New York or China. The Global Cities Index places New York and London in the top two on skilled labor, capital markets and quality of life.",
+ "claims": [
+  {
+   "claim": "JLL ranks 175 on the Fortune 500, up from 188 the prior year",
+   "stat": "175, up from 188",
+   "attribution": "Fortune/Allwork.Space article"
+  },
+  {
+   "claim": "JLL share price hit a high in August versus a five-year low in 2023",
+   "stat": "$393 high vs $123 low",
+   "attribution": "Fortune/Allwork.Space article"
+  },
+  {
+   "claim": "JLL raised profit guidance on its Q2 earnings call in July",
+   "stat": "11% revenue growth; 21% increase in advisory property services revenue",
+   "attribution": "Christian Ulbrich, CEO, JLL"
+  },
+  {
+   "claim": "It is clearly more efficient to have people in the office than working from home, and interaction benefits outweigh office space cost",
+   "stat": "",
+   "attribution": "Christian Ulbrich, JLL"
+  },
+  {
+   "claim": "What you learn at university is more or less obsolete roughly three years later, making colleague-based lifelong learning essential",
+   "stat": "three years",
+   "attribution": "Christian Ulbrich, JLL"
+  },
+  {
+   "claim": "JLL practices flexibility but the basic principle is employees must come to the office",
+   "stat": "",
+   "attribution": "Christian Ulbrich, JLL"
+  },
+  {
+   "claim": "Ulbrich's son worked largely remotely for the first 15 months of his first job during the pandemic and his ability to learn was minimized",
+   "stat": "15 months",
+   "attribution": "Christian Ulbrich, JLL"
+  },
+  {
+   "claim": "JLL's new City of London office has roughly one corner office across three floors and uses recycled building material and furniture",
+   "stat": "one corner office across three floors",
+   "attribution": "Christian Ulbrich, JLL"
+  },
+  {
+   "claim": "JLL's first shop was in the City of London in 1783",
+   "stat": "1783",
+   "attribution": "Fortune/Allwork.Space article"
+  },
+  {
+   "claim": "New York and London hold the top two positions for skilled labor forces, deep capital markets and quality of life",
+   "stat": "top two",
+   "attribution": "Global Cities Index"
+  }
+ ],
+ "vocabulary": [
+  "future of work",
+  "return to office",
+  "hybrid",
+  "working from home",
+  "remote",
+  "pod of five desks",
+  "corner office",
+  "office space",
+  "flexibility",
+  "lifelong learning",
+  "sustainability",
+  "commercial real estate",
+  "advisory property services",
+  "profit guidance",
+  "Global Cities Index",
+  "global hub",
+  "state of the art",
+  "recycled furniture"
+ ],
+ "topics_covered": [
+  "hybrid_rto_mandate_pushback"
+ ]
+}

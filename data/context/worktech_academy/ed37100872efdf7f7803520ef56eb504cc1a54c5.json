@@ -1,0 +1,14 @@
+{
+ "id": "ed37100872efdf7f7803520ef56eb504cc1a54c5",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OOGJaaHB1MS1ReS04bld4ajdRWFNwMWxaY2FzNE9RR3l1YkplWElHLXozVlB5elN0bHNaSnVQWTVBUGhyUC1RU0hVOW9tejJUaEx5Yw?oc=5",
+ "published_at": "2026-09-29",
+ "observed_at": "2026-10-12",
+ "summary": "This item contains no substantive content. The record consists only of a title, \"HP - WORKTECH Academy\", and body text repeating the same phrase, \"HP WORKTECH Academy\", with a Google News RSS redirect URL rather than a resolved article link. There is no article body, byline, date, or any discussion of workplace technology topics. It appears to be a partner, sponsor, or directory listing page on the WORKTECH Academy site referencing HP, captured by the feed without any accompanying editorial text. No factual claims, statistics, product descriptions, or category vocabulary can be extracted. No themes from the registry can be reliably tagged, since nothing in the captured text addresses visitor management, desk or room booking, hybrid and return to office policy, workplace analytics, facilities operations, or administrative workload. Recommended handling: treat as a non-article stub and either re-fetch the destination URL to resolve the Google News redirect and obtain the underlying page content, or discard it from the listening pipeline as noise. If re-fetched, the page may turn out to be a vendor profile for HP within the WORKTECH Academy network, which could carry relevance to workplace technology hardware, meeting room AV kit, or hybrid work device strategy, but none of that can be assumed from the current capture. No saturation credit should be assigned on the basis of this record.",
+ "claims": [],
+ "vocabulary": [
+  "WORKTECH Academy",
+  "HP"
+ ],
+ "topics_covered": []
+}

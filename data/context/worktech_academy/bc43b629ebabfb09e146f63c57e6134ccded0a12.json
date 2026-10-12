@@ -1,0 +1,16 @@
+{
+ "id": "bc43b629ebabfb09e146f63c57e6134ccded0a12",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSnNLSU1xeFloRGw4YVBqdEFaalk0ZlQ5NGF5dUVDc2l1S2xHdWpGLU83X2hWdHdFeEF6SWwyaU9wamV4UVNucUNmeFlDemZ2dG1hZXJ3VnRlaDhBelFrQU5oOXBRa1lsa1BUWXZQSU8yRF9TbllHNFh1c21LZjdBV0pqejZsdThFYkdLenEwVG4wdw?oc=5",
+ "published_at": "2024-11-19",
+ "observed_at": "2026-10-12",
+ "summary": "This item is a Google News RSS stub for a WORKTECH Academy article titled \"Old tensions resurface as return to office gathers pace.\" The capture contains only the headline and publication name, with no article body, byline, date, quotes or data. From the headline alone, the piece appears to address the acceleration of return to office activity and the resurfacing of long standing workplace tensions, which in WORKTECH Academy's typical coverage would include friction between employer attendance expectations and employee preference for flexibility, debates over office density and desk allocation, and questions about whether the physical workplace justifies the commute. No specific claims, statistics, vendor names, survey findings or policy examples are retrievable from the available text. Any detailed summary would require fetching the full article from the WORKTECH Academy site, since the RSS redirect link does not expose body content. For the listening pipeline, this should be treated as a low confidence signal: the topic is clearly return to office related based on the title, but no supporting evidence, framing or sourcing can be verified. Recommend re-crawling the canonical URL before using this item for quote extraction, competitive intelligence or trend scoring. Tagged conservatively against the RTO theme only, since the headline explicitly references return to office, while related themes such as hot desking backlash or attendance tracking cannot be confirmed without the full text.",
+ "claims": [],
+ "vocabulary": [
+  "return to office",
+  "RTO"
+ ],
+ "topics_covered": [
+  "hybrid_rto_mandate_pushback"
+ ]
+}

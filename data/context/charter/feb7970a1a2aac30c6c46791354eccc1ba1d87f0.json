@@ -1,0 +1,49 @@
+{
+ "id": "feb7970a1a2aac30c6c46791354eccc1ba1d87f0",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/closing-the-gap-rethinking-workplace-learning-for-the-skills-era/",
+ "published_at": "2026-10-01",
+ "observed_at": "2026-10-12",
+ "summary": "Charter webinar recap on workplace learning in the \"skills era,\" arguing employees now expect learning that is personalized, embedded in daily work, and aligned to shifting skill demands, while many employers lag behind.\n\nThe session drew on new Perceptyx research surveying employees across North America and Europe, identifying four gaps in how learning is experienced:\n\n1. Strategy gap: most employees say learning happens in the flow of work, but far fewer believe their organization has a clear learning strategy.\n2. Effectiveness gap: a majority say learning is connected to business priorities, yet fewer than half rate their organization's approach as very or extremely effective.\n3. Access gap: managers consistently report better learning experiences than individual contributors, with differences as large as 20 percentage points.\n4. Readiness gap: most employees know which skills they need to succeed, but a smaller share say their employer is actively helping them build skills for future roles.\n\nThe stated takeaway was practical guidance for closing these gaps and building a more agile workforce.\n\nSpeakers: Dr. Bradley Wilson, Global Head of Workforce Insights and Innovation at Perceptyx; Jayney Howson, Chief Learning Officer at ServiceNow; and moderator Massella Dukuly, Head of Workplace Strategy at Charter.\n\nThe piece is focused on L&D and skills strategy rather than workplace operations; it does not address visitor management, desk or room booking, attendance tracking, or hybrid and return-to-office policy.",
+ "claims": [
+  {
+   "claim": "Employees say learning happens in the flow of work, but fewer believe their organization has a clear learning strategy",
+   "stat": "74% vs 56%",
+   "attribution": "Perceptyx research cited in Charter webinar"
+  },
+  {
+   "claim": "Employees say learning is connected to business priorities, but fewer rate the organization's learning approach as very or extremely effective",
+   "stat": "61% vs 45%",
+   "attribution": "Perceptyx research"
+  },
+  {
+   "claim": "Managers report better learning experiences than individual contributors",
+   "stat": "gaps of up to 20 percentage points",
+   "attribution": "Perceptyx research"
+  },
+  {
+   "claim": "Employees know the skills they need to succeed, but fewer say their organization is actively helping them build skills for future roles",
+   "stat": "74% vs 60%",
+   "attribution": "Perceptyx research"
+  },
+  {
+   "claim": "Research covered employees across North America and Europe",
+   "stat": "",
+   "attribution": "Perceptyx"
+  }
+ ],
+ "vocabulary": [
+  "workplace learning",
+  "learning in the flow of work",
+  "learning strategy",
+  "skills era",
+  "skills gap",
+  "individual contributors",
+  "agile workforce",
+  "Chief Learning Officer",
+  "workforce insights",
+  "workplace strategy",
+  "employee listening"
+ ],
+ "topics_covered": []
+}

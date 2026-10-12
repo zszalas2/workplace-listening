@@ -1,0 +1,15 @@
+{
+ "id": "f907b0c9045b3e1dff72b4f5a5822968cbc4e7c0",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkRWNJRjVpQjI3c19uNTYyZE1QUWlwYWdiSlRYV3pSR29mMnVOZ1VTYnNYak5YMU1CazNSU2F2M0tPb0IxTXFSWHlfSjZhUWxRcWFXcWZzMTU5Rms5Z2c?oc=5",
+ "published_at": "2026-10-04",
+ "observed_at": "2026-10-12",
+ "summary": "This item is an archive listing page from WORKTECH Academy rather than a substantive article. The retrieved content consists only of the page title, \"Home working Archives - WORKTECH Academy,\" with no body copy, article text, author attribution, dates, or data. It appears to be a topic or tag index page on the WORKTECH Academy site that aggregates posts filed under the \"Home working\" category. No claims, statistics, interviews, or editorial argument are present in the captured text, and no vendor or product discussion can be extracted. The only inference available is that WORKTECH Academy maintains a content category covering home working, which sits adjacent to hybrid work, remote work and workplace strategy themes the publication typically covers. Because the scrape returned no usable prose, this item cannot be scored for thematic coverage and should be treated as a crawl artifact or a candidate for re-fetching the individual article URLs listed on the archive page. Recommend excluding from saturation counts and, if the topic area is of interest, crawling the underlying post permalinks directly to obtain analysis of home working, distributed teams and home office provision.",
+ "claims": [],
+ "vocabulary": [
+  "Home working",
+  "WORKTECH Academy",
+  "Archives"
+ ],
+ "topics_covered": []
+}

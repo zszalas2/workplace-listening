@@ -1,0 +1,32 @@
+{
+ "id": "beb031c180be8a9077441ad1963176f0e891d4fd",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/the-one-thing-workers-think-managers-still-do-better-than-ai/",
+ "published_at": "2026-10-08",
+ "observed_at": "2026-10-12",
+ "summary": "A short Charter brief reports findings from a global survey released as part of a special Edelman Trust Barometer report focused on the workplace. The headline finding is that, across several capability areas, significantly more workers rate AI as better than their human manager than rate the manager as better. Specifically, workers said AI outperforms their manager at helping them think creatively, at solving difficult problems, and at helping them learn new technical skills. The gap runs in AI's favor in each of these areas, with more respondents choosing AI than choosing their manager. The one exception identified in the piece is the interpersonal or relational dimension: managers were rated better than AI at making employees feel valued, and this was the only area where managers came out ahead. The implication drawn is that as AI tools absorb more of the analytical, problem-solving and skills-coaching work that managers have historically provided, the distinctly human part of management, recognition and making people feel seen and valued, becomes the differentiator. The item is a brief news summary rather than an in-depth analysis, and it does not include sample sizes, country breakdowns, or methodology detail. It does not cover workplace operations topics such as desk or room booking, visitor management, attendance tracking, or hybrid and return-to-office policy. Its relevance is to the broader management and AI-at-work conversation, specifically how employee perceptions of AI capability compare to perceptions of line manager capability, and what that means for the future scope of the manager role.",
+ "claims": [
+  {
+   "claim": "More workers say AI is better than their manager at helping them think creatively, solve difficult problems, and learn new technical skills than say the reverse",
+   "stat": "significantly more workers (no figure given)",
+   "attribution": "Global survey released as part of a special Edelman Trust Barometer report on the workplace"
+  },
+  {
+   "claim": "Managers outperformed AI in only one area: making employees feel valued",
+   "stat": "1 of the areas measured",
+   "attribution": "Edelman Trust Barometer special workplace report"
+  }
+ ],
+ "vocabulary": [
+  "Edelman Trust Barometer",
+  "global survey",
+  "manager",
+  "AI",
+  "think creatively",
+  "solve difficult problems",
+  "learn new technical skills",
+  "feel valued",
+  "workplace"
+ ],
+ "topics_covered": []
+}

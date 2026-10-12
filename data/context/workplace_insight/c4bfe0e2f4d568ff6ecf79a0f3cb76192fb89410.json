@@ -1,0 +1,66 @@
+{
+ "id": "c4bfe0e2f4d568ff6ecf79a0f3cb76192fb89410",
+ "source_id": "workplace_insight",
+ "url": "https://workplaceinsight.net/cognitive-access-is-a-workplace-design-issue/?utm_source=rss&utm_medium=rss&utm_campaign=cognitive-access-is-a-workplace-design-issue",
+ "published_at": "2026-10-09",
+ "observed_at": "2026-10-12",
+ "summary": "Workplace Insight argues that cognitive access should be treated as a workplace design problem rather than an individual HR negotiation. The piece opens by criticising the standard inclusion model, in which an employee must encounter a barrier, decide whether disclosure is safe, explain a condition and wait for an adjustment. Many barriers labelled personal needs are predictable features of work: continuous noise, back-to-back calls, unclear priorities, scattered instructions and unwritten rules. Cognitive access reframes the question from what is wrong with the person to how easy it is for people to understand, navigate and use the workplace, including physical space, digital tools, information flow and decision communication.\n\nThe author stresses that no single intervention is a neuroinclusive strategy. A quiet room, a software tool, a flexible working policy or an awareness session each help, but people experience the system as a whole. Friction remains if the quiet room must be booked three days ahead, if remote workers miss informal decisions, or if written instructions are treated as a favour.\n\nDisclosure is described as a poor gateway to basic clarity, since people may be undiagnosed, awaiting assessment or unwilling to share medical information. The recommended alternative is to normalise common supports: advance information about unfamiliar places and processes, written decisions and owners, routine checks that instructions are clear, and multiple settings for focus, collaboration and recovery.\n\nChoice must be real and paired with clear rules about where focused work happens, how to signal do-not-interrupt, where final decisions are recorded and how remote colleagues are included. Digital work is part of workplace design: notification settings, meeting defaults, shared drives and document conventions shape cognitive load, so reviews should examine information architecture alongside acoustics and lighting.\n\nManagers translate design into daily experience and need authority, simple tools, escalation routes and a reliable way to record agreed support so it survives absence or restructuring. The test offered is an ordinary Tuesday: can someone do focused work without spending energy managing the workplace itself.",
+ "claims": [
+  {
+   "claim": "Workplace inclusion is still typically organised as a private conversation between an individual and HR, requiring disclosure before adjustment.",
+   "stat": "",
+   "attribution": "Workplace Insight article author"
+  },
+  {
+   "claim": "Many barriers described as personal needs are predictable features of work such as continuous noise, back-to-back calls, unclear priorities, scattered instructions and unwritten rules.",
+   "stat": "",
+   "attribution": "Workplace Insight article author"
+  },
+  {
+   "claim": "A quiet room, software tool, flexible working policy or awareness session is not on its own a neuroinclusive strategy because people experience the system as a whole.",
+   "stat": "",
+   "attribution": "Workplace Insight article author"
+  },
+  {
+   "claim": "A quiet room that must be formally booked three days in advance leaves the underlying friction in place.",
+   "stat": "three days ahead",
+   "attribution": "Workplace Insight article author"
+  },
+  {
+   "claim": "Offices can be well designed physically and still be inaccessible if employees spend the day searching for the latest document version and switching applications.",
+   "stat": "",
+   "attribution": "Workplace Insight article author"
+  },
+  {
+   "claim": "Managers inherit systems they did not create and cannot improvise inclusion without clear authority, simple tools and escalation routes.",
+   "stat": "",
+   "attribution": "Workplace Insight article author"
+  }
+ ],
+ "vocabulary": [
+  "cognitive access",
+  "neuroinclusive strategy",
+  "neurodiversity policy",
+  "workplace inclusion",
+  "disclosure",
+  "reasonable adjustment",
+  "open-plan office",
+  "quiet room",
+  "lower-interruption space",
+  "cognitive load",
+  "cognitive friction",
+  "information architecture",
+  "meeting defaults",
+  "notification settings",
+  "collaboration platforms",
+  "shared drives",
+  "flexible-working policy",
+  "remote workers",
+  "focused work",
+  "choice and control",
+  "escalation routes",
+  "workplace design review",
+  "acoustics and lighting"
+ ],
+ "topics_covered": []
+}

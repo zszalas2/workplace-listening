@@ -1,0 +1,49 @@
+{
+ "id": "bfbe3abba7ab43ec39b86b1ee3f856029716fc0d",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/10/your-best-employees-could-be-your-worst-leadership-blind-spot/",
+ "published_at": "2026-10-11",
+ "observed_at": "2026-10-12",
+ "summary": "A first-person leadership essay from Allwork.space arguing that an organization's most committed employees can mask systemic failures. The author recounts taking over a branch where a beloved counter supervisor consistently rescued customers when inventory records proved wrong: apologizing, sourcing substitute products, absorbing margin hits. Because he handled each incident, the underlying inventory accuracy problem was never surfaced or investigated, and the workaround became routine.\n\nA second example involves a branch that looked strong externally: profitable, highly ranked, accurate inventory, well-served large accounts. The hidden factor was a long-tenured assistant manager who both handled operational issues invisibly and buffered staff from a manager whose volatile mood produced public reprimands. She anticipated his reactions and intervened to protect employees. Her steadying influence preserved results while concealing the true cost of the manager's leadership. The company eventually moved him into a role without direct reports, which clarified that strong performance had reflected one person's absorption of strain rather than a healthy leadership environment.\n\nThe author connects this to Amy Edmondson's research on psychological safety, which explains why employees need to raise concerns without fear of punishment or embarrassment, but adds a second reason for silence: loyal, capable people simply patch problems and move on. Traditional warning signs (complaints, turnover, missed targets, customer escalations, failed audits, conflict) surface late, after the business has already become dependent on a few people repeatedly fixing the same failures.\n\nRecommended practice: instead of asking why no one spoke up, ask what people have learned to work around. The author suggests three direct questions for reliable employees: what takes more effort than it should, which problems keep recurring, and what would break if you were out for two weeks. The goal is not to discourage ownership but to avoid permanent dependence on one person. A good number can hide a weak process.",
+ "claims": [
+  {
+   "claim": "Amy Edmondson's work on psychological safety has helped leaders understand why employees need to be able to raise concerns, admit mistakes, and ask questions without fear of punishment or embarrassment",
+   "stat": "",
+   "attribution": "Article author, citing Amy Edmondson"
+  },
+  {
+   "claim": "A branch's inventory records frequently showed stock that could not be found, forcing repeated customer recovery efforts and margin concessions",
+   "stat": "",
+   "attribution": "Article author, from personal experience managing the branch"
+  },
+  {
+   "claim": "A branch that ranked near the top of the company on performance metrics was in fact being held together by one assistant manager buffering a volatile manager",
+   "stat": "",
+   "attribution": "Article author, from personal experience"
+  },
+  {
+   "claim": "Conventional warning signs such as complaints, turnover, missed targets, customer escalations, failed audits and employee conflict tend to appear late, after the organization is already dependent on workarounds",
+   "stat": "",
+   "attribution": "Article author"
+  }
+ ],
+ "vocabulary": [
+  "leadership blind spot",
+  "psychological safety",
+  "workarounds",
+  "counter supervisor",
+  "assistant manager",
+  "branch performance",
+  "margin hit",
+  "customer escalations",
+  "failed audits",
+  "turnover",
+  "missed targets",
+  "key person dependency",
+  "process weakness",
+  "ownership",
+  "public dressing-down",
+  "long tenured"
+ ],
+ "topics_covered": []
+}

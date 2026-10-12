@@ -21,7 +21,8 @@
     "a22a46b7306f0f0c68f8085481bba6ccc0e6cebe",
     "c8f842ce3f9bfff39bcaf5d67d2c2f5455afb9f9",
     "13074eb37fe18ca2d7630bf615f8cd5b69415526",
-    "088c94c7e30fdb04d6f4aeeea024117bc468d302"
+    "088c94c7e30fdb04d6f4aeeea024117bc468d302",
+    "3297c36ea70c815db0de127d5f4c0f2487c09d61"
    ]
   },
   "reddit_k12sysadmin": {
@@ -207,7 +208,20 @@
     "80b4dfe6514539efe338c764e362f653e28acbf4",
     "49196880cc2ef7d8660ef0dd58e99a35547eb624",
     "7c9205f23b0ced813249386eaff2e1d7b887d833",
-    "89e4692bf30a7c0308e1d3f08d4b457d6d97b559"
+    "89e4692bf30a7c0308e1d3f08d4b457d6d97b559",
+    "c5b5afb56ff1adab1f20a8c1de0daab47bc1750a",
+    "9380647f6d44f081512e6db4175eac031faa8380",
+    "9e1a0e68a39956ff5967677e0f275461966cdd9a",
+    "81fc4d509be3c1e70dcdad0df214d2cd53d4e849",
+    "f41844e85acaced1f3912c2f1181172d04c9458a",
+    "59b7cd97a53eefe02d6a802382e08172086668c7",
+    "9cdcf97ee577f3d79d8fc2309a7e3a921fe36806",
+    "90a11678ca1fcc4507d1581cdd3537c57f4c59c5",
+    "80b7edb98af1206ec3ce090f7f4f4fad9582e31b",
+    "602b5b18fcc6f5372f1911ee67ff93de2b4352e6",
+    "5266cdaba798f0b1f5ecf6da5a2ae553fa6fde75",
+    "f6b9ae6f9a13387ed0ae3af719f4530cbb2a552f",
+    "8c1d7f2ddaa5ff8e9701309eabaa268234a6770f"
    ]
   },
   "reddit_adminassistant": {
@@ -220,7 +234,11 @@
     "838f888c89b43167a711f5a78fdd9f5ee4256258",
     "8191c6a44f2a66a4b643e92c759d3110c8341e41",
     "520dae9329850151cedd1b809600e449610d6c3f",
-    "18d4ad8e03723c4bcb8b13aa798ac9d34cd2b4ac"
+    "18d4ad8e03723c4bcb8b13aa798ac9d34cd2b4ac",
+    "3314e5ff8ccc3cc8fa1094fab69d27971d5b865b",
+    "2a6d0157c13dd68bcafe838b3fb0a3d796538ed9",
+    "c4df08c7c6bb2d33cb99e325c30686fb2e3dbdce",
+    "1d407689b6a1f1b840fa3768557de73b916bc20f"
    ]
   },
   "reddit_humanresources": {
@@ -583,7 +601,12 @@
     "24353a7a7bbb63d4366deec61de2423751ba4159",
     "0f63ebe0dc1f5b5c4ed75e1f2ec7aeaba43b876c",
     "36efe4d8934ebc3f456ccfc61a683bd57764e3ce",
-    "3b8bfbec882da3ce5d92d0b62e3b32f9fe059ddc"
+    "3b8bfbec882da3ce5d92d0b62e3b32f9fe059ddc",
+    "5de668eef4d7a0a74958653f60e62a6ff8e64f89",
+    "1ff6448626d71c39e82837bbbcb4a7808210b116",
+    "5d48be64d8dcddfafec63fcf4242de68c1d7c5a2",
+    "a606a66f76ecb67122ebc963aad5562ba5264fa0",
+    "15f1c8fcb1ac75374fd7a9ae95d495520939f528"
    ]
   },
   "allwork_space": {
@@ -678,7 +701,17 @@
     "0775023f2eb05d71441c830ef7a5fd8d6c3fa48b",
     "19b553860672ff30f5eca3d7c389e32501c564ed",
     "ce9d573f34721c42cee83dd9a63521690e770399",
-    "a78f479e5f2a3782cece568959cfcc029f45eedd"
+    "a78f479e5f2a3782cece568959cfcc029f45eedd",
+    "f5d285e641949ab2014f2e2559f09068bf90554a",
+    "bfbe3abba7ab43ec39b86b1ee3f856029716fc0d",
+    "335cf1a2598d824c60b84cd41ecc225abe69ae16",
+    "7d58c328f8fe04c85d74ec0f1ce0b12412515666",
+    "e9835dba6158e11bfabd1b31e0f6b20913f8bd2a",
+    "dd3c398946ca89f3372f6b51ce1a9c1b40b0df31",
+    "e81fdae57d793ade95a6a887347eddfd41d323f0",
+    "3adf140b1df2888c0112ed6bfe4ca157607c6a36",
+    "0ed16d02e828503c126587b8f0bbb60d80e90c38",
+    "d0e357218fecff7a2ecd37db62bd0e9a8aeecf3c"
    ]
   },
   "workplace_insight": {
@@ -728,7 +761,15 @@
     "75dd75c7337eac79cbc9ea359e49aab79b9ddfb2",
     "0a48392325d8f9d172f80f7745a2b949c478c2e1",
     "ade9e8c1d328e52b2599130e6c3081fefc63f873",
-    "eeb1d28bfaa1b088966cb163bb41fe4c2868c73b"
+    "eeb1d28bfaa1b088966cb163bb41fe4c2868c73b",
+    "170c792cdb269c6c3f5d1b7db647a9bdd1299f5b",
+    "786e3932a3c953b4b3554465a27c856d05adae58",
+    "409ae2482d3013f126cfe0ff01b8e9f40fa29d1b",
+    "c4bfe0e2f4d568ff6ecf79a0f3cb76192fb89410",
+    "6fcf47ecd8b7842a3d7be812899fcda0b850c229",
+    "38fb7525c33c011c7635901449c2caf804fe9c2a",
+    "e61d90fc9fc1d1edb10fce7b03fa3b5579f0b924",
+    "1f6381a9ce0f9c70751115f757a8ed46b6b8a7b1"
    ]
   },
   "worktech_academy": {
@@ -900,7 +941,20 @@
     "cf9ee14dfdd0b5a88c33d056708e0ea9a89ed341",
     "9ce4ba6b5ff2d9d2b4ea3ef322498634a2cd73b6",
     "822d9ca3ab5edd6eb44b98265953c469b2c37324",
-    "92600b6a6d17938fd6889752cd3f613e2666ef93"
+    "92600b6a6d17938fd6889752cd3f613e2666ef93",
+    "6a871f47446f11664aaee32b12f9a9b814af91a8",
+    "5bfa9a401cf55aaed213418b892e51c68c62b3b0",
+    "e963d139cb65216d27870830404d58d002b14c72",
+    "17815a31d0cb5bdfa4096d0c9638dd41be7c5d66",
+    "ed37100872efdf7f7803520ef56eb504cc1a54c5",
+    "56a0242f9914a5da9125338158af8c0e815c84a6",
+    "299f8de79a03b740294f9b73f42993fca07e908b",
+    "ebc8819170d5058b67605ec020ce1adb9c1c02bd",
+    "f907b0c9045b3e1dff72b4f5a5822968cbc4e7c0",
+    "8f43a13ff39971cf5df9154ca235f9b834c32b5b",
+    "bc43b629ebabfb09e146f63c57e6134ccded0a12",
+    "53c066a5abedaa756a026ccfae1aa96431c5850d",
+    "8cb357280948d496ee495e9a2c44d0650f488bbe"
    ]
   },
   "charter": {
@@ -953,7 +1007,16 @@
     "334c493128afaef1b3c20beb399ae75e97ba3801",
     "62cc1a909a838c10a00bcfe1d1933cefe723b2e9",
     "24128df4bfd34b79d45655fd9f100a2aeffcab9b",
-    "4a70fe15a94b6e35256c41513ba22c7d090961b2"
+    "4a70fe15a94b6e35256c41513ba22c7d090961b2",
+    "7c2daf0b4c9e0db64fa170278b37d3581c3f5b7c",
+    "beb031c180be8a9077441ad1963176f0e891d4fd",
+    "6b90be0b2ba821b83d4a3008a58eeaaf91dc531e",
+    "d1d7e82d429c4afb1896673e464abf39189be649",
+    "b8edda3d89e1c42af67bca8f81fcf2b55ac798f4",
+    "feb7970a1a2aac30c6c46791354eccc1ba1d87f0",
+    "b5d2ba494b7691b76f977ad1496f3a8e5a1d42fd",
+    "78e894495d0a85a2e43ea5ad8a651086255ed2ee",
+    "58a873604d3be9e370fbd250217876b76c03c083"
    ]
   },
   "work_design_mag": {
@@ -977,7 +1040,8 @@
     "6fc799bdeefdd3d3447fa25d52d5ec7d99c14311",
     "e245e3f2d02e5e641e32c442a0c437d23778e376",
     "4de5ea72c024a8e5e31ffffb99236ddef3de6e05",
-    "19e0f87f0eb35ab6d0490a39c7ea6ad4d65328e0"
+    "19e0f87f0eb35ab6d0490a39c7ea6ad4d65328e0",
+    "318fa3ee3d2cad3d758ace60ac9400a556152f14"
    ]
   },
   "fmlink": {
@@ -1039,7 +1103,17 @@
     "74a19b257571d794f7343a31000da3f973c1da65",
     "627541726e874474e5d0440cb8436e939dd176a5",
     "c01f13de9d2bd6db6a20092b176b07b2cd3d4b40",
-    "ba1e55d3eb7e3d14f394bdd1a0f7a814fa13300c"
+    "ba1e55d3eb7e3d14f394bdd1a0f7a814fa13300c",
+    "f2339d1ae74c329991b29622fec7977936c3dc23",
+    "076c5eb4e74e24564727626d159afec595460e6b",
+    "56b10cbe884225bd8f235104162325388253e489",
+    "476fcf197f8562506f9731b416db52df253dde2e",
+    "4550c0a5d5b15bbacfacf49a1bff170bf6928f7e",
+    "85fb56134e38653e23918cf227d9920b30e3bb3e",
+    "e5ff800b41b007078755432f7b1ba78b8e4f5f5f",
+    "2b66553d75d062c5b8114138a9caca9f229e1a75",
+    "7453e1ed18492b899965c4d2acfd6600ac216801",
+    "ef73990e33bbbeb29485ce4c8079e08ede269507"
    ]
   },
   "facilitiesnet": {
@@ -1104,7 +1178,14 @@
     "66e4539109c279f8a0a2f8fce249b49f6063e6f3",
     "b70764c0661984adb8417ca2d02eb6fbed94159a",
     "46bf876b7d9ce45e14e8002da68d3f4a68661cfd",
-    "e6ed76eee882b04f9ea6e4dde554afe4a15174de"
+    "e6ed76eee882b04f9ea6e4dde554afe4a15174de",
+    "956a207f2d9fa79187304dad8e44222e72255b7c",
+    "5751e6cbb65719dce509bde46c94952d2e5ad8f8",
+    "b71fd67a49fb6b4f900afb4737de4fc6a4bd1e7b",
+    "4ffac9563d901f1f5a872f48d86010eb23881cb2",
+    "e81bf80600ae9b3134a0de4fa132f2a690c23bbb",
+    "16203a3eda5e646b27fa6c144f9e18f9f4fbe1a9",
+    "a2a91266603a40a47969ed6a77ba2ab4e43e3148"
    ]
   },
   "facility_executive": {
@@ -1298,7 +1379,23 @@
     "ae3742e2180ffcf7d9dd9972b3809994b0440830",
     "4d61c72f7f510b7d67f425119ef80103a61be4b7",
     "3ceeb14e0e2f4c111eed895bfbbcc9d402f53bff",
-    "690482c7686568f4841bdf6d325dc9626623e692"
+    "690482c7686568f4841bdf6d325dc9626623e692",
+    "4e79b6cc81f0175ef4d40fd78d1f19bae3d16004",
+    "576925f339e80623ac51f2ab3027a7ae052f343f",
+    "a195865a1a1b0b4d3ee054058e84db1521700fd2",
+    "ec9094b17b59450b6332aaa986399ec4dc2e1b5a",
+    "be1c4103f0676ec384e67d5207f240c5cd0a9810",
+    "4a970c7888c3b744f93a172d0d5de56c5e3e2422",
+    "e7bd34d196d742098d9ef624b706d5cf68d0a2a3",
+    "8c3b6a8d0df4881370d6341e9d965de2cb495423",
+    "59d9f6155c4beec6029628fb9f70da51fcb65653",
+    "4d9db20a77197a3f09ffe424a0b51c411d7a80b2",
+    "b3e13520cc5951f3fcfe6bd976fa7729c0900200",
+    "fd8b3b446540f56691562c7d5b6baba9d0fca493",
+    "bd424c0b762883d9a23bec53b771b796740b24b4",
+    "238a3c66d4e90994dbdda5d2babc188cdfc1613b",
+    "42d091f34878497e37d706d0f995407ad96e5b1e",
+    "b8315aba2b531cf6327f946ef6f72a7f400dbc85"
    ]
   },
   "hr_brew": {
@@ -1400,7 +1497,9 @@
     "bea398f03e27b3b8de25c9a4193a15617654e9b1",
     "8f78a8ea9efbd49da7119f1a35385411507423f7",
     "70c2f9994f626d8ccbf815a561c1cf80f6a9cfd2",
-    "333ee2b6cb029cbb0f80890ecf479ee9d988e5c9"
+    "333ee2b6cb029cbb0f80890ecf479ee9d988e5c9",
+    "2fd928e6d11a244c6ad0426478f8802e1dce451d",
+    "30ec4a777a989dcce4763b29834027f02b73204e"
    ]
   },
   "competitor_robin": {
@@ -1504,7 +1603,11 @@
     "4ce8e841cb3c5151e3dd870a2fa0474490a896f6",
     "898133f1a97ac93f4a6d0320cd678b839524d66a",
     "884e285ef440eda56caa7170944039748c3036b9",
-    "5c38ade34cb5e29d81f0ddf6d50e58138bab35d2"
+    "5c38ade34cb5e29d81f0ddf6d50e58138bab35d2",
+    "04a2bcb89cf510d35ff084cc947eea7779c5b502",
+    "be800f1bc0a499ee93b7a39bdec3cadfbd7af9e7",
+    "f49e683571ba97a979ad687428bb046574db808e",
+    "9db97c933a6568acb431732fe7b4cc6be3eb670f"
    ]
   },
   "the_assist": {
@@ -1946,7 +2049,9 @@
     "53978b53d94343b602d475c54c2c1f37232b2a43",
     "a01e093c92f8e8c6fb7a4261290da01a07b00e25",
     "261204f33ceed5b160efa8aa9cdcad498c807524",
-    "a7362794c93589f68dcd3b61a5bb2c20652adf4f"
+    "a7362794c93589f68dcd3b61a5bb2c20652adf4f",
+    "392b132c02fd5d7b20d563f1bfdee6344e6fc5d3",
+    "547a5d32ac6b943db3757436e3b2e0cf827872a5"
    ]
   },
   "podcast_workplace_geeks": {
@@ -2203,7 +2308,8 @@
     "312cff88e816ce8f7507f16208c71a7658efb80e",
     "4ca6ab1893d312447881dd2aaf194fafeea1d0ad",
     "0f2e2d993d411852676065513556a6e64389ae3c",
-    "13d6586880cb6eec5af46854416c943746e9021f"
+    "13d6586880cb6eec5af46854416c943746e9021f",
+    "4a6031f69de10dd04fcb907b2a7a16e4e82bd529"
    ]
   },
   "podcast_connected_fm": {
@@ -4645,6 +4751,183 @@
    "sources_error": 0,
    "sources_skipped": 0,
    "new_items": 0
+  },
+  {
+   "run_id": "2026-10-12",
+   "cadence": "weekly",
+   "sources": [
+    {
+     "id": "reddit_sysadmin",
+     "new": 1,
+     "note": "ok (1 dup)"
+    },
+    {
+     "id": "reddit_k12sysadmin",
+     "new": 0,
+     "note": "ok"
+    },
+    {
+     "id": "reddit_msp",
+     "new": 0,
+     "note": "ok (1 dup)"
+    },
+    {
+     "id": "reddit_itmanagers",
+     "new": 0,
+     "note": "ok"
+    },
+    {
+     "id": "reddit_facilitymanagement",
+     "new": 0,
+     "note": "ok"
+    },
+    {
+     "id": "reddit_executiveassistants",
+     "new": 13,
+     "note": "ok (63 dup)"
+    },
+    {
+     "id": "reddit_adminassistant",
+     "new": 4,
+     "note": "ok (2 dup)"
+    },
+    {
+     "id": "reddit_humanresources",
+     "new": 0,
+     "note": "ok (1 dup)"
+    },
+    {
+     "id": "reddit_humanresourcesuk",
+     "new": 0,
+     "note": "ok"
+    },
+    {
+     "id": "spiceworks",
+     "new": 0,
+     "note": "ok (53 dup, 145 off-topic)"
+    },
+    {
+     "id": "hackernews",
+     "new": 5,
+     "note": "ok (41 dup, 58 off-topic)"
+    },
+    {
+     "id": "allwork_space",
+     "new": 10,
+     "note": "ok"
+    },
+    {
+     "id": "workplace_insight",
+     "new": 8,
+     "note": "ok"
+    },
+    {
+     "id": "worktech_academy",
+     "new": 13,
+     "note": "ok (87 dup)"
+    },
+    {
+     "id": "charter",
+     "new": 9,
+     "note": "ok (6 dup)"
+    },
+    {
+     "id": "work_design_mag",
+     "new": 1,
+     "note": "ok (9 dup)"
+    },
+    {
+     "id": "fmlink",
+     "new": 10,
+     "note": "ok"
+    },
+    {
+     "id": "facilitiesnet",
+     "new": 0,
+     "note": "ok"
+    },
+    {
+     "id": "worklife_news",
+     "new": 0,
+     "note": "ok (10 dup)"
+    },
+    {
+     "id": "raconteur",
+     "new": 7,
+     "note": "ok (12 dup)"
+    },
+    {
+     "id": "facility_executive",
+     "new": 16,
+     "note": "ok (57 dup)"
+    },
+    {
+     "id": "hr_brew",
+     "new": 2,
+     "note": "ok (66 dup)"
+    },
+    {
+     "id": "the_assist",
+     "new": 0,
+     "note": "ok"
+    },
+    {
+     "id": "competitor_robin",
+     "new": 4,
+     "note": "ok (96 dup)"
+    },
+    {
+     "id": "competitor_envoy",
+     "new": 0,
+     "note": "ok"
+    },
+    {
+     "id": "competitor_officespace",
+     "new": 0,
+     "note": "ok"
+    },
+    {
+     "id": "podcast_workplace_innovator",
+     "new": 2,
+     "note": "ok (429 dup)"
+    },
+    {
+     "id": "podcast_workplace_geeks",
+     "new": 0,
+     "note": "ok (77 dup)"
+    },
+    {
+     "id": "podcast_dwg_impact",
+     "new": 1,
+     "note": "ok (172 dup)"
+    },
+    {
+     "id": "podcast_connected_fm",
+     "new": 0,
+     "note": "ok"
+    },
+    {
+     "id": "yt_ifma",
+     "new": 0,
+     "note": "ok"
+    },
+    {
+     "id": "yt_worktech",
+     "new": 0,
+     "note": "ok"
+    },
+    {
+     "id": "yt_running_remote",
+     "new": 0,
+     "note": "ok"
+    }
+   ],
+   "sources_ok": 33,
+   "sources_error": 0,
+   "sources_skipped": 0,
+   "new_items": 106,
+   "themes_total": 18,
+   "movers": 2
   }
  ]
 }

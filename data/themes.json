@@ -10,7 +10,8 @@
    "2026-W35": 0,
    "2026-W36": 1,
    "2026-W38": 1,
-   "2026-W39": 0
+   "2026-W39": 0,
+   "2026-W42": 0
   },
   "evidence": [
    {
@@ -64,7 +65,8 @@
    "2026-W35": 0,
    "2026-W36": 1,
    "2026-W38": 0,
-   "2026-W39": 0
+   "2026-W39": 0,
+   "2026-W42": 0
   },
   "evidence": [
    {
@@ -103,14 +105,15 @@
   "became_post": null,
   "became_post_at": null,
   "covered_by_context": [
-   "workplace_insight"
+   "allwork_space",
+   "worktech_academy"
   ],
   "suggested_angle": "Show HR how to write a hybrid policy where the home setup allowance and in-office spend are one governed budget rather than ad hoc reimbursements.",
   "current": 0,
-  "trailing_mean": 0.333,
-  "delta_z": -0.707,
+  "trailing_mean": 0.167,
+  "delta_z": -0.447,
   "demand_score": 0.0,
-  "saturation_score": 0.333,
+  "saturation_score": 1.0,
   "opportunity_score": 0.0,
   "status": "steady"
  },
@@ -125,22 +128,23 @@
    "2026-W35": 2,
    "2026-W36": 23,
    "2026-W38": 6,
-   "2026-W39": 3
+   "2026-W39": 3,
+   "2026-W42": 6
   },
   "evidence": [
    {
-    "quote": "Any tips on getting the CEO to update me on rising matters, at least for the time being before I now organise his calls and all.",
-    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1wimbvi/filling_in_the_gap_nairobikenya/",
+    "quote": "I currently am the EA to our CEO, and a few months ago I was asked to also assist another Sr Level Exec. It was supposed to be temporary, but it looks like itl'll be closer to 10+ months. There was not pay adjustment and nothing in writing. I also serve as our OM so it's been a lot.",
+    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1wy9qm5/additional_work_assigned/",
     "source_id": "reddit_executiveassistants"
    },
    {
-    "quote": "A big part of my job is coordinating people: potluck sign-ups, volunteer shifts, finding a meeting time across three time zones.",
-    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1wiemes/i_built_a_free_adfree_signup_sheet_and_scheduling/",
+    "quote": "all my work seems to be centered around personal tasks. Personal purchases, credit card disputes, booking wellness activities, doctors appointments, paying their rent, financial audits of their personal credit cards and filing disputes",
+    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1wsitag/is_this_normal/",
     "source_id": "reddit_executiveassistants"
    },
    {
-    "quote": "he has started to creep up on me more and more, a few simple tasks here a",
-    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1whvsos/ceo_shenanigans/",
+    "quote": "What I’m struggling with the most is the complete lack of communication, utilization, and support I receive.",
+    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1x14g1y/support/",
     "source_id": "reddit_executiveassistants"
    }
   ],
@@ -169,13 +173,13 @@
   "became_post": null,
   "became_post_at": null,
   "covered_by_context": [],
-  "suggested_angle": "Quantify the hidden cost of admins patching coordination gaps with free ad-supported tools, and why consolidating that spend is an HR win.",
-  "current": 3,
-  "trailing_mean": 6.5,
-  "delta_z": -0.44,
-  "demand_score": 0.43,
+  "suggested_angle": "Show HR leaders how much unbudgeted workspace and travel spend quietly lands on one EA or office manager, and what a shared system of record changes.",
+  "current": 6,
+  "trailing_mean": 5.333,
+  "delta_z": 0.081,
+  "demand_score": 0.719,
   "saturation_score": 0.0,
-  "opportunity_score": 0.43,
+  "opportunity_score": 0.719,
   "status": "gap"
  },
  {
@@ -189,7 +193,8 @@
    "2026-W35": 0,
    "2026-W36": 0,
    "2026-W38": 0,
-   "2026-W39": 0
+   "2026-W39": 0,
+   "2026-W42": 0
   },
   "evidence": [
    {
@@ -234,18 +239,19 @@
    "2026-W35": 0,
    "2026-W36": 2,
    "2026-W38": 0,
-   "2026-W39": 2
+   "2026-W39": 2,
+   "2026-W42": 2
   },
   "evidence": [
    {
-    "quote": "I hate that everyone's fucking problem is my problem. It's just problem after problem after problem.",
-    "url": "https://www.reddit.com/r/sysadmin/comments/1w5a9u5/so_burned_out/",
-    "source_id": "reddit_sysadmin"
+    "quote": "Just had a support call escalated to me where the resolution involved unplugging a network cable, and plugging it back in.",
+    "url": "https://news.ycombinator.com/item?id=7806540",
+    "source_id": "hackernews"
    },
    {
-    "quote": "What should I expect in the current job market",
-    "url": "https://www.reddit.com/r/ITManagers/comments/1wl10n4/what_should_i_expect_in_the_current_job_market/",
-    "source_id": "reddit_itmanagers"
+    "quote": "Is the skills cap in tech as wide as we think?",
+    "url": "https://news.ycombinator.com/item?id=7806540",
+    "source_id": "hackernews"
    }
   ],
   "vocabulary": [
@@ -273,13 +279,13 @@
   "became_post": null,
   "became_post_at": null,
   "covered_by_context": [],
-  "suggested_angle": "Connect support burnout to the volume of small workspace requests that never get systematised, and what removing them from the queue is worth.",
+  "suggested_angle": "Argue that ticket counts hide the real cost of workplace support, and show the spend signals HR and facilities should track instead.",
   "current": 2,
-  "trailing_mean": 0.833,
-  "delta_z": 0.962,
-  "demand_score": 0.263,
+  "trailing_mean": 0.667,
+  "delta_z": 1.414,
+  "demand_score": 0.0,
   "saturation_score": 0.0,
-  "opportunity_score": 0.263,
+  "opportunity_score": 0.0,
   "status": "steady"
  },
  {
@@ -292,7 +298,8 @@
    "2026-W35": 0,
    "2026-W36": 0,
    "2026-W38": 0,
-   "2026-W39": 0
+   "2026-W39": 0,
+   "2026-W42": 0
   },
   "evidence": [
    {
@@ -330,7 +337,8 @@
    "2026-W35": 2,
    "2026-W36": 1,
    "2026-W38": 2,
-   "2026-W39": 0
+   "2026-W39": 0,
+   "2026-W42": 0
   },
   "evidence": [
    {
@@ -370,14 +378,14 @@
   "became_post_at": null,
   "covered_by_context": [
    "allwork_space",
-   "workplace_insight"
+   "charter"
   ],
   "suggested_angle": "Show HR buyers why adoption, not features, decides whether attendance and workspace tools pay for themselves.",
   "current": 0,
-  "trailing_mean": 1,
-  "delta_z": -1.225,
+  "trailing_mean": 0.5,
+  "delta_z": -0.655,
   "demand_score": 0.0,
-  "saturation_score": 0.667,
+  "saturation_score": 1.0,
   "opportunity_score": 0.0,
   "status": "steady"
  },
@@ -390,22 +398,18 @@
    "2026-W35": 1,
    "2026-W36": 0,
    "2026-W38": 0,
-   "2026-W39": 0
+   "2026-W39": 0,
+   "2026-W42": 1
   },
   "evidence": [
    {
-    "quote": "What visitor management system do you use in your workplace?",
-    "url": "https://www.reddit.com/r/AdminAssistant/comments/1vuqzpj/what_visitor_management_system_do_you_use_in_your/",
+    "quote": "How do you handle a visitor management system for a shared building and not everyone is your tenant?",
+    "url": "https://www.reddit.com/r/AdminAssistant/comments/1wzj9p6/how_do_you_handle_a_visitor_management_system_for/",
     "source_id": "reddit_adminassistant"
    },
    {
-    "quote": "What are your recommendations and what features are the most helpful?",
-    "url": "https://www.reddit.com/r/AdminAssistant/comments/1vuqzpj/what_visitor_management_system_do_you_use_in_your/",
-    "source_id": "reddit_adminassistant"
-   },
-   {
-    "quote": "Now I'm given the responsibility to develop a better system in place to track everyone who comes in and out of the building.",
-    "url": "https://www.reddit.com/r/AdminAssistant/comments/1vuqzpj/what_visitor_management_system_do_you_use_in_your/",
+    "quote": "our visitor log is a log of our own guests while everyone else walks in and signs nothing",
+    "url": "https://www.reddit.com/r/AdminAssistant/comments/1wzj9p6/how_do_you_handle_a_visitor_management_system_for/",
     "source_id": "reddit_adminassistant"
    }
   ],
@@ -423,18 +427,24 @@
    "high-rise commercial establishment",
    "track everyone who comes in and out",
    "theft",
-   "features"
+   "features",
+   "anchor tenant",
+   "mid-rise commercial building",
+   "front desk",
+   "VMS",
+   "visitor log",
+   "other tenants"
   ],
   "became_post": null,
   "became_post_at": null,
   "covered_by_context": [],
-  "suggested_angle": "Write the buyer checklist for a first visitor management purchase triggered by a security incident, including what it should cost per site and what to skip.",
-  "current": 0,
-  "trailing_mean": 0.333,
-  "delta_z": -0.707,
-  "demand_score": 0.0,
+  "suggested_angle": "Explain who pays for and who governs visitor management when one tenant inherits the whole building's front desk, and how to scope it without buying for everyone else.",
+  "current": 1,
+  "trailing_mean": 0,
+  "delta_z": 0.0,
+  "demand_score": 0.132,
   "saturation_score": 0.0,
-  "opportunity_score": 0.0,
+  "opportunity_score": 0.132,
   "status": "steady"
  },
  {
@@ -446,7 +456,8 @@
    "2026-W35": 0,
    "2026-W36": 0,
    "2026-W38": 0,
-   "2026-W39": 0
+   "2026-W39": 0,
+   "2026-W42": 0
   },
   "evidence": [
    {
@@ -478,15 +489,13 @@
   ],
   "became_post": null,
   "became_post_at": null,
-  "covered_by_context": [
-   "allwork_space"
-  ],
+  "covered_by_context": [],
   "suggested_angle": "Frame coworking stipends and day-pass desks as a managed spend category for HR, with policy on what employees can claim and why call privacy drives the choice.",
   "current": 0,
-  "trailing_mean": 0.333,
-  "delta_z": -0.447,
+  "trailing_mean": 0,
+  "delta_z": 0.0,
   "demand_score": 0.0,
-  "saturation_score": 0.333,
+  "saturation_score": 0.0,
   "opportunity_score": 0.0,
   "status": "steady"
  },
@@ -498,7 +507,8 @@
    "2026-W35": 1,
    "2026-W36": 0,
    "2026-W38": 0,
-   "2026-W39": 0
+   "2026-W39": 0,
+   "2026-W42": 0
   },
   "evidence": [
    {
@@ -524,13 +534,15 @@
   ],
   "became_post": null,
   "became_post_at": null,
-  "covered_by_context": [],
+  "covered_by_context": [
+   "workplace_insight"
+  ],
   "suggested_angle": "Cost out portable meeting audio for organisations that gather in person only a few times a year, versus renting AV from the venue each time.",
   "current": 0,
-  "trailing_mean": 0.167,
-  "delta_z": -0.447,
+  "trailing_mean": 0,
+  "delta_z": 0.0,
   "demand_score": 0.0,
-  "saturation_score": 0.0,
+  "saturation_score": 0.5,
   "opportunity_score": 0.0,
   "status": "steady"
  },
@@ -542,7 +554,8 @@
    "2026-W35": 2,
    "2026-W36": 0,
    "2026-W38": 0,
-   "2026-W39": 2
+   "2026-W39": 2,
+   "2026-W42": 0
   },
   "evidence": [
    {
@@ -586,13 +599,13 @@
   "became_post_at": null,
   "covered_by_context": [],
   "suggested_angle": "Show HR buyers evaluating HRIS bundles how equipment, shipping and workspace spend get quietly bundled into IT platforms and where lock-in costs show up.",
-  "current": 2,
+  "current": 0,
   "trailing_mean": 0.333,
-  "delta_z": 2.236,
-  "demand_score": 0.269,
+  "delta_z": -0.447,
+  "demand_score": 0.0,
   "saturation_score": 0.0,
-  "opportunity_score": 0.269,
-  "status": "accelerating"
+  "opportunity_score": 0.0,
+  "status": "steady"
  },
  {
   "theme_id": "agentic_ai_tooling_and_governance",
@@ -602,27 +615,23 @@
    "2026-W35": 2,
    "2026-W36": 3,
    "2026-W38": 2,
-   "2026-W39": 3
+   "2026-W39": 3,
+   "2026-W42": 4
   },
   "evidence": [
    {
-    "quote": "I was wondering if anyone has used Ai to the capacity of building Ai agents for workflows. For example, a calendar management workflow or a travel one.",
-    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1wgd368/ea_ai_automation_agents/",
+    "quote": "Recently I took an AI course and was fascinated by how quickly it can manage calendar clean up, scheduling, inbox management, etc and it got me thinking, will my admin assistance be needed anymore?",
+    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1wxi541/admin_work_and_ai_doom_and_gloom/",
     "source_id": "reddit_executiveassistants"
    },
    {
-    "quote": "If you can also provide some insight on how you built the agent that would be great.",
-    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1wgd368/ea_ai_automation_agents/",
-    "source_id": "reddit_executiveassistants"
-   },
-   {
-    "quote": "This is a company OS that I built and use to run my business and anyone can install it and self host it for free.",
-    "url": "https://github.com/OtoDock/oto-dock",
+    "quote": "We build sandboxes for running AI agents at under 10% of the cost of most sandbox providers.",
+    "url": "https://news.ycombinator.com/item?id=50059096",
     "source_id": "hackernews"
    },
    {
-    "quote": "Every agent can run on Claude Code or Codex CLI running as a persistent process on your server in a kernel sandbox (bubblewrap) with network isolation alw",
-    "url": "https://github.com/OtoDock/oto-dock",
+    "quote": "an inference engine for agents that optimizes itself to run as fast as possible on your hardware",
+    "url": "https://github.com/magnitudedev/magnitude",
     "source_id": "hackernews"
    }
   ],
@@ -652,14 +661,13 @@
   "became_post_at": null,
   "covered_by_context": [
    "allwork_space",
-   "charter",
    "workplace_insight"
   ],
-  "suggested_angle": "Explain how HR can set spend and governance rules for the AI agents admins are already wiring into calendars and travel before shadow tooling becomes shadow risk.",
-  "current": 3,
-  "trailing_mean": 1.167,
-  "delta_z": 1.511,
-  "demand_score": 0.299,
+  "suggested_angle": "Set out what an HR-led policy for AI assistants touching calendars, travel and expense approvals should actually require before anyone turns one on.",
+  "current": 4,
+  "trailing_mean": 1.333,
+  "delta_z": 1.94,
+  "demand_score": 0.368,
   "saturation_score": 1.0,
   "opportunity_score": 0.0,
   "status": "watching"
@@ -671,7 +679,8 @@
   "counts_by_week": {
    "2026-W36": 2,
    "2026-W38": 0,
-   "2026-W39": 0
+   "2026-W39": 0,
+   "2026-W42": 0
   },
   "evidence": [
    {
@@ -713,22 +722,18 @@
   "first_seen": "2026-09-14",
   "counts_by_week": {
    "2026-W38": 6,
-   "2026-W39": 7
+   "2026-W39": 7,
+   "2026-W42": 1
   },
   "evidence": [
    {
-    "quote": "Vimcal vs Levenza ... Looking to find out which is preferred among the community, or what else there is on the market.",
-    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1wih46h/vimcal_vs_levenza/",
+    "quote": "My company has an open calendar rule where everyone can see everyone else’s meetings unless you make it private. Everyone can see everything, but only EAs can manage invites.",
+    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1wza2xv/calendar_stalking/",
     "source_id": "reddit_executiveassistants"
    },
    {
-    "quote": "Also, how do I go about asking a new company/CEO to pay for something like this?",
-    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1wih46h/vimcal_vs_levenza/",
-    "source_id": "reddit_executiveassistants"
-   },
-   {
-    "quote": "Is this something the IT admin has to change or is there a setting/ workaround I am missing?",
-    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1wiwds3/msft_teams_in_gcal_removing_the_wait_room/",
+    "quote": "I sent this specific invite two weeks ago",
+    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1wza2xv/calendar_stalking/",
     "source_id": "reddit_executiveassistants"
    }
   ],
@@ -757,14 +762,14 @@
   "became_post": null,
   "became_post_at": null,
   "covered_by_context": [],
-  "suggested_angle": "Show HR and ops leaders how much scheduling tooling EAs are quietly buying or building themselves, and why calendar tools belong in a managed workspace spend line rather than on a personal card.",
-  "current": 7,
-  "trailing_mean": 1,
-  "delta_z": 2.683,
-  "demand_score": 1.0,
+  "suggested_angle": "Explain how calendar visibility rules decide who really controls meeting time and room demand, and why HR should set the default rather than leave it to EAs.",
+  "current": 1,
+  "trailing_mean": 2.167,
+  "delta_z": -0.379,
+  "demand_score": 0.13,
   "saturation_score": 0.0,
-  "opportunity_score": 1.0,
-  "status": "accelerating"
+  "opportunity_score": 0.13,
+  "status": "steady"
  },
  {
   "theme_id": "meeting_room_booking_conflicts",
@@ -772,7 +777,8 @@
   "first_seen": "2026-09-14",
   "counts_by_week": {
    "2026-W38": 1,
-   "2026-W39": 0
+   "2026-W39": 0,
+   "2026-W42": 0
   },
   "evidence": [
    {
@@ -808,23 +814,24 @@
   "first_seen": "2026-09-14",
   "counts_by_week": {
    "2026-W38": 9,
-   "2026-W39": 4
+   "2026-W39": 4,
+   "2026-W42": 8
   },
   "evidence": [
    {
-    "quote": "Why are executive assistants expected to operate at the highest level of the organization without participating in any of the compensation structures that supposedly reward performance at that level?",
-    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1wkm1ng/executive_assistant_compensation/",
+    "quote": "Each role has a focus on calendar management and travel arrangements. It's the travel thats going to be my downfall",
+    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1wyojc4/ea_roles_travel_arrangements_is_going_to_be_my/",
     "source_id": "reddit_executiveassistants"
    },
    {
-    "quote": "What was your moment - where you finally made an executive decision for your life that you were doing being an EA?",
-    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1wiv3xs/what_was_your_moment_where_you_finally_made_an/",
+    "quote": "What higher-level/less traditional work have you taken on for a very busy executive?",
+    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1wvdmsl/what_higherlevelless_traditional_work_have_you/",
     "source_id": "reddit_executiveassistants"
    },
    {
-    "quote": "Essentially I started working at a law firm to be a project manager. ... And while I do have PM tasks it's more so of an EA to my boss.",
-    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1wkv2c7/law_firm_ea_realistic_role_advice_co/",
-    "source_id": "reddit_executiveassistants"
+    "quote": "How would you explain moving from marketing to an admin role in an interview?",
+    "url": "https://www.reddit.com/r/AdminAssistant/comments/1wwadgz/how_would_you_explain_moving_from_marketing_to_an/",
+    "source_id": "reddit_adminassistant"
    }
   ],
   "vocabulary": [
@@ -846,26 +853,28 @@
    "calendar management, expense reporting, meeting preparation",
    "Setup: Hybrid - RTO 2x a week",
    "fast-paced, global environment",
-   "role creep"
+   "role creep",
+   "EA TO CEO"
   ],
   "became_post": null,
   "became_post_at": null,
   "covered_by_context": [],
-  "suggested_angle": "Make the case that the EA role has absorbed workspace, travel and tool spend decisions without the budget authority or comp to match, and what HR should formalise.",
-  "current": 4,
-  "trailing_mean": 1.5,
-  "delta_z": 0.745,
-  "demand_score": 0.585,
+  "suggested_angle": "Use EA job posts and career threads to show HR what admin roles are really being asked to own, including travel, expenses and onsite coverage, and where tooling should take over.",
+  "current": 8,
+  "trailing_mean": 2.167,
+  "delta_z": 1.722,
+  "demand_score": 1.0,
   "saturation_score": 0.0,
-  "opportunity_score": 0.585,
-  "status": "gap"
+  "opportunity_score": 1.0,
+  "status": "accelerating"
  },
  {
   "theme_id": "personal_data_access_and_credential_handover",
   "label": "Handing over credentials and access when someone leaves or dies",
   "first_seen": "2026-09-21",
   "counts_by_week": {
-   "2026-W39": 1
+   "2026-W39": 1,
+   "2026-W42": 0
   },
   "evidence": [
    {
@@ -884,12 +893,52 @@
   "became_post_at": null,
   "covered_by_context": [],
   "suggested_angle": "Too thin to build on yet, but worth watching as a signal about who holds access to accounts and subscriptions when a role changes hands.",
+  "current": 0,
+  "trailing_mean": 0.167,
+  "delta_z": -0.447,
+  "demand_score": 0.0,
+  "saturation_score": 0.0,
+  "opportunity_score": 0.0,
+  "status": "steady"
+ },
+ {
+  "theme_id": "internal_web_and_link_infrastructure_ownership",
+  "label": "Owning internal web and link infrastructure versus buying a service",
+  "first_seen": "2026-10-12",
+  "counts_by_week": {
+   "2026-W42": 1
+  },
+  "evidence": [
+   {
+    "quote": "How do you handle URL redirects in a business environment?",
+    "url": "https://www.reddit.com/r/sysadmin/comments/1wvgxmq/how_do_you_handle_url_redirects_in_a_business/",
+    "source_id": "reddit_sysadmin"
+   },
+   {
+    "quote": "I’m trying to decide whether it makes more sense to keep them directly in the existing web server/reverse proxy setup or use a dedicated service.",
+    "url": "https://www.reddit.com/r/sysadmin/comments/1wvgxmq/how_do_you_handle_url_redirects_in_a_business/",
+    "source_id": "reddit_sysadmin"
+   }
+  ],
+  "vocabulary": [
+   "URL redirects",
+   "reverse proxy",
+   "self-hosted",
+   "dedicated service",
+   "click statistics",
+   "under our control",
+   "visitor information"
+  ],
+  "became_post": null,
+  "became_post_at": null,
+  "covered_by_context": [],
+  "suggested_angle": "Watch this as a build versus buy pattern: small teams keep infrastructure in house to avoid another subscription and another vendor review.",
   "current": 1,
   "trailing_mean": 0,
   "delta_z": 0.0,
-  "demand_score": 0.089,
+  "demand_score": 0.122,
   "saturation_score": 0.0,
-  "opportunity_score": 0.089,
+  "opportunity_score": 0.122,
   "status": "watching"
  }
 ]

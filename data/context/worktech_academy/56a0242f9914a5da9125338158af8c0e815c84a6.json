@@ -1,0 +1,14 @@
+{
+ "id": "56a0242f9914a5da9125338158af8c0e815c84a6",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGa1hFaXpHVTllZFpqdVEzRkVVQzFCUHY1bnVZdG02QmRhWVVGcG0zdzRpU2trT1V4dXlieFhqaGViekE3S2g3V1J1NnRsRmNsaUJJWjZPM3lRZw?oc=5",
+ "published_at": "2026-10-06",
+ "observed_at": "2026-10-12",
+ "summary": "This item is effectively empty. The entry consists of a Google News RSS redirect link titled \"Akenza - WORKTECH Academy\" with body text that simply repeats the title: \"Akenza WORKTECH Academy.\" No article body, publication date, author or substantive content was captured in the payload.\n\nFrom the title alone, the piece appears to be a WORKTECH Academy listing or profile relating to Akenza, a company generally associated with IoT platform technology that can be applied to smart building and workplace sensor use cases. However, nothing in the supplied text confirms the subject matter, so any characterisation of its contents would be speculation.\n\nThere are no factual claims, statistics, quotes, attributions or category vocabulary available to extract. There is no discussion of visitor management, desk or room booking, hybrid and return to office policy, workplace analytics, facilities operations, or any adjacent theme in the registry.\n\nRecommendation for the listening pipeline: treat this record as a non-substantive stub. If coverage of Akenza or WORKTECH Academy content is needed, the underlying article should be re-fetched by resolving the Google News redirect to the publisher URL so the full text can be assessed. As captured, the item should not contribute to saturation scoring on any theme, and no themes have been tagged.",
+ "claims": [],
+ "vocabulary": [
+  "Akenza",
+  "WORKTECH Academy"
+ ],
+ "topics_covered": []
+}

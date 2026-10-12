@@ -1,0 +1,51 @@
+{
+ "id": "78e894495d0a85a2e43ea5ad8a651086255ed2ee",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/the-next-big-workforce-challenge-may-be-mobility-not-a-lack-of-jobs/",
+ "published_at": "2026-10-01",
+ "observed_at": "2026-10-12",
+ "summary": "Charter covers a new McKinsey Global Institute report arguing the AI jobs outlook is less dire than headlines suggest: over the next decade the US economy could create more jobs than automation eliminates, new roles could pay better than displaced ones, and in understaffed fields such as nursing AI could relieve overwork.\n\nThe complication is occupational mobility rather than job scarcity. MGI estimates roughly 11 million US workers, about 7% of the current workforce, may need to move into entirely different occupations by 2035, and only about one in seven workers has a clear pathway into such a transition.\n\nMcKinsey senior partner and MGI director Tanguy Catlin told Charter the scale and duration of the shift is unprecedented. Around 770,000 workers may need to switch occupational groups each year, roughly 3.6 times the historical average. Catlin compares the required job migration to what the US experienced during covid, but notes the pandemic disruption lasted two years while this transition is expected to last a decade.\n\nThe piece is macro labor market commentary on AI, reskilling and career pathways. It does not address workplace operations topics such as visitor management, desk or room booking, hybrid and return to office policy, attendance tracking, facilities management, or workplace analytics tooling.",
+ "claims": [
+  {
+   "claim": "The US economy could create more jobs than automation eliminates over the next decade, with new jobs potentially paying better than those lost",
+   "stat": "",
+   "attribution": "McKinsey Global Institute report"
+  },
+  {
+   "claim": "Workers may need to move into entirely different occupations by 2035",
+   "stat": "roughly 11 million workers, about 7% of the current workforce",
+   "attribution": "McKinsey Global Institute report"
+  },
+  {
+   "claim": "Only a small share of workers has a clear route into a different occupation",
+   "stat": "one in seven",
+   "attribution": "McKinsey Global Institute report"
+  },
+  {
+   "claim": "Workers may need to switch occupational groups annually, well above the historical rate",
+   "stat": "770,000 per year, roughly 3.6 times the historical average",
+   "attribution": "McKinsey Global Institute report"
+  },
+  {
+   "claim": "The required job migration resembles the covid period, but will last 10 years rather than two",
+   "stat": "10 years vs 2 years",
+   "attribution": "Tanguy Catlin, McKinsey senior partner and MGI director"
+  },
+  {
+   "claim": "AI could help alleviate overwork in understaffed fields such as nursing",
+   "stat": "",
+   "attribution": "McKinsey Global Institute report"
+  }
+ ],
+ "vocabulary": [
+  "McKinsey Global Institute (MGI)",
+  "automation",
+  "occupational groups",
+  "job migration",
+  "workforce mobility",
+  "occupational transitions",
+  "understaffed fields",
+  "senior partner"
+ ],
+ "topics_covered": []
+}

@@ -1,0 +1,63 @@
+{
+ "id": "7c2daf0b4c9e0db64fa170278b37d3581c3f5b7c",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/how-to-redesign-entry-level-jobs-for-the-age-of-ai/",
+ "published_at": "2026-10-11",
+ "observed_at": "2026-10-12",
+ "summary": "Charter's newsletter combines an AI and Work Radar roundup with an excerpt from its new research playbook, \"Redesigning work for the AI era,\" developed with Council Advisors and featuring cases from EY and Zapier.\n\nRadar items: Gallup finds regular workplace AI use concentrated among those already in quality jobs, with uneven benefits. The Wall Street Journal reports businesses struggle to budget for AI as costs grow unpredictable and cheaper models gain share, with OpenAI's lower-priced GPT-5.6 models helping it close in on Anthropic for business customers; cheaper models can burn more tokens and cost more than pricier ones. A special Edelman Trust Barometer workplace report finds workers rate AI above their managers for creative thinking, hard problem solving, and learning technical skills, with managers winning only on making employees feel valued. A study from the University of Zurich, University of Limerick, and SKEMA Business School found participants in a virtual-reality office paid female-presenting AI agents less than male-presenting ones for identical work.\n\nThe main feature is an interview with Joseph Fuller, Harvard Business School professor and Monitor Group co-founder, on entry-level work. Fuller says job postings for entry-level roles have been significantly curtailed in AI-exposed sectors such as financial services and software, and job description contents are changing at a historically high rate. His advice: you cannot have a 10-year-old without a one-year-old, so do not eliminate the pipeline that builds contextual intelligence through experiential learning. If a role is uneconomical, rewrite the job description to add tasks previously reserved for more senior staff, and plan for needs seven or eight years out. At one tech company, junior technical hires were placed on product management teams and sales calls to broaden them beyond silos. On hiring, he recommends work-based learning opportunities to reduce involuntary attrition costs, and structured interviews where different interviewers cover different material in different ways.",
+ "claims": [
+  {
+   "claim": "Among AI users, a majority say it helps them work faster, and a majority say it boosts creativity",
+   "stat": "63% work faster; 56% boosts creativity",
+   "attribution": "Gallup"
+  },
+  {
+   "claim": "College graduates are more than twice as likely as those without a degree to use AI weekly or more",
+   "stat": "40% vs. 17%",
+   "attribution": "Gallup"
+  },
+  {
+   "claim": "Only a small minority of surveyed businesses could accurately forecast their AI spending",
+   "stat": "11%",
+   "attribution": "study cited by The Wall Street Journal"
+  },
+  {
+   "claim": "OpenAI's lower-priced GPT-5.6 models are helping it close in on Anthropic in the competition for business customers",
+   "stat": "",
+   "attribution": "The Wall Street Journal"
+  },
+  {
+   "claim": "Workers say AI beats their manager at helping them think creatively, solve difficult problems, and learn new technical skills; managers outperformed AI only on making employees feel valued",
+   "stat": "",
+   "attribution": "Edelman Trust Barometer special workplace report"
+  },
+  {
+   "claim": "People paid AI agents with female appearances less than male-presenting agents for identical work",
+   "stat": "10% less; 189 participants",
+   "attribution": "researchers at University of Zurich, University of Limerick, and SKEMA Business School"
+  },
+  {
+   "claim": "There has been a significant curtailment of entry-level job postings in sectors most exposed to AI, such as financial services and software, and job description contents are changing at a historically high rate",
+   "stat": "",
+   "attribution": "Joseph Fuller, Harvard Business School"
+  }
+ ],
+ "vocabulary": [
+  "entry-level talent",
+  "junior worker pipeline",
+  "contextual intelligence",
+  "experiential learning",
+  "work-based learning",
+  "involuntary attrition",
+  "job descriptions",
+  "onboarding",
+  "structured interviewing",
+  "AI agents",
+  "tokens",
+  "AI spend forecasting",
+  "Edelman Trust Barometer",
+  "research playbook",
+  "product management teams"
+ ],
+ "topics_covered": []
+}

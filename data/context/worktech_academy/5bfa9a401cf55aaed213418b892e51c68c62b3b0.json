@@ -1,0 +1,17 @@
+{
+ "id": "5bfa9a401cf55aaed213418b892e51c68c62b3b0",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY0VmZmUtSm1UaHZqakFHb3pMWldyN0tNUXJRUlh6cGpHdWtISTk3emt3eS1ualhjWGhjTGt5Y3lwZ1VCTlhwQUJLaTJUenNKWjJxZWJzOGljMVVnU1Q4NU5pNDQzc25vZVZzSEdYYS1mTk9HeURCX0JVY3FnY2V4aHRMT1Brc1BiQW94S0FVOE1yR05oQkwxU2hB?oc=5",
+ "published_at": "2026-10-01",
+ "observed_at": "2026-10-12",
+ "summary": "This item is a headline-only entry from WORKTECH Academy, syndicated via Google News RSS, titled \"Why remote workers will come under fresh scrutiny this autumn.\" No article body was included in the supplied text, so only the headline can be characterised.\n\nThe title signals a piece about increasing employer attention on remote and hybrid staff heading into autumn, implying themes such as return-to-office expectations, questions about where work gets done, and closer examination of remote workers' productivity, presence or visibility. WORKTECH Academy is a workplace innovation research and commentary outlet whose coverage typically spans workplace strategy, hybrid working policy, office design and workplace technology, which suggests the full article likely addresses employer scrutiny of remote arrangements, possible tightening of hybrid policies, and employee reaction.\n\nNo data, statistics, named sources, survey findings or vendor references are available in the provided text. No claims can be verified or extracted. Any thematic tagging is inferred from the headline alone and should be treated as low confidence until the full article text is retrieved. Recommended next step for the pipeline: fetch the full article from the WORKTECH Academy site to confirm whether it discusses mandated office days, attendance monitoring, performance measurement of remote staff, or broader hybrid policy shifts, each of which would map to different registry themes.",
+ "claims": [],
+ "vocabulary": [
+  "remote workers",
+  "scrutiny",
+  "WORKTECH Academy"
+ ],
+ "topics_covered": [
+  "hybrid_rto_mandate_pushback"
+ ]
+}

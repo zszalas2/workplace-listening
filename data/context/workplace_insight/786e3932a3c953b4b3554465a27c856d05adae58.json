@@ -1,0 +1,46 @@
+{
+ "id": "786e3932a3c953b4b3554465a27c856d05adae58",
+ "source_id": "workplace_insight",
+ "url": "https://workplaceinsight.net/ai-isnt-replacing-meetings-its-changing-their-purpose/?utm_source=rss&utm_medium=rss&utm_campaign=ai-isnt-replacing-meetings-its-changing-their-purpose",
+ "published_at": "2026-10-12",
+ "observed_at": "2026-10-12",
+ "summary": "An opinion piece arguing that AI will not reduce the need for meetings so much as change what meetings are for. The author, writing from the workplace technology industry, says leaders have long asked how to have fewer and better meetings, and many assumed AI would solve this. Instead, as individuals automate routine work with AI, the need to collaborate on the outputs has grown.\n\nThe argument: AI reduces meetings built around status updates, first drafts and routine information sharing, but raises the value of those that remain. In-person time should be reserved for work relying on human judgment, such as challenging assumptions and problem solving. The piece cites research from The Meetings Show that over 60% of business leaders say AI is increasing the need for face-to-face alignment on analyzing results, making decisions and taking action.\n\nThe central claim is a workflow gap: employees use AI-enabled tools at their individual workstations but meeting rooms lack comparable technology, which stagnates productivity in the limited meetings teams do have. Hybrid work adds complexity, since remote and in-office participants may prepare and take notes using different tools. Remote attendees should have equal access to pre-meeting materials, in-meeting content interaction and post-meeting follow-up.\n\nRecommendations for leaders: reframe from counting meetings to measuring value; redesign meeting spaces around desired outcomes; ask what employees should accomplish in a space that they cannot do alone, what technology high-value collaboration requires, how spaces adapt to different room layouts and technical capabilities, and how remote participants become active members of the conversation. Meeting room technology should adapt to the purpose of the space. The organizations that benefit most will be intentional about when people come together, what work deserves that time, and how the environment supports the human judgment, trust and alignment AI cannot replicate.",
+ "claims": [
+  {
+   "claim": "AI is increasing the need for face-to-face alignment on analyzing results, making decisions and taking action, according to business leaders",
+   "stat": "over 60% of business leaders",
+   "attribution": "Recent research by The Meetings Show, cited in the article"
+  },
+  {
+   "claim": "AI may reduce the need for meetings built around status updates, first drafts and routine information sharing while raising the value of the meetings that remain",
+   "stat": "",
+   "attribution": "Article author (Workplace Insight opinion piece)"
+  },
+  {
+   "claim": "Many employees lack the same level of AI-enabled technology in meeting rooms that they have at individual workstations, creating a workflow gap that stagnates team productivity",
+   "stat": "",
+   "attribution": "Article author"
+  }
+ ],
+ "vocabulary": [
+  "AI-enabled workplace technology",
+  "meeting spaces",
+  "meeting room technology",
+  "hybrid workplace",
+  "remote participants",
+  "in-room experience",
+  "workflow gap",
+  "collaboration time",
+  "high-value meetings",
+  "face-to-face alignment",
+  "pre-meeting materials",
+  "post-meeting follow-up",
+  "room layouts",
+  "human judgment",
+  "AI meeting notes",
+  "intentionality"
+ ],
+ "topics_covered": [
+  "meeting_av_and_offsite_room_kit"
+ ]
+}

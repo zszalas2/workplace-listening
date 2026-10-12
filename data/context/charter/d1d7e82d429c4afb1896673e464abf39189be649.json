@@ -1,0 +1,51 @@
+{
+ "id": "d1d7e82d429c4afb1896673e464abf39189be649",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/download-redesigning-work-for-the-ai-era/",
+ "published_at": "2026-10-08",
+ "observed_at": "2026-10-12",
+ "summary": "Charter promotes a new playbook, produced with Council Advisors, on redesigning work for the AI era. The premise is that AI is driving the broadest redesign of corporate life in a generation, affecting not only how work gets done but what roles exist and how people are organized into teams and structures.\n\nThe piece cites survey-style data points: more than half of employees say their roles have already changed because of AI; more than 70% of executives expect AI to produce more horizontal teams and greater mobility between them; and two-thirds of executives expect their organization's structure to change significantly or completely within less than five years.\n\nDespite the volume of discussion, the post argues leaders face uncertainty about where to begin. Julie Averill, a former chief information officer at Lululemon and REI who now advises and writes on the technology, describes a fog and mystery around AI, with organizations unsure how to decipher where to start, what is actually true, what their organization is ready for, and whether their data is ready.\n\nTo build the playbook, Charter interviewed researchers, AI leaders, talent executives and others, aiming to ground the conversation in what companies are actually doing and to offer concrete next steps. The guide sets out new design principles for rethinking jobs, teams and organizations, plus a blueprint for implementation.\n\nStructure: it opens with foundational first steps every organization should take, then three chapters covering the three design principles. Jobs come first, examining how the skills inside them are shifting and how to rethink roles at every stage of the employee lifecycle. Teams should be rebuilt around outcomes rather than fixed functions. Organizations should be reshaped around how work actually flows, not merely by stripping out management layers. The post closes with a call to download the playbook.",
+ "claims": [
+  {
+   "claim": "A majority of employees report their roles have already changed because of AI",
+   "stat": "More than half of employees",
+   "attribution": "Charter playbook post (source not specified)"
+  },
+  {
+   "claim": "Executives expect AI to create more horizontal teams and greater mobility between them",
+   "stat": "More than 70% of executives",
+   "attribution": "Charter playbook post (source not specified)"
+  },
+  {
+   "claim": "Executives expect their organization's structure to change significantly or completely within less than five years",
+   "stat": "Two-thirds of executives",
+   "attribution": "Charter playbook post (source not specified)"
+  },
+  {
+   "claim": "Leaders face confusion about where to begin with AI, including whether their data is ready",
+   "stat": "",
+   "attribution": "Julie Averill, former CIO of Lululemon and REI"
+  },
+  {
+   "claim": "The playbook was developed in partnership with Council Advisors based on interviews with researchers, AI leaders and talent executives",
+   "stat": "",
+   "attribution": "Charter"
+  }
+ ],
+ "vocabulary": [
+  "AI era",
+  "redesigning work",
+  "playbook",
+  "design principles",
+  "horizontal teams",
+  "organizational structure",
+  "employee lifecycle",
+  "outcomes rather than fixed functions",
+  "how work flows",
+  "stripping out layers",
+  "chief information officer",
+  "talent executives",
+  "blueprint"
+ ],
+ "topics_covered": []
+}

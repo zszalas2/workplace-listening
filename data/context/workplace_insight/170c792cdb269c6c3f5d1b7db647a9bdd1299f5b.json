@@ -1,0 +1,51 @@
+{
+ "id": "170c792cdb269c6c3f5d1b7db647a9bdd1299f5b",
+ "source_id": "workplace_insight",
+ "url": "https://workplaceinsight.net/what-ai-activity-counts-leave-out/?utm_source=rss&utm_medium=rss&utm_campaign=what-ai-activity-counts-leave-out",
+ "published_at": "2026-10-12",
+ "observed_at": "2026-10-12",
+ "summary": "An opinion piece arguing that AI usage metrics at work measure the wrong thing. Two employees can both register as frequent AI users while doing fundamentally different things: one dictates an email and checks the transcription, another lets a system choose a response to a customer complaint and accepts the recommendation. Activity counts show whether a tool was opened, not who did the thinking, who held decision authority, or what happens when output is wrong. The piece responds to Richard Colwell's earlier Workplace Insight argument about why people use AI more in personal life than at work, and asks what employers actually want to learn from measurement.\n\nThe author proposes assessing AI use by task rather than by frequency or broad labels such as 'AI-assisted'. Transcription, rephrasing, summarising and recommending a decision are different interventions, often mixed inside one application. The key question is what changed between the person's input and the work that emerged.\n\nDecision authority is the second axis. Receiving a suggestion differs from letting a suggestion determine an outcome. A human approval step needs scrutiny of its own: can the reviewer see source material, spot an error, reject the recommendation, and is there time to do so? An approval button is a weak safeguard if the approver cannot assess what they are approving.\n\nReversibility is the third axis, covering input as well as output: a private draft can be fixed, a sent client message less so, a decision affecting someone's opportunity may be irreparable, and confidential data entered into an unsuitable service is already exposed.\n\nOn accommodation, AI assistance may be frequent because the underlying barrier is frequent; this confuses access with authorship. The author suggests an AI-use register record permitted function, information-handling restrictions and review responsibility, keeping medical detail in a separate confidential process. Adoption data still has a practical purpose but requires interpretation.",
+ "claims": [
+  {
+   "claim": "People use AI more broadly in their personal lives than at work, forming an AI utilisation gap",
+   "stat": "",
+   "attribution": "Richard Colwell, writing in Workplace Insight"
+  },
+  {
+   "claim": "Activity reports can label both a user who checks a transcription and a user who accepts a system-chosen customer response as frequent users, revealing nothing about decision authority",
+   "stat": "",
+   "attribution": "Workplace Insight article author"
+  },
+  {
+   "claim": "An approval button is a weak safeguard when the person pressing it cannot meaningfully assess what they are approving",
+   "stat": "",
+   "attribution": "Workplace Insight article author"
+  },
+  {
+   "claim": "Frequency of AI use cannot distinguish an employee who retains control over every consequential choice from one who uses assistance once and lets a recommendation pass unexamined",
+   "stat": "",
+   "attribution": "Workplace Insight article author"
+  }
+ ],
+ "vocabulary": [
+  "AI utilisation gap",
+  "activity report",
+  "adoption data",
+  "AI-assisted",
+  "AI-use register",
+  "human approval step",
+  "decision authority",
+  "reversibility",
+  "accommodation",
+  "AI-enabled writing tool",
+  "transcription",
+  "information-handling restrictions",
+  "review responsibility",
+  "workflow",
+  "accommodation privacy",
+  "design principle"
+ ],
+ "topics_covered": [
+  "agentic_ai_tooling_and_governance"
+ ]
+}

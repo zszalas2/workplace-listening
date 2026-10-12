@@ -1,0 +1,16 @@
+{
+ "id": "53c066a5abedaa756a026ccfae1aa96431c5850d",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5aWEpSNTZGcXZPYTlUWUJjeVI3UEJXX3ZFTWJNZFdDUjdRcWl0MDFqNm9WUmVQYjQycFNEWkJMQmFKZnUyUFIxbzJxdmdtNmJhWEo5amRsS2x1SzhkcEs1aF9KZjVodTFVWUVoU1E3bWQ2QVlUa1dz?oc=5",
+ "published_at": "2019-03-28",
+ "observed_at": "2026-10-12",
+ "summary": "This item is effectively a headline-only entry from WORKTECH Academy, syndicated via a Google News RSS link. The title, \"Tracing the Arc of mobile furniture to bring back the human touch,\" suggests a piece about a mobile or movable furniture product line (apparently named Arc) and its role in making workplaces feel more human. No body text was supplied beyond a repetition of the headline, so the article's arguments, sources, product details, and any supporting data cannot be assessed. Based on the title alone, the likely subject matter is workplace furniture design and interior strategy: reconfigurable or castor-mounted furniture that lets teams reshape settings on demand, potentially tied to hybrid-era office redesign, activity-based working, and the push to make offices more attractive and less sterile. However, none of this is verifiable from the supplied content. No vendor names, specifications, pricing, case studies, or research findings are present. No named sources or interviewees appear. There are no statistics or factual claims that can be extracted with confidence. For pipeline purposes this entry should be treated as a stub requiring full-text retrieval before it can meaningfully contribute to theme saturation. Given the absence of content touching visitor management, desk or room booking systems, attendance tracking, hybrid policy debate, admin workload, support metrics, procurement risk review, or AI governance, no registry themes can be assigned with the required strictness. Recommend re-crawling the canonical WORKTECH Academy URL to capture the full article before classification, and flagging the Google News redirect pattern as a recurring extraction failure mode in this source feed.",
+ "claims": [],
+ "vocabulary": [
+  "mobile furniture",
+  "Arc",
+  "human touch",
+  "WORKTECH Academy"
+ ],
+ "topics_covered": []
+}

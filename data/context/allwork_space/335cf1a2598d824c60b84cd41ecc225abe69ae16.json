@@ -1,0 +1,105 @@
+{
+ "id": "335cf1a2598d824c60b84cd41ecc225abe69ae16",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/10/is-the-two-job-job-the-future-of-work-61-of-workers-are-already-living-it/",
+ "published_at": "2026-10-10",
+ "observed_at": "2026-10-12",
+ "summary": "Allwork.Space republishes a Fortune piece on the \"two-job job,\" the pattern of workers absorbing the duties of more than one role as companies flatten and cut headcount. Korn Ferry's Workforce 2026 report, released in September and based on more than 16,000 professionals across 11 global markets, found 62% reported significantly heavier workloads over two years, 61% said they were doing the responsibilities of more than one role, and 45% said they were too busy to deliver meaningful growth-contributing results. The article frames these findings against ongoing restructuring: Uber announced cuts of roughly 10% of staff (about 3,300 employees) and a 20% reduction in managers, with CEO Dara Khosrowshahi citing clearer ownership and faster decisions rather than AI. Korn Ferry found 42% of organizations cut management roles in the past year, 55% of remaining managers said they were exhausted, and 39% of workers felt directionless without managers. Meta reportedly began asking some individual contributors in Applied AI whether they wanted to return to management, a partial reversal of delayering. Wharton's Peter Cappelli argued cutting managers reduces cost and headcount rather than improving productivity, and that it is employees, not jobs, that are cut, since remaining staff must cover the same work. On AI, Korn Ferry found a perception gap: 79% of CEOs reported efficiency gains versus 51% of individual contributors, and 52% of \"AI-weary\" workers said AI increased their workloads. A July working paper by Karunakaran (Stanford), Kellogg (MIT Sloan) and Wiesenfeld (NYU Stern), based on a two-year field study of an academic medical center and a corporate law firm, found building organization-wide generative AI tools created substantial invisible work. At the law firm, over 80% of domain experts dropped out, ending with three tools; the medical center, which embedded AI work in job responsibilities, reviews and promotions, has 141. Employee motivation fell from 71% in 2024 to 61% in 2026.",
+ "claims": [
+  {
+   "claim": "Workloads increased significantly over the past two years for most respondents",
+   "stat": "62%",
+   "attribution": "Korn Ferry Workforce 2026 report (survey of 16,000+ professionals across 11 global markets)"
+  },
+  {
+   "claim": "Workers say they are performing the responsibilities of more than one role",
+   "stat": "61%",
+   "attribution": "Korn Ferry Workforce 2026 report"
+  },
+  {
+   "claim": "Workers say they are too busy to deliver meaningful results that contribute to growth",
+   "stat": "45%",
+   "attribution": "Korn Ferry Workforce 2026 report"
+  },
+  {
+   "claim": "Uber will cut about 10% of its workforce and reduce managers by 20%",
+   "stat": "~3,300 employees; 20% fewer managers",
+   "attribution": "Uber, cited in the article; CEO Dara Khosrowshahi"
+  },
+  {
+   "claim": "Organizations cut management roles over the past year",
+   "stat": "42%",
+   "attribution": "Korn Ferry"
+  },
+  {
+   "claim": "Remaining managers report being exhausted",
+   "stat": "55%",
+   "attribution": "Korn Ferry"
+  },
+  {
+   "claim": "Workers say a lack of managers left them feeling directionless",
+   "stat": "39%",
+   "attribution": "Korn Ferry"
+  },
+  {
+   "claim": "Meta asked some individual contributors in Applied AI whether they wanted to return to management roles",
+   "stat": "",
+   "attribution": "Fortune (Sept. 12), citing Business Insider"
+  },
+  {
+   "claim": "Cutting managers cuts cost and headcount rather than improving productivity",
+   "stat": "",
+   "attribution": "Peter Cappelli, Wharton School, to Fortune"
+  },
+  {
+   "claim": "Gap between CEOs and individual contributors reporting AI efficiency gains",
+   "stat": "79% of CEOs vs 51% of individual contributors",
+   "attribution": "Korn Ferry"
+  },
+  {
+   "claim": "Among AI-weary workers, using the technology increased workloads",
+   "stat": "52%",
+   "attribution": "Korn Ferry"
+  },
+  {
+   "claim": "Building organization-wide generative AI tools created substantial invisible work beyond day-to-day jobs",
+   "stat": "two-year field study of an academic medical center and a corporate law firm",
+   "attribution": "Arvind Karunakaran (Stanford), Kate Kellogg (MIT Sloan), Batia Wiesenfeld (NYU Stern), July working paper"
+  },
+  {
+   "claim": "Domain experts at the law firm dropped out of AI innovation efforts",
+   "stat": "more than 80%; firm ended with 3 org-wide AI tools vs 141 at the medical center",
+   "attribution": "MIT Sloan press release, Sept. 9"
+  },
+  {
+   "claim": "Employee motivation declined",
+   "stat": "from 71% in 2024 to 61% in 2026",
+   "attribution": "Korn Ferry"
+  },
+  {
+   "claim": "Growth does not come from asking people to do more; cost-cutting yields savings without employee passion",
+   "stat": "",
+   "attribution": "Lesley Uren, CEO of Korn Ferry Consulting"
+  }
+ ],
+ "vocabulary": [
+  "two-job job",
+  "Workforce 2026 report",
+  "flattening",
+  "delayering",
+  "individual contributors",
+  "AI-weary",
+  "organization-wide generative AI tools",
+  "stretch assignment",
+  "invisible work",
+  "headcount",
+  "restructuring",
+  "employee motivation",
+  "managerial span",
+  "Chief of Staff-style coordination",
+  "lean"
+ ],
+ "topics_covered": [
+  "agentic_ai_tooling_and_governance"
+ ]
+}

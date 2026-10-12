@@ -1,0 +1,16 @@
+{
+ "id": "8f43a13ff39971cf5df9154ca235f9b834c32b5b",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc3NzTVYwaWhHLWo0Y3RhSG40VzA1SFJIczRrOENHRDZfODFZdWRYY1ZEX3BybmtzbTJvdlBxX3BvSVpIemF2dUc0TnZ4cGF0UnFrQlFCMVlPVFVIUl9fbV84MG52UkYyb25TWWo3aEowclA1bU0tSVVfXzlDOTYycDU2V1NFNEZtb0lhZWVNZV92WWF1ZHI2eg?oc=5",
+ "published_at": "2026-10-08",
+ "observed_at": "2026-10-12",
+ "summary": "This item is a headline-only entry from WORKTECH Academy titled \"Practical value: turning AI potential into scalable solutions.\" The retrieved record contains no article body, only the title repeated alongside the publication name, so no substantive detail about the argument, sources, examples or data is available. Based on the title alone, the piece appears to address the gap between artificial intelligence hype and deployable, scalable workplace applications, likely framed for corporate real estate, workplace technology and facilities audiences that WORKTECH Academy serves. The implied theme is moving AI from pilot or proof of concept stage toward practical, measurable value at enterprise scale. No claims, statistics, named speakers, vendors, case studies or product categories can be extracted from the available text. No specific coverage of visitor management, desk or room booking, hybrid and return to office policy, workplace analytics, or facilities operations can be confirmed. Recommend re-ingesting the full article text from the source before using this item for saturation scoring, theme tagging or quoting, as the current record is effectively a stub. Treated conservatively, this entry should not be counted as evidence for any registry theme, including AI tooling and governance, because the headline does not establish that the article discusses agentic assistants, team policy, human in the loop approval, or governance ownership.",
+ "claims": [],
+ "vocabulary": [
+  "AI",
+  "practical value",
+  "scalable solutions",
+  "WORKTECH Academy"
+ ],
+ "topics_covered": []
+}

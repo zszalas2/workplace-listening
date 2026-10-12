@@ -1,0 +1,15 @@
+{
+ "id": "ebc8819170d5058b67605ec020ce1adb9c1c02bd",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSkdzWFVVYTBZYTNxaW5SdGktTi0tMEk4QzVmLTZWdThUekdWTlpyRHVEVmdBQ1lORHc3UjhIaUkwNEY3cW93TUhONXctaURMWmx3TWJxWWY2c0FSdWliR1BqcmZPeE1femI4SHQwRFp2N1pNVkpOZ1BhX2xWdHZyVDhfWkYzMVpvM252UnVzeGkyQnZPN0hoQjRWOA?oc=5",
+ "published_at": "2026-09-30",
+ "observed_at": "2026-10-12",
+ "summary": "This item is a headline-only entry from WORKTECH Academy, surfaced via a Google News RSS redirect. The title is \"The long frontier: designing workplaces for every stage in life.\" No article body, byline, date or supporting text was included in the supplied record, so the substance of the piece cannot be summarized beyond what the headline implies: a workplace design perspective concerned with accommodating employees across all life stages, likely touching on multigenerational workforces, longevity, age-inclusive design and how physical workplace strategy should adapt to workers at different points in their careers and lives. WORKTECH Academy is a workplace research and innovation knowledge platform that typically publishes commentary on workplace design, technology and the future of work, so the item plausibly sits in the workplace strategy and design category rather than in any specific operational tooling category. Because no statistics, quotes, named researchers, vendor references or case studies are present in the provided text, no factual claims can be extracted and no category or vendor vocabulary can be captured beyond the generic phrase \"designing workplaces.\" Against the supplied theme registry, which covers visitor management, desk and room booking, hybrid and return to office policy, admin and executive assistant workload, support desk metrics, risk assessment workload, attendance tracking, quiet space and coworking choice, meeting AV, IT asset ownership, agentic AI governance, home workspace stipends, executive calendar conflicts, EA role scope and credential handover, there is insufficient evidence that the article addresses any of these specific themes. Tagging it to a theme such as hybrid RTO or hot desking on the basis of the headline alone would risk a false positive and inflate saturation scores. The recommended action is to re-fetch the full article text from the WORKTECH Academy source before attempting theme assignment or claim extraction.",
+ "claims": [],
+ "vocabulary": [
+  "workplace design",
+  "every stage in life",
+  "WORKTECH Academy"
+ ],
+ "topics_covered": []
+}

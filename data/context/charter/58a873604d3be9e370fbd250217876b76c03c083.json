@@ -1,0 +1,91 @@
+{
+ "id": "58a873604d3be9e370fbd250217876b76c03c083",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/workers-worry-ai-will-take-jobs-just-not-theirs/",
+ "published_at": "2026-09-29",
+ "observed_at": "2026-10-12",
+ "summary": "Charter publishes a piece by Kristen Berman of Irrational Labs arguing that workers fear AI job loss broadly but exempt themselves. Press coverage (WSJ, Washington Post, The Atlantic) has made AI job anxiety a defining workplace story of the year, with tech workers reportedly staying in jobs they dislike for fear of no alternatives.\n\nIrrational Labs surveyed 150 employees, half in the technology industry. Only 15% thought AI was likely to eliminate their own job within a year, and about a third expected elimination within three years. By contrast, 67% expected AI to take peers' jobs within a year (4.5x the rate predicted for themselves), and three-quarters expected peer impact within three years versus 32% for themselves (a 2.3x gap). The author notes these findings mirror a Pew survey of 5,273 people, in which roughly a third expect AI to reduce their own long-term job opportunities and a similar share expect little difference.\n\nTwo cognitive biases are offered as explanations: optimism bias (citing psychologist Tali Sharot on underestimating personal risk of divorce, cancer, car accidents) and the better-than-average effect (a classic 1981 study, recently replicated, where 93% of American participants rated their driving above the median).\n\nThe piece then argues for a \"Goldilocks\" amount of fear using the Yerkes-Dodson law: too little concern breeds complacency, too much causes freezing or tool-chasing without strategy. Leaders should not send alarmist all-caps mandates; instead, regular hands-on AI exposure makes the threat concrete and converts vague fear into specific skill questions.\n\nFinally, respondents estimated they capture only 45% of AI's potential on average. Tech and non-tech respondents answered nearly identically, suggesting proximity to the technology does not increase felt competence. The clearest split was gender: men estimated 50% versus 43% for women. The closing advice is to use AI tools more and feel uncomfortable working exactly as before.",
+ "claims": [
+  {
+   "claim": "Only a small minority of surveyed employees expect AI to eliminate their own job within a year",
+   "stat": "15%",
+   "attribution": "Irrational Labs survey of 150 employees, cited by Kristen Berman"
+  },
+  {
+   "claim": "About a third of respondents thought their own job was likely to be eliminated within three years",
+   "stat": "~33% (32% cited later)",
+   "attribution": "Irrational Labs survey"
+  },
+  {
+   "claim": "Respondents expected AI to take jobs from their peers within the next year",
+   "stat": "67%, 4.5x more likely than predicting loss for themselves",
+   "attribution": "Irrational Labs survey"
+  },
+  {
+   "claim": "Over three years, three-quarters expected peers' jobs to be affected versus 32% for their own, a 2.3x gap",
+   "stat": "75% vs 32%, 2.3x",
+   "attribution": "Irrational Labs survey"
+  },
+  {
+   "claim": "About a third of people expect AI to reduce their own long-term job opportunities, and an equal portion say it will not make much difference",
+   "stat": "~1/3 each, survey of 5,273 people",
+   "attribution": "Pew Research survey, as analyzed/cited by the author"
+  },
+  {
+   "claim": "American participants rated their driving skill above the median, demonstrating the better-than-average effect",
+   "stat": "93%",
+   "attribution": "Classic 1981 study, recently replicated, cited by Berman"
+  },
+  {
+   "claim": "People routinely underestimate their chances of getting divorced, developing cancer, or being in a car accident",
+   "stat": "",
+   "attribution": "Psychologist Tali Sharot"
+  },
+  {
+   "claim": "Respondents estimated they are capturing less than half of AI's potential",
+   "stat": "45% average",
+   "attribution": "Irrational Labs survey"
+  },
+  {
+   "claim": "Men estimated higher personal AI utilization than women",
+   "stat": "50% men vs 43% women",
+   "attribution": "Irrational Labs survey"
+  },
+  {
+   "claim": "Tech and non-tech respondents gave almost identical estimates of their AI utilization",
+   "stat": "",
+   "attribution": "Irrational Labs survey"
+  },
+  {
+   "claim": "Tech workers are staying in jobs they dislike out of fear there will not be another one available",
+   "stat": "",
+   "attribution": "The Wall Street Journal"
+  },
+  {
+   "claim": "Once-confident Silicon Valley workers now feel disposable",
+   "stat": "",
+   "attribution": "The Washington Post"
+  },
+  {
+   "claim": "Companies are eliminating jobs based on what AI might do tomorrow rather than what it can do today",
+   "stat": "",
+   "attribution": "The Atlantic"
+  }
+ ],
+ "vocabulary": [
+  "AI job displacement",
+  "optimism bias",
+  "better-than-average effect",
+  "Yerkes-Dodson law",
+  "cognitive biases",
+  "behavioral science",
+  "AI adoption",
+  "AI potential utilization",
+  "upskilling",
+  "layoffs",
+  "workplace anxiety",
+  "denial vs panic",
+  "leadership messaging"
+ ],
+ "topics_covered": []
+}

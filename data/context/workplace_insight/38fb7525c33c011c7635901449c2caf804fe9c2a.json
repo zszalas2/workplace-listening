@@ -1,0 +1,92 @@
+{
+ "id": "38fb7525c33c011c7635901449c2caf804fe9c2a",
+ "source_id": "workplace_insight",
+ "url": "https://workplaceinsight.net/employees-arent-hiding-their-ai-use-to-cut-corners-theyre-hiding-it-because-theyre-afraid/?utm_source=rss&utm_medium=rss&utm_campaign=employees-arent-hiding-their-ai-use-to-cut-corners-theyre-hiding-it-because-theyre-afraid",
+ "published_at": "2026-10-07",
+ "observed_at": "2026-10-12",
+ "summary": "A Workplace Insight opinion piece argues that employees concealing AI use at work are driven mainly by fear, not by a desire to cut corners, and that bans and monitoring make the problem worse.\n\nThe piece opens with a double bind: staff are told to use AI to be more productive, then judged for doing so. Deloitte research is cited showing 63 percent of the UK workforce has used generative AI, a third of those users do so without their employer's knowledge, one in ten have used a banned or disapproved tool, and one in six pay for work AI tools themselves.\n\nThe instinctive employer reaction is to treat this as a governance problem with tighter policies, blocked sites and monitoring. The NCSC has warned about unchecked shadow AI, but the author says framing it as rule-breaking misreads the cause.\n\nConcealment is rooted in anxiety: fear of replacement (two-thirds of Deloitte's weekly AI users worry managers will think AI can do their job), stigma (nearly a quarter), and lack of support (only about a third say leaders discuss AI with good understanding, half have had no training). An Atlassian US experiment found colleagues who disclosed AI use were rated ten times lazier and were less likely to be recommended for high-visibility projects despite identical work. Anthropic research found workers in the most AI-exposed roles are three times more likely to fear displacement, with the biggest productivity gainers among the most concerned. Younger workers are most worried and most need guidance.\n\nBans drive usage underground, stopping knowledge sharing and obscuring how work is really done from those designing roles, training, systems and workspaces. The NCSC advises a positive cyber security culture with open dialogue; Deloitte reaches a similar conclusion.\n\nRecommendations: leaders should model open AI use including failures, treat AI as a human development issue, and establish psychological safety before imposing control.",
+ "claims": [
+  {
+   "claim": "Nearly two-thirds of the UK workforce has used generative AI",
+   "stat": "63 percent",
+   "attribution": "Deloitte research"
+  },
+  {
+   "claim": "A third of generative AI users do so without their employer's knowledge",
+   "stat": "one third",
+   "attribution": "Deloitte research"
+  },
+  {
+   "claim": "One in ten have used an AI tool their employer has banned or would disapprove of",
+   "stat": "1 in 10",
+   "attribution": "Deloitte research"
+  },
+  {
+   "claim": "One in six pay for AI tools they use at work out of their own pocket",
+   "stat": "1 in 6",
+   "attribution": "Deloitte"
+  },
+  {
+   "claim": "Two-thirds of weekly AI users worry their managers will think AI can do their job",
+   "stat": "two-thirds",
+   "attribution": "Deloitte"
+  },
+  {
+   "claim": "Nearly a quarter cite stigma attached to using AI",
+   "stat": "nearly 25 percent",
+   "attribution": "Deloitte"
+  },
+  {
+   "claim": "Only around a third say their leaders talk about AI with a good understanding, and half have had no training",
+   "stat": "one third / half",
+   "attribution": "Deloitte"
+  },
+  {
+   "claim": "People rated a colleague who disclosed AI use as ten times lazier than one who did not, and were far less likely to recommend them for a high-visibility project, even when the work was identical",
+   "stat": "10x",
+   "attribution": "Atlassian US experiment"
+  },
+  {
+   "claim": "People in roles most exposed to AI are three times more likely to worry about displacement than those in least exposed roles; those reporting the biggest productivity gains are among the most concerned",
+   "stat": "3x",
+   "attribution": "Anthropic research"
+  },
+  {
+   "claim": "Around 35 conditions need to be met for successful workplace AI adoption, and half of those are cultural",
+   "stat": "35 conditions, 50 percent cultural",
+   "attribution": "article author (unattributed)"
+  },
+  {
+   "claim": "Bans rarely eliminate usage; they simply drive it underground",
+   "stat": "",
+   "attribution": "an analysis of shadow AI quoted in the piece"
+  },
+  {
+   "claim": "Organisations should adopt a positive cyber security culture with open dialogue rather than blocking every tool",
+   "stat": "",
+   "attribution": "National Cyber Security Centre (NCSC)"
+  }
+ ],
+ "vocabulary": [
+  "generative AI",
+  "shadow AI",
+  "AI governance",
+  "blocked sites",
+  "monitoring",
+  "surveillance",
+  "psychological safety",
+  "AI disclosure",
+  "displacement",
+  "AI exposure",
+  "positive cyber security culture",
+  "open dialogue",
+  "workplace AI adoption",
+  "human in the loop (implied)",
+  "HR leaders",
+  "stigma",
+  "AI training"
+ ],
+ "topics_covered": [
+  "agentic_ai_tooling_and_governance"
+ ]
+}

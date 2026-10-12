@@ -1,0 +1,103 @@
+{
+ "id": "1f6381a9ce0f9c70751115f757a8ed46b6b8a7b1",
+ "source_id": "workplace_insight",
+ "url": "https://workplaceinsight.net/bco-awards-winners-focus-on-regeneration-sustainability-and-workplace-experience/?utm_source=rss&utm_medium=rss&utm_campaign=bco-awards-winners-focus-on-regeneration-sustainability-and-workplace-experience",
+ "published_at": "2026-10-07",
+ "observed_at": "2026-10-12",
+ "summary": "Workplace Insight reports on the 2026 British Council for Offices (BCO) National Awards, presented to around 1,000 property and workplace professionals at JW Marriott Grosvenor House in London on 6 October. The awards emphasised urban regeneration, sustainability and workplace experience.\n\nSwansea's 71/72 Kingsway took Best of the Best and Commercial Workplace, with judges calling it a catalyst for Swansea city centre regeneration and an example of people-centred architecture attracting high-value employment. Deutsche Bank's global flagship at 21 Moorfields, London, built above a rail interchange, won Corporate Workplace for integrating architecture, engineering and interior design around employee wellbeing and flexibility; BCO said staff satisfaction rose 10 percent post-completion.\n\nChristopher Ward's 10,079 sq ft Maidenhead HQ won Fit Out of Workplace, combining offices, design studios, logistics, repair operations and customer showrooms. The 13th floor at Chancery Place, Manchester (Overbury's Northern HQ) won Projects up to 2,500m2, praised for modular furniture and movable partitions on a small floorplate, with an 88% post-occupancy satisfaction rate. Civic Millgate in Wigan won Refurbished/Recycled Workplace for converting a 1960s Brutalist civic centre into a workplace and community hub while retaining waffle ceilings and terrazzo staircases.\n\nManchester's Renold Building won Innovation as a multi-tenant sustainability innovation hub, with refurbishment over demolition delivering a 71% embodied carbon reduction and 1.84m pounds in verified social value. TBC.London won ESG, retaining over 70% of existing structure and using 40 tonnes of salvaged 1930s steel beams. Customer Experience awards went to 40 Leadenhall (900,000 sq ft, commercial landlord) and GSK HQ (corporate occupier, around 3,000 employees, workplace research with over 800 staff). Pixel in Penzance, a council-commissioned creative hub and shared workspace, won a new Judges' Choice Award. Professor Janice Kirkpatrick OBE received the President's Award.\n\nJudging chair Nicola Gillen and CEO Samantha McClary framed workplaces as drivers of regeneration and social value.",
+ "claims": [
+  {
+   "claim": "Staff satisfaction at Deutsche Bank's 21 Moorfields increased since completion",
+   "stat": "10 percent increase",
+   "attribution": "BCO"
+  },
+  {
+   "claim": "Christopher Ward's consolidation of operations into its Maidenhead HQ helped it double revenue and increase shipping capacity",
+   "stat": "500 to 800 watches a day; revenue doubled",
+   "attribution": "BCO Awards judges"
+  },
+  {
+   "claim": "Chancery Place 13th floor recorded a high post-occupancy satisfaction rate",
+   "stat": "88%",
+   "attribution": "BCO Awards (Workplace Insight report)"
+  },
+  {
+   "claim": "Refurbishing rather than demolishing the Renold Building cut embodied carbon",
+   "stat": "71% reduction",
+   "attribution": "BCO Awards (reported)"
+  },
+  {
+   "claim": "The Renold Building project generated verified social value",
+   "stat": "1.84m pounds",
+   "attribution": "BCO Awards (reported)"
+  },
+  {
+   "claim": "TBC.London retained and adapted most of the existing structure and reused salvaged steel",
+   "stat": "More than 70% of structure retained; 40 tonnes of 1930s salvaged steel beams",
+   "attribution": "BCO Awards judges"
+  },
+  {
+   "claim": "GSK HQ brings employees into central London and was developed using workplace research",
+   "stat": "around 3,000 employees; more than 800 staff consulted",
+   "attribution": "Workplace Insight / BCO"
+  },
+  {
+   "claim": "The awards were attended by property and workplace professionals",
+   "stat": "around 1,000 attendees",
+   "attribution": "Workplace Insight"
+  },
+  {
+   "claim": "Christopher Ward HQ scheme size",
+   "stat": "10,079 sq ft",
+   "attribution": "Workplace Insight"
+  },
+  {
+   "claim": "40 Leadenhall development size",
+   "stat": "900,000 sq ft",
+   "attribution": "Workplace Insight"
+  },
+  {
+   "claim": "Winners demonstrate the growing role of the workplace as a driver of regeneration and social value",
+   "stat": "",
+   "attribution": "Nicola Gillen, BCO national judging chair"
+  },
+  {
+   "claim": "Workplaces are increasingly expected to deliver benefits for people, the environment and surrounding communities",
+   "stat": "",
+   "attribution": "Samantha McClary, BCO chief executive"
+  }
+ ],
+ "vocabulary": [
+  "British Council for Offices (BCO)",
+  "BCO Awards",
+  "Best of the Best",
+  "Commercial Workplace",
+  "Corporate Workplace",
+  "Fit Out of Workplace",
+  "Refurbished/Recycled Workplace",
+  "ESG Award",
+  "Innovation Award",
+  "Customer Experience, Commercial Landlord",
+  "Customer Experience, Corporate Occupier",
+  "Judges' Choice Award",
+  "President's Award",
+  "workplace experience",
+  "post-occupancy satisfaction",
+  "embodied carbon",
+  "social value",
+  "placemaking",
+  "regeneration",
+  "modular furniture",
+  "movable partitions",
+  "floorplate",
+  "multi-tenant",
+  "shared workspace",
+  "creative hub",
+  "employee wellbeing",
+  "building operations",
+  "material reuse",
+  "corporate occupier",
+  "commercial landlord"
+ ],
+ "topics_covered": []
+}

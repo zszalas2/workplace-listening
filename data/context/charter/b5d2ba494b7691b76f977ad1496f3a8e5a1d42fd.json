@@ -1,0 +1,40 @@
+{
+ "id": "b5d2ba494b7691b76f977ad1496f3a8e5a1d42fd",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/research-spotlight-the-design-principles-that-promote-focus-at-work/",
+ "published_at": "2026-10-01",
+ "observed_at": "2026-10-12",
+ "summary": "Charter's research spotlight covers a report on workplace design elements that support focus. The framing: modern workplaces are full of distraction, with Slack notifications, emails, and updates from AI agents arriving constantly. Emily Strain, a principal and co-founder of the workplace strategy team at design firm Corgan, says \"we're living in a distracted world\" and warns that employees can spend a full day at work trying to focus and still end up burned out, having spun their wheels rather than making real progress.\n\nThe substance of the piece rests on a recent report produced jointly by researchers at Corgan and the University of Arkansas. That team set out to identify which elements of workplace design actually support focused work. Methodology combined physiological and self-reported measures: EEG monitors, heart-rate trackers, and participants' own observations and feedback. The excerpt stops before listing the specific design principles identified, so the detailed findings, recommended layouts, or any quantified effects are not included here.\n\nRelevance for workplace and facilities audiences lies in the evidence-based approach, using biometric instrumentation rather than survey data alone to evaluate whether a physical environment helps or hinders concentration. No vendor products, booking systems, attendance tooling, or hybrid policy positions are discussed in this extract.",
+ "claims": [
+  {
+   "claim": "Workplace distraction is pervasive, driven by Slack notifications, emails, and updates from AI agents",
+   "stat": "",
+   "attribution": "Charter article framing"
+  },
+  {
+   "claim": "Employees can spend all day trying to focus and end up burned out from spinning their wheels rather than making progress",
+   "stat": "",
+   "attribution": "Emily Strain, principal and co-founder of the workplace strategy team at Corgan"
+  },
+  {
+   "claim": "A recent report identified elements of workplace design that support focus, using EEG monitors, heart-rate trackers, and participant observations and feedback",
+   "stat": "",
+   "attribution": "Researchers from Corgan and the University of Arkansas"
+  }
+ ],
+ "vocabulary": [
+  "workplace strategy",
+  "workplace design",
+  "focus",
+  "distracted world",
+  "burnout",
+  "EEG monitors",
+  "heart-rate trackers",
+  "AI agents",
+  "Slack notifications",
+  "design principles",
+  "Corgan",
+  "University of Arkansas"
+ ],
+ "topics_covered": []
+}

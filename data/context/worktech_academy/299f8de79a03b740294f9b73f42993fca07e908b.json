@@ -1,0 +1,15 @@
+{
+ "id": "299f8de79a03b740294f9b73f42993fca07e908b",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZEwwZU10ZF9DZDRKVG5KbGlLRWxlRDhKNmp4TVNQNUwyZkhMUTA1ejhHX1p6UXRTLTVCdHpLSW9OV0lUXzhDR0NvYlVjcXpWbXV0OWthb0QtLUppWHlhVlZpdnVmUVB2djJBcHpaNXo3U01zWUNFN0hiODVMTUh4dk8xU0RXdndWLWYzUl9zUHdkQkU?oc=5",
+ "published_at": "2026-10-09",
+ "observed_at": "2026-10-12",
+ "summary": "This item is a headline-only entry from WORKTECH Academy, surfaced via a Google News RSS link. The title is \"Signal File: Designing workplaces that bend around people,\" suggesting a piece in WORKTECH Academy's \"Signal File\" series about workplace design that adapts or flexes around individual human needs rather than forcing people to conform to fixed environments. No body text was supplied beyond the duplicated title and publication name, so the article's arguments, evidence, examples, interviewees and any supporting research are unavailable. Based on the title alone, the likely subject matter is human-centric or adaptive workplace design, potentially touching on flexibility, personalization of space, neurodiversity or inclusive design, and the fit between office environments and the people using them. However, none of this can be confirmed from the supplied content. No statistics, vendor references, named sources or specific claims are present in the item as provided. Because the text does not contain substantive discussion of any registry theme, no themes can be confidently tagged; doing so would rely on speculation from a title fragment. To summarize or tag this item properly, the full article body from WORKTECH Academy would be needed. Recommended action for the pipeline: re-fetch the source URL to retrieve the full text, then re-run summarization and theme tagging. As it stands, the item contributes no usable evidence to saturation scoring for visitor management, desk and room booking, hybrid and RTO policy, workplace analytics, or facilities themes.",
+ "claims": [],
+ "vocabulary": [
+  "Signal File",
+  "workplace design",
+  "WORKTECH Academy"
+ ],
+ "topics_covered": []
+}

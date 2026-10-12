@@ -1,0 +1,15 @@
+{
+ "id": "17815a31d0cb5bdfa4096d0c9638dd41be7c5d66",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMDlkci1KMWJNNjJxa1BwN1dMNklxT3hFOWxZX0EyaF9fd3RLbWhwekNKRFBGZHcxTk5Ca1djeGdWTGFWUVNFTkdXdEl5ejBoOUZ3SWZ4eFNSQ2hyOHhLOWxZa2J2Qmxya0F3U1BvZGpXWDRUOHVEdV9YbEZRZUhOTzE2VjhMbGZRbzlMMlgtVHhtZHlIZVh0SVdWTTBmajliV1E?oc=5",
+ "published_at": "2026-09-21",
+ "observed_at": "2026-10-12",
+ "summary": "This item is a headline-only entry from WORKTECH Academy, surfaced via a Google News RSS link. The title is \"Price of perfection: the return of network-based recruitment economy.\" No article body, author, date, or supporting detail was included in the supplied text, which repeats only the headline and publication name.\n\nBased on the title alone, the piece appears to concern recruitment and hiring practices, specifically a suggested shift back toward network-based or referral-driven hiring rather than open-market application processes, and some tension around expectations of candidate \"perfection.\" That framing would place it closer to talent acquisition and labour market commentary than to the workplace operations topics tracked in this pipeline, such as visitor management, desk and room booking, hybrid and return-to-office policy, workplace analytics, or facilities management.\n\nNo verifiable statistics, survey findings, vendor references, or named sources are present in the captured text. No claims can be extracted, and no category or vendor vocabulary can be identified beyond the general phrase \"network-based recruitment economy.\"\n\nRecommendation: retrieve the full article before scoring or tagging. As captured, the item carries insufficient content to support theme assignment, and assigning any registry theme would be speculative. It is tagged with no themes to avoid inflating saturation scores with unverified coverage.",
+ "claims": [],
+ "vocabulary": [
+  "network-based recruitment economy",
+  "recruitment",
+  "price of perfection"
+ ],
+ "topics_covered": []
+}
