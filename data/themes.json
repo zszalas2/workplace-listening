@@ -11,7 +11,8 @@
    "2026-W36": 1,
    "2026-W38": 1,
    "2026-W39": 0,
-   "2026-W42": 0
+   "2026-W42": 0,
+   "2026-W43": 0
   },
   "evidence": [
    {
@@ -47,8 +48,8 @@
   "covered_by_context": [],
   "suggested_angle": "Argue that time lost hunting for a desk is a measurable workspace cost HR can trade against per-seat spend.",
   "current": 0,
-  "trailing_mean": 0.333,
-  "delta_z": -0.707,
+  "trailing_mean": 0.167,
+  "delta_z": -0.447,
   "demand_score": 0.0,
   "saturation_score": 0.0,
   "opportunity_score": 0.0,
@@ -66,7 +67,8 @@
    "2026-W36": 1,
    "2026-W38": 0,
    "2026-W39": 0,
-   "2026-W42": 0
+   "2026-W42": 0,
+   "2026-W43": 0
   },
   "evidence": [
    {
@@ -105,15 +107,14 @@
   "became_post": null,
   "became_post_at": null,
   "covered_by_context": [
-   "allwork_space",
-   "worktech_academy"
+   "workplace_insight"
   ],
   "suggested_angle": "Show HR how to write a hybrid policy where the home setup allowance and in-office spend are one governed budget rather than ad hoc reimbursements.",
   "current": 0,
-  "trailing_mean": 0.167,
-  "delta_z": -0.447,
+  "trailing_mean": 0,
+  "delta_z": 0.0,
   "demand_score": 0.0,
-  "saturation_score": 1.0,
+  "saturation_score": 0.5,
   "opportunity_score": 0.0,
   "status": "steady"
  },
@@ -129,22 +130,18 @@
    "2026-W36": 23,
    "2026-W38": 6,
    "2026-W39": 3,
-   "2026-W42": 6
+   "2026-W42": 6,
+   "2026-W43": 2
   },
   "evidence": [
    {
-    "quote": "I currently am the EA to our CEO, and a few months ago I was asked to also assist another Sr Level Exec. It was supposed to be temporary, but it looks like itl'll be closer to 10+ months. There was not pay adjustment and nothing in writing. I also serve as our OM so it's been a lot.",
-    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1wy9qm5/additional_work_assigned/",
+    "quote": "Booking the work Christmas do for a table with mixed dietary needs?",
+    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1x690tw/booking_the_work_christmas_do_for_a_table_with/",
     "source_id": "reddit_executiveassistants"
    },
    {
-    "quote": "all my work seems to be centered around personal tasks. Personal purchases, credit card disputes, booking wellness activities, doctors appointments, paying their rent, financial audits of their personal credit cards and filing disputes",
-    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1wsitag/is_this_normal/",
-    "source_id": "reddit_executiveassistants"
-   },
-   {
-    "quote": "What I’m struggling with the most is the complete lack of communication, utilization, and support I receive.",
-    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1x14g1y/support/",
+    "quote": "Collect dietary requirements first. Ask everyone before you start shortlisting venues.",
+    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1x690tw/booking_the_work_christmas_do_for_a_table_with/",
     "source_id": "reddit_executiveassistants"
    }
   ],
@@ -173,13 +170,13 @@
   "became_post": null,
   "became_post_at": null,
   "covered_by_context": [],
-  "suggested_angle": "Show HR leaders how much unbudgeted workspace and travel spend quietly lands on one EA or office manager, and what a shared system of record changes.",
-  "current": 6,
-  "trailing_mean": 5.333,
-  "delta_z": 0.081,
-  "demand_score": 0.719,
+  "suggested_angle": "Position team events and venue bookings as a recurring workspace spend category that should be budgeted and paid for with controlled cards, not an EA's personal card and a spreadsheet.",
+  "current": 2,
+  "trailing_mean": 2.5,
+  "delta_z": -0.186,
+  "demand_score": 0.722,
   "saturation_score": 0.0,
-  "opportunity_score": 0.719,
+  "opportunity_score": 0.722,
   "status": "gap"
  },
  {
@@ -194,7 +191,8 @@
    "2026-W36": 0,
    "2026-W38": 0,
    "2026-W39": 0,
-   "2026-W42": 0
+   "2026-W42": 0,
+   "2026-W43": 0
   },
   "evidence": [
    {
@@ -240,7 +238,8 @@
    "2026-W36": 2,
    "2026-W38": 0,
    "2026-W39": 2,
-   "2026-W42": 2
+   "2026-W42": 2,
+   "2026-W43": 0
   },
   "evidence": [
    {
@@ -280,9 +279,9 @@
   "became_post_at": null,
   "covered_by_context": [],
   "suggested_angle": "Argue that ticket counts hide the real cost of workplace support, and show the spend signals HR and facilities should track instead.",
-  "current": 2,
+  "current": 0,
   "trailing_mean": 0.667,
-  "delta_z": 1.414,
+  "delta_z": -0.707,
   "demand_score": 0.0,
   "saturation_score": 0.0,
   "opportunity_score": 0.0,
@@ -299,7 +298,8 @@
    "2026-W36": 0,
    "2026-W38": 0,
    "2026-W39": 0,
-   "2026-W42": 0
+   "2026-W42": 0,
+   "2026-W43": 0
   },
   "evidence": [
    {
@@ -338,17 +338,23 @@
    "2026-W36": 1,
    "2026-W38": 2,
    "2026-W39": 0,
-   "2026-W42": 0
+   "2026-W42": 0,
+   "2026-W43": 3
   },
   "evidence": [
    {
-    "quote": "How can I encourage the office to use our time and attendance software without being annoying?",
-    "url": "https://www.reddit.com/r/AdminAssistant/comments/1wccv4h/how_can_i_encourage_the_office_to_use_our_time/",
-    "source_id": "reddit_adminassistant"
+    "quote": "An employee has had 6 attendance issues in less than a month",
+    "url": "https://www.reddit.com/r/humanresources/comments/1x8kt2q/il_cook_county_suburbs_attendance_issues/",
+    "source_id": "reddit_humanresources"
    },
    {
-    "quote": "We're looking for a system that will allow our employees to clock in/out in the field (delivery drivers, service techs) or at their desk (sales team, back office staff).",
-    "url": "https://www.reddit.com/r/humanresources/comments/1wa53th/hris_options_for_business_w_25_employees_tx/",
+    "quote": "How do I advise the manager, move forward with eventual termination and avoid any potential litigation",
+    "url": "https://www.reddit.com/r/humanresources/comments/1x8kt2q/il_cook_county_suburbs_attendance_issues/",
+    "source_id": "reddit_humanresources"
+   },
+   {
+    "quote": "recently received some corrective feedback about my in-office attendance",
+    "url": "https://www.reddit.com/r/humanresources/comments/1x04jns/hr_pals_how_do_you_handle_being_on_the_receiving/",
     "source_id": "reddit_humanresources"
    }
   ],
@@ -377,17 +383,16 @@
   "became_post": null,
   "became_post_at": null,
   "covered_by_context": [
-   "allwork_space",
-   "charter"
+   "workplace_insight"
   ],
-  "suggested_angle": "Show HR buyers why adoption, not features, decides whether attendance and workspace tools pay for themselves.",
-  "current": 0,
-  "trailing_mean": 0.5,
-  "delta_z": -0.655,
-  "demand_score": 0.0,
-  "saturation_score": 1.0,
-  "opportunity_score": 0.0,
-  "status": "steady"
+  "suggested_angle": "Show HR leads how clean attendance and presence data from the workplace itself turns coverage disputes and terminations into documented, defensible facts instead of manager impressions.",
+  "current": 3,
+  "trailing_mean": 0.333,
+  "delta_z": 3.578,
+  "demand_score": 1.0,
+  "saturation_score": 0.5,
+  "opportunity_score": 0.5,
+  "status": "accelerating"
  },
  {
   "theme_id": "visitor_signin_diy_vs_buy",
@@ -399,7 +404,8 @@
    "2026-W36": 0,
    "2026-W38": 0,
    "2026-W39": 0,
-   "2026-W42": 1
+   "2026-W42": 1,
+   "2026-W43": 0
   },
   "evidence": [
    {
@@ -439,12 +445,12 @@
   "became_post_at": null,
   "covered_by_context": [],
   "suggested_angle": "Explain who pays for and who governs visitor management when one tenant inherits the whole building's front desk, and how to scope it without buying for everyone else.",
-  "current": 1,
-  "trailing_mean": 0,
-  "delta_z": 0.0,
-  "demand_score": 0.132,
+  "current": 0,
+  "trailing_mean": 0.167,
+  "delta_z": -0.447,
+  "demand_score": 0.0,
   "saturation_score": 0.0,
-  "opportunity_score": 0.132,
+  "opportunity_score": 0.0,
   "status": "steady"
  },
  {
@@ -457,7 +463,8 @@
    "2026-W36": 0,
    "2026-W38": 0,
    "2026-W39": 0,
-   "2026-W42": 0
+   "2026-W42": 0,
+   "2026-W43": 0
   },
   "evidence": [
    {
@@ -508,7 +515,8 @@
    "2026-W36": 0,
    "2026-W38": 0,
    "2026-W39": 0,
-   "2026-W42": 0
+   "2026-W42": 0,
+   "2026-W43": 0
   },
   "evidence": [
    {
@@ -534,15 +542,13 @@
   ],
   "became_post": null,
   "became_post_at": null,
-  "covered_by_context": [
-   "workplace_insight"
-  ],
+  "covered_by_context": [],
   "suggested_angle": "Cost out portable meeting audio for organisations that gather in person only a few times a year, versus renting AV from the venue each time.",
   "current": 0,
   "trailing_mean": 0,
   "delta_z": 0.0,
   "demand_score": 0.0,
-  "saturation_score": 0.5,
+  "saturation_score": 0.0,
   "opportunity_score": 0.0,
   "status": "steady"
  },
@@ -555,7 +561,8 @@
    "2026-W36": 0,
    "2026-W38": 0,
    "2026-W39": 2,
-   "2026-W42": 0
+   "2026-W42": 0,
+   "2026-W43": 0
   },
   "evidence": [
    {
@@ -616,7 +623,8 @@
    "2026-W36": 3,
    "2026-W38": 2,
    "2026-W39": 3,
-   "2026-W42": 4
+   "2026-W42": 4,
+   "2026-W43": 0
   },
   "evidence": [
    {
@@ -661,16 +669,16 @@
   "became_post_at": null,
   "covered_by_context": [
    "allwork_space",
-   "workplace_insight"
+   "charter"
   ],
   "suggested_angle": "Set out what an HR-led policy for AI assistants touching calendars, travel and expense approvals should actually require before anyone turns one on.",
-  "current": 4,
-  "trailing_mean": 1.333,
-  "delta_z": 1.94,
-  "demand_score": 0.368,
+  "current": 0,
+  "trailing_mean": 1.5,
+  "delta_z": -0.933,
+  "demand_score": 0.0,
   "saturation_score": 1.0,
   "opportunity_score": 0.0,
-  "status": "watching"
+  "status": "steady"
  },
  {
   "theme_id": "home_workspace_stipend_and_ergonomics",
@@ -680,7 +688,8 @@
    "2026-W36": 2,
    "2026-W38": 0,
    "2026-W39": 0,
-   "2026-W42": 0
+   "2026-W42": 0,
+   "2026-W43": 0
   },
   "evidence": [
    {
@@ -709,8 +718,8 @@
   "covered_by_context": [],
   "suggested_angle": "Position a managed home workspace stipend as the cheapest way to close the ergonomic liability gap HR keeps discovering in hybrid policies.",
   "current": 0,
-  "trailing_mean": 0.333,
-  "delta_z": -0.447,
+  "trailing_mean": 0,
+  "delta_z": 0.0,
   "demand_score": 0.0,
   "saturation_score": 0.0,
   "opportunity_score": 0.0,
@@ -723,7 +732,8 @@
   "counts_by_week": {
    "2026-W38": 6,
    "2026-W39": 7,
-   "2026-W42": 1
+   "2026-W42": 1,
+   "2026-W43": 0
   },
   "evidence": [
    {
@@ -763,12 +773,12 @@
   "became_post_at": null,
   "covered_by_context": [],
   "suggested_angle": "Explain how calendar visibility rules decide who really controls meeting time and room demand, and why HR should set the default rather than leave it to EAs.",
-  "current": 1,
-  "trailing_mean": 2.167,
-  "delta_z": -0.379,
-  "demand_score": 0.13,
+  "current": 0,
+  "trailing_mean": 2.333,
+  "delta_z": -0.783,
+  "demand_score": 0.0,
   "saturation_score": 0.0,
-  "opportunity_score": 0.13,
+  "opportunity_score": 0.0,
   "status": "steady"
  },
  {
@@ -778,7 +788,8 @@
   "counts_by_week": {
    "2026-W38": 1,
    "2026-W39": 0,
-   "2026-W42": 0
+   "2026-W42": 0,
+   "2026-W43": 0
   },
   "evidence": [
    {
@@ -815,23 +826,19 @@
   "counts_by_week": {
    "2026-W38": 9,
    "2026-W39": 4,
-   "2026-W42": 8
+   "2026-W42": 8,
+   "2026-W43": 1
   },
   "evidence": [
    {
-    "quote": "Each role has a focus on calendar management and travel arrangements. It's the travel thats going to be my downfall",
-    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1wyojc4/ea_roles_travel_arrangements_is_going_to_be_my/",
+    "quote": "Started recently a new EA job and I am bad at it",
+    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1x3ox4n/started_recently_a_new_ea_job_and_i_am_bad_at_it/",
     "source_id": "reddit_executiveassistants"
    },
    {
-    "quote": "What higher-level/less traditional work have you taken on for a very busy executive?",
-    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1wvdmsl/what_higherlevelless_traditional_work_have_you/",
+    "quote": "I was fully operative, but i was still missing delegation on our booking & approval system and I still don't have a company credit card",
+    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1x3ox4n/started_recently_a_new_ea_job_and_i_am_bad_at_it/",
     "source_id": "reddit_executiveassistants"
-   },
-   {
-    "quote": "How would you explain moving from marketing to an admin role in an interview?",
-    "url": "https://www.reddit.com/r/AdminAssistant/comments/1wwadgz/how_would_you_explain_moving_from_marketing_to_an/",
-    "source_id": "reddit_adminassistant"
    }
   ],
   "vocabulary": [
@@ -859,14 +866,14 @@
   "became_post": null,
   "became_post_at": null,
   "covered_by_context": [],
-  "suggested_angle": "Use EA job posts and career threads to show HR what admin roles are really being asked to own, including travel, expenses and onsite coverage, and where tooling should take over.",
-  "current": 8,
-  "trailing_mean": 2.167,
-  "delta_z": 1.722,
-  "demand_score": 1.0,
+  "suggested_angle": "Explain how giving a new EA day-one spend access with controlled limits, instead of a vague approval chain, removes most early mistakes and shadow spending.",
+  "current": 1,
+  "trailing_mean": 3.5,
+  "delta_z": -0.655,
+  "demand_score": 0.352,
   "saturation_score": 0.0,
-  "opportunity_score": 1.0,
-  "status": "accelerating"
+  "opportunity_score": 0.352,
+  "status": "steady"
  },
  {
   "theme_id": "personal_data_access_and_credential_handover",
@@ -874,7 +881,8 @@
   "first_seen": "2026-09-21",
   "counts_by_week": {
    "2026-W39": 1,
-   "2026-W42": 0
+   "2026-W42": 0,
+   "2026-W43": 0
   },
   "evidence": [
    {
@@ -906,7 +914,8 @@
   "label": "Owning internal web and link infrastructure versus buying a service",
   "first_seen": "2026-10-12",
   "counts_by_week": {
-   "2026-W42": 1
+   "2026-W42": 1,
+   "2026-W43": 0
   },
   "evidence": [
    {
@@ -933,12 +942,52 @@
   "became_post_at": null,
   "covered_by_context": [],
   "suggested_angle": "Watch this as a build versus buy pattern: small teams keep infrastructure in house to avoid another subscription and another vendor review.",
+  "current": 0,
+  "trailing_mean": 0.167,
+  "delta_z": -0.447,
+  "demand_score": 0.0,
+  "saturation_score": 0.0,
+  "opportunity_score": 0.0,
+  "status": "steady"
+ },
+ {
+  "theme_id": "sickness_absence_documentation_policy",
+  "label": "Sickness absence, doctor's notes and return to work documentation",
+  "first_seen": "2026-10-19",
+  "counts_by_week": {
+   "2026-W43": 1
+  },
+  "evidence": [
+   {
+    "quote": "What's the norm/consensus on requiring a doctor's note for someone who has been out with an \"extended\" illness these days?",
+    "url": "https://www.reddit.com/r/humanresources/comments/1wuf9oj/doctors_note_requirements_united_states/",
+    "source_id": "reddit_humanresources"
+   },
+   {
+    "quote": "our handbook lists casual illness as 3 or fewer consecutive workdays, but doesn't acknowledge what, if anything, we'll require if something is longer than a casual illness",
+    "url": "https://www.reddit.com/r/humanresources/comments/1wuf9oj/doctors_note_requirements_united_states/",
+    "source_id": "reddit_humanresources"
+   }
+  ],
+  "vocabulary": [
+   "doctor's note",
+   "return to work notes",
+   "extended illness",
+   "casual illness",
+   "consecutive work days",
+   "FMLA standards",
+   "handbook"
+  ],
+  "became_post": null,
+  "became_post_at": null,
+  "covered_by_context": [],
+  "suggested_angle": "A short HR playbook on where absence documentation rules belong relative to attendance data, so policy is written once and applied consistently without chasing paperwork.",
   "current": 1,
   "trailing_mean": 0,
   "delta_z": 0.0,
-  "demand_score": 0.122,
+  "demand_score": 0.293,
   "saturation_score": 0.0,
-  "opportunity_score": 0.122,
+  "opportunity_score": 0.293,
   "status": "watching"
  }
 ]

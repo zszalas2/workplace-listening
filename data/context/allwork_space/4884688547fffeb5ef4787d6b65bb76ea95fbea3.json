@@ -1,0 +1,53 @@
+{
+ "id": "4884688547fffeb5ef4787d6b65bb76ea95fbea3",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/10/a-decade-of-wage-stagnation-could-be-ais-biggest-threat-to-workers/",
+ "published_at": "2026-10-16",
+ "observed_at": "2026-10-19",
+ "summary": "An opinion piece arguing that AI's biggest workforce risk is not mass job loss but a decade of wage stagnation. The author's thesis: AI erodes the two main drivers of wage growth, employee retention and employee attraction. Because agentic AI can absorb capacity the same day someone resigns, employers no longer face the hiring panic that historically forced annual raises, proactive promotions, fast-track development programs and mentoring. AI agents take no vacation, do not get sick and take no salary, so a resignation can even feel like a relief. As the need for human replacements falls, the hiring machine slows, roles become oversubscribed, and employers no longer need competitive salaries to attract talent.\n\nGraduate salaries are framed as the hardest hit, since entry-level roles concentrate the information-processing tasks AI handles well. The piece cites a High Fliers report noting median graduate salaries have risen steadily over five years but predicting that trend ends in 2026.\n\nThe author argues nobody is reacting because workers are preoccupied with job security, effectively choosing between a better salary and no salary, and graduates accept whatever is offered to get a foot in the door.\n\nProposed two-part fix. Employers should be tied to wage growth plans they cannot evade, specifically publishing three-year median salary statistics alongside job openings so candidates see realistic earnings trajectories rather than just the starting number. Employees should change negotiation tactics, proving how effectively they use AI and tying earnings to it rather than citing work rate or late nights. The author predicts bonuses, raises and promotions will soon be linked to AI proficiency, and that a new role class emerges: the AI manager bridging strategic goals and AI outputs. Workers who position early can capture AI upside rather than letting firms extract AI gains for the top.",
+ "claims": [
+  {
+   "claim": "Median graduate salaries have risen steadily over the past five years, but the upward trend is predicted to end in 2026.",
+   "stat": "trend ending 2026; five years of steady growth",
+   "attribution": "High Fliers report, cited by the Allwork.Space author"
+  },
+  {
+   "claim": "AI can fill a capacity gap the same day an employee resigns, removing hiring pressure from managers.",
+   "stat": "",
+   "attribution": "Allwork.Space author (opinion)"
+  },
+  {
+   "claim": "AI agents do not take vacations, do not get ill and take no salary, and will eventually pay for themselves.",
+   "stat": "",
+   "attribution": "Allwork.Space author (opinion)"
+  },
+  {
+   "claim": "All competitive bonuses, pay raises and promotions will soon be linked to AI proficiency.",
+   "stat": "",
+   "attribution": "Allwork.Space author (prediction)"
+  },
+  {
+   "claim": "Companies should publish three-year median salary statistics alongside job openings.",
+   "stat": "three-year median salary statistics",
+   "attribution": "Allwork.Space author (recommendation)"
+  }
+ ],
+ "vocabulary": [
+  "agentic AI",
+  "wage stagnation",
+  "wage growth drivers",
+  "employee retention",
+  "employee attraction",
+  "graduate salaries",
+  "median salary statistics",
+  "information-processing tasks",
+  "AI manager",
+  "AI upside",
+  "fast-track development programs",
+  "mentoring",
+  "salary negotiations",
+  "job security",
+  "High Fliers"
+ ],
+ "topics_covered": []
+}

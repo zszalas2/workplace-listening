@@ -1,0 +1,56 @@
+{
+ "id": "7a0b9fc7a9c2e71b9a0e012d091d9dd784b10f89",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/prepare-for-opioid-related-overdose-emergencies-with-oshas-workplace-guidance/",
+ "published_at": "2026-10-15",
+ "observed_at": "2026-10-19",
+ "summary": "FMLink reports that OSHA, part of the U.S. Department of Labor, has published a fact sheet titled \"Opioid Overdose Rescue with Reversal Medications\" to help employers and workers respond quickly to opioid-related overdose emergencies at work. The guidance is positioned as part of the Great American Recovery Initiative, a government-wide effort prioritizing addiction treatment and recovery. OSHA notes that opioid emergencies can occur anywhere, including the workplace, and that preparedness can save lives.\n\nThe fact sheet sets out several preparedness strategies. First, employers should keep FDA-approved reversal medications such as naloxone or nalmefene on hand; OSHA describes these as safe and says they quickly restore normal breathing and generally have no effect if opioids are not present. Second, overdose kits should be treated like first aid supplies, stored in highly visible and easily accessible locations alongside automated external defibrillators and standard first-aid kits. Third, workers should be educated to recognize critical overdose symptoms including slow or stopped breathing, blue lips or skin, pinpoint pupils, and unresponsiveness. Fourth, employers should prepare staff for rapid action by training them to administer the medication, safely position the affected person, and provide supportive care until first responders arrive.\n\nOSHA stresses that reversal medications do not replace emergency medical services. Workplace responders should always call 911 immediately, because the medication's effects are temporary and professional medical care remains necessary.\n\nThe item is a short regulatory and facilities safety notice aimed at employers, EHS staff and facilities managers; it contains no vendor commentary, survey data, or workplace technology angle. It links to the OSHA PDF for the full guidance.",
+ "claims": [
+  {
+   "claim": "OSHA has released a fact sheet to help employers and workers respond to opioid-related overdose emergencies in the workplace.",
+   "stat": "",
+   "attribution": "U.S. Department of Labor's Occupational Safety and Health Administration, via FMLink"
+  },
+  {
+   "claim": "The guidance is part of the Great American Recovery Initiative, a government-wide effort prioritizing addiction treatment and recovery.",
+   "stat": "",
+   "attribution": "OSHA"
+  },
+  {
+   "claim": "FDA-approved reversal medications such as naloxone or nalmefene quickly restore normal breathing and generally have no effect if opioids are not present.",
+   "stat": "",
+   "attribution": "OSHA fact sheet"
+  },
+  {
+   "claim": "Overdose kits should be stored in highly visible, easily accessible locations, like AEDs or standard first-aid kits.",
+   "stat": "",
+   "attribution": "OSHA fact sheet"
+  },
+  {
+   "claim": "Workplace responders should always call 911 immediately because the medication's effects are temporary and professional medical care is still required.",
+   "stat": "",
+   "attribution": "OSHA fact sheet"
+  }
+ ],
+ "vocabulary": [
+  "OSHA",
+  "U.S. Department of Labor",
+  "Occupational Safety and Health Administration",
+  "fact sheet",
+  "opioid-related overdose emergencies",
+  "Opioid Overdose Rescue with Reversal Medications",
+  "Great American Recovery Initiative",
+  "reversal medications",
+  "naloxone",
+  "nalmefene",
+  "overdose kits",
+  "first aid",
+  "automated external defibrillators",
+  "AED",
+  "pinpoint pupils",
+  "supportive care",
+  "first responders",
+  "workplace preparedness"
+ ],
+ "topics_covered": []
+}

@@ -1,0 +1,53 @@
+{
+ "id": "2e75f949f345997e1978e95390fb7a449c25f325",
+ "source_id": "podcast_dwg_impact",
+ "url": "https://shows.acast.com/digital-workplace-impact/episodes/episode-174-digital-communications-at-work-designing-channel",
+ "published_at": "2026-10-14",
+ "observed_at": "2026-10-19",
+ "summary": "Podcast episode 174 of DWG's Digital Workplace Impact, hosted by DWG CEO Nancy Goebel, featuring Sharon O'Dea and Jonathan Phillips, co-founders of Lithos Partners and co-authors of the book Digital Communications at Work.\n\nPremise: organizations spend heavily each year on employee communications, launching apps, newsletters, channels and campaigns, yet employees still cannot find information, feel disconnected from colleagues, and struggle to work out what matters. The guests argue the fix is not another channel but a more coherent communication ecosystem.\n\nCore framework: a five-layer model covering Plan, Collaborate, Publish, Distribute and Discuss. A central argument is that publishing does not equal communication, so distribution and discussion layers need deliberate design. Discovery work and user needs should drive channel choices rather than channel proliferation. Adoption is positioned as more important than launch.\n\nMeasurement: leaders are urged to move past vanity metrics toward outcomes and impact.\n\nAI: the conversation covers how AI is reshaping digital communications beyond copy generation, including personalization, planning, analysis and employee feedback. Realizing that potential is said to require human judgement, accurate source content, clear ownership and strong governance.\n\nAudience and takeaway: aimed at digital workplace practitioners and leaders, offering a way to rethink channel strategy, adoption, measurement and AI governance, and to build a more joined-up communication ecosystem delivering value for employees and the organization.\n\nNote: the show notes contain no statistics, customer examples, or vendor product comparisons, and do not address workplace operations topics such as desk booking, visitor management, attendance or return to office policy.",
+ "claims": [
+  {
+   "claim": "Organizations invest money and resource every year in employee communications apps, newsletters, channels and campaigns, yet employees still struggle to find information and understand what matters",
+   "stat": "",
+   "attribution": "Digital Workplace Impact episode description / Sharon O'Dea and Jonathan Phillips"
+  },
+  {
+   "claim": "Publishing content does not equal communication",
+   "stat": "",
+   "attribution": "Sharon O'Dea and Jonathan Phillips"
+  },
+  {
+   "claim": "Adoption matters more than launch when introducing digital channels",
+   "stat": "",
+   "attribution": "Sharon O'Dea and Jonathan Phillips"
+  },
+  {
+   "claim": "AI's potential in digital communications extends beyond generating copy to personalization, planning, analysis and employee feedback, but requires human judgement, accurate source content, ownership and strong governance",
+   "stat": "",
+   "attribution": "Sharon O'Dea and Jonathan Phillips"
+  }
+ ],
+ "vocabulary": [
+  "digital workplace",
+  "employee communications",
+  "communication ecosystem",
+  "digital channels",
+  "five-layer model",
+  "Plan, Collaborate, Publish, Distribute, Discuss",
+  "channel strategy",
+  "discovery",
+  "user needs",
+  "adoption",
+  "vanity metrics",
+  "outcomes and impact",
+  "AI governance",
+  "personalization",
+  "human judgement",
+  "source content",
+  "ownership",
+  "governance",
+  "DWG",
+  "Lithos Partners"
+ ],
+ "topics_covered": []
+}

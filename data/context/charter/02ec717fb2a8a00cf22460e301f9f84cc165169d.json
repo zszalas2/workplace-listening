@@ -1,0 +1,32 @@
+{
+ "id": "02ec717fb2a8a00cf22460e301f9f84cc165169d",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/the-c-suite-job-with-no-team-to-manage/",
+ "published_at": "2026-10-15",
+ "observed_at": "2026-10-19",
+ "summary": "Charter reports on a structural response to AI-driven organizational flattening. The premise: as AI enters the workplace, companies are reducing layers of middle management in favor of roles accountable for hands-on execution, while still needing senior leadership to steer teams through rapid change. Legal AI startup Spellbook addressed this tension by inventing a new C-suite position with no direct reports. The role lets a veteran executive work deeply on priority projects alongside individual contributors, contributing judgment and experience without carrying people-management responsibility. The excerpt frames this as a template for organizations trying to retain senior expertise in an environment where the traditional manager career ladder is being compressed. The item does not cover workplace operations topics such as visitor management, desk or room booking, attendance tracking, or facilities, and the available text is brief, offering the Spellbook example rather than broader data or multiple case studies.",
+ "claims": [
+  {
+   "claim": "Organizations are becoming flatter as AI enters the workplace, with companies reducing middle management in favor of roles responsible for hands-on work",
+   "stat": "",
+   "attribution": "Charter"
+  },
+  {
+   "claim": "Spellbook, a legal AI startup, created an entirely new C-suite role with no direct reports so a veteran executive could work alongside staff on important projects",
+   "stat": "",
+   "attribution": "Charter, reporting on Spellbook"
+  }
+ ],
+ "vocabulary": [
+  "c-suite",
+  "middle managers",
+  "flatter organizations",
+  "hands-on work",
+  "individual contributor",
+  "legal AI startup",
+  "veteran executive",
+  "direct management",
+  "AI in the workplace"
+ ],
+ "topics_covered": []
+}

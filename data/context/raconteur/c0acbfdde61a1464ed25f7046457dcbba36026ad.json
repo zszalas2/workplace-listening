@@ -1,0 +1,100 @@
+{
+ "id": "c0acbfdde61a1464ed25f7046457dcbba36026ad",
+ "source_id": "raconteur",
+ "url": "https://www.raconteur.net/finance/engineering-europes-talent-advantage",
+ "published_at": "2026-10-19",
+ "observed_at": "2026-10-19",
+ "summary": "Raconteur examines how European talent pipelines in technical and knowledge work are narrowing even as AI-driven demand rises. In August the UK expanded its Global Talent visa to more than 100 research businesses, letting firms such as AstraZeneca and Jaguar Land Rover recruit researchers in AI, clean energy and life sciences, part of a broader European push for overseas specialists. The piece argues recruiting specialists solves only half the problem: Europe also needs new entrants.\n\nThe Linux Foundation expects AI deployment to drive a 27% net increase in European technical roles in 2026, yet entry-level hiring shrank 3% in 2025 against a 14% global increase. Unpublished analysis of EU Labour Force Survey data by Dragos Adascalitei of Eurofound shows employment in high-AI occupations rising between 2019 and 2025 (16.4% for young workers, 15% for prime-age), but new hires among young workers in those occupations fell 15% between 2022 and 2025, close to the 15.6% drop for prime-age workers. Adascalitei says the effect is concentrated where the technology is used but is not youth specific, and that jobs are not being destroyed while the queue for entry lengthens. The slowdown hits lower-educated youth hardest; only tertiary-educated workers remain above 2019 employment levels.\n\nIndeed data shows UK job postings down 11% between early 2026 and mid-July, graduate postings down 7% to their lowest seasonal level since 2020, while AI featured in a record 9.4% of postings. Indeed economist Jack Kennedy says entry-level hiring slows first and hardest in a cooling market, with AI reinforcing that weakness. PwC's 2026 UK AI Jobs Barometer finds roles demanding human-intensive skills growing more than twice as fast.\n\nDemographic ageing is the binding constraint: the EU27 working-age population has fallen nearly 10 million since 2009, while over-55 workers rose from 23.8 million in 2010 to nearly 40 million in 2023. Talent policy, the piece concludes, is becoming industrial policy.",
+ "claims": [
+  {
+   "claim": "The UK expanded its Global Talent visa to over 100 research businesses, allowing firms including AstraZeneca and Jaguar Land Rover to recruit researchers in AI, clean energy and life sciences",
+   "stat": "100+ research businesses",
+   "attribution": "Raconteur"
+  },
+  {
+   "claim": "AI deployment is expected to drive a net increase in European technical roles in 2026",
+   "stat": "27% net increase",
+   "attribution": "Linux Foundation"
+  },
+  {
+   "claim": "Entry-level hiring shrank in 2025 in Europe, against a global increase",
+   "stat": "-3% vs +14% globally",
+   "attribution": "Raconteur"
+  },
+  {
+   "claim": "Employment in high-AI occupations grew between 2019 and 2025 for both young and prime-age workers",
+   "stat": "16.4% young workers vs 15% prime-age",
+   "attribution": "Dragos Adascalitei, research officer at Eurofound, unpublished analysis of EU Labour Force Survey data"
+  },
+  {
+   "claim": "New hires among young workers in high-AI occupations fell between 2022 and 2025, nearly identical to the prime-age drop",
+   "stat": "-15% young, -15.6% prime-age",
+   "attribution": "Dragos Adascalitei, Eurofound"
+  },
+  {
+   "claim": "Tertiary-educated workers are the only group above 2019 employment levels",
+   "stat": "",
+   "attribution": "Dragos Adascalitei, Eurofound"
+  },
+  {
+   "claim": "Jobs are not being destroyed, but the queue for entry lengthens",
+   "stat": "",
+   "attribution": "Dragos Adascalitei, Eurofound"
+  },
+  {
+   "claim": "UK job postings fell between early 2026 and mid-July, with graduate postings down to their lowest seasonal level since 2020",
+   "stat": "-11% overall; graduate postings -7%",
+   "attribution": "Indeed data"
+  },
+  {
+   "claim": "AI featured in a record share of postings across marketing, finance and research",
+   "stat": "9.4% of postings",
+   "attribution": "Indeed data"
+  },
+  {
+   "claim": "Entry-level hiring slows first and hardest when the labour market cools, and AI reinforces that cyclical weakness",
+   "stat": "",
+   "attribution": "Jack Kennedy, senior economist at Indeed"
+  },
+  {
+   "claim": "UK roles where AI absorbs routine tasks and demands human-intensive skills are growing more than twice as fast as roles where technology merely simplifies routine work",
+   "stat": "more than 2x faster",
+   "attribution": "PwC 2026 UK AI Jobs Barometer"
+  },
+  {
+   "claim": "The EU27 working-age population has fallen since 2009",
+   "stat": "nearly 10 million",
+   "attribution": "Raconteur, citing Adascalitei"
+  },
+  {
+   "claim": "Workers aged 55 and over increased between 2010 and 2023",
+   "stat": "23.8 million to nearly 40 million",
+   "attribution": "Raconteur"
+  },
+  {
+   "claim": "European organisations are more likely to prioritise upskilling than hiring across strategic technology domains",
+   "stat": "3.7 times more likely",
+   "attribution": "Linux Foundation"
+  }
+ ],
+ "vocabulary": [
+  "Global Talent visa",
+  "entry-level hiring",
+  "high-AI occupations",
+  "EU Labour Force Survey",
+  "talent pipeline",
+  "upskilling",
+  "AI Jobs Barometer",
+  "human-intensive skills",
+  "demographic ageing",
+  "binding constraint",
+  "working-age population",
+  "AI-focused apprenticeships",
+  "tax incentives",
+  "industrial policy",
+  "graduate postings",
+  "prime-age workers",
+  "tertiary-educated"
+ ],
+ "topics_covered": []
+}

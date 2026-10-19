@@ -1,0 +1,74 @@
+{
+ "id": "3a47459cffeb9cb9b2514d1c0fef85a73c170b75",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/critical-investments-power-resilience-as-patient-care-infrastructure/",
+ "published_at": "2026-10-15",
+ "observed_at": "2026-10-19",
+ "summary": "An FMJ/FMLink trade article argues that hospital electrical infrastructure should be treated as patient care infrastructure rather than as back-of-house facilities plant. The piece frames the modern hospital as a digital ecosystem in which life-sustaining devices, AI-augmented diagnostics, robotic surgery systems, electronic health records (EHR) and picture archiving and communications systems (PACS) all depend on continuous, resilient power in the same way a surgical suite depends on sterile conditions.\n\nIt identifies converging pressures. On the supply side: aging grid infrastructure, increasingly frequent and severe hurricanes, ice storms and heat events, plus a broadening cyber threat landscape targeting health care. On the demand side: clinical electrification, AI workloads for diagnostic imaging and real-time clinical decision support that need sustained high-density power, and the decentralization of care into urgent care centers, ambulatory surgery centers and dialysis clinics that were built to office-grade rather than hospital-grade electrical standards. A power loss mid-dialysis is described as potentially life-threatening.\n\nThe article says most health care electrical systems were designed over a decade ago to keep lights, HVAC and a few critical devices running. The traditional emergency generator model, a diesel unit idle until utility failure and taking up to 30 seconds to start, is presented as unacceptable for robotic surgery mid-procedure, ventilators or time-sensitive AI imaging.\n\nThe proposed alternative is distributed generation paired with a dedicated microgrid controller, integrating reciprocating engines, solar PV arrays, battery storage and fuel cells. The microgrid runs in parallel with the grid, optimizing cost and efficiency, and transitions seamlessly to island operation. Cited examples include Kaiser Permanente's distributed renewable strategy and NYU Langone Health's post-Hurricane Sandy rebuild.\n\nThe closing section, truncated, argues the investment conversation is mis-framed: when power infrastructure is treated as a facilities or capital expenditure line, it competes against direct clinical investments such as imaging equipment, procedure capacity or clinical staff.",
+ "claims": [
+  {
+   "claim": "Traditional diesel emergency generators sit idle until utility power fails and can take up to 30 seconds to come online.",
+   "stat": "up to 30 seconds",
+   "attribution": "FMJ article author"
+  },
+  {
+   "claim": "Coordinated resilience-oriented microgrid deployments can reduce energy not supplied during outages by more than half.",
+   "stat": "more than 50 percent",
+   "attribution": "Recent research cited in the FMJ article"
+  },
+  {
+   "claim": "Coordinated microgrid systems maintain supply to critical life-saving loads at very high rates during outages.",
+   "stat": "above 95 percent",
+   "attribution": "Recent research cited in the FMJ article"
+  },
+  {
+   "claim": "Kaiser Permanente has made distributed renewable energy integration a cornerstone of its long-term infrastructure strategy.",
+   "stat": "",
+   "attribution": "FMJ article author"
+  },
+  {
+   "claim": "NYU Langone Health rebuilt its power infrastructure around resilience as a clinical priority after a catastrophic grid failure during Hurricane Sandy.",
+   "stat": "2012",
+   "attribution": "FMJ article author"
+  },
+  {
+   "claim": "Most electrical systems serving health care facilities were designed more than a decade ago for a different clinical environment.",
+   "stat": "more than a decade ago",
+   "attribution": "FMJ article author"
+  },
+  {
+   "claim": "Outpatient sites such as urgent care, ambulatory surgery and dialysis clinics were built to office-space electrical standards rather than hospital-grade standards.",
+   "stat": "",
+   "attribution": "FMJ article author"
+  }
+ ],
+ "vocabulary": [
+  "patient care infrastructure",
+  "power resilience",
+  "distributed generation",
+  "microgrid controller",
+  "islanded / independent operation",
+  "emergency generator",
+  "reciprocating engines",
+  "solar photovoltaic (PV) arrays",
+  "battery storage",
+  "fuel cells",
+  "electronic health records (EHR)",
+  "picture archiving and communications systems (PACS)",
+  "AI inference engines",
+  "clinical electrification",
+  "decentralization of care",
+  "ambulatory surgery centers",
+  "dialysis clinics",
+  "hospital-grade standards",
+  "energy not supplied",
+  "critical life-saving loads",
+  "integrated delivery networks",
+  "facility management",
+  "capital expenditure",
+  "ROI",
+  "HVAC",
+  "grid reliability"
+ ],
+ "topics_covered": []
+}

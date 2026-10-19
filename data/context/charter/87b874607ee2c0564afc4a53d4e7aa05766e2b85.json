@@ -1,0 +1,45 @@
+{
+ "id": "87b874607ee2c0564afc4a53d4e7aa05766e2b85",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/inside-eys-plan-to-replace-the-eight-week-internship/",
+ "published_at": "2026-10-15",
+ "observed_at": "2026-10-19",
+ "summary": "Charter reports on EY's decision to replace its traditional eight-week summer audit and tax internships with a paid \"career residency\" lasting eight to 12 months. The program, announced in August with applications opening in September, is designed to create a longer runway for entry-level talent, allowing participants to join the firm at a slightly more senior level than a conventional intern-to-analyst path would permit. The piece frames the move as a response to broader pressures on early-career pipelines in professional services. Ginnie Carlier, EY's chief talent and culture officer for the Americas, says the firm has fielded inbound interest from dozens of clients since the announcement, with multiple client meetings on the topic already scheduled. According to Carlier, those clients are motivated by two things: facing similar early-career talent challenges inside their own organizations, and thinking ahead about where their future workforce will come from. The excerpt is primarily about talent strategy, entry-level hiring models, and employer-brand positioning rather than workplace operations, facilities, space usage, or workplace technology. There is no discussion of office attendance, hybrid policy, desk or room booking, visitor management, or workplace analytics tooling in the provided text.",
+ "claims": [
+  {
+   "claim": "EY is replacing its summer audit and tax internships with a paid career residency",
+   "stat": "eight to 12 months in length, replacing an eight-week internship",
+   "attribution": "EY, as reported by Charter"
+  },
+  {
+   "claim": "EY announced the program in August and began accepting applications in September",
+   "stat": "",
+   "attribution": "Charter"
+  },
+  {
+   "claim": "The residency builds a runway for entry-level talent to join EY at a slightly more senior level",
+   "stat": "",
+   "attribution": "Charter / EY"
+  },
+  {
+   "claim": "EY has heard from many clients interested in the program since announcement",
+   "stat": "dozens of clients; one client meeting the next day and two the following week",
+   "attribution": "Ginnie Carlier, EY chief talent and culture officer for the Americas"
+  },
+  {
+   "claim": "Clients are facing similar early-career talent challenges and are considering where their future workforce comes from",
+   "stat": "",
+   "attribution": "Ginnie Carlier, EY"
+  }
+ ],
+ "vocabulary": [
+  "career residency",
+  "eight-week internship",
+  "summer audit and tax internships",
+  "entry-level talent",
+  "chief talent and culture officer",
+  "future workforce",
+  "talent pipeline"
+ ],
+ "topics_covered": []
+}

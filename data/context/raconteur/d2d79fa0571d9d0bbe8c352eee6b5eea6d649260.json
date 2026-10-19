@@ -1,0 +1,61 @@
+{
+ "id": "d2d79fa0571d9d0bbe8c352eee6b5eea6d649260",
+ "source_id": "raconteur",
+ "url": "https://www.raconteur.net/future-of-work/can-co-living-solve-the-social-isolation-of-remote-work",
+ "published_at": "2026-10-19",
+ "observed_at": "2026-10-19",
+ "summary": "An opinion piece arguing that co-living buildings, or \"vertical neighbourhoods\", could address the social isolation created by remote and hybrid work. The author frames the UK working-from-home debate as neglecting social life: remote workers may spend the day with colleagues in other cities and countries, then have nobody nearby. With 28% of working adults in Great Britain working hybrid in early 2025 (ONS), the design of the home environment deserves more attention.\n\nThe piece describes co-living as buildings that combine private homes with shared workspaces, gyms, pools, cinemas and events. Market examples cited include ARK Canary Wharf, The Palm House in Harrow (200+ studios across eight floors), Nido Santa Apolonia in Lisbon, The Social Hub Porto, and lyf Funan in Singapore. Savills data is cited for scale: roughly 9,000 operational UK co-living units in 2025 and about 5,500 under construction.\n\nArguments in favour: friendship requires repeated, unplanned encounters, which shared buildings create; neighbours can become lunch companions even when employers are on different continents; residents need the ability to start their own activities and to decline invitations, plus a private front door and quiet retreat space. A second benefit is administrative simplicity, with one monthly payment potentially covering rent, utilities, broadband, council tax and facilities access, and a single maintenance contact.\n\nCaveats raised: \"all inclusive\" pricing may exclude laundry, parking or certain activities, and convenience is not necessarily cheaper; renters should see total cost and exclusions. On health and inclusion, on-site gyms lower friction for exercise, and accessible step-free routes between home, workspace and social spaces can help people with limited mobility; Singapore's Kampung Admiralty is cited as an intergenerational model. The author warns community must not come at a premium, and that co-living should sit alongside affordable housing, libraries, parks and community centres, with ground-floor cafes connecting buildings to the surrounding street.",
+ "claims": [
+  {
+   "claim": "Over a quarter of working adults in Great Britain worked in a hybrid pattern in early 2025",
+   "stat": "28%, January to March 2025",
+   "attribution": "Office for National Statistics"
+  },
+  {
+   "claim": "The UK co-living market has significant operational stock and a sizeable pipeline",
+   "stat": "close to 9,000 operational units in 2025; around 5,500 under construction",
+   "attribution": "Savills"
+  },
+  {
+   "claim": "The Palm House in Harrow combines studios with shared facilities",
+   "stat": "more than 200 studios across eight floors",
+   "attribution": "Raconteur article"
+  },
+  {
+   "claim": "ARK Canary Wharf residents have access to workspaces, a gym, swimming pool, cinema and organised events",
+   "stat": "",
+   "attribution": "Raconteur article"
+  },
+  {
+   "claim": "Co-living contracts can bundle rent, utilities, broadband, council tax and shared facility access into one monthly payment",
+   "stat": "",
+   "attribution": "Raconteur article (author)"
+  },
+  {
+   "claim": "\"All inclusive\" co-living packages may exclude laundry, parking or particular activities and are not automatically cheaper",
+   "stat": "",
+   "attribution": "Raconteur article (author)"
+  }
+ ],
+ "vocabulary": [
+  "co-living",
+  "vertical neighbourhood",
+  "hybrid pattern",
+  "remote working",
+  "working from home",
+  "shared workspaces",
+  "coworking",
+  "apartment hotel",
+  "operational units",
+  "under construction",
+  "all inclusive",
+  "single point of contact",
+  "step-free routes",
+  "accessible routes",
+  "communal meal",
+  "ground-floor cafes",
+  "affordable homes",
+  "intergenerational housing"
+ ],
+ "topics_covered": []
+}

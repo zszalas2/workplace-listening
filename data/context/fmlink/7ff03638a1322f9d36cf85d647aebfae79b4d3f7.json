@@ -1,0 +1,77 @@
+{
+ "id": "7ff03638a1322f9d36cf85d647aebfae79b4d3f7",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/women-in-facilities-brooke-laing-youthful-advocate-for-women-in-the-trades/",
+ "published_at": "2026-10-16",
+ "observed_at": "2026-10-19",
+ "summary": "An FMLink profile (republished from ARC Facilities' Inspiring Female Leaders in Facilities Management series) of Brooke Laing, a woman in her early 20s advocating for women in the skilled trades. Laing started college intending to become a diabetes nurse but left after about three weeks, then at her mother's suggestion explored the trades and chose welding. She attended a private trade school, earned multiple welding certifications, and after a long wait joined the pipe union as a dual-trade steamfitter/welder apprentice, working in the trades for several years. Repeated layoffs and the treatment of women in the industry pushed her out; about five months ago she moved into industry media covering manufacturing, working across a network of roughly 11 shows and interviewing people from apprentices to C-suite.\n\nShe argues apprenticeship programs now offer structured training and financial assistance that helps employers develop talent, unlike past learn-on-the-job norms. She sees social media, especially Instagram video, as a recruiting and teaching channel for young welders, and notes persistent stigma that women do not belong in the trades. She describes limited high school trades exposure (only auto shop) and a generational cycle in which her predecessors were pushed toward college and IT over trades, creating roughly a decade of skilled trades shortage that her generation is beginning to reverse.\n\nOn facilities management, she frames in-house facilities teams and outside skilled tradespeople as complementary, especially for institutional knowledge transfer, which she likens to a \"broken telephone\" where each handoff loses detail. She recounts a hospital project replacing a leaking underground diesel tank serving the backup generator, leaking five to six liters a day, replaced with two above-ground storage tanks. Work required about a month to secure approval for a temporary generator and scheduling around the dialysis wing. Her advice: ask as many questions as possible.",
+ "claims": [
+  {
+   "claim": "Laing left nursing studies after about three weeks before entering the trades",
+   "stat": "about 3 weeks",
+   "attribution": "Brooke Laing"
+  },
+  {
+   "claim": "She works in an industry media network covering manufacturing",
+   "stat": "about 11 shows",
+   "attribution": "Brooke Laing"
+  },
+  {
+   "claim": "She moved from the trades into industry media recently",
+   "stat": "about 5 months ago",
+   "attribution": "FMLink article"
+  },
+  {
+   "claim": "Today's apprentices benefit from structured training and financial assistance that helps employers bring on and develop talent, unlike past on-the-job learning",
+   "stat": "",
+   "attribution": "Brooke Laing"
+  },
+  {
+   "claim": "The skilled trades have faced a major labor need because the previous generation was heavily encouraged to attend college",
+   "stat": "roughly the past decade",
+   "attribution": "Brooke Laing"
+  },
+  {
+   "claim": "A hospital's underground diesel fuel tank supporting the backup generator was leaking fuel daily and was replaced with two large above-ground storage tanks",
+   "stat": "5 to 6 liters per day",
+   "attribution": "Brooke Laing"
+  },
+  {
+   "claim": "The team needed time to secure approval to bring in a temporary generator, and scheduled work around the dialysis wing where brief power loss could be life-threatening",
+   "stat": "about one month",
+   "attribution": "Brooke Laing"
+  },
+  {
+   "claim": "Her high school offered only an auto shop program, with no carpentry, welding or manufacturing options",
+   "stat": "",
+   "attribution": "Brooke Laing"
+  },
+  {
+   "claim": "Her welding instructor, about 15 years older, had been told in school to pursue IT because trades were not a good career path",
+   "stat": "about 15 years older",
+   "attribution": "Brooke Laing"
+  }
+ ],
+ "vocabulary": [
+  "facilities management",
+  "in-house facilities teams",
+  "skilled trades",
+  "steamfitter/welder apprentice",
+  "pipe union",
+  "apprenticeship programs",
+  "welding certifications",
+  "institutional knowledge transfer",
+  "broken telephone",
+  "critical systems",
+  "backup generator",
+  "day tank",
+  "above-ground storage tanks",
+  "dialysis wing",
+  "temporary generator",
+  "electrical infrastructure",
+  "women in the trades",
+  "content marketing",
+  "ARC Facilities"
+ ],
+ "topics_covered": []
+}

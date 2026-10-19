@@ -1,0 +1,96 @@
+{
+ "id": "61ec4a450f927f9cc0f2c18360c84dd1db204f01",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/10/over-half-of-american-workers-are-doomscrolling-through-job-postings/",
+ "published_at": "2026-10-15",
+ "observed_at": "2026-10-19",
+ "summary": "Allwork.Space republishes a FlexJobs press release on its Job Search Pulse Report, which surveyed 2,142 U.S. workers between August 21-30, 2026 about job search behavior. The headline finding: 61% of U.S. workers say they \"doomscroll\" job listings at least weekly, including 28% who do so daily or almost daily. Another 16% browse up to a few times a month, 11% less than monthly, and 12% never.\n\nMost of this browsing is low intent. 61% spend up to an hour scrolling listings with no intention of applying; 15% spend one to two hours, 8% more than two hours, and only 16% spend 15 minutes or less. The leading motivation is curiosity about available opportunities (53%), followed by dissatisfaction with the current job (15%), job security concerns (10%), checking salaries (9%), seeing a career-related social post (6%), and habit or boredom (5%).\n\nOutcomes are mostly negative. 42% say they rarely or never apply to a role they find, and 32% apply only sometimes. 42% report feeling more stressed, overwhelmed, or uncertain about their career afterward, versus 22% who feel motivated, optimistic, or committed to their current role.\n\nKeith Spencer, FlexJobs Career Expert, says brief browsing can provide a sense of stability in an uncertain market, but that social media has turned an intentional process into a compulsive habit, and scrolling without goals or guardrails leaves workers anxious and fatigued.\n\nOn converting scrollers to applicants, workers cite more transparent salary information (24%), easier ways to judge fit (20%), clearer job requirements (18%), fewer duplicate or outdated postings (5%), and clearer hiring timelines (4%).\n\nMethodology notes a skew: 71% women, 42% Gen X, 54% experienced level, recruited via FlexJobs social media and newsletters using SurveyMonkey.",
+ "claims": [
+  {
+   "claim": "Most U.S. workers doomscroll job listings at least weekly",
+   "stat": "61%",
+   "attribution": "FlexJobs Job Search Pulse Report"
+  },
+  {
+   "claim": "Share doomscrolling job postings daily or almost every day",
+   "stat": "28%",
+   "attribution": "FlexJobs"
+  },
+  {
+   "claim": "Workers spend up to an hour scrolling listings without intending to apply",
+   "stat": "61%",
+   "attribution": "FlexJobs"
+  },
+  {
+   "claim": "Workers spending one to two hours, or more than two hours, scrolling",
+   "stat": "15% and 8%",
+   "attribution": "FlexJobs"
+  },
+  {
+   "claim": "Curiosity about available opportunities is the top reason for doomscrolling",
+   "stat": "53%",
+   "attribution": "FlexJobs"
+  },
+  {
+   "claim": "Dissatisfaction with current job as driver",
+   "stat": "15%",
+   "attribution": "FlexJobs"
+  },
+  {
+   "claim": "Concern about job security as driver",
+   "stat": "10%",
+   "attribution": "FlexJobs"
+  },
+  {
+   "claim": "Workers rarely or never apply to roles they find while scrolling",
+   "stat": "42%",
+   "attribution": "FlexJobs"
+  },
+  {
+   "claim": "Workers feel more stressed, overwhelmed or uncertain after doomscrolling",
+   "stat": "42%",
+   "attribution": "FlexJobs"
+  },
+  {
+   "claim": "Workers feel motivated, optimistic or committed after doomscrolling",
+   "stat": "22%",
+   "attribution": "FlexJobs"
+  },
+  {
+   "claim": "More transparent salary information is the top factor that would convert scrolling into applying",
+   "stat": "24%",
+   "attribution": "FlexJobs"
+  },
+  {
+   "claim": "Doomscrolling has become a compulsive habit for nearly half the workforce due in part to social media",
+   "stat": "",
+   "attribution": "Keith Spencer, Career Expert at FlexJobs"
+  },
+  {
+   "claim": "Survey sample size and field dates",
+   "stat": "2,142 respondents, August 21-30, 2026",
+   "attribution": "FlexJobs methodology"
+  },
+  {
+   "claim": "FlexJobs resources have been used since 2007",
+   "stat": "over 135 million people",
+   "attribution": "FlexJobs"
+  }
+ ],
+ "vocabulary": [
+  "doomscrolling",
+  "Job Search Pulse Report",
+  "pay transparency",
+  "job postings",
+  "talent and hiring market",
+  "job security",
+  "flexible, hybrid, and remote jobs",
+  "work-from-home jobs site",
+  "remote talent",
+  "career level",
+  "SurveyMonkey",
+  "hiring timelines",
+  "duplicate or outdated job postings"
+ ],
+ "topics_covered": []
+}

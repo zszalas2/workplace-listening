@@ -1,0 +1,72 @@
+{
+ "id": "6d3e6500b03fdae12132b66670c7de9c106a8210",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/10/nearly-half-of-women-in-tech-report-gender-discrimination-at-work/",
+ "published_at": "2026-10-16",
+ "observed_at": "2026-10-19",
+ "summary": "Allwork.Space reports on survey findings, citing Human Resources Director, about women's experiences in the technology industry. The headline finding is that 47% of women in tech say they have experienced gender discrimination, an increase of five percentage points from 2024. The piece argues that rising awareness of gender inequality has not yet produced consistent improvement in women's day to day workplace experiences.\n\nBeyond discrimination, women report lower satisfaction than men across workplace culture, career advancement and job security. They are also less likely than men to feel they hold sufficient authority over company strategy, personnel decisions and purchasing decisions, pointing to a decision-making gap rather than only a representation gap.\n\nOn representation, 41% of women view technology as a male-dominated field and 46% feel underrepresented in the IT workforce. Half of those surveyed believe pay inequality exists between genders in tech, and among women who feel underrepresented, 32% attribute that perception to unequal pay.\n\nThe article notes that bias can appear at the point of entry into the industry: 30% of women said they encountered gender or diversity bias or stereotypes at the start of their tech careers, and 26% cited self-doubt or lack of confidence as a challenge.\n\nDespite these concerns, sentiment about the future is comparatively positive, with 71% of women surveyed expecting the number of women in tech to increase over the next five years.\n\nThe item is a short aggregation piece without named individual sources, methodology detail, sample size or survey fielding dates. It does not address workplace operations topics such as visitor management, desk or room booking, attendance tracking, hybrid or return to office policy, or facilities tooling.",
+ "claims": [
+  {
+   "claim": "Share of women in tech reporting gender discrimination rose year over year",
+   "stat": "47%, up five percentage points from 2024",
+   "attribution": "Human Resources Director, via Allwork.Space"
+  },
+  {
+   "claim": "Women view technology as a male-dominated field",
+   "stat": "41%",
+   "attribution": "Survey cited by Allwork.Space"
+  },
+  {
+   "claim": "Women feel underrepresented in the IT workforce",
+   "stat": "46%",
+   "attribution": "Survey cited by Allwork.Space"
+  },
+  {
+   "claim": "Women believe pay inequality exists between genders in tech",
+   "stat": "50%",
+   "attribution": "Survey cited by Allwork.Space"
+  },
+  {
+   "claim": "Among women who feel underrepresented, unequal pay drives that perception",
+   "stat": "32%",
+   "attribution": "Survey cited by Allwork.Space"
+  },
+  {
+   "claim": "Women faced gender or diversity bias or stereotypes at the start of their tech careers",
+   "stat": "30%",
+   "attribution": "Survey cited by Allwork.Space"
+  },
+  {
+   "claim": "Women cited self-doubt or lack of confidence as an early career challenge",
+   "stat": "26%",
+   "attribution": "Survey cited by Allwork.Space"
+  },
+  {
+   "claim": "Women expect the number of women in tech to increase over the next five years",
+   "stat": "71%",
+   "attribution": "Survey cited by Allwork.Space"
+  },
+  {
+   "claim": "Women in tech report lower satisfaction than men with workplace culture, career advancement and job security, and less authority over strategy, personnel and purchasing decisions",
+   "stat": "",
+   "attribution": "Survey cited by Allwork.Space"
+  }
+ ],
+ "vocabulary": [
+  "gender discrimination",
+  "workplace culture",
+  "career advancement",
+  "job security",
+  "male-dominated field",
+  "underrepresented",
+  "IT workforce",
+  "pay inequality",
+  "diversity bias",
+  "stereotypes",
+  "purchasing decisions",
+  "personnel decisions",
+  "company strategy",
+  "representation"
+ ],
+ "topics_covered": []
+}

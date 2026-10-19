@@ -1,0 +1,82 @@
+{
+ "id": "bff08e5e3c5f15e8c18a1652ff1243a705f85c20",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/uc-davis-ochsner-health-leo-a-daly-indicate-fm-staffing-and-design-needs/",
+ "published_at": "2026-10-17",
+ "observed_at": "2026-10-19",
+ "summary": "FMLink reports on US labor market data and healthcare facilities management hiring, framed around jobs listed in its Career Center. Healthcare hiring continued in September but slowed to 17,000 jobs, below the 12-month average pace of 33,000 per month. Hospitals added more than 12,000 jobs, which the piece reads as clinical staffing holding steady, and ambulatory care rose by 13,400. Long-term nursing and residential care lost 8,700 positions. Across the whole economy, employers added only 29,000 jobs in September, and the unemployment rate rose to 4.2 percent per the federal report. The article notes inflation and prices are higher while wages are not keeping up with worker needs. July and August employment gains were revised down by a combined 60,000 jobs. Long-term unemployment (27 weeks or more) was essentially unchanged at 1.9 million, representing 27.1 percent of all unemployed people, per the Bureau of Labor Statistics.\n\nThe piece then lists healthcare FM roles it says reflect the ambulatory care and hospital hiring trend: Safety Manager and Facilities Coordinator at UC Davis (Davis, CA); Manager, Facilities Management at Ochsner Health (New Orleans, LA); Senior Medical Planner at Leo A Daly (Washington, DC); Manager Facilities Operations at Nicklaus Children's Health System (Miami, FL); Facilities Supervisor at Oregon Health & Science University (Portland, OR); and Facilities Engineer at Leon Property Management (Doral, FL).\n\nIt closes with promotional framing for the FMLink Job Board, which connects facility managers, planners and commercial planning and design professionals across disciplines and career stages with employers, and says the Career Center offers thousands of FM job opportunities plus career planning advice for both professionals and employers. The item is essentially a recurring labor-market-plus-job-board roundup rather than analysis of workplace operations, technology or facilities practice.",
+ "claims": [
+  {
+   "claim": "Healthcare sector hiring continued in September but at a slower pace than its 12-month average",
+   "stat": "17,000 jobs in September vs average of 33,000 per month over past 12 months",
+   "attribution": "FMLink, citing federal employment data"
+  },
+  {
+   "claim": "Hospitals added jobs, indicating clinical staffing is holding steady",
+   "stat": "12,000-plus jobs",
+   "attribution": "FMLink"
+  },
+  {
+   "claim": "Ambulatory care employment increased",
+   "stat": "13,400 jobs",
+   "attribution": "FMLink"
+  },
+  {
+   "claim": "Long-term nursing and residential care lost positions",
+   "stat": "8,700 spots lost",
+   "attribution": "FMLink"
+  },
+  {
+   "claim": "Total US employers added few jobs in September",
+   "stat": "29,000 jobs",
+   "attribution": "federal report cited by FMLink"
+  },
+  {
+   "claim": "The unemployment rate rose",
+   "stat": "4.2 percent",
+   "attribution": "federal report cited by FMLink"
+  },
+  {
+   "claim": "July and August employment gains were revised down",
+   "stat": "60,000 jobs combined",
+   "attribution": "FMLink"
+  },
+  {
+   "claim": "The number of long-term unemployed (jobless 27 weeks or more) was essentially unchanged in September",
+   "stat": "1.9 million",
+   "attribution": "Bureau of Labor Statistics"
+  },
+  {
+   "claim": "Long-term unemployed share of all unemployed people",
+   "stat": "27.1 percent",
+   "attribution": "Bureau of Labor Statistics"
+  },
+  {
+   "claim": "Inflation and prices are higher while wages are not keeping up with workers' needs",
+   "stat": "",
+   "attribution": "FMLink"
+  }
+ ],
+ "vocabulary": [
+  "facilities management (FM)",
+  "FM staffing",
+  "Facilities Coordinator",
+  "Safety Manager",
+  "Manager, Facilities Management",
+  "Senior Medical Planner",
+  "Manager Facilities Operations",
+  "Facilities Supervisor",
+  "Facilities Engineer",
+  "ambulatory care",
+  "long-term nursing and residential care",
+  "clinical staffing",
+  "FMLink Career Center",
+  "FMLink Job Board",
+  "facility managers, planners",
+  "commercial planning and design professionals",
+  "Bureau of Labor Statistics",
+  "long-term unemployed",
+  "unemployment rate"
+ ],
+ "topics_covered": []
+}

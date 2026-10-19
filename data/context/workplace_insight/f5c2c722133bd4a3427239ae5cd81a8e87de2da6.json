@@ -1,0 +1,58 @@
+{
+ "id": "f5c2c722133bd4a3427239ae5cd81a8e87de2da6",
+ "source_id": "workplace_insight",
+ "url": "https://workplaceinsight.net/flexible-work-is-not-a-location-policy-it-is-a-test-of-organisational-trust/?utm_source=rss&utm_medium=rss&utm_campaign=flexible-work-is-not-a-location-policy-it-is-a-test-of-organisational-trust",
+ "published_at": "2026-10-13",
+ "observed_at": "2026-10-19",
+ "summary": "Workplace Insight opinion piece arguing that the flexible work debate is wrongly framed as a location dispute (office versus home, three days versus five) when the real variable is organisational trust and managerial capability. Location is visible and therefore convenient to argue about; trust is harder to measure.\n\nThe author cites CIPD 2025 research showing flexibility is now normal: 91% of employers offer some form of flexible working and 74% have hybrid working. Employers report positive effects on attraction, retention, wider geographic recruiting and employee financial wellbeing, but one of the most commonly reported negatives is managers' ability to lead teams effectively. The piece argues flexibility does not remove management, it exposes its quality. Where a manager only feels confident when someone is physically visible, the real problem may be weak objectives, unclear accountability, inconsistent feedback or missing measures of contribution. Returning people to a shared location can temporarily disguise those weaknesses because presence looks like coordination.\n\nOn fairness, the author says fairness is not sameness: many roles cannot be done remotely, some people find home working isolating, some teams need bursts of co-location. What matters is explaining why differences exist and letting people challenge inconsistency safely.\n\nFlexible work also tests the psychological contract. PwC 2025 global workforce research is cited: workers with the highest trust in direct managers were 72% more motivated than those with the lowest trust, and only 58% said they trusted their direct manager enough to speak openly.\n\nThe piece warns flexibility cannot mean ambiguity about availability or outcomes; psychological safety without accountability drifts into avoidance. It also warns of digital presenteeism, where status lights, activity dashboards and constant messaging recreate visibility culture through software. The closing argument: stop asking how many days people should be in, and ask what people need to do excellent work together and what evidence would show it is happening.",
+ "claims": [
+  {
+   "claim": "Almost all employers now offer some form of flexible working",
+   "stat": "91% of employers offered some form of flexible working",
+   "attribution": "CIPD 2025 research, cited by Workplace Insight"
+  },
+  {
+   "claim": "Hybrid working is in place at a large majority of employers",
+   "stat": "74% had hybrid working in place",
+   "attribution": "CIPD 2025 research, cited by Workplace Insight"
+  },
+  {
+   "claim": "Employers cite managers' ability to lead teams effectively as one of the most common negative effects of flexible working",
+   "stat": "",
+   "attribution": "CIPD 2025 research, cited by Workplace Insight"
+  },
+  {
+   "claim": "High trust in a direct manager is associated with substantially higher motivation",
+   "stat": "72% more motivated than those with the lowest trust",
+   "attribution": "PwC 2025 global workforce research, cited by Workplace Insight"
+  },
+  {
+   "claim": "A minority majority of workers say they trust their direct manager and can speak openly",
+   "stat": "58%",
+   "attribution": "PwC 2025 global workforce research, cited by Workplace Insight"
+  }
+ ],
+ "vocabulary": [
+  "flexible working",
+  "hybrid working",
+  "location policy",
+  "return to office",
+  "presence as a proxy for contribution",
+  "psychological contract",
+  "psychological safety",
+  "accountability",
+  "discretionary effort",
+  "digital presenteeism",
+  "status lights",
+  "activity dashboards",
+  "outcomes-based management",
+  "co-location",
+  "earned privilege",
+  "operating model",
+  "attraction and retention"
+ ],
+ "topics_covered": [
+  "hybrid_rto_mandate_pushback",
+  "attendance_tracking_and_monitoring_tools"
+ ]
+}

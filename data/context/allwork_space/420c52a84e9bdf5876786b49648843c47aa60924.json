@@ -1,0 +1,86 @@
+{
+ "id": "420c52a84e9bdf5876786b49648843c47aa60924",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/10/trophy-office-rents-rise-more-than-20-as-supply-tightens/",
+ "published_at": "2026-10-16",
+ "observed_at": "2026-10-19",
+ "summary": "Allwork.Space reports that U.S. office demand is strengthening while supply shrinks, pushing up rents for premium space. The third quarter of 2026 marked the fifth consecutive quarter of positive net absorption, with occupiers taking a net 6 million square feet, and new leases averaging a 13% larger tenant footprint, per CNBC.\n\nSupply is tightening on both ends. Only 3.5 million square feet of new office space was delivered in Q3 2026, matching the near-record low of Q2, while 9.6 million square feet was removed through conversions and redevelopment. National office inventory has fallen by 45 million square feet since the end of 2023, and just 23 million square feet is currently under construction.\n\nThat scarcity is lifting rents at the top of the market. Effective rents for first-generation trophy space rose more than 20% year over year in Q3 2026. Second-generation trophy space rents rose 10% as tenants shifted to existing premium buildings when newer options became scarce.\n\nGeographically, technology companies are driving net absorption in San Francisco and Austin. Leasing volume in Sun Belt gateway markets rose 13% year over year, and smaller tertiary markets recovered to roughly 95% of their 2019 leasing volume.\n\nConstruction remains constrained despite improving fundamentals. Willy Walker, CEO of commercial real estate finance and advisory firm Walker & Dunlop, said office construction this year is running at about 9% of normal annual supply and attributed the shortfall to limited equity capital. The article concludes that the development pipeline is small relative to a market where demand is improving and existing stock is being withdrawn.\n\nThe piece is market-level commercial real estate reporting. It does not address workplace operations topics such as desk booking, visitor management, attendance tracking, or hybrid policy mechanics.",
+ "claims": [
+  {
+   "claim": "The U.S. office market recorded its fifth consecutive quarter of positive net absorption in Q3 2026, with a net 6 million square feet absorbed.",
+   "stat": "6 million sq ft net absorption; 5 consecutive quarters",
+   "attribution": "Allwork.Space, citing CNBC"
+  },
+  {
+   "claim": "New leases are getting larger, averaging a 13% increase in tenant footprint.",
+   "stat": "13% increase",
+   "attribution": "CNBC"
+  },
+  {
+   "claim": "Only 3.5 million square feet of new office space was delivered in Q3 2026, matching the near-record low of Q2.",
+   "stat": "3.5 million sq ft",
+   "attribution": "Allwork.Space"
+  },
+  {
+   "claim": "9.6 million square feet was removed from the market through conversions and redevelopment in the quarter.",
+   "stat": "9.6 million sq ft",
+   "attribution": "Allwork.Space"
+  },
+  {
+   "claim": "National office inventory has declined by 45 million square feet since the end of 2023.",
+   "stat": "45 million sq ft",
+   "attribution": "Allwork.Space"
+  },
+  {
+   "claim": "Only 23 million square feet of new office space is currently under construction.",
+   "stat": "23 million sq ft",
+   "attribution": "Allwork.Space"
+  },
+  {
+   "claim": "Effective rents for first-generation trophy space rose more than 20% year over year in Q3 2026.",
+   "stat": "more than 20% YoY",
+   "attribution": "Allwork.Space"
+  },
+  {
+   "claim": "Rents for second-generation trophy space increased 10%.",
+   "stat": "10%",
+   "attribution": "Allwork.Space"
+  },
+  {
+   "claim": "Technology companies are driving net absorption in San Francisco and Austin, Texas.",
+   "stat": "",
+   "attribution": "Allwork.Space"
+  },
+  {
+   "claim": "Leasing volume in Sun Belt gateway markets increased 13% from a year earlier.",
+   "stat": "13%",
+   "attribution": "Allwork.Space"
+  },
+  {
+   "claim": "Smaller, tertiary markets recovered to approximately 95% of their 2019 leasing volume.",
+   "stat": "95% of 2019 volume",
+   "attribution": "Allwork.Space"
+  },
+  {
+   "claim": "Office construction this year is running at about 9% of its normal annual supply, due to limited equity capital.",
+   "stat": "9% of normal annual supply",
+   "attribution": "Willy Walker, CEO of Walker & Dunlop"
+  }
+ ],
+ "vocabulary": [
+  "net absorption",
+  "tenant footprint",
+  "first-generation trophy space",
+  "second-generation trophy space",
+  "effective rents",
+  "office inventory",
+  "conversions and redevelopment",
+  "construction pipeline",
+  "leasing volume",
+  "Sun Belt gateway markets",
+  "tertiary markets",
+  "equity capital",
+  "commercial real estate finance and advisory"
+ ],
+ "topics_covered": []
+}

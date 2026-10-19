@@ -221,7 +221,9 @@
     "602b5b18fcc6f5372f1911ee67ff93de2b4352e6",
     "5266cdaba798f0b1f5ecf6da5a2ae553fa6fde75",
     "f6b9ae6f9a13387ed0ae3af719f4530cbb2a552f",
-    "8c1d7f2ddaa5ff8e9701309eabaa268234a6770f"
+    "8c1d7f2ddaa5ff8e9701309eabaa268234a6770f",
+    "a2547a2faa7fc23bdfb496b1faab52d8bcddf89a",
+    "a9dc9a5f44fe3f1eea2395f672efee20c9fb3753"
    ]
   },
   "reddit_adminassistant": {
@@ -250,7 +252,10 @@
     "42a10cf9ba0ebf85ebf161433d6cd65fc3806d23",
     "64acbd8f95eafba87911b3adbf5f78eb55953947",
     "3a1b98c82f0aa0613c7bce48d22a734cefdb380b",
-    "04675f901e05b1fc1f542fbe8f251564562d0676"
+    "04675f901e05b1fc1f542fbe8f251564562d0676",
+    "7b999eb2fc7f6e1dcd75196777b377045f3f86e2",
+    "ab8330907f05803a014b2638650be79aa1db3ee1",
+    "002568fb8b283443f9bc04087cca9233ed19670a"
    ]
   },
   "reddit_humanresourcesuk": {
@@ -711,7 +716,17 @@
     "e81fdae57d793ade95a6a887347eddfd41d323f0",
     "3adf140b1df2888c0112ed6bfe4ca157607c6a36",
     "0ed16d02e828503c126587b8f0bbb60d80e90c38",
-    "d0e357218fecff7a2ecd37db62bd0e9a8aeecf3c"
+    "d0e357218fecff7a2ecd37db62bd0e9a8aeecf3c",
+    "6532451579d2f89f8c720a07bf1a28a36d692dfa",
+    "78aec9c58baf69586e6e4258c538b12beefea234",
+    "01e75ccf025a784e9ec4f614e912199d9319fb1b",
+    "220e411ddb600941634da73a11e7bc660c8dba81",
+    "a340e9a22a954de9383e348b19d3d8943c119e64",
+    "420c52a84e9bdf5876786b49648843c47aa60924",
+    "6d3e6500b03fdae12132b66670c7de9c106a8210",
+    "4884688547fffeb5ef4787d6b65bb76ea95fbea3",
+    "f213285f964463a99c1566b5053e1bcc3439f927",
+    "61ec4a450f927f9cc0f2c18360c84dd1db204f01"
    ]
   },
   "workplace_insight": {
@@ -769,7 +784,8 @@
     "6fcf47ecd8b7842a3d7be812899fcda0b850c229",
     "38fb7525c33c011c7635901449c2caf804fe9c2a",
     "e61d90fc9fc1d1edb10fce7b03fa3b5579f0b924",
-    "1f6381a9ce0f9c70751115f757a8ed46b6b8a7b1"
+    "1f6381a9ce0f9c70751115f757a8ed46b6b8a7b1",
+    "f5c2c722133bd4a3427239ae5cd81a8e87de2da6"
    ]
   },
   "worktech_academy": {
@@ -1016,7 +1032,12 @@
     "feb7970a1a2aac30c6c46791354eccc1ba1d87f0",
     "b5d2ba494b7691b76f977ad1496f3a8e5a1d42fd",
     "78e894495d0a85a2e43ea5ad8a651086255ed2ee",
-    "58a873604d3be9e370fbd250217876b76c03c083"
+    "58a873604d3be9e370fbd250217876b76c03c083",
+    "c86f7878b71f92c64f15ff154ae8704f7c56a888",
+    "55e2a9ab8c628846d8f4b29a21dfcb54b0c0f448",
+    "87b874607ee2c0564afc4a53d4e7aa05766e2b85",
+    "02ec717fb2a8a00cf22460e301f9f84cc165169d",
+    "d8c5c3798da12ae09b5f50e77ba2818b9de3a5ee"
    ]
   },
   "work_design_mag": {
@@ -1113,7 +1134,17 @@
     "e5ff800b41b007078755432f7b1ba78b8e4f5f5f",
     "2b66553d75d062c5b8114138a9caca9f229e1a75",
     "7453e1ed18492b899965c4d2acfd6600ac216801",
-    "ef73990e33bbbeb29485ce4c8079e08ede269507"
+    "ef73990e33bbbeb29485ce4c8079e08ede269507",
+    "3d49a94bb722e08721aa0fb37d9a01975de38b82",
+    "a3c3e365dc9d7e29f253567ad842c4f3387c19c1",
+    "bff08e5e3c5f15e8c18a1652ff1243a705f85c20",
+    "2a264f6845a1e8b756f48c100efe79d6741a054c",
+    "ec28b9ca860d8da6dab196886abcacbf3a1661d3",
+    "a46190e797ec32290dc425da0ec0ca35664f25fb",
+    "7ff03638a1322f9d36cf85d647aebfae79b4d3f7",
+    "7a0b9fc7a9c2e71b9a0e012d091d9dd784b10f89",
+    "8d2ab5ac1772f7bc9ea416a3a48810fd950bb677",
+    "3a47459cffeb9cb9b2514d1c0fef85a73c170b75"
    ]
   },
   "facilitiesnet": {
@@ -1185,7 +1216,9 @@
     "4ffac9563d901f1f5a872f48d86010eb23881cb2",
     "e81bf80600ae9b3134a0de4fa132f2a690c23bbb",
     "16203a3eda5e646b27fa6c144f9e18f9f4fbe1a9",
-    "a2a91266603a40a47969ed6a77ba2ab4e43e3148"
+    "a2a91266603a40a47969ed6a77ba2ab4e43e3148",
+    "d2d79fa0571d9d0bbe8c352eee6b5eea6d649260",
+    "c0acbfdde61a1464ed25f7046457dcbba36026ad"
    ]
   },
   "facility_executive": {
@@ -2051,7 +2084,8 @@
     "261204f33ceed5b160efa8aa9cdcad498c807524",
     "a7362794c93589f68dcd3b61a5bb2c20652adf4f",
     "392b132c02fd5d7b20d563f1bfdee6344e6fc5d3",
-    "547a5d32ac6b943db3757436e3b2e0cf827872a5"
+    "547a5d32ac6b943db3757436e3b2e0cf827872a5",
+    "f94f80adc06b8e8fe4aae2a6ff40ebe4e4a201bb"
    ]
   },
   "podcast_workplace_geeks": {
@@ -2309,7 +2343,8 @@
     "4ca6ab1893d312447881dd2aaf194fafeea1d0ad",
     "0f2e2d993d411852676065513556a6e64389ae3c",
     "13d6586880cb6eec5af46854416c943746e9021f",
-    "4a6031f69de10dd04fcb907b2a7a16e4e82bd529"
+    "4a6031f69de10dd04fcb907b2a7a16e4e82bd529",
+    "2e75f949f345997e1978e95390fb7a449c25f325"
    ]
   },
   "podcast_connected_fm": {
@@ -4927,6 +4962,183 @@
    "sources_skipped": 0,
    "new_items": 106,
    "themes_total": 18,
+   "movers": 2
+  },
+  {
+   "run_id": "2026-10-19",
+   "cadence": "weekly",
+   "sources": [
+    {
+     "id": "reddit_sysadmin",
+     "new": 0,
+     "note": "ok"
+    },
+    {
+     "id": "reddit_k12sysadmin",
+     "new": 0,
+     "note": "ok"
+    },
+    {
+     "id": "reddit_msp",
+     "new": 0,
+     "note": "ok (1 dup)"
+    },
+    {
+     "id": "reddit_itmanagers",
+     "new": 0,
+     "note": "ok"
+    },
+    {
+     "id": "reddit_facilitymanagement",
+     "new": 0,
+     "note": "ok"
+    },
+    {
+     "id": "reddit_executiveassistants",
+     "new": 2,
+     "note": "ok (1 dup)"
+    },
+    {
+     "id": "reddit_adminassistant",
+     "new": 0,
+     "note": "ok (6 dup)"
+    },
+    {
+     "id": "reddit_humanresources",
+     "new": 3,
+     "note": "ok (1 dup)"
+    },
+    {
+     "id": "reddit_humanresourcesuk",
+     "new": 0,
+     "note": "ok"
+    },
+    {
+     "id": "spiceworks",
+     "new": 0,
+     "note": "ok (53 dup, 145 off-topic)"
+    },
+    {
+     "id": "hackernews",
+     "new": 0,
+     "note": "ok (32 dup, 55 off-topic)"
+    },
+    {
+     "id": "allwork_space",
+     "new": 10,
+     "note": "ok"
+    },
+    {
+     "id": "workplace_insight",
+     "new": 1,
+     "note": "ok (7 dup)"
+    },
+    {
+     "id": "worktech_academy",
+     "new": 0,
+     "note": "ok"
+    },
+    {
+     "id": "charter",
+     "new": 5,
+     "note": "ok (10 dup)"
+    },
+    {
+     "id": "work_design_mag",
+     "new": 0,
+     "note": "ok (10 dup)"
+    },
+    {
+     "id": "fmlink",
+     "new": 10,
+     "note": "ok"
+    },
+    {
+     "id": "facilitiesnet",
+     "new": 0,
+     "note": "ok"
+    },
+    {
+     "id": "worklife_news",
+     "new": 0,
+     "note": "ok (10 dup)"
+    },
+    {
+     "id": "raconteur",
+     "new": 2,
+     "note": "ok (17 dup)"
+    },
+    {
+     "id": "facility_executive",
+     "new": 0,
+     "note": "ok"
+    },
+    {
+     "id": "hr_brew",
+     "new": 0,
+     "note": "ok"
+    },
+    {
+     "id": "the_assist",
+     "new": 0,
+     "note": "ok"
+    },
+    {
+     "id": "competitor_robin",
+     "new": 0,
+     "note": "ok (100 dup)"
+    },
+    {
+     "id": "competitor_envoy",
+     "new": 0,
+     "note": "ok"
+    },
+    {
+     "id": "competitor_officespace",
+     "new": 0,
+     "note": "ok"
+    },
+    {
+     "id": "podcast_workplace_innovator",
+     "new": 1,
+     "note": "ok (431 dup)"
+    },
+    {
+     "id": "podcast_workplace_geeks",
+     "new": 0,
+     "note": "ok (77 dup)"
+    },
+    {
+     "id": "podcast_dwg_impact",
+     "new": 1,
+     "note": "ok (173 dup)"
+    },
+    {
+     "id": "podcast_connected_fm",
+     "new": 0,
+     "note": "ok"
+    },
+    {
+     "id": "yt_ifma",
+     "new": 0,
+     "note": "ok"
+    },
+    {
+     "id": "yt_worktech",
+     "new": 0,
+     "note": "ok"
+    },
+    {
+     "id": "yt_running_remote",
+     "new": 0,
+     "note": "ok"
+    }
+   ],
+   "sources_ok": 33,
+   "sources_error": 0,
+   "sources_skipped": 0,
+   "new_items": 35,
+   "themes_total": 19,
    "movers": 2
   }
  ]

@@ -1,0 +1,54 @@
+{
+ "id": "a46190e797ec32290dc425da0ec0ca35664f25fb",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/healing-by-design-how-green-roofs-support-patient-recovery/",
+ "published_at": "2026-10-16",
+ "observed_at": "2026-10-19",
+ "summary": "LiveRoof Global has published the first of a six-part series, \"Green Roofs as Healthcare Infrastructure,\" republished by FMLink. Article one argues that green roofs should be treated as clinical infrastructure rather than aesthetic enhancement, because the built environment influences patient recovery alongside clinical expertise. As hospital campuses densify and grow vertically, ground-level restorative green space becomes scarce, especially for bed-bound or long-stay patients, so rooftops offer a way to extend healing environments upward.\n\nThe piece cites Roger Ulrich's 1984 study showing surgical patients with views of trees recovered faster, used fewer pain medications, and had fewer complications than those facing built structures. Later research (Ulrich et al., 2008) links exposure to natural environments with reduced stress and anxiety, lower blood pressure, improved mood, higher patient satisfaction scores, shorter recovery times, and less reliance on painkillers. The article stresses that visual exposure alone produces measurable physiological and psychological effects, meaning patients need not physically access nature, which reframes green space as a contributor to patient experience metrics.\n\nBiophilia is presented as foundational to modern healthcare design, offering emotional support, positive distraction, reduced isolation, and continuity beyond the clinical setting, with particular value in pediatric, oncology, rehabilitation, and long-term care settings. Converting tar or rubber membrane roofs cluttered with mechanical equipment into vegetated landscapes creates \"borrowed nature,\" delivering high-visibility impact, efficient use of existing footprint, and alignment with evidence-based design.\n\nExample installations cited include Kellogg Cancer Center (Evanston, IL), Humber River Hospital (Toronto), Calgary Cancer Center, Penn State Children's Hospital, Mayo Clinic, and Columbia St. Mary's Hospital. The remaining articles will cover staff wellness and resilience, environmental stewardship, and long-term campus performance. LiveRoof promotes its Hybrid System, installed as a functioning ecosystem with mature plants rooted in a continuous soil layer, supported by a network of regional growers adapting plant selection locally.",
+ "claims": [
+  {
+   "claim": "Surgical patients with views of trees recovered faster, required fewer pain medications, and experienced fewer complications than patients facing built structures",
+   "stat": "",
+   "attribution": "Roger Ulrich, 1984 study, cited by LiveRoof Global"
+  },
+  {
+   "claim": "Exposure to natural environments is associated with reduced stress and anxiety, lower blood pressure, improved mood, higher patient satisfaction scores, shorter recovery times, and less dependence on painkillers",
+   "stat": "",
+   "attribution": "Ulrich et al., 2008, cited by LiveRoof Global"
+  },
+  {
+   "claim": "Patients do not need physical access to nature to benefit; visual exposure alone produces measurable physiological and psychological effects",
+   "stat": "",
+   "attribution": "LiveRoof Global"
+  },
+  {
+   "claim": "The LiveRoof Hybrid System is the only green roof solution installed as a naturally functioning ecosystem with thriving, fully mature plants",
+   "stat": "",
+   "attribution": "LiveRoof Global (vendor claim)"
+  },
+  {
+   "claim": "The series comprises six articles covering patient recovery, staff resilience, environmental stewardship, and long-term campus performance",
+   "stat": "6 articles",
+   "attribution": "LiveRoof Global"
+  }
+ ],
+ "vocabulary": [
+  "green roofs",
+  "healthcare infrastructure",
+  "biophilia",
+  "evidence-based design",
+  "patient-centered care",
+  "borrowed nature",
+  "restorative green space",
+  "patient experience metrics",
+  "vegetated landscapes",
+  "rooftop landscapes",
+  "LiveRoof Hybrid System",
+  "membrane surfaces",
+  "campus performance",
+  "whole-person care",
+  "positive distraction",
+  "staff resilience and retention"
+ ],
+ "topics_covered": []
+}

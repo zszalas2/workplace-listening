@@ -1,0 +1,91 @@
+{
+ "id": "78aec9c58baf69586e6e4258c538b12beefea234",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/10/job-ads-show-ai-is-outrunning-past-tech-waves-can-employers-keep-up/",
+ "published_at": "2026-10-18",
+ "observed_at": "2026-10-19",
+ "summary": "Allwork.space reviews new research arguing that AI is diffusing into the labor market faster than previous technology waves, using job postings as the primary evidence. A peer-reviewed study by Stanford's Nicholas Bloom and coauthors maps technological diffusion using patents, earnings calls, and roughly 200 million U.S. job postings, finding AI mentions in postings roughly doubling each year since ChatGPT's debut, about twice the pace of cloud and four times that of smartphones.\n\nThe piece argues vacancy text is a clean demand signal: an audit found 91% of technology mentions referred to tasks workers would actually perform rather than boilerplate. Technologies dominating executive discussion also dominate labor demand, with 276 technologies mentioned in more than 100 earnings calls accounting for about 39 million postings, or 77% of all postings citing new technology. The 2025 Stanford AI Index, drawing on Lightcast data, reports U.S. postings citing generative AI skills more than tripled in 2024, with surges in generative AI, large language modeling, and prompt engineering.\n\nSpeed is distinguished from breadth. Diffusion is geographically concentrated: the top five metros hold 33.3% of patents mentioning new technology (42.1% for the most impactful), and 56% of the most economically important technologies originate in Silicon Valley and the Northeast Corridor. California had 15.7% of U.S. AI postings in 2024, Texas 8.8%, New York 5.8%. New technologies remain skill-biased: 57.1% of related postings require a degree in year one, still 50.2% after 30 years. Lower-skill \"use\" jobs spread faster than R&D and production roles.\n\nThe closing argument is organizational: McKinsey finds 78% of organizations use AI in at least one function but only 21% of generative AI users have fundamentally redesigned workflows. The author ties this to the productivity J-curve and to Generative AI at Work, which found a 14% average support-productivity gain concentrated among less experienced workers.",
+ "claims": [
+  {
+   "claim": "Mentions of AI in U.S. job postings are roughly doubling each year since ChatGPT's public debut, rising about twice as fast as cloud and four times as fast as smartphones",
+   "stat": "doubling annually; 2x cloud, 4x smartphones",
+   "attribution": "Nicholas Bloom (Stanford) and coauthors, peer-reviewed article"
+  },
+  {
+   "claim": "The research mapped technological diffusion using patents, earnings calls and roughly 200 million U.S. job postings",
+   "stat": "~200 million job postings",
+   "attribution": "Bloom et al."
+  },
+  {
+   "claim": "U.S. postings citing generative AI skills increased by more than a factor of three in 2024",
+   "stat": "3x+ in 2024",
+   "attribution": "2025 Stanford AI Index (Lightcast data)"
+  },
+  {
+   "claim": "In an audit, technology mentions in job postings referred to tasks the worker would really perform rather than boilerplate",
+   "stat": "91%",
+   "attribution": "Bloom et al. paper audit"
+  },
+  {
+   "claim": "276 technologies mentioned in more than 100 earnings calls accounted for about 39 million job postings, or 77% of all postings mentioning any new technology",
+   "stat": "276 technologies; 39 million postings; 77%",
+   "attribution": "Bloom et al."
+  },
+  {
+   "claim": "Employers say AI and information processing technologies will transform their businesses by 2030",
+   "stat": "86% of employers",
+   "attribution": "World Economic Forum Future of Jobs Report 2025"
+  },
+  {
+   "claim": "The top five metro areas account for a third of patents mentioning a new technology, and more for the most economically impactful technologies",
+   "stat": "33.3%; 42.1%",
+   "attribution": "Bloom et al."
+  },
+  {
+   "claim": "The most economically important technologies originate in just two places, Silicon Valley and the Northeast Corridor",
+   "stat": "56%",
+   "attribution": "NBER working-paper version of the Bloom research"
+  },
+  {
+   "claim": "California led U.S. AI job postings in 2024, followed by Texas and New York",
+   "stat": "California 15.7%, Texas 8.8%, New York 5.8%",
+   "attribution": "Stanford AI Index"
+  },
+  {
+   "claim": "In the year a technology emerges, most related job postings require a college degree, and the share barely falls after three decades",
+   "stat": "57.1% at emergence; 50.2% after 30 years",
+   "attribution": "Bloom et al."
+  },
+  {
+   "claim": "Organizations use AI in at least one business function, but few generative AI users have fundamentally redesigned workflows",
+   "stat": "78% use AI; 21% redesigned workflows",
+   "attribution": "McKinsey global survey on AI"
+  },
+  {
+   "claim": "Access to an AI assistant raised customer-support productivity, with the biggest gains going to less experienced workers",
+   "stat": "14% average",
+   "attribution": "NBER paper Generative AI at Work"
+  }
+ ],
+ "vocabulary": [
+  "job postings",
+  "vacancy data",
+  "hiring-language shock",
+  "technological diffusion",
+  "general-purpose technology",
+  "generative AI",
+  "large language modeling",
+  "prompt engineering",
+  "AI-literate workers",
+  "skill-biased",
+  "Lightcast",
+  "Stanford AI Index",
+  "productivity J-curve",
+  "workflow redesign",
+  "complementary investments",
+  "AI Jobs Barometer",
+  "labor-market infrastructure",
+  "model orchestration"
+ ],
+ "topics_covered": []
+}

@@ -1,0 +1,68 @@
+{
+ "id": "55e2a9ab8c628846d8f4b29a21dfcb54b0c0f448",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/ethan-mollick-ai-wharton-co-existence/",
+ "published_at": "2026-10-18",
+ "observed_at": "2026-10-19",
+ "summary": "Charter interviews Wharton associate professor Ethan Mollick, author of the \"One Useful Thing\" newsletter, about his book Co-Existence (published Oct. 20). The framing problem: individual workers using AI finish tasks faster, but few companies can show bottom-line impact, and some are limiting or scaling back AI use as a result. Mollick argues organizations built for a pre-AI world absorb individual gains, so leaders must reimagine the organization rather than \"slap AI on top\" of existing structures. He notes that organizations are built around span of human control, human ability, human outcomes, and human KPIs, all of which are collapsing.\n\nHis central model is leadership, lab, and crowd. Leadership must be actively engaged in reshaping the company and must \"eat risk,\" authorizing experimentation and bearing its cost. The crowd is the workforce discovering practical uses. The lab is a 24-7 group researching organizational transformation, with three functions: implementing ideas sourced from the crowd, running internal benchmarks because public benchmarks cannot be trusted, and acting as a skunk works on advanced approaches that do not yet work. He warns the lab should not be fully technical and that treating AI like IT is a trap.\n\nMollick frames the core limitation as AI being \"single player, not multiplayer\": chatbots deliver individual productivity boosts but not group gains. Leaders can now use AI models to increase their span of control and ask questions about their own company that were previously impossible.\n\nOn employee buy-in, he says a vision centered on substituting humans will cause workers to hide their AI use; reward systems matter. On the ROI backlash, he calls much of it rumor-based, says CEOs and surveys show ROI, and cites the swing from \"token maxing\" to restricting token usage as evidence of senior leaders failing to make decisions.",
+ "claims": [
+  {
+   "claim": "Many workers using AI finish tasks faster, but few companies can point to bottom-line improvement, and some are limiting or scaling back AI use as a result.",
+   "stat": "",
+   "attribution": "Charter (article framing)"
+  },
+  {
+   "claim": "At the Norwegian Sovereign Wealth Fund, CEO Nicolai Tangen overcame his risk managers and now half the organization writes code despite only a fifth being coders.",
+   "stat": "50% writing code vs 20% coders",
+   "attribution": "Ethan Mollick"
+  },
+  {
+   "claim": "JP Morgan, including Jamie Dimon and Mary Erdoes, has done well at embracing AI at various levels of the organization.",
+   "stat": "",
+   "attribution": "Ethan Mollick"
+  },
+  {
+   "claim": "Companies are getting ROI from AI, and surveys bear this out; the ROI backlash coverage is largely rumor-based.",
+   "stat": "",
+   "attribution": "Ethan Mollick"
+  },
+  {
+   "claim": "Public AI benchmarks cannot be trusted; organizations need to benchmark models themselves.",
+   "stat": "",
+   "attribution": "Ethan Mollick"
+  },
+  {
+   "claim": "Sentiment shifted from token maxing to restricting token usage within two weeks, a sign of leadership not taking a role.",
+   "stat": "two weeks",
+   "attribution": "Ethan Mollick"
+  },
+  {
+   "claim": "Mollick's book Co-Existence is out on Oct. 20.",
+   "stat": "Oct. 20",
+   "attribution": "Charter"
+  }
+ ],
+ "vocabulary": [
+  "leadership, lab, and crowd",
+  "eating risk",
+  "single player vs multiplayer AI",
+  "span of control",
+  "skunk works",
+  "benchmarking models",
+  "token maxing",
+  "token usage",
+  "ROI",
+  "AI programs",
+  "chatbot",
+  "individual productivity boost",
+  "treating AI like IT",
+  "discovery process",
+  "reward systems",
+  "human KPIs",
+  "One Useful Thing",
+  "Co-Existence"
+ ],
+ "topics_covered": [
+  "agentic_ai_tooling_and_governance"
+ ]
+}

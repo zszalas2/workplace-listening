@@ -1,0 +1,95 @@
+{
+ "id": "8d2ab5ac1772f7bc9ea416a3a48810fd950bb677",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/become-part-patient-care-hospitalists-case-evs-join-interprofessional-teams/",
+ "published_at": "2026-10-15",
+ "observed_at": "2026-10-19",
+ "summary": "An FMLink article covering a presentation by Dr. Omrana Pasha-Razzak, MD, MSPH, an academic physician and epidemiologist at CUNY, at the ISSA Healthcare Surfaces Summit (dated May 5, 2026), arguing that environmental services (EVS) staff should be formally included in hospital interprofessional care teams.\n\nCore argument: the daily 7:30 a.m. inpatient huddle (attending physician, charge nurse, pharmacist, case manager, social worker) has progressively expanded since the Institute of Medicine's 1999 report To Err is Human, which linked preventable deaths to gaps between clinical silos and called for interprofessional team-based care. Pharmacists, case managers and social workers were each added over time despite resistance, but EVS was never brought in, even though EVS workers spend more minutes in a patient room than nurses or doctors.\n\nInformation asymmetry: clinical teams know which rooms have C. diff, MRSA or VRE precautions, which incoming patients are neutropenic and need specific room preparation, and who is being discharged. EVS staff typically learn about isolation precautions only on arrival at the door and learn of discharges when the patient is wheeled out, despite elevated infection risk for patients placed in rooms previously occupied by infected patients.\n\nPatient flow: ED boarding is framed as an economic and mortality issue, with room turnaround time presented as the largest lever after clinical decision-making. Several studies are cited showing turnaround and charge-to-readiness times falling sharply when clinical and EVS communication improves, including walkie-talkie deployment saving boarding hours. Expected discharge date, known from admission, is routinely withheld from EVS until the last moment.\n\nSecondary domain: respiratory risk, where patients admitted for asthma or chronic lung disease may be exposed to cleaning products that worsen symptoms, with the article noting an absence of research literature on this. The piece positions the omission as a structural system failure, not an EVS performance failure.",
+ "claims": [
+  {
+   "claim": "The person who spends the greatest number of minutes with a patient in their room is the environmental services worker, not a nurse or doctor, yet they are not part of the interprofessional team",
+   "stat": "",
+   "attribution": "Dr. Omrana Pasha-Razzak, MD, MSPH, CUNY, speaking at the ISSA Healthcare Surfaces Summit"
+  },
+  {
+   "claim": "The 1999 Institute of Medicine report To Err is Human documented preventable deaths caused by gaps between clinical silos rather than clinical ignorance",
+   "stat": "tens of thousands of preventable deaths",
+   "attribution": "Institute of Medicine (now the National Academy of Medicine), cited in the article"
+  },
+  {
+   "claim": "Incoming patients face greater risk of hospital-acquired infection when placed in a room previously occupied by an infected patient",
+   "stat": "2.14 times greater risk",
+   "attribution": "Article, unattributed study"
+  },
+  {
+   "claim": "Better communication, rather than more staffing, money or cleaning personnel, drove a drop in C. diff cases on two oncology units when the clinical team shared real-time feedback with EVS workers",
+   "stat": "25% drop",
+   "attribution": "Dr. Omrana Pasha-Razzak"
+  },
+  {
+   "claim": "Severely ill patients boarded in the emergency department for more than six hours show increased mortality, along with longer ICU stays and higher rates of adverse events",
+   "stat": "10% increase in mortality rates",
+   "attribution": "Article, citing studies"
+  },
+  {
+   "claim": "A Lean study found room turnaround time dropped when communication between clinical and environmental teams improved",
+   "stat": "from 130 minutes to 65 minutes",
+   "attribution": "Lean study cited in the article"
+  },
+  {
+   "claim": "A study tracking charge-to-readiness time recorded a reduction",
+   "stat": "from 149 minutes to 105 minutes",
+   "attribution": "Study cited in the article"
+  },
+  {
+   "claim": "One hospital found that the majority of delays in outflow from the emergency department were caused by communication failures between the clinical team and EVS",
+   "stat": "60% of delays",
+   "attribution": "Hospital study cited in the article"
+  },
+  {
+   "claim": "Providing both clinical and EVS teams with walkie-talkies saved boarding time over nine months",
+   "stat": "nearly 800 hours",
+   "attribution": "Study cited in the article"
+  },
+  {
+   "claim": "There is essentially no research literature on the effects of cleaning products on hospitalized patients with respiratory conditions",
+   "stat": "",
+   "attribution": "Article / Dr. Pasha-Razzak"
+  }
+ ],
+ "vocabulary": [
+  "environmental services (EVS)",
+  "interprofessional team",
+  "interprofessional practice",
+  "hospitalist",
+  "inpatient unit",
+  "morning clinical huddle",
+  "attending physician",
+  "charge nurse",
+  "case manager",
+  "To Err is Human: Building a Safer Health System",
+  "Institute of Medicine (IOM)",
+  "National Academy of Medicine",
+  "clinical silos",
+  "hospital-acquired infection",
+  "C. diff (Clostridium difficile)",
+  "MRSA (Methicillin-resistant Staphylococcus aureus)",
+  "VRE (Vancomycin-resistant Enterococci)",
+  "contact precautions",
+  "isolation precautions",
+  "neutropenic",
+  "room preparation",
+  "room turnover",
+  "turnaround time",
+  "charge-to-readiness time",
+  "ED boarding",
+  "patient flow",
+  "outflow",
+  "expected discharge date",
+  "Lean study",
+  "ISSA Healthcare Surfaces Summit",
+  "asthma exacerbation",
+  "chronic lung disease"
+ ],
+ "topics_covered": []
+}

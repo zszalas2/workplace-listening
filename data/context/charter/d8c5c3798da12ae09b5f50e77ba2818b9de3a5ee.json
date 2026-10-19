@@ -1,0 +1,62 @@
+{
+ "id": "d8c5c3798da12ae09b5f50e77ba2818b9de3a5ee",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/how-reading-fiction-builds-better-leaders-for-the-ai-age/",
+ "published_at": "2026-10-13",
+ "observed_at": "2026-10-19",
+ "summary": "Charter profiles Harvard Business School professor Sandra Sucher's long-running elective on moral leadership, which asks MBA students to read novels, poems, and plays without AI assistance, and argues that deep reading of fiction builds leadership capabilities that AI-accelerated knowledge work erodes.\n\nContext: white-collar work is increasingly skimming Slack messages, scanning email, and generating AI summaries, while pressure to adopt AI tools raises both pace and workload. Sucher's course, developed roughly four decades ago, replaces case studies and research papers with works by Sophocles, Kazuo Ishiguro, and William Carlos Williams. AI is permitted elsewhere in the HBS first-year curriculum for summarizing course materials, but is banned in her class because reading a summary removes the experience and the learning.\n\nMethod: Sucher guides students through a four-part process of describe, analyze, judge, and reflect, each mapped to leadership practice. She warns that overreliance on AI risks \"cognitive surrender\" and erodes critical thinking, while discernment separates high performers.\n\nEvidence: UCLA professor Maryanne Wolf, author of Reader Come Home, frames \"deep reading\" as cognitively distinct from skimming, linking text to background knowledge and emotional reaction, and strengthening the ability to separate fact from fiction and signal from noise. Wolf criticizes society's \"rapacious appetite for efficiency\" and says skimming denies processes sufficient time, attention, and effort. She argues fiction \"enlarges the human repertoire of feeling,\" supporting empathy with others.\n\nApplication: leaders answer to employees, customers, shareholders, regulators, and communities, requiring moral imagination. Antigone is used to teach right versus right dilemmas; Remains of the Day explores identity fused with role. Canva chief people officer Jennie Rogerson reads up to 100 books a year and takes an annual week-long reading holiday each December. Reading is also framed as restorative against burnout, with difficult tasks reported as more meaningful than easy ones.",
+ "claims": [
+  {
+   "claim": "Sucher's moral leadership elective was initially developed four decades ago and uses literature instead of case studies and research papers",
+   "stat": "~40 years",
+   "attribution": "Charter article"
+  },
+  {
+   "claim": "AI is allowed for summarizing course materials in much of the HBS first-year curriculum, but prohibited in Sucher's class for reading and writing",
+   "stat": "",
+   "attribution": "Charter article / Sandra Sucher"
+  },
+  {
+   "claim": "Overreliance on AI tools can lead to 'cognitive surrender,' compromising accurate, thoughtful decision making",
+   "stat": "",
+   "attribution": "Charter article"
+  },
+  {
+   "claim": "Reflecting helps develop people's capabilities to make good decisions, per academic literature",
+   "stat": "",
+   "attribution": "Sandra Sucher"
+  },
+  {
+   "claim": "Deep reading is cognitively a separate process from skimming",
+   "stat": "",
+   "attribution": "Maryanne Wolf, UCLA professor and author of Reader Come Home"
+  },
+  {
+   "claim": "Canva's chief people officer reads up to 100 books each year and takes a week-long reading holiday every December",
+   "stat": "up to 100 books/year; 1 week",
+   "attribution": "Jennie Rogerson, Canva chief people officer"
+  },
+  {
+   "claim": "Cognitively difficult tasks can feel more meaningful and restorative than easy ones",
+   "stat": "",
+   "attribution": "Charter, citing studies"
+  }
+ ],
+ "vocabulary": [
+  "AI summaries",
+  "deep reading",
+  "cognitive surrender",
+  "moral leadership",
+  "describe, analyze, judge, reflect",
+  "human skills",
+  "discernment",
+  "moral imagination",
+  "right versus right",
+  "human repertoire of feeling",
+  "chief people officer",
+  "doomscrolling",
+  "burnout",
+  "reading holiday"
+ ],
+ "topics_covered": []
+}

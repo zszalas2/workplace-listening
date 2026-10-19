@@ -1,0 +1,81 @@
+{
+ "id": "a3c3e365dc9d7e29f253567ad842c4f3387c19c1",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/hvacr-industry-gears-up-for-ahr-expo-2027-january-25-27-chicago/",
+ "published_at": "2026-10-19",
+ "observed_at": "2026-10-19",
+ "summary": "FMLink previews the AHR Expo 2027, the HVACR industry's flagship trade show, set for January 25-27, 2027 in Chicago. First held in 1930 and hosted by the Air-Conditioning, Heating, and Refrigeration Institute (AHRI), the event positions itself as the main gathering for heating, ventilation, air conditioning and refrigeration professionals, combining product showcases, networking, education and hands-on demonstrations across three days.\n\nThe show floor is expected to host roughly 1,900 exhibitors, manufacturers and suppliers from around the world, with over 53,000 attendees spanning product designers, engineers, architects, installers, end-users and facility operators. Around 350 speakers will deliver an education program of accredited sessions, including AHR Panel Discussions, Seminar Sessions, New Product Presentations, free ASHRAE Winter Conference sessions, and paid ASHRAE Learning Institute courses.\n\nThe expo is co-located with the ASHRAE Winter Conference 2027, running January 23-27; an AHR Expo conference badge grants access. ASHRAE is described as an international society of more than 50,000 HVAC and refrigeration professionals from over 132 nations. The Winter Conference convenes 3,000-plus buildings-related engineers, architects, contractors and students for a five-day program of technical sessions, education, committee meetings and social events, organized into nine technical tracks covering how to design, build, control, commission and operate facilities and infrastructure that are both efficient and resilient. The full schedule includes over 100 sessions offering Professional Development Hours (PDHs).\n\nRegistration for AHR Expo 2027 is free through January 23. The piece references prior FMLink coverage of AHR Expo 2026, which reportedly welcomed 53,315 HVACR professionals and 1,956 exhibitors, and which recognized Innovation Award winners.\n\nThe item is promotional event coverage aimed at facilities management and building operations audiences, with no commentary on workplace policy, occupancy or workplace software categories.",
+ "claims": [
+  {
+   "claim": "AHR Expo 2027 will take place in Chicago on specified dates",
+   "stat": "January 25-27, 2027",
+   "attribution": "FMLink / AHR Expo"
+  },
+  {
+   "claim": "The AHR Expo was first held in 1930",
+   "stat": "1930",
+   "attribution": "FMLink"
+  },
+  {
+   "claim": "The 2027 show floor will feature exhibitors, manufacturers and suppliers",
+   "stat": "1,900 exhibitors",
+   "attribution": "FMLink / AHR Expo"
+  },
+  {
+   "claim": "Expected attendance at AHR Expo 2027",
+   "stat": "over 53,000 attendees",
+   "attribution": "FMLink / AHR Expo"
+  },
+  {
+   "claim": "Number of speakers in the education program",
+   "stat": "350 speakers",
+   "attribution": "FMLink / AHR Expo"
+  },
+  {
+   "claim": "ASHRAE membership size and international reach",
+   "stat": "more than 50,000 professionals from over 132 nations",
+   "attribution": "ASHRAE"
+  },
+  {
+   "claim": "ASHRAE Winter Conference 2027 attendance and duration",
+   "stat": "3,000+ industry professionals, five-day event, January 23-27",
+   "attribution": "ASHRAE"
+  },
+  {
+   "claim": "The Winter Conference program structure",
+   "stat": "nine technical tracks, over 100 sessions with Professional Development Hours",
+   "attribution": "ASHRAE"
+  },
+  {
+   "claim": "AHR Expo 2026 attendance and exhibitor count",
+   "stat": "53,315 HVACR pros and 1,956 exhibitors",
+   "attribution": "FMLink prior coverage"
+  },
+  {
+   "claim": "Registration for AHR Expo 2027 is free until a cutoff date",
+   "stat": "free through January 23",
+   "attribution": "AHR Expo"
+  }
+ ],
+ "vocabulary": [
+  "HVACR",
+  "AHR Expo",
+  "AHRI (Air-Conditioning, Heating, and Refrigeration Institute)",
+  "ASHRAE",
+  "ASHRAE Winter Conference",
+  "ASHRAE Learning Institute",
+  "Professional Development Hours (PDHs)",
+  "accredited sessions",
+  "New Product Presentations",
+  "Seminar Sessions",
+  "panel discussions",
+  "technical tracks",
+  "facility operators",
+  "commissioning",
+  "resilient facilities",
+  "Innovation Award",
+  "exhibitors",
+  "show floor"
+ ],
+ "topics_covered": []
+}

@@ -1,0 +1,66 @@
+{
+ "id": "220e411ddb600941634da73a11e7bc660c8dba81",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/10/trumps-ai-task-force-sets-plans-to-examine-risks-to-jobs-and-the-economy/",
+ "published_at": "2026-10-16",
+ "observed_at": "2026-10-19",
+ "summary": "Allwork.Space republishes a Reuters report on the inaugural meeting of a new US government AI task force, which President Trump has branded the Super Intelligence Task Force. Director of National Intelligence Jay Clayton, who leads the group, described the outcomes to CNBC the day after the Washington gathering. Leadership is shared with Office of Personnel Management Director Scott Kupor, Federal Trade Commission Chairman Andrew Ferguson and Defense Department technology lead Emil Michael.\n\nThe meeting set out protocols and a path for implementing the White House Accord, including ongoing dialogue with frontier AI labs. David Sachs will lead a risk study. Three committees were established: reporting and response, led by Michael; critical infrastructure, led by Kupor; and law enforcement and responsibility, led by Ferguson. Workforce and economic impacts will be reported to the Department of Labor, and any AI wrongdoing would be enforced through the FTC or the Justice Department.\n\nA White House readout issued late Thursday said the task force was formally established for 120 days. A working group on implementation of the White House Accord will be led by Clayton alongside National Cyber Director Sean Cairncross. Michael's remit includes reviewing and developing protocols and mechanisms for labs to give the government early warnings and systemized notifications of breaches, hacks, jailbreaks and other issues.\n\nThe piece is straight wire coverage with no workplace, facilities, hybrid work or workplace-technology angle beyond the general theme of AI risk to jobs and the economy. It contains no vendor commentary, no survey data and no operational detail relevant to visitor management, desk or room booking, or workplace analytics. Reporting by Susan Heavey and Alexandra Alper, editing by Chizu Nomiyama.",
+ "claims": [
+  {
+   "claim": "The task force was formally established for a fixed period at its first meeting",
+   "stat": "120 days",
+   "attribution": "White House readout of the first meeting"
+  },
+  {
+   "claim": "Three committees were established: reporting and response, critical infrastructure, and law enforcement and responsibility",
+   "stat": "3 committees",
+   "attribution": "Jay Clayton, Director of National Intelligence, speaking to CNBC"
+  },
+  {
+   "claim": "David Sachs will lead a risk study for the task force",
+   "stat": "",
+   "attribution": "Jay Clayton via CNBC"
+  },
+  {
+   "claim": "Workforce and economic impacts will be reported to the Department of Labor",
+   "stat": "",
+   "attribution": "Jay Clayton via CNBC"
+  },
+  {
+   "claim": "Any AI wrongdoing would be enforced through the FTC or the Department of Justice",
+   "stat": "",
+   "attribution": "Jay Clayton via CNBC"
+  },
+  {
+   "claim": "A working group on White House Accord implementation will be led by Clayton with National Cyber Director Sean Cairncross",
+   "stat": "",
+   "attribution": "White House readout"
+  },
+  {
+   "claim": "Emil Michael's role includes developing protocols for labs to give early warnings of breaches, hacks and jailbreaks",
+   "stat": "",
+   "attribution": "The White House"
+  }
+ ],
+ "vocabulary": [
+  "Super Intelligence Task Force",
+  "artificial intelligence",
+  "frontier labs",
+  "White House Accord",
+  "risk study",
+  "reporting and response",
+  "critical infrastructure",
+  "law enforcement and responsibility",
+  "early warnings",
+  "systemized notifications",
+  "breaches",
+  "hacks",
+  "jailbreaks",
+  "Department of Labor",
+  "Federal Trade Commission",
+  "Office of Personnel Management",
+  "National Cyber Director",
+  "workforce and economic impacts"
+ ],
+ "topics_covered": []
+}

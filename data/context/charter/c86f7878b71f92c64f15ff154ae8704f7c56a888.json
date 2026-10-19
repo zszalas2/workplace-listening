@@ -1,0 +1,91 @@
+{
+ "id": "c86f7878b71f92c64f15ff154ae8704f7c56a888",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/how-leaders-can-endorse-risk-taking-with-ai/",
+ "published_at": "2026-10-18",
+ "observed_at": "2026-10-19",
+ "summary": "Charter's newsletter covers AI implementation, leadership risk-taking, and emerging governance questions.\n\nAI and Work Radar items:\n- Wharton researchers found leaders disagree about who is accountable when AI agents make mistakes, splitting blame across governance/risk teams, the deploying employee, and that employee's manager.\n- McKinsey will put some entry-level candidates through an in-person simulation with an AI client, with partners and assessors grading how applicants respond. A partner told The Wall Street Journal the format reveals human-centered qualities without relying on preparation.\n- The Guardian reports leaders are moderating AI use as costs, quality issues, and bottlenecks grow, with some firms restricting AI spending and others scaling back plans to replace staff with agents. Atlassian polling found two-fifths of AI users hit limits in the past month, including usage caps, lost access, or manager instructions to justify usage. Accenture reportedly caps Claude spending at $29 monthly for many employees.\n- BetterUp research warns that substituting AI for human teammates erodes team trust and coordination, displacing relationship-building collaboration even as individual efficiency rises.\n\nFeature interview: Wharton associate professor Ethan Mollick, author of the \"One Useful Thing\" newsletter and the forthcoming book Co-Existence (Oct. 20), argues organizations must be rebuilt rather than have AI bolted on, because individual speed gains are not showing up in bottom-line results. He offers a \"leadership, lab, and crowd\" model: an engaged leadership team reshaping the company, a crowd of employees discovering uses, and a dedicated lab doing continuous research. The lab should implement crowd ideas, run its own benchmarks rather than trusting public ones, and operate as a skunk works; it should not be purely technical, and treating AI as an IT function is a trap. Leaders must \"eat risk,\" authorizing experimentation and bearing its consequences, while taking active control. Mollick says AI today is \"single player, not multiplayer,\" and the challenge is reaching group-level gains. Valuable human attributes: deep knowledge, wide knowledge, taste, and agency.",
+ "claims": [
+  {
+   "claim": "Leaders disagree on who is responsible for AI agents' mistakes, with blame split roughly evenly between governance/risk teams, the deploying employee, and that employee's manager.",
+   "stat": "28% governance or risk team; 25% the employee deploying the tool; 26% that employee's manager",
+   "attribution": "Report from Wharton researchers"
+  },
+  {
+   "claim": "Some candidates for entry-level McKinsey roles will complete an in-person simulation with an AI client, graded by partners and assessors.",
+   "stat": "",
+   "attribution": "The Wall Street Journal / McKinsey"
+  },
+  {
+   "claim": "The simulation format reveals human-centered qualities without relying on candidate preparation.",
+   "stat": "",
+   "attribution": "An unnamed McKinsey partner, speaking to The Wall Street Journal"
+  },
+  {
+   "claim": "Leaders are moderating AI use as costs, quality issues, and bottlenecks increase, with some companies restricting AI spending and others scaling back plans to replace human staff with agents.",
+   "stat": "",
+   "attribution": "The Guardian"
+  },
+  {
+   "claim": "AI users have encountered limits on AI use in the past month, including usage caps, lost access, or manager instructions to watch or justify usage.",
+   "stat": "Two-fifths of AI users polled",
+   "attribution": "Atlassian poll"
+  },
+  {
+   "claim": "Accenture has told many employees it will only cover a set monthly amount of Claude spending.",
+   "stat": "$29 monthly",
+   "attribution": "Reported, cited by Charter"
+  },
+  {
+   "claim": "Teams that normalized relying on AI instead of human teammates saw declines in coordination and trust relative to teams maintaining more human interaction.",
+   "stat": "22% drop in team coordination; 22% drop in team trust",
+   "attribution": "BetterUp research"
+  },
+  {
+   "claim": "While many workers who use AI finish tasks faster, few companies can point to an improvement to the bottom line.",
+   "stat": "",
+   "attribution": "Charter / Ethan Mollick"
+  },
+  {
+   "claim": "Organizations must be rebuilt to capture AI gains; you cannot slap AI on top of a company and expect gains.",
+   "stat": "",
+   "attribution": "Ethan Mollick, Wharton associate professor, in Co-Existence (out Oct. 20)"
+  },
+  {
+   "claim": "AI is currently 'single player, not multiplayer,' providing individual productivity boosts but not group-level gains.",
+   "stat": "",
+   "attribution": "Ethan Mollick"
+  },
+  {
+   "claim": "Companies cannot trust public benchmarks and need to benchmark models themselves.",
+   "stat": "",
+   "attribution": "Ethan Mollick"
+  }
+ ],
+ "vocabulary": [
+  "AI agents",
+  "governance or risk team",
+  "agent mistakes accountability",
+  "AI client simulation",
+  "usage caps",
+  "AI spending restrictions",
+  "team coordination",
+  "team trust",
+  "leadership, lab, and crowd",
+  "eating risk",
+  "span of control",
+  "skunk works",
+  "benchmarking models",
+  "single player vs multiplayer AI",
+  "deep knowledge",
+  "wide knowledge",
+  "taste",
+  "agency",
+  "chatbot",
+  "Co-Existence",
+  "One Useful Thing"
+ ],
+ "topics_covered": [
+  "agentic_ai_tooling_and_governance"
+ ]
+}

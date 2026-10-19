@@ -1,0 +1,83 @@
+{
+ "id": "f213285f964463a99c1566b5053e1bcc3439f927",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/10/coworking-in-iran-cuba-and-turkmenistan-the-flexible-workspace-industry-is-more-global-than-youd-think/",
+ "published_at": "2026-10-16",
+ "observed_at": "2026-10-19",
+ "summary": "Allwork.space argues the flexible workspace industry extends far beyond startup hubs and digital nomad cities, operating even in countries with restricted internet, sanctions or tight state control. The thesis: coworking does not require a particular political system, only demand, commercial real estate, connectivity and enough freedom for people and businesses to use shared space.\n\nCountry examples:\n- Russia: Moscow had 457,000 square meters of flexible workspace across 175 locations as of August 2026 per Commonwealth Partnership, with network operators at 88% of the market. Growth has cooled, but domestic operators have taken a larger role as Western companies exited.\n- Belarus: Minsk has a functioning coworking market, showing shared workspace can operate inside a tightly controlled political system where enough private professional activity exists.\n- Iran: Tehran has dedicated coworking and serviced office providers. CO-HQ offers hot desks, dedicated desks, private offices and virtual offices, including at Kian Tower, despite sanctions and internet restrictions.\n- China: Over 2,200 coworking locations across 200 cities, with Beijing hosting dozens including Servcorp and IWG facilities, proving coworking does not depend on unrestricted global internet.\n- Saudi Arabia: Coworking is expanding as part of private sector development. The government runs Startup Hubs through Monsha'at offering coworking, incubation and mentoring; Cloud Spaces and Servcorp operate in Riyadh.\n- Turkmenistan: Bilelik Hub in Ashgabat offers open workspace, meeting rooms, focus rooms, event space, high-speed Wi-Fi and flexible rates, plus community membership and events.\n- Cuba: A small scene including Amarillo Coworking in Havana's Vedado district and a facility at Parque Cientifico de La Habana. Limited internet and electricity shortages mean value depends on reliable connectivity and backup power.\n- North Korea: The closest thing to a no. Office space is marketed to international businesses in Pyongyang per NK News, but there is no open membership market for freelancers and independent professionals.",
+ "claims": [
+  {
+   "claim": "Moscow had substantial flexible workspace inventory as of August 2026",
+   "stat": "457,000 square meters across 175 locations",
+   "attribution": "Commonwealth Partnership, cited by Allwork.space"
+  },
+  {
+   "claim": "Network operators dominate the Moscow flexible workspace market",
+   "stat": "88% of the market",
+   "attribution": "Commonwealth Partnership, cited by Allwork.space"
+  },
+  {
+   "claim": "China has a large coworking footprint despite a controlled internet environment",
+   "stat": "over 2,200 coworking locations across 200 cities",
+   "attribution": "Allwork.space"
+  },
+  {
+   "claim": "Beijing hosts dozens of coworking locations, including facilities run by international operators such as Servcorp and IWG",
+   "stat": "dozens of locations",
+   "attribution": "Allwork.space"
+  },
+  {
+   "claim": "CO-HQ in Tehran offers hot desks, dedicated desks, private offices and virtual offices, including at Kian Tower",
+   "stat": "",
+   "attribution": "Allwork.space"
+  },
+  {
+   "claim": "Saudi Arabia's government operates Startup Hubs through Monsha'at providing coworking space, business support, incubators and mentoring",
+   "stat": "",
+   "attribution": "Allwork.space"
+  },
+  {
+   "claim": "Cloud Spaces operates coworking locations in Riyadh and Servcorp lists multiple coworking facilities across the city",
+   "stat": "",
+   "attribution": "Allwork.space"
+  },
+  {
+   "claim": "Bilelik Hub in Ashgabat offers open workspace, meeting rooms, focus rooms, event space, high-speed Wi-Fi and flexible rates",
+   "stat": "",
+   "attribution": "Bilelik Hub, as described by Allwork.space"
+  },
+  {
+   "claim": "Cuban coworking is constrained by limited internet access in Havana and electricity shortages that disrupt work",
+   "stat": "",
+   "attribution": "Allwork.space"
+  },
+  {
+   "claim": "Office space with communications and power infrastructure has been marketed to international businesses in Pyongyang",
+   "stat": "",
+   "attribution": "NK News, cited by Allwork.space"
+  }
+ ],
+ "vocabulary": [
+  "coworking",
+  "flexible workspace",
+  "flex office",
+  "hot desks",
+  "dedicated desks",
+  "private offices",
+  "virtual offices",
+  "serviced office",
+  "network operators",
+  "meeting rooms",
+  "focus rooms",
+  "event space",
+  "community membership",
+  "startup hubs",
+  "incubators",
+  "digital nomads",
+  "remote work infrastructure",
+  "backup power",
+  "memberships",
+  "creative center"
+ ],
+ "topics_covered": []
+}
