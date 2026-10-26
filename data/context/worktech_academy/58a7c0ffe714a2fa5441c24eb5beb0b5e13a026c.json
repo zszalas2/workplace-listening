@@ -1,0 +1,16 @@
+{
+ "id": "58a7c0ffe714a2fa5441c24eb5beb0b5e13a026c",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeUpkNXlqQUpUTUktdzZmUzNXV25XRUxuNGZINU1raGN4OFR4cXRnX2kxMlBIUUQ4SXZ2Q2dTcE14QTAzbXRra1lrN1BrbTdGWWV4c2E5NWVLUHhMemc1bElFQ0FiZXZTU0RMVXhrLWZFbkVlTU83RndBWkF5Wl82aVVWTmR4X2JTWS1lUkxtOF84ZXE1SnM2YU81amxXUQ?oc=5",
+ "published_at": "2026-10-23",
+ "observed_at": "2026-10-26",
+ "summary": "This item is effectively a headline-only entry from WORKTECH Academy, surfaced via a Google News RSS link. The title, \"Signal File: is the workplace going through its culture reckoning?\", suggests a commentary or trend-watch piece in WORKTECH Academy's \"Signal File\" series, asking whether workplace culture is at an inflection point. No body text, argument, data, quotes, or named sources were included in the supplied item, so the actual substance of the piece cannot be summarized. Based on the title alone, likely subject matter would sit in the broad workplace culture and future-of-work commentary space, potentially touching on hybrid working norms, office purpose, employee expectations, or leadership behaviour, but none of this is confirmed by the provided content. No specific claims, statistics, vendors, products, or category terminology appear in the text. The only identifiable entities are the publisher, WORKTECH Academy, and the apparent recurring column format, \"Signal File\". For the listening pipeline, this entry should be treated as a stub requiring retrieval of the full article before it can contribute meaningfully to theme saturation or claim extraction. Tagging against the theme registry is not possible with confidence, since the headline poses an open question about culture rather than addressing any of the registry's specific operational themes such as desk booking, visitor management, attendance tracking, or admin workload.",
+ "claims": [],
+ "vocabulary": [
+  "Signal File",
+  "workplace",
+  "culture reckoning",
+  "WORKTECH Academy"
+ ],
+ "topics_covered": []
+}

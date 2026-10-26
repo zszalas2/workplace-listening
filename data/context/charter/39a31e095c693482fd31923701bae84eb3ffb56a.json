@@ -1,0 +1,38 @@
+{
+ "id": "39a31e095c693482fd31923701bae84eb3ffb56a",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/charter-workplace-summit-2026-the-new-ai-playbook/",
+ "published_at": "2026-10-23",
+ "observed_at": "2026-10-26",
+ "summary": "This is a session listing or promotional page for the Charter Workplace Summit 2026, framed around what the organizers call \"the new AI playbook.\" The premise is that research describes what is happening in workplaces, but the panel is intended to address what leaders actually do with those findings. Three executives described as being on the front lines of workforce transformation will translate Charter's latest research into day-to-day practice.\n\nThe session poses three guiding questions: how organizations can capture real productivity gains from AI without burning out their teams; how leaders can bring skeptical workers along rather than mandating adoption from the top down; and what AI means for talent strategy, career paths, and relationships at work. The framing emphasizes bridging insight to action and leading people through what the copy calls the most consequential workplace transition in a generation.\n\nSpeakers listed are Zofia Ciechowska, Head of People at Suno; Yolanda Seals-Coffield, Chief People and Inclusion Officer at PwC US; and moderator Betty Larson, Executive Vice President and Chief Human Resources Officer at Merck.\n\nThe text is purely descriptive session marketing. It contains no statistics, no research findings, no vendor or product detail, and no discussion of workplace operations such as space booking, visitor management, attendance, or facilities. The only substantive theme is AI adoption governance from an HR and people leadership perspective, specifically voluntary adoption versus top-down mandate, burnout risk from productivity pressure, and the implications of AI for career progression and workplace relationships.",
+ "claims": [
+  {
+   "claim": "The current AI-driven workplace change is the most consequential workplace transition in a generation",
+   "stat": "",
+   "attribution": "Charter Workplace Summit 2026 session description"
+  },
+  {
+   "claim": "Charter has conducted research on AI and workforce transformation that the session will translate into practice",
+   "stat": "",
+   "attribution": "Charter"
+  }
+ ],
+ "vocabulary": [
+  "AI playbook",
+  "workforce transformation",
+  "productivity gains",
+  "burnout",
+  "adoption",
+  "mandating adoption from the top",
+  "talent strategy",
+  "career paths",
+  "Head of People",
+  "Chief people and inclusion officer",
+  "chief human resources officer",
+  "workplace transition",
+  "bridge insight to action"
+ ],
+ "topics_covered": [
+  "agentic_ai_tooling_and_governance"
+ ]
+}

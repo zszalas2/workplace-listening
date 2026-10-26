@@ -1,0 +1,65 @@
+{
+ "id": "7d2f024cb9047cdbbdc8afc38dd34cfbefead8f2",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/10/what-microsofts-frontier-firm-playbook-reveals-about-the-next-layer-of-human-value-at-work/",
+ "published_at": "2026-10-26",
+ "observed_at": "2026-10-26",
+ "summary": "An Allwork.Space analysis of Microsoft's \"Becoming a Frontier Firm\" playbook, which draws on more than 100 internal AI transformation efforts. The piece argues that generic AI output is a \"persuasive average\" that is useful for drafts but risky for the work that differentiates a company. Microsoft frames an organization's distinctive tacit knowledge as its \"secret sauce,\" contrasting explicit knowledge (recorded in processes, systems, databases) with tacit knowledge (judgment, instinct, institutional memory, unwritten understanding of how work actually happens).\n\nThe Frontier Firm concept, introduced in Microsoft's 2025 Work Trend Index, describes an organization built around on-demand intelligence and hybrid teams of people and AI agents, signaling a shift from using AI tools toward redesigning work, roles and organizations.\n\nMicrosoft identifies four dimensions of organizational advantage: the company's point of view, proprietary performance knowledge and institutional judgment, its definition of what good looks like, and guardrails specifying where AI should act, where people should review, and where AI should not be used at all. It calls company-specific standards \"private evals,\" which convert tacit knowledge into criteria for evaluating AI systems and prevent models from settling on generic quality.\n\nBecause broad access to powerful models makes the models themselves less differentiating, the article argues competitive advantage rests on what an organization teaches its models and on the pace of organizational learning. Katy George, Microsoft corporate vice president of AI and Work Transformation and playbook co-author, told The Future of Less Work podcast that humans and AI together achieve new capabilities beyond the human-only process. The playbook describes a \"hill-climbing machine\": define what good looks like, supply context, improve through feedback cycles.\n\nImplications for skills include judgment and taste, business acumen, learning agility, and the ability to scope and delegate work to agents, plus more T-shaped roles, with engineers becoming full-stack product builders. The text ends mid-sentence on job redesign.",
+ "claims": [
+  {
+   "claim": "The Becoming a Frontier Firm playbook draws on internal AI transformation efforts",
+   "stat": "more than 100 internal AI transformation efforts",
+   "attribution": "Microsoft"
+  },
+  {
+   "claim": "The Frontier Firm was introduced as an organization built around on-demand intelligence and hybrid teams of people and AI agents",
+   "stat": "2025 Work Trend Index",
+   "attribution": "Microsoft"
+  },
+  {
+   "claim": "Organizational advantage has four dimensions: point of view, proprietary performance knowledge and institutional judgment, definition of what good looks like, and guardrails for where AI should act, be reviewed, or not be used",
+   "stat": "four dimensions",
+   "attribution": "Microsoft playbook"
+  },
+  {
+   "claim": "AI transformation is not about replicating today's tacit knowledge; humans and AI together achieve new capabilities not part of the human-only process",
+   "stat": "",
+   "attribution": "Katy George, Microsoft corporate vice president of AI and Work Transformation, on The Future of Less Work podcast"
+  },
+  {
+   "claim": "Broader access to powerful AI makes the models themselves less differentiating, shifting advantage to the quality of the learning system built around them",
+   "stat": "",
+   "attribution": "Allwork.Space analysis of the Microsoft playbook"
+  },
+  {
+   "claim": "Sought-after capabilities include judgment and taste, business acumen, learning agility, and the ability to scope and delegate work to agents, alongside more T-shaped roles",
+   "stat": "",
+   "attribution": "Microsoft playbook"
+  }
+ ],
+ "vocabulary": [
+  "Frontier Firm",
+  "Work Trend Index",
+  "secret sauce",
+  "tacit knowledge",
+  "explicit knowledge",
+  "private evals",
+  "guardrails",
+  "human review",
+  "hill-climbing machine",
+  "AI agents",
+  "hybrid teams of people and AI agents",
+  "on-demand intelligence",
+  "institutional judgment",
+  "learning agility",
+  "judgment and taste",
+  "T-shaped roles",
+  "full-stack product builders",
+  "scope and delegate work to agents",
+  "AI transformation",
+  "what good looks like"
+ ],
+ "topics_covered": [
+  "agentic_ai_tooling_and_governance"
+ ]
+}

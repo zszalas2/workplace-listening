@@ -1,0 +1,96 @@
+{
+ "id": "7c144f08183a63a6b4188b21fce9a8e6a6c3c623",
+ "source_id": "workplace_insight",
+ "url": "https://workplaceinsight.net/uk-business-leaders-embrace-ai-but-workers-remain-sceptical-about-its-future-microsoft-survey-claims/?utm_source=rss&utm_medium=rss&utm_campaign=uk-business-leaders-embrace-ai-but-workers-remain-sceptical-about-its-future-microsoft-survey-claims",
+ "published_at": "2026-10-21",
+ "observed_at": "2026-10-26",
+ "summary": "Microsoft polling of 5,000 UK employees and 1,000 senior business decision-makers finds a sharp confidence gap between leaders and workers on artificial intelligence. Released to coincide with Microsoft's Frontier Tour in London, the research reports that 84 percent of business leaders think Britain can become a world-leading AI economy within five years, against just 41 percent of employees. Nine in ten leaders say their organisation has a clear AI strategy, and 84 percent of those in adopting organisations say AI has brought moderate or significant changes to working practices, with 36 percent describing the changes as significant.\n\nEmployee attitudes are mixed rather than uniformly negative. Among workers already using AI, 71 percent say it has had a positive impact on their work or career and 69 percent say it has improved work quality. Yet 35 percent worry it has reduced their own job security and 57 percent fear it will shrink opportunities for young people and new entrants. Ninety percent of leaders expect AI to benefit British society over five years, compared with 49 percent of employees.\n\nBoth groups want more government action: 58 percent of employees and 62 percent of leaders. Priorities diverge, with employees favouring stronger regulation and safeguards (36 percent) and leaders favouring skills and training (35 percent) and business adoption support (30 percent).\n\nDarren Hardman, CEO of Microsoft UK and Ireland, frames G7-leading adoption as a shared responsibility requiring work on skills and trust. An accompanying UK AI Diffusion Report estimates generative AI adoption rising from 36.6 percent in the first half of 2025 to 43.7 percent in the second quarter of 2026, ranking the UK eighth globally and second in the G7, with regional spread from 57.4 percent in the West of England Combined Authority to 34.1 percent in the Highlands and Islands. Microsoft promotes 'Frontier Firms' where staff work alongside AI agents, and cites a $30 billion UK investment commitment for 2025 to 2028.",
+ "claims": [
+  {
+   "claim": "UK business leaders believe Britain can become a world-leading AI economy within five years, far ahead of employees",
+   "stat": "84 percent of leaders vs 41 percent of employees",
+   "attribution": "Microsoft survey of 5,000 UK employees and 1,000 senior business decision-makers"
+  },
+  {
+   "claim": "Most organisations say they have a clear AI strategy",
+   "stat": "9 in 10 business leaders",
+   "attribution": "Microsoft survey"
+  },
+  {
+   "claim": "AI has changed working practices in adopting organisations",
+   "stat": "84 percent report moderate or significant change; 36 percent significant",
+   "attribution": "Microsoft survey"
+  },
+  {
+   "claim": "Leaders are far more optimistic than employees about AI's societal impact over five years",
+   "stat": "90 percent of leaders vs 49 percent of employees",
+   "attribution": "Microsoft survey"
+  },
+  {
+   "claim": "Employees already using AI report career and quality benefits",
+   "stat": "71 percent positive impact on work or career; 69 percent improved work quality",
+   "attribution": "Microsoft survey"
+  },
+  {
+   "claim": "Workers fear job security and entry-level impacts",
+   "stat": "35 percent say AI reduced their job security; 57 percent fear fewer opportunities for young people",
+   "attribution": "Microsoft survey"
+  },
+  {
+   "claim": "Both groups want more government support for AI ambitions",
+   "stat": "58 percent of employees, 62 percent of business leaders",
+   "attribution": "Microsoft survey"
+  },
+  {
+   "claim": "Priorities for government action differ between groups",
+   "stat": "36 percent of employees want stronger regulation; 35 percent of leaders want skills and training; 30 percent want business adoption support; 23 percent of employees cite skills",
+   "attribution": "Microsoft survey"
+  },
+  {
+   "claim": "Generative AI adoption in the UK is rising",
+   "stat": "from 36.6 percent in H1 2025 to 43.7 percent in Q2 2026",
+   "attribution": "Microsoft UK AI Diffusion Report"
+  },
+  {
+   "claim": "The UK ranks highly for generative AI adoption",
+   "stat": "eighth globally, second in the G7",
+   "attribution": "Microsoft UK AI Diffusion Report"
+  },
+  {
+   "claim": "Regional AI usage varies widely across the UK",
+   "stat": "57.4 percent in West of England Combined Authority vs 34.1 percent in Highlands and Islands of Scotland",
+   "attribution": "Microsoft UK AI Diffusion Report"
+  },
+  {
+   "claim": "Microsoft has committed major UK investment and skills training",
+   "stat": "$30 billion (£23 billion) 2025-2028, including $15 billion in cloud and AI infrastructure; 2.5 million people trained",
+   "attribution": "Microsoft"
+  },
+  {
+   "claim": "Achieving fastest G7 AI adoption is a shared responsibility between government and industry",
+   "stat": "",
+   "attribution": "Darren Hardman, CEO of Microsoft UK and Ireland"
+  }
+ ],
+ "vocabulary": [
+  "artificial intelligence",
+  "generative AI adoption",
+  "AI strategy",
+  "AI agents",
+  "Frontier Firms",
+  "Frontier Tour",
+  "UK AI Diffusion Report",
+  "G7 adoption",
+  "senior business decision-makers",
+  "skills and training",
+  "regulation and safeguards",
+  "job security",
+  "cloud and AI infrastructure",
+  "working practices",
+  "productivity tools",
+  "business process redesign"
+ ],
+ "topics_covered": [
+  "agentic_ai_tooling_and_governance"
+ ]
+}

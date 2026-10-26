@@ -1,0 +1,16 @@
+{
+ "id": "3fe29be892414d5104bb439c72eddac21fc7a277",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSUh6X2FpajQ3dmJiVm8zWFoyOUNSRTVoYUcwSDMyU0k1TGdLSXlHaHF5eXhLUW50MF92OXZFUi1kN0VERFZaNUVnNHdwNEhUeWtlNkI3S1ZpR004RTd1RGZFUC1mUm94bkpXX0tGa05iUF96REl0REVWRERDd3FfR3lQSUF0SEdIS1F4RlpvNldJTUFNNnl5SEVhc1A1dnoxd2FGOWJHUFNfMW5sTVpRODBoVnI?oc=5",
+ "published_at": "2025-06-20",
+ "observed_at": "2026-10-26",
+ "summary": "This item is a headline-only entry from WORKTECH Academy, surfaced via a Google News RSS link. The piece is titled \"Signal file: what this week's headlines reveal about soft power and silent tracking.\" No body text was captured beyond the title and publication name, so the substance of the article cannot be verified from the supplied material.\n\nBased on the title alone, the article appears to be part of a recurring \"Signal file\" format in which WORKTECH Academy reviews the week's workplace news and extracts themes. The two signalled themes are \"soft power,\" which in workplace commentary typically refers to influencing employee behaviour through culture, amenities, design and persuasion rather than formal mandates, and \"silent tracking,\" which typically refers to passive or ambient measurement of employee presence, movement and activity through badge data, sensors, Wi-Fi, calendar and collaboration telemetry without overt disclosure to staff.\n\nThose implied subjects would sit close to workplace analytics, attendance and presence measurement, and return-to-office persuasion tactics. However, no claims, statistics, named sources, vendors or case studies are present in the captured text, and no specific assertions about tracking technologies, occupancy data practices or RTO policy can be attributed.\n\nRecommendation for the pipeline: treat this as an unresolved stub. The full article should be retrieved from the WORKTECH Academy site before it is scored, quoted or used as evidence for any theme. Tagging it against the registry on the strength of a headline would risk inflating saturation counts for attendance and monitoring coverage without supporting content.",
+ "claims": [],
+ "vocabulary": [
+  "signal file",
+  "soft power",
+  "silent tracking",
+  "WORKTECH Academy"
+ ],
+ "topics_covered": []
+}

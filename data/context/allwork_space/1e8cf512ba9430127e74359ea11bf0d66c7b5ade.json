@@ -1,0 +1,59 @@
+{
+ "id": "1e8cf512ba9430127e74359ea11bf0d66c7b5ade",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/10/only-13-of-organizations-report-significant-value-from-ai-gartner-finds/",
+ "published_at": "2026-10-23",
+ "observed_at": "2026-10-26",
+ "summary": "Allwork.Space reports on findings from Gartner's 2027 CIO Agenda, based on a survey of more than 2,000 technology leaders, and from Gartner IT Symposium/Xpo 2026, which drew more than 7,000 CIOs and technology executives. The headline finding: only 13% of organizations report achieving significant or transformational value from artificial intelligence.\n\nGartner argues that AI spending alone does not guarantee business results. It identifies a cohort of high performers it calls \"Vanguard\" companies, whose advantage is not explained by industry, revenue or IT budget size. Instead, these organizations do three things: manage technology costs deliberately, use governance to tie AI investments to business value, and apply AI to expand IT talent capabilities rather than simply automating existing work.\n\nThe conference keynote centered on the tension between AI's potential business value and the risks that accumulate as the technology spreads across an enterprise. As AI becomes more deeply embedded in operations, CIOs are expected to build strategies that sustain value capture while actively managing those risks.\n\nGartner's technology trends briefing for 2027 highlights a shift toward governing AI, scaling autonomous systems and maintaining resilience as deployment expands. After several years of experimentation, AI rollout and digital modernization, technology leaders now face the practical question of how to operate autonomous systems safely and reliably at enterprise scale. The event also featured Gartner's list of the top 10 strategic technology trends for the year ahead, framed around helping leaders convert AI investment into measurable business outcomes.\n\nNote: the source text includes repeated Cloudflare bot-verification boilerplate, which is scraping artifact rather than editorial content. The piece is short and summary-style, with no named individual sources quoted beyond Gartner itself.",
+ "claims": [
+  {
+   "claim": "Only a small minority of organizations report achieving significant or transformational value from AI",
+   "stat": "13%",
+   "attribution": "Gartner 2027 CIO Agenda"
+  },
+  {
+   "claim": "The CIO Agenda survey drew on a large sample of technology leaders",
+   "stat": "more than 2,000 technology leaders",
+   "attribution": "Gartner"
+  },
+  {
+   "claim": "Gartner IT Symposium/Xpo 2026 attendance by CIOs and technology executives",
+   "stat": "more than 7,000",
+   "attribution": "Allwork.Space / Gartner"
+  },
+  {
+   "claim": "\"Vanguard\" companies outperform peers on AI value realization, and their advantage is not tied to industry, revenue or IT budget size",
+   "stat": "",
+   "attribution": "Gartner"
+  },
+  {
+   "claim": "Vanguard organizations focus on managing technology costs, using governance to connect AI investments to business value, and applying AI to expand IT talent capabilities rather than simply automate work",
+   "stat": "",
+   "attribution": "Gartner"
+  },
+  {
+   "claim": "Gartner's 2027 technology trends briefing points to growing focus on governing AI, scaling autonomous systems and maintaining resilience",
+   "stat": "",
+   "attribution": "Gartner"
+  }
+ ],
+ "vocabulary": [
+  "artificial intelligence",
+  "AI governance",
+  "Vanguard companies",
+  "CIO Agenda",
+  "Gartner IT Symposium/Xpo",
+  "autonomous systems",
+  "resilience",
+  "digital modernization",
+  "transformational value",
+  "IT talent capabilities",
+  "top 10 strategic technology trends",
+  "AI risk",
+  "enterprise scale",
+  "technology cost management"
+ ],
+ "topics_covered": [
+  "agentic_ai_tooling_and_governance"
+ ]
+}

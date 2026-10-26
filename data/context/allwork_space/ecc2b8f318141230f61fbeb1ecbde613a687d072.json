@@ -1,0 +1,62 @@
+{
+ "id": "ecc2b8f318141230f61fbeb1ecbde613a687d072",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/10/trophy-office-rents-jump-33/",
+ "published_at": "2026-10-23",
+ "observed_at": "2026-10-26",
+ "summary": "Allwork.Space reports on Avison Young's Q3 2026 U.S. office report, which finds a widening quality divide in the office market. Starting rents for the most expensive U.S. premium office space are now 33% above pre-pandemic levels, versus 14% growth at the premium segment's median. Comparing 2017-2019 with 2024-2026 year to date, rents at the 95th percentile of the premium segment grew roughly 2.4 times faster than the segment median. Manhattan and San Francisco showed the clearest divides between top-tier and broader premium space, while Boston and Chicago saw more balanced growth within the segment. The report argues that a premium building designation alone does not guarantee strong rent performance; location and a building's standing among high-end competitors also matter.\n\nOn availability, the report notes declines over three years in both trophy/Class A and Class B/C buildings in 20 of 32 tracked markets, but for different reasons. In trophy and Class A properties, declining availability was driven by tenant demand. In Class B/C buildings, conversions and demolitions removed stock, meaning lower availability reflects shrinking supply rather than stronger leasing. The piece flags this as a caution for investors reading market strength signals.\n\nGeographically, Manhattan and San Francisco posted the largest availability declines across both higher and lower quality buildings, while Boston and Seattle saw availability rise in both segments.\n\nOffice utilization remains incomplete: Avison Young's Office Busyness Index put U.S. office activity at 63.9% of its August 2019 level as of August 2026, with building visitation rising gradually since the pandemic. Top-of-market rent gains are therefore occurring despite a partial return to pre-pandemic activity. Avison Young expects the gap between the strongest buildings and the rest of the market to keep widening as tenants prioritize quality and obsolete properties exit.",
+ "claims": [
+  {
+   "claim": "Starting rents for the most expensive U.S. premium office space are above pre-pandemic levels",
+   "stat": "33% above pre-pandemic, vs 14% growth at the premium segment median",
+   "attribution": "Avison Young Q3 2026 U.S. office report"
+  },
+  {
+   "claim": "Rents at the 95th percentile of the premium office segment grew far faster than the segment median between 2017-2019 and 2024-2026 YTD",
+   "stat": "about 2.4 times faster",
+   "attribution": "Avison Young"
+  },
+  {
+   "claim": "Availability declined over three years in both trophy/Class A and Class B/C buildings in most tracked markets",
+   "stat": "20 of 32 markets",
+   "attribution": "Avison Young"
+  },
+  {
+   "claim": "Lower availability in trophy/Class A was driven by tenant demand, while Class B/C declines came from conversions and demolitions removing space",
+   "stat": "",
+   "attribution": "Avison Young"
+  },
+  {
+   "claim": "Manhattan and San Francisco recorded the largest availability declines across both higher and lower quality buildings; Boston and Seattle saw availability increase in both segments",
+   "stat": "",
+   "attribution": "Avison Young"
+  },
+  {
+   "claim": "U.S. office activity remains below pre-pandemic levels",
+   "stat": "63.9% of August 2019 level in August 2026",
+   "attribution": "Avison Young Office Busyness Index"
+  },
+  {
+   "claim": "The divide between the strongest buildings and the rest of the market is expected to keep widening as tenants prioritize quality and obsolete properties leave the market",
+   "stat": "",
+   "attribution": "Avison Young"
+  }
+ ],
+ "vocabulary": [
+  "trophy office",
+  "Class A",
+  "Class B/C",
+  "premium office segment",
+  "starting rents",
+  "95th percentile",
+  "availability",
+  "Office Busyness Index",
+  "building visitation",
+  "conversions and demolitions",
+  "obsolete properties",
+  "flight to quality",
+  "leasing activity",
+  "pre-pandemic levels"
+ ],
+ "topics_covered": []
+}

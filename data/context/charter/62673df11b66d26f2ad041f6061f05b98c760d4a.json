@@ -1,0 +1,37 @@
+{
+ "id": "62673df11b66d26f2ad041f6061f05b98c760d4a",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/charter-workplace-summit-2026-the-future-of-the-middle-manager/",
+ "published_at": "2026-10-23",
+ "observed_at": "2026-10-26",
+ "summary": "A session listing for the Charter Workplace Summit 2026 focused on the future of the middle manager. The framing notes that flatter org charts are back in fashion and that managers are increasingly squeezed into \"player-coach\" roles, expected to both perform individual contributor work and lead a team simultaneously. The session promises to examine the role of the middle manager in the AI era, what a realistic span of control looks like in current conditions, and how employers can best support managers who have less organizational structure and fewer resources available to them. Organizers say the discussion will draw perspectives from a range of company sizes and industries, exploring how leading companies are rethinking the middle manager's role and what the ongoing debate implies for the future of the org chart. Listed speakers are Jevan Lenox, chief people officer at Writer, and Vicki Walia, chief people and experience officer at Prudential Financial, with Amy Reichanadter, chief people officer at Databricks, moderating. The item is purely promotional session copy with no data, research findings, or detailed argument. It does not address workplace operations topics such as desk or room booking, visitor management, hybrid attendance policy, facilities tooling, or workplace analytics. Its relevance to a workplace technology listening pipeline is limited to the broader people and management layer: delayering, manager span of control, and AI's effect on management work.",
+ "claims": [
+  {
+   "claim": "Flatter org charts are returning as a management trend",
+   "stat": "",
+   "attribution": "Charter (session description)"
+  },
+  {
+   "claim": "Middle managers are increasingly expected to be \"player-coaches\" who both do the work and lead the team",
+   "stat": "",
+   "attribution": "Charter (session description)"
+  },
+  {
+   "claim": "Managers today operate with less structure and fewer resources",
+   "stat": "",
+   "attribution": "Charter (session description)"
+  }
+ ],
+ "vocabulary": [
+  "middle manager",
+  "flatter org charts",
+  "player-coach",
+  "span of control",
+  "AI era",
+  "org chart",
+  "chief people officer",
+  "chief people and experience officer",
+  "Charter Workplace Summit"
+ ],
+ "topics_covered": []
+}

@@ -1,0 +1,37 @@
+{
+ "id": "6d64ce038bf5a998eb21c1adfd7ce3fdafc13a80",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/building-trust-connection-and-collaboration-in-divided-workplaces/",
+ "published_at": "2026-10-24",
+ "observed_at": "2026-10-26",
+ "summary": "This is a short event session listing from Charter's Workplace Summit 2026, promoting a fireside conversation with Van Jones, moderated by Charter cofounder and editor-in-chief Kevin Delaney.\n\nThe framing asserts that workers are under more stress and feel more disengaged from their jobs and colleagues than at nearly any prior point. It ties this to political polarization, noting a heightened-tension US election only a few weeks away at the time of the session.\n\nThe session promises a candid discussion on leading people in that climate: how leaders can stay grounded when the news cycle is relentless, and how to build connection when teams are diverse, distributed, and fractured in ways that mirror the broader social environment. Jones is positioned as drawing on decades of bridge-building work across major American divides to offer practical advice for leaders focused on building trust and retaining what the listing calls the human advantage.\n\nSpeaker credentials listed: Van Jones, founder of DreamMachine.org, founder of RAPPORT.co, and CNN host. Moderator: Kevin Delaney of Charter.\n\nThe item contains no data, research findings, product discussion, or operational workplace detail. It is promotional copy for a conference agenda, touching on distributed and hybrid team dynamics only at the level of culture, trust, and engagement rather than policy, space, tooling, or facilities operations.",
+ "claims": [
+  {
+   "claim": "Workers have rarely been under more stress or felt more disengaged from their jobs and colleagues than they are today",
+   "stat": "",
+   "attribution": "Charter (session description)"
+  },
+  {
+   "claim": "Teams today are as diverse, distributed, and fractured as the surrounding world",
+   "stat": "",
+   "attribution": "Charter (session description)"
+  },
+  {
+   "claim": "A heightened-tension US election is only a few weeks away at the time of the session",
+   "stat": "",
+   "attribution": "Charter (session description)"
+  }
+ ],
+ "vocabulary": [
+  "divided workplaces",
+  "distributed teams",
+  "disengagement",
+  "bridge-building",
+  "human advantage",
+  "fireside conversation",
+  "Workplace Summit",
+  "leading people",
+  "trust and connection"
+ ],
+ "topics_covered": []
+}

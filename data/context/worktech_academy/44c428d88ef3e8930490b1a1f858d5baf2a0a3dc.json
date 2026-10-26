@@ -1,0 +1,15 @@
+{
+ "id": "44c428d88ef3e8930490b1a1f858d5baf2a0a3dc",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWmVtWnpYTFJ3UWRhOV9teEVkOUxTc3hjQXliOUtJZ0s2RjFVZFh1aTYzdnVXcThlRXQ1UnJheDJ2Vm9DYThzQnNLczc1MWJHcGQyWE94Tmk1ZWYwX25aRFFBZENTTGpJLWM4aGh3VjA2MW1SbDVnNTRIRTJWWHRPUW5scHJGZ09TdDZDdHhB?oc=5",
+ "published_at": "2018-11-07",
+ "observed_at": "2026-10-26",
+ "summary": "This item is a headline-only entry from WORKTECH Academy, surfaced via a Google News RSS link. The title, \"Autumn reset: three big ideas organisations are mulling over this fall,\" suggests a seasonal think-piece about three emerging ideas or priorities that organisations are considering as they return from summer into the autumn period. No body text, byline, publication date, or supporting detail was supplied in the item payload beyond the duplicated title string.\n\nBecause the article body is absent, the three ideas referenced in the headline cannot be identified, and no claims, statistics, sources, or quoted experts can be extracted. WORKTECH Academy typically publishes on workplace design, hybrid working models, workplace technology and real estate strategy, so the piece plausibly touches those domains, but that is inference from the publisher rather than from the content provided.\n\nFor the listening pipeline, this entry should be treated as a stub pending full-text retrieval. Tagging it against specific themes such as hybrid mandates, desk booking, or workplace analytics would be speculative and would risk inflating saturation scores with unverified coverage. Recommended next step: fetch the resolved article URL behind the Google News redirect and re-process with the full body text, at which point the three \"big ideas\" can be mapped to the registry.",
+ "claims": [],
+ "vocabulary": [
+  "autumn reset",
+  "organisations",
+  "WORKTECH Academy"
+ ],
+ "topics_covered": []
+}

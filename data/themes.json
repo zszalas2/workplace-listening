@@ -12,7 +12,8 @@
    "2026-W38": 1,
    "2026-W39": 0,
    "2026-W42": 0,
-   "2026-W43": 0
+   "2026-W43": 0,
+   "2026-W44": 0
   },
   "evidence": [
    {
@@ -68,18 +69,19 @@
    "2026-W38": 0,
    "2026-W39": 0,
    "2026-W42": 0,
-   "2026-W43": 0
+   "2026-W43": 0,
+   "2026-W44": 2
   },
   "evidence": [
    {
-    "quote": "What does your hybrid policy and ergonomic assessment process look like, for home workspace? [Canada]",
-    "url": "https://www.reddit.com/r/humanresources/comments/1w05lta/what_does_your_hybrid_policy_and_ergonomic/",
-    "source_id": "reddit_humanresources"
+    "quote": "the person above my line manager doesn't like it anymore and is putting pressure on me to return to the office",
+    "url": "https://www.reddit.com/r/HumanResourcesUK/comments/1wlawu4/wfh_arrangements_reversed/",
+    "source_id": "reddit_humanresourcesuk"
    },
    {
-    "quote": "policy is at least 2 days in office a week",
-    "url": "https://www.reddit.com/r/humanresources/comments/1w05lta/what_does_your_hybrid_policy_and_ergonomic/",
-    "source_id": "reddit_humanresources"
+    "quote": "it regularly requires out-of-hours working across evenings and weekends and in-office hours linked to their executive's schedule",
+    "url": "https://www.reddit.com/r/HumanResourcesUK/comments/1wwq2w8/returning_to_role_post_matleave/",
+    "source_id": "reddit_humanresourcesuk"
    }
   ],
   "vocabulary": [
@@ -107,15 +109,16 @@
   "became_post": null,
   "became_post_at": null,
   "covered_by_context": [
-   "workplace_insight"
+   "workplace_insight",
+   "worktech_academy"
   ],
-  "suggested_angle": "Show HR how to write a hybrid policy where the home setup allowance and in-office spend are one governed budget rather than ad hoc reimbursements.",
-  "current": 0,
+  "suggested_angle": "Frame RTO as a spend and fairness question: what the office day has to deliver before you can ask someone to pay for the commute.",
+  "current": 2,
   "trailing_mean": 0,
   "delta_z": 0.0,
-  "demand_score": 0.0,
-  "saturation_score": 0.5,
-  "opportunity_score": 0.0,
+  "demand_score": 0.092,
+  "saturation_score": 0.667,
+  "opportunity_score": 0.031,
   "status": "steady"
  },
  {
@@ -131,18 +134,24 @@
    "2026-W38": 6,
    "2026-W39": 3,
    "2026-W42": 6,
-   "2026-W43": 2
+   "2026-W43": 2,
+   "2026-W44": 3
   },
   "evidence": [
    {
-    "quote": "Booking the work Christmas do for a table with mixed dietary needs?",
-    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1x690tw/booking_the_work_christmas_do_for_a_table_with/",
+    "quote": "How do you deal with coworkers who always have a \"quick question\"?",
+    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1x7ge84/how_do_you_deal_with_coworkers_who_always_have_a/",
     "source_id": "reddit_executiveassistants"
    },
    {
-    "quote": "Collect dietary requirements first. Ask everyone before you start shortlisting venues.",
-    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1x690tw/booking_the_work_christmas_do_for_a_table_with/",
+    "quote": "Is there a way to do this digitally using Microsoft products only?",
+    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1x5o74b/equipment_sign_inout/",
     "source_id": "reddit_executiveassistants"
+   },
+   {
+    "quote": "Searchable archive of official circulars in a public office. How would you do it?",
+    "url": "https://www.reddit.com/r/sysadmin/comments/1x8yr09/searchable_archive_of_official_circulars_in_a/",
+    "source_id": "reddit_sysadmin"
    }
   ],
   "vocabulary": [
@@ -170,14 +179,14 @@
   "became_post": null,
   "became_post_at": null,
   "covered_by_context": [],
-  "suggested_angle": "Position team events and venue bookings as a recurring workspace spend category that should be budgeted and paid for with controlled cards, not an EA's personal card and a spreadsheet.",
-  "current": 2,
-  "trailing_mean": 2.5,
-  "delta_z": -0.186,
-  "demand_score": 0.722,
+  "suggested_angle": "Quantify the hidden cost of ad hoc interruptions and manual asset sign out logs that office teams absorb before anyone budgets for a system.",
+  "current": 3,
+  "trailing_mean": 2.833,
+  "delta_z": 0.067,
+  "demand_score": 0.186,
   "saturation_score": 0.0,
-  "opportunity_score": 0.722,
-  "status": "gap"
+  "opportunity_score": 0.186,
+  "status": "steady"
  },
  {
   "theme_id": "multi_site_proof_of_work_tracking",
@@ -192,7 +201,8 @@
    "2026-W38": 0,
    "2026-W39": 0,
    "2026-W42": 0,
-   "2026-W43": 0
+   "2026-W43": 0,
+   "2026-W44": 0
   },
   "evidence": [
    {
@@ -239,18 +249,19 @@
    "2026-W38": 0,
    "2026-W39": 2,
    "2026-W42": 2,
-   "2026-W43": 0
+   "2026-W43": 0,
+   "2026-W44": 2
   },
   "evidence": [
    {
-    "quote": "Just had a support call escalated to me where the resolution involved unplugging a network cable, and plugging it back in.",
-    "url": "https://news.ycombinator.com/item?id=7806540",
-    "source_id": "hackernews"
+    "quote": "33, IT Ops / Service Desk Manager in Argentina — stay on the management path or specialize further?",
+    "url": "https://www.reddit.com/r/ITManagers/comments/1wqp7sx/33_it_ops_service_desk_manager_in_argentina_stay/",
+    "source_id": "reddit_itmanagers"
    },
    {
-    "quote": "Is the skills cap in tech as wide as we think?",
-    "url": "https://news.ycombinator.com/item?id=7806540",
-    "source_id": "hackernews"
+    "quote": "Would it be a good idea to simply destroy the VM and rebuild it every time for testing?",
+    "url": "https://www.reddit.com/r/sysadmin/comments/1wzoj45/a_better_way_to_handle_dev_test_vms_please/",
+    "source_id": "reddit_sysadmin"
    }
   ],
   "vocabulary": [
@@ -278,13 +289,13 @@
   "became_post": null,
   "became_post_at": null,
   "covered_by_context": [],
-  "suggested_angle": "Argue that ticket counts hide the real cost of workplace support, and show the spend signals HR and facilities should track instead.",
-  "current": 0,
+  "suggested_angle": "Argue that service desk and workplace ops teams should report cost avoided and time returned, not ticket volume.",
+  "current": 2,
   "trailing_mean": 0.667,
-  "delta_z": -0.707,
-  "demand_score": 0.0,
+  "delta_z": 1.414,
+  "demand_score": 0.1,
   "saturation_score": 0.0,
-  "opportunity_score": 0.0,
+  "opportunity_score": 0.1,
   "status": "steady"
  },
  {
@@ -299,7 +310,8 @@
    "2026-W38": 0,
    "2026-W39": 0,
    "2026-W42": 0,
-   "2026-W43": 0
+   "2026-W43": 0,
+   "2026-W44": 0
   },
   "evidence": [
    {
@@ -339,7 +351,8 @@
    "2026-W38": 2,
    "2026-W39": 0,
    "2026-W42": 0,
-   "2026-W43": 3
+   "2026-W43": 3,
+   "2026-W44": 0
   },
   "evidence": [
    {
@@ -382,17 +395,15 @@
   ],
   "became_post": null,
   "became_post_at": null,
-  "covered_by_context": [
-   "workplace_insight"
-  ],
+  "covered_by_context": [],
   "suggested_angle": "Show HR leads how clean attendance and presence data from the workplace itself turns coverage disputes and terminations into documented, defensible facts instead of manager impressions.",
-  "current": 3,
-  "trailing_mean": 0.333,
-  "delta_z": 3.578,
-  "demand_score": 1.0,
-  "saturation_score": 0.5,
-  "opportunity_score": 0.5,
-  "status": "accelerating"
+  "current": 0,
+  "trailing_mean": 0.833,
+  "delta_z": -0.687,
+  "demand_score": 0.0,
+  "saturation_score": 0.0,
+  "opportunity_score": 0.0,
+  "status": "steady"
  },
  {
   "theme_id": "visitor_signin_diy_vs_buy",
@@ -405,7 +416,8 @@
    "2026-W38": 0,
    "2026-W39": 0,
    "2026-W42": 1,
-   "2026-W43": 0
+   "2026-W43": 0,
+   "2026-W44": 0
   },
   "evidence": [
    {
@@ -464,7 +476,8 @@
    "2026-W38": 0,
    "2026-W39": 0,
    "2026-W42": 0,
-   "2026-W43": 0
+   "2026-W43": 0,
+   "2026-W44": 0
   },
   "evidence": [
    {
@@ -496,13 +509,15 @@
   ],
   "became_post": null,
   "became_post_at": null,
-  "covered_by_context": [],
+  "covered_by_context": [
+   "workplace_insight"
+  ],
   "suggested_angle": "Frame coworking stipends and day-pass desks as a managed spend category for HR, with policy on what employees can claim and why call privacy drives the choice.",
   "current": 0,
   "trailing_mean": 0,
   "delta_z": 0.0,
   "demand_score": 0.0,
-  "saturation_score": 0.0,
+  "saturation_score": 0.333,
   "opportunity_score": 0.0,
   "status": "steady"
  },
@@ -516,7 +531,8 @@
    "2026-W38": 0,
    "2026-W39": 0,
    "2026-W42": 0,
-   "2026-W43": 0
+   "2026-W43": 0,
+   "2026-W44": 0
   },
   "evidence": [
    {
@@ -562,7 +578,8 @@
    "2026-W38": 0,
    "2026-W39": 2,
    "2026-W42": 0,
-   "2026-W43": 0
+   "2026-W43": 0,
+   "2026-W44": 0
   },
   "evidence": [
    {
@@ -624,23 +641,19 @@
    "2026-W38": 2,
    "2026-W39": 3,
    "2026-W42": 4,
-   "2026-W43": 0
+   "2026-W43": 0,
+   "2026-W44": 2
   },
   "evidence": [
    {
-    "quote": "Recently I took an AI course and was fascinated by how quickly it can manage calendar clean up, scheduling, inbox management, etc and it got me thinking, will my admin assistance be needed anymore?",
-    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1wxi541/admin_work_and_ai_doom_and_gloom/",
+    "quote": "everyone signs in with their own account, but the agent connects to the CRM or billing system with one shared API key, so the agent can do anything that the key can do",
+    "url": "https://alterauth.com/",
+    "source_id": "hackernews"
+   },
+   {
+    "quote": "he hired an AI company called Mega AI, which will eventually automate a significant portion of my current responsibilities",
+    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1x528kk/i_thought_i_was_doing_great_as_an_ea_until_today/",
     "source_id": "reddit_executiveassistants"
-   },
-   {
-    "quote": "We build sandboxes for running AI agents at under 10% of the cost of most sandbox providers.",
-    "url": "https://news.ycombinator.com/item?id=50059096",
-    "source_id": "hackernews"
-   },
-   {
-    "quote": "an inference engine for agents that optimizes itself to run as fast as possible on your hardware",
-    "url": "https://github.com/magnitudedev/magnitude",
-    "source_id": "hackernews"
    }
   ],
   "vocabulary": [
@@ -669,13 +682,14 @@
   "became_post_at": null,
   "covered_by_context": [
    "allwork_space",
-   "charter"
+   "charter",
+   "workplace_insight"
   ],
-  "suggested_angle": "Set out what an HR-led policy for AI assistants touching calendars, travel and expense approvals should actually require before anyone turns one on.",
-  "current": 0,
+  "suggested_angle": "Explain to HR buyers who owns agent permissions and spend when an AI assistant starts booking, buying and scheduling on behalf of staff.",
+  "current": 2,
   "trailing_mean": 1.5,
-  "delta_z": -0.933,
-  "demand_score": 0.0,
+  "delta_z": 0.311,
+  "demand_score": 0.1,
   "saturation_score": 1.0,
   "opportunity_score": 0.0,
   "status": "steady"
@@ -689,7 +703,8 @@
    "2026-W38": 0,
    "2026-W39": 0,
    "2026-W42": 0,
-   "2026-W43": 0
+   "2026-W43": 0,
+   "2026-W44": 0
   },
   "evidence": [
    {
@@ -733,17 +748,23 @@
    "2026-W38": 6,
    "2026-W39": 7,
    "2026-W42": 1,
-   "2026-W43": 0
+   "2026-W43": 0,
+   "2026-W44": 11
   },
   "evidence": [
    {
-    "quote": "My company has an open calendar rule where everyone can see everyone else’s meetings unless you make it private. Everyone can see everything, but only EAs can manage invites.",
-    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1wza2xv/calendar_stalking/",
+    "quote": "Does anyone do an end of day calendar review with your exec to go over upcoming meetings for the next day/rest of the week, and what does that look like for you?",
+    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1x70mug/calendar_review/",
     "source_id": "reddit_executiveassistants"
    },
    {
-    "quote": "I sent this specific invite two weeks ago",
-    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1wza2xv/calendar_stalking/",
+    "quote": "Is there anyway in outlook I can update categories myself, so he doesn't have to?",
+    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1x681z2/took_over_an_execs_calendar/",
+    "source_id": "reddit_executiveassistants"
+   },
+   {
+    "quote": "Why the hell do people think its okay to just decline meetings and then create new ones at their preferred time and send them to the my executive?",
+    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1x6oakc/calendar_fiasco/",
     "source_id": "reddit_executiveassistants"
    }
   ],
@@ -772,14 +793,14 @@
   "became_post": null,
   "became_post_at": null,
   "covered_by_context": [],
-  "suggested_angle": "Explain how calendar visibility rules decide who really controls meeting time and room demand, and why HR should set the default rather than leave it to EAs.",
-  "current": 0,
+  "suggested_angle": "Show HR and ops leaders how much senior time is lost to manual calendar policing, and what spend on scheduling and briefing tools actually buys back.",
+  "current": 11,
   "trailing_mean": 2.333,
-  "delta_z": -0.783,
-  "demand_score": 0.0,
+  "delta_z": 2.907,
+  "demand_score": 0.704,
   "saturation_score": 0.0,
-  "opportunity_score": 0.0,
-  "status": "steady"
+  "opportunity_score": 0.704,
+  "status": "accelerating"
  },
  {
   "theme_id": "meeting_room_booking_conflicts",
@@ -789,7 +810,8 @@
    "2026-W38": 1,
    "2026-W39": 0,
    "2026-W42": 0,
-   "2026-W43": 0
+   "2026-W43": 0,
+   "2026-W44": 0
   },
   "evidence": [
    {
@@ -809,13 +831,15 @@
   ],
   "became_post": null,
   "became_post_at": null,
-  "covered_by_context": [],
+  "covered_by_context": [
+   "workplace_insight"
+  ],
   "suggested_angle": "Position room booking hygiene as a spend and utilisation question for HR-led workplace owners, not a policing job dumped on the office manager.",
   "current": 0,
   "trailing_mean": 0.167,
   "delta_z": -0.447,
   "demand_score": 0.0,
-  "saturation_score": 0.0,
+  "saturation_score": 0.333,
   "opportunity_score": 0.0,
   "status": "steady"
  },
@@ -827,18 +851,24 @@
    "2026-W38": 9,
    "2026-W39": 4,
    "2026-W42": 8,
-   "2026-W43": 1
+   "2026-W43": 1,
+   "2026-W44": 16
   },
   "evidence": [
    {
-    "quote": "Started recently a new EA job and I am bad at it",
-    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1x3ox4n/started_recently_a_new_ea_job_and_i_am_bad_at_it/",
+    "quote": "How do you make executive assistant experience sound relevant to ops without exaggerating?",
+    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1xe9lvc/how_do_you_make_executive_assistant_experience/",
     "source_id": "reddit_executiveassistants"
    },
    {
-    "quote": "I was fully operative, but i was still missing delegation on our booking & approval system and I still don't have a company credit card",
-    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1x3ox4n/started_recently_a_new_ea_job_and_i_am_bad_at_it/",
+    "quote": "For an executive assistant to CEO role, which preferences and priorities should be discussed early?",
+    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1xant2j/executive_assistant_to_ceo_what_would_you_want/",
     "source_id": "reddit_executiveassistants"
+   },
+   {
+    "quote": "What can I do to boost my chances of getting an entry level desk job?",
+    "url": "https://www.reddit.com/r/AdminAssistant/comments/1xefiwo/what_can_i_do_to_boost_my_chances_of_getting_an/",
+    "source_id": "reddit_adminassistant"
    }
   ],
   "vocabulary": [
@@ -866,14 +896,14 @@
   "became_post": null,
   "became_post_at": null,
   "covered_by_context": [],
-  "suggested_angle": "Explain how giving a new EA day-one spend access with controlled limits, instead of a vague approval chain, removes most early mistakes and shadow spending.",
-  "current": 1,
-  "trailing_mean": 3.5,
-  "delta_z": -0.655,
-  "demand_score": 0.352,
+  "suggested_angle": "Map what the modern EA and office coordinator role actually absorbs, and where workspace spend tooling removes the lowest value parts of the job.",
+  "current": 16,
+  "trailing_mean": 3.667,
+  "delta_z": 3.35,
+  "demand_score": 1.0,
   "saturation_score": 0.0,
-  "opportunity_score": 0.352,
-  "status": "steady"
+  "opportunity_score": 1.0,
+  "status": "accelerating"
  },
  {
   "theme_id": "personal_data_access_and_credential_handover",
@@ -882,7 +912,8 @@
   "counts_by_week": {
    "2026-W39": 1,
    "2026-W42": 0,
-   "2026-W43": 0
+   "2026-W43": 0,
+   "2026-W44": 0
   },
   "evidence": [
    {
@@ -915,7 +946,8 @@
   "first_seen": "2026-10-12",
   "counts_by_week": {
    "2026-W42": 1,
-   "2026-W43": 0
+   "2026-W43": 0,
+   "2026-W44": 0
   },
   "evidence": [
    {
@@ -955,18 +987,24 @@
   "label": "Sickness absence, doctor's notes and return to work documentation",
   "first_seen": "2026-10-19",
   "counts_by_week": {
-   "2026-W43": 1
+   "2026-W43": 1,
+   "2026-W44": 4
   },
   "evidence": [
    {
-    "quote": "What's the norm/consensus on requiring a doctor's note for someone who has been out with an \"extended\" illness these days?",
-    "url": "https://www.reddit.com/r/humanresources/comments/1wuf9oj/doctors_note_requirements_united_states/",
-    "source_id": "reddit_humanresources"
+    "quote": "I'm not even clear on what the policy is to take sick",
+    "url": "https://www.reddit.com/r/HumanResourcesUK/comments/1xadf83/need_help_calling_in_sick/",
+    "source_id": "reddit_humanresourcesuk"
    },
    {
-    "quote": "our handbook lists casual illness as 3 or fewer consecutive workdays, but doesn't acknowledge what, if anything, we'll require if something is longer than a casual illness",
-    "url": "https://www.reddit.com/r/humanresources/comments/1wuf9oj/doctors_note_requirements_united_states/",
-    "source_id": "reddit_humanresources"
+    "quote": "It was mandated by my employer that I had a meeting with occupational health before returning to work",
+    "url": "https://www.reddit.com/r/HumanResourcesUK/comments/1wrgf4u/discrimination_for_attending_therapy/",
+    "source_id": "reddit_humanresourcesuk"
+   },
+   {
+    "quote": "Final written warning for sickness",
+    "url": "https://www.reddit.com/r/HumanResourcesUK/comments/1wjjowv/final_written_warning_for_sickness/",
+    "source_id": "reddit_humanresourcesuk"
    }
   ],
   "vocabulary": [
@@ -976,18 +1014,65 @@
    "casual illness",
    "consecutive work days",
    "FMLA standards",
-   "handbook"
+   "handbook",
+   "signed off sick",
+   "occupational health",
+   "reasonable adjustments",
+   "phased return",
+   "final written warning",
+   "sickness absence policy",
+   "KIT day",
+   "calling in sick"
   ],
   "became_post": null,
   "became_post_at": null,
   "covered_by_context": [],
-  "suggested_angle": "A short HR playbook on where absence documentation rules belong relative to attendance data, so policy is written once and applied consistently without chasing paperwork.",
-  "current": 1,
+  "suggested_angle": "Show HR how absence, adjustment and return to work records intersect with attendance data without turning into surveillance.",
+  "current": 4,
+  "trailing_mean": 0.167,
+  "delta_z": 10.286,
+  "demand_score": 0.194,
+  "saturation_score": 0.0,
+  "opportunity_score": 0.194,
+  "status": "accelerating"
+ },
+ {
+  "theme_id": "hr_managing_own_workload_and_manager",
+  "label": "HR and ops staff negotiating their own protected time and workload",
+  "first_seen": "2026-10-26",
+  "counts_by_week": {
+   "2026-W44": 2
+  },
+  "evidence": [
+   {
+    "quote": "I'm entitled to 6 hours a week protected study time and I have never been given this",
+    "url": "https://www.reddit.com/r/HumanResourcesUK/comments/1xbvq5o/advice_for_hr_managing_their_own_manager/",
+    "source_id": "reddit_humanresourcesuk"
+   },
+   {
+    "quote": "I wanted time set in my diary each week",
+    "url": "https://www.reddit.com/r/HumanResourcesUK/comments/1xbvq5o/advice_for_hr_managing_their_own_manager/",
+    "source_id": "reddit_humanresourcesuk"
+   }
+  ],
+  "vocabulary": [
+   "protected study time",
+   "time set in my diary",
+   "covering for a colleague off sick",
+   "duty phone",
+   "out of hours calls",
+   "contractual query"
+  ],
+  "became_post": null,
+  "became_post_at": null,
+  "covered_by_context": [],
+  "suggested_angle": "A short piece on how HR and office teams can defend protected time when they are the ones administering everyone else's.",
+  "current": 2,
   "trailing_mean": 0,
   "delta_z": 0.0,
-  "demand_score": 0.293,
+  "demand_score": 0.11,
   "saturation_score": 0.0,
-  "opportunity_score": 0.293,
+  "opportunity_score": 0.11,
   "status": "watching"
  }
 ]

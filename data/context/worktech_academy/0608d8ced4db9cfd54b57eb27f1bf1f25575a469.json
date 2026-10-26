@@ -1,0 +1,14 @@
+{
+ "id": "0608d8ced4db9cfd54b57eb27f1bf1f25575a469",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMnB2aWwzSU5scFFvZDh2LXV1QjQ1Y2ZreVlsRDZOel91RzNmaU1iSHFmLUlVVXBFQ3F3NjltSFQ5V3k4SlBPeUVxQVdrVkVrTzA2aC1QVV9aYjk3UnBGRWM5MTZuTWZDaU9TSS05WEpoLWNMQzk0S3VSREk4Wm1TVEYyb3hLeFBNaTd0S01EZVY?oc=5",
+ "published_at": "2026-02-03",
+ "observed_at": "2026-10-26",
+ "summary": "This item is a headline-only entry from WORKTECH Academy titled \"The World of Work in 2026,\" surfaced through a Google News RSS redirect link. The supplied text contains nothing beyond a repetition of the title and the publisher name, so no body copy, argument, data, or named sources are available to summarize.\n\nBased on the title alone, the piece appears to be a forward-looking outlook or trends feature on the future of work, likely covering themes WORKTECH Academy typically addresses such as workplace design, hybrid working patterns, workplace technology adoption, and employee experience. However, none of this can be confirmed from the content provided.\n\nNo factual claims, statistics, attributions, or vendor and category terminology can be extracted. There is no discussion of visitor management, desk or room booking, return-to-office policy, workplace analytics, or facilities operations in the available text.\n\nRecommended handling: treat this as an unusable stub for the listening pipeline unless the full article is retrieved from the source. If the full text becomes available, it may be worth re-processing, since a 2026 world-of-work outlook from WORKTECH Academy would plausibly touch on hybrid policy and workplace technology themes relevant to the registry. As presented, it should not contribute to saturation scoring on any theme, because tagging it would rest entirely on inference from a title rather than on substantive content.",
+ "claims": [],
+ "vocabulary": [
+  "world of work",
+  "WORKTECH Academy"
+ ],
+ "topics_covered": []
+}

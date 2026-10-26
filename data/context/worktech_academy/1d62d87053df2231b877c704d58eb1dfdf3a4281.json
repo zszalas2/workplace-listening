@@ -1,0 +1,15 @@
+{
+ "id": "1d62d87053df2231b877c704d58eb1dfdf3a4281",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd1ZINFR4RUNESjMzY3pTV3d2Z0l5WnZ1WWs0Z0FiZWQ4U2kyMEpPRW5lVlRMSzdXbnhwRnJ1QUpidTdIRmJFc1doVUcyeTZwTk5oeFVfQ0tiN1RmZlYwa2pJdG16S3l0NlE4bjhMYk9Bbld6ZFRuVXBXZ25oaWRpOUR3MEdxblFxQU5kTkw0c2lEZU9VY2VGX1Nsd3JjREhHczBYQlJKVXhSck1NbVdUWFpQNA?oc=5",
+ "published_at": "2026-10-24",
+ "observed_at": "2026-10-26",
+ "summary": "This item is a headline-only entry from WORKTECH Academy, surfaced via a Google News RSS link, titled \"Dynamic access: how digital identity frameworks are revolutionising the workplace.\" No body text was provided beyond the repeated title, so the substance of the argument cannot be summarised. Based on the title alone, the piece appears to concern digital identity frameworks and dynamic or adaptive access control in workplace settings, likely touching on credentialing, access rights, and how identity-driven systems change entry, security, and space usage in offices. Topics plausibly adjacent include mobile credentials, access control hardware, badge replacement, visitor and employee identity verification, and the integration of identity systems with workplace technology stacks. However, none of this can be confirmed from the supplied text. There are no quotes, statistics, named sources, vendors, or research references available in the item as given. For the listening pipeline, this entry should be treated as a title-level signal only: it indicates WORKTECH Academy is publishing on digital identity and access in the workplace, which may be worth retrieving in full for analysis of credentialing and access control trends. No claims can be extracted and no reliable theme tagging is possible against the provided registry, since the registry themes focus on hot desking, RTO mandates, admin overhead, support metrics, vendor risk review, attendance tracking, visitor sign-in build versus buy, quiet space, AV kit, IT asset ownership, agentic AI, home workspace stipends, calendar and room booking conflicts, EA role scope, credential handover on exit, internal link infrastructure, and sickness absence policy. While digital identity has conceptual overlap with visitor sign-in and credential handling, the headline alone does not establish coverage of those specific discussions, so a strict tagging approach returns no themes. Recommend re-ingesting with full article text before scoring saturation.",
+ "claims": [],
+ "vocabulary": [
+  "dynamic access",
+  "digital identity frameworks",
+  "workplace"
+ ],
+ "topics_covered": []
+}

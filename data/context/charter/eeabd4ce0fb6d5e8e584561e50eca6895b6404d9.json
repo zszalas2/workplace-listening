@@ -1,0 +1,32 @@
+{
+ "id": "eeabd4ce0fb6d5e8e584561e50eca6895b6404d9",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/charter-workplace-summit-2026-taking-breaks-big-and-small/",
+ "published_at": "2026-10-23",
+ "observed_at": "2026-10-26",
+ "summary": "Charter promotes a session at its Workplace Summit 2026 titled \"Taking breaks, big and small.\" The framing: as work pace accelerates and burnout risk rises, intentional breaks can sustain performance, protect wellbeing, and support longer, more sustainable careers. The session will cover the science behind effective breaks across a spectrum of durations, from five-minute micro-breaks to six-month sabbaticals, plus practical tactics for embedding rest into the normal flow of work. Speakers are DJ DiDonna, founder of The Sabbatical Project, author of Big Time Off, and senior lecturer at Harvard Business School, and Manoush Zomorodi, host of NPR's TED Radio Hour and author of Body Electric. Michelle Peng, senior reporter at Charter, moderates. After the panel, Zomorodi will lead the audience through a short movement break. The item is a promotional session listing rather than reporting, so it contains no data, no vendor discussion, and no workplace operations detail. It touches employee wellbeing and burnout as a workforce theme but does not address office space, scheduling, attendance, visitor systems, facilities tooling, or hybrid policy.",
+ "claims": [
+  {
+   "claim": "The pace of work threatens to increase worker burnout, and intentional breaks can help maintain performance, protect wellbeing, and create more sustainable careers",
+   "stat": "",
+   "attribution": "Charter (session description)"
+  },
+  {
+   "claim": "Effective breaks span a range from five-minute micro-breaks to six-month sabbaticals",
+   "stat": "5 minutes to 6 months",
+   "attribution": "Charter session framing, featuring DJ DiDonna and Manoush Zomorodi"
+  }
+ ],
+ "vocabulary": [
+  "micro-breaks",
+  "sabbaticals",
+  "burnout",
+  "wellbeing",
+  "sustainable careers",
+  "flow of work",
+  "movement break",
+  "panel discussion",
+  "Workplace Summit"
+ ],
+ "topics_covered": []
+}

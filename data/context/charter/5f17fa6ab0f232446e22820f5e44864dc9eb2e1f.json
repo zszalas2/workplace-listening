@@ -1,0 +1,79 @@
+{
+ "id": "5f17fa6ab0f232446e22820f5e44864dc9eb2e1f",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/van-jones-advice-for-bridging-political-divides-at-work/",
+ "published_at": "2026-10-25",
+ "observed_at": "2026-10-26",
+ "summary": "Charter's newsletter combines new AI research with highlights from its sixth annual Charter Workplace Summit, closing with an interview between CNN host Van Jones and Charter editor-in-chief Kevin Delaney.\n\nAI and Work Radar items: The new Charter AI Pulse, based on surveys of more than 5,000 US desk workers, managers, and executives, finds only about 1 in 10 AI users say the technology is making both their work and lives much better. The strongest predictor of benefiting from AI is agency, meaning having a say in how AI fits into one's job. Executives are twice as likely as workers to trust AI outputs over their own judgment, and 3.3 times as likely to regularly use outputs they doubt. Pew Research Center analysis finds men in highly AI-exposed occupations saw 24% job growth while women's employment growth stayed nearly flat; the pattern reverses in least-exposed occupations. LinkedIn reports AI safety job openings spiked 91% over the past year, with talent described as the main bottleneck. New York governor Kathy Hochul announced a $10 million AI Jobs Institute training center aiming to train up to 40,000 low-income New Yorkers by 2032.\n\nVan Jones, also co-founder of workplace AI coaching platform Rapport, argues workers are stressed, divided, and disengaged because media consumption has become more differentiated across people while each individual's feed is more homogenous, leaving leaders managing people with little in common. He says an earlier experiment turning a Slack channel into daily political argument failed because people lacked the mindset and toolset. He criticizes low tolerance for expressed disagreement, citing graduates equating disagreeable speech with violence. He describes co-hosting Crossfire with Newt Gingrich as transformative, leading him to apologize for stereotyping conservatives and to pass 16 bills together in red states, including on dignity for incarcerated women.",
+ "claims": [
+  {
+   "claim": "Only about 1 in 10 AI users say the technology is making both their work and their lives much better",
+   "stat": "1 in 10",
+   "attribution": "Charter AI Pulse, survey of 5,000+ US desk workers, managers, and executives"
+  },
+  {
+   "claim": "Agency, having a say in how AI fits into one's job, is the strongest predictor of benefiting from AI use",
+   "stat": "",
+   "attribution": "Charter AI Pulse"
+  },
+  {
+   "claim": "Executives are twice as likely as workers to trust AI's outputs over their own judgment",
+   "stat": "2x",
+   "attribution": "Charter AI Pulse"
+  },
+  {
+   "claim": "Executives are 3.3 times as likely as workers to regularly use AI outputs they doubt",
+   "stat": "3.3x",
+   "attribution": "Charter AI Pulse"
+  },
+  {
+   "claim": "Men in occupations highly exposed to AI have seen a 24% jump in job growth while women's employment growth stayed nearly flat",
+   "stat": "24%",
+   "attribution": "Pew Research Center analysis"
+  },
+  {
+   "claim": "In occupations with least AI exposure, women's employment is growing faster than men's",
+   "stat": "",
+   "attribution": "Pew Research Center analysis"
+  },
+  {
+   "claim": "Job openings for AI safety roles spiked 91% over the past year",
+   "stat": "91%",
+   "attribution": "LinkedIn"
+  },
+  {
+   "claim": "Finding AI safety talent is the main bottleneck for the sector",
+   "stat": "",
+   "attribution": "A nonprofit adviser speaking to Business Insider"
+  },
+  {
+   "claim": "New York City is opening a $10 million AI job training center, the AI Jobs Institute, aiming to train up to 40,000 low-income New Yorkers by 2032",
+   "stat": "$10 million; 40,000 people by 2032",
+   "attribution": "New York governor Kathy Hochul"
+  },
+  {
+   "claim": "Jones and Newt Gingrich passed 16 bills together in red states",
+   "stat": "16 bills",
+   "attribution": "Van Jones"
+  }
+ ],
+ "vocabulary": [
+  "Charter AI Pulse",
+  "desk workers",
+  "AI exposure",
+  "AI safety roles",
+  "workforce capacity",
+  "AI Jobs Institute",
+  "Charter Workplace Summit",
+  "middle managers",
+  "entry-level jobs challenge",
+  "caregiving crisis",
+  "workplace AI coaching platform",
+  "Rapport",
+  "Slack channel",
+  "HR",
+  "political divides at work",
+  "agency"
+ ],
+ "topics_covered": []
+}

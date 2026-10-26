@@ -1,0 +1,34 @@
+{
+ "id": "642cbb69ed484967802c2ec099af879e4bb20b06",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/charter-workplace-summit-2026-closing-remarks-and-discussion/",
+ "published_at": "2026-10-23",
+ "observed_at": "2026-10-26",
+ "summary": "Charter published show notes for the closing session of its sixth annual Charter Workplace Summit (2026). Charter editor-in-chief Kevin Delaney hosted a closing conversation with the summit's two co-chairs, who shared their top takeaways, insights, and themes from the day's programming. The listed speakers were Betty Larson, executive vice president and chief human resources officer at Merck, and Amy Reichanadter, chief people officer at Databricks. The item is essentially a session listing rather than substantive coverage: it names the format (closing remarks and discussion), the host, and the participants, but does not record any of the actual takeaways, data points, or arguments raised. No workplace-technology specifics are given, and there is no discussion of hybrid or return-to-office policy, workplace operations tooling, visitor management, space booking, or workplace analytics in the text provided. Because the body contains no claims beyond speaker identification and the event's sixth-annual status, there is nothing substantive to tag against operational workplace themes. Readers seeking the content of the discussion would need the full recording or transcript, which is not included here.",
+ "claims": [
+  {
+   "claim": "This was the sixth annual Charter Workplace Summit",
+   "stat": "6th annual",
+   "attribution": "Charter"
+  },
+  {
+   "claim": "Betty Larson is executive vice president and chief human resources officer at Merck",
+   "stat": "",
+   "attribution": "Charter"
+  },
+  {
+   "claim": "Amy Reichanadter is chief people officer at Databricks",
+   "stat": "",
+   "attribution": "Charter"
+  }
+ ],
+ "vocabulary": [
+  "Charter Workplace Summit",
+  "chief human resources officer",
+  "chief people officer",
+  "editor-in-chief",
+  "summit co-chairs",
+  "closing remarks"
+ ],
+ "topics_covered": []
+}

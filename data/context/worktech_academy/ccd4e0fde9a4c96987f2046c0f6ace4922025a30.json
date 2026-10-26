@@ -1,0 +1,13 @@
+{
+ "id": "ccd4e0fde9a4c96987f2046c0f6ace4922025a30",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PRTFHaG9yRGtjMHZpM0lOakxhMUNzSmlpWVEwVGRha3Z3T2pQVjQxVFRmUkJvVDFVTFU5NEZaaHVNaTY3cWFBZWtwVlFwQ0JPNDlOSzBaSHJGcGx2NUgyank2NjdycTNYME42LVJkTQ?oc=5",
+ "published_at": "2026-10-23",
+ "observed_at": "2026-10-26",
+ "summary": "This item is effectively a stub. The record consists of a Google News RSS redirect link to a WORKTECH Academy page titled \"Simona Melville - WORKTECH Academy,\" and the body text simply repeats the title: \"Simona Melville WORKTECH Academy.\" No article body, abstract, publication date, or author byline is present in the supplied payload.\n\nBased on the title pattern, the destination is most likely a contributor, speaker, or author profile page on WORKTECH Academy, a workplace innovation research and membership platform that publishes on workplace design, hybrid working, workplace technology, and the future of work. Such pages typically list a person's biography and an index of their contributed articles or event appearances rather than presenting substantive argument or data.\n\nBecause no content was captured, there are no factual claims, statistics, named sources, or quotations to extract. There is also no category vocabulary beyond the publisher name, and no usable discussion of visitor management, desk or room booking, hybrid and return-to-office policy, workplace analytics, or facilities operations.\n\nRecommended handling for the listening pipeline: treat this as a non-substantive capture. It should either be re-crawled to resolve the Google News redirect to the underlying WORKTECH Academy URL and fetch the full page, or dropped from scoring entirely. Tagging it against any theme would introduce false saturation signal, so no theme_ids are assigned. If a re-crawl returns a profile page only, the item should be excluded as a directory or biography page rather than editorial content. If the resolved page turns out to be a bylined article, it should be resubmitted for summarization and theme tagging at that point.",
+ "claims": [],
+ "vocabulary": [
+  "WORKTECH Academy"
+ ],
+ "topics_covered": []
+}

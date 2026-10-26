@@ -1,0 +1,65 @@
+{
+ "id": "a1cb7f808b4f0f8db623ae604b45fcff5bd1dda0",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/10/anthropics-new-claude-duet-ai-agent-wants-to-manage-your-workday-before-you-ask/",
+ "published_at": "2026-10-23",
+ "observed_at": "2026-10-26",
+ "summary": "Allwork.Space reports (via Reuters) that Anthropic unveiled Claude Duet, a standalone AI agent app positioned as a proactive assistant for professionals and small-business owners. The launch lands amid a race among OpenAI, Meta and Anthropic to ship agents that complete work autonomously on users' behalf.\n\nWhat Duet does: delivers a daily briefing and handles tasks spanning scheduling meetings, building financial forecasts and creating web apps. Rather than waiting for prompts, it monitors a user's connected apps and surfaces items that require attention.\n\nAvailability: iOS, Android and claude.ai, via a waitlisted research preview. It is built on Anthropic's Opus 5.5 model and is initially offered to US subscribers on Pro and Max plans, drawing on their existing usage limits.\n\nIntegrations and commerce: Duet connects to more than 6,000 connectors in the Claude Marketplace, including Gmail and Slack, and can make purchases through Stripe's Link digital wallet and Shopify's Shop Pay.\n\nGovernance and limitations: Anthropic says Duet requires user approval for sensitive actions, a human-in-the-loop style control. The company also acknowledges the agent can misjudge urgency and is less effective at personal tasks such as booking tickets.\n\nCompetitive context: OpenAI launched always-on \"dots\" agents the prior month that pursue user goals across apps including Slack and Microsoft Teams. Meta's Muse AI agent drew millions of downloads and fueled investor interest in autonomous AI services.\n\nWorkplace relevance: the scheduling and daily-briefing framing puts agentic tools directly into territory traditionally handled by executive assistants and admin staff, raising questions about delegation boundaries, approval workflows and who governs agent access to email, chat and payment credentials. Reporting by Anhata Rooprai in Bengaluru, editing by Shreya Biswas.",
+ "claims": [
+  {
+   "claim": "Claude Duet integrates with connectors in the Claude Marketplace, including Gmail and Slack",
+   "stat": "over 6,000 connectors",
+   "attribution": "Anthropic, via Reuters/Allwork.Space"
+  },
+  {
+   "claim": "Duet is built on Anthropic's Opus 5.5 model and is initially available to US subscribers on Pro and Max plans, sharing existing usage limits",
+   "stat": "Opus 5.5",
+   "attribution": "Anthropic"
+  },
+  {
+   "claim": "Duet delivers a daily briefing and handles tasks from scheduling meetings to building financial forecasts and web apps",
+   "stat": "",
+   "attribution": "Anthropic"
+  },
+  {
+   "claim": "Duet requires user approval for sensitive actions, but can misjudge urgency and is less effective at personal tasks such as booking tickets",
+   "stat": "",
+   "attribution": "Anthropic"
+  },
+  {
+   "claim": "OpenAI launched always-on 'dots' agents that pursue user goals across apps such as Slack and Microsoft Teams",
+   "stat": "",
+   "attribution": "Reuters reporting"
+  },
+  {
+   "claim": "Meta's Muse AI agent drew millions of downloads and fueled investor interest in autonomous AI services",
+   "stat": "millions of downloads",
+   "attribution": "Reuters reporting"
+  },
+  {
+   "claim": "Duet can make purchases via Stripe's Link digital wallet and Shopify's Shop Pay",
+   "stat": "",
+   "attribution": "Anthropic"
+  }
+ ],
+ "vocabulary": [
+  "AI agent",
+  "agentic AI",
+  "proactive assistant",
+  "daily briefing",
+  "research preview",
+  "waitlist",
+  "Opus 5.5",
+  "Claude Marketplace",
+  "connectors",
+  "always-on agents",
+  "autonomous AI services",
+  "user approval for sensitive actions",
+  "digital wallet",
+  "Pro and Max plans",
+  "usage limits"
+ ],
+ "topics_covered": [
+  "agentic_ai_tooling_and_governance"
+ ]
+}

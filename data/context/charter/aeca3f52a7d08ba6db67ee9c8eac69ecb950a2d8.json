@@ -1,0 +1,42 @@
+{
+ "id": "aeca3f52a7d08ba6db67ee9c8eac69ecb950a2d8",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/charter-workplace-summit-2026-solving-the-entry-level-jobs-crisis/",
+ "published_at": "2026-10-23",
+ "observed_at": "2026-10-26",
+ "summary": "This is a session listing for the Charter Workplace Summit 2026, promoting a fireside conversation on the entry-level jobs crisis. The featured speaker is Clara Shih, founder of the New Work Foundation, who previously led business AI efforts at companies including Meta and Salesforce. The description frames Shih's personal turning point: after a career building and hiring for business AI teams, she found herself removing job postings for the very entry-level roles she had once filled, a shift attributed to the impact of AI on junior work.\n\nThe New Work Foundation is described as a nonprofit with a dual mission. On the supply side, it equips young job seekers with AI skills and job search tools. On the demand side, it advocates to employers, urging them to continue hiring at the bottom of the career ladder rather than eliminating junior roles.\n\nThe session promises Shih's case for what can be done about what the listing calls the entry-level jobs collapse, with emphasis on employers playing an essential role in any fix. Jena McGregor, managing editor at Charter, moderates.\n\nThe item is promotional event copy rather than reporting. It contains no data, survey findings, or statistics, and no detail on specific policy proposals, program scale, or employer commitments. Themes implied but not developed include AI displacement of junior knowledge work, early-career talent pipelines, workforce development and reskilling, and employer responsibility in labor market shifts. There is no coverage of workplace operations topics such as office space, attendance, visitor management, or facilities.",
+ "claims": [
+  {
+   "claim": "Clara Shih led business AI at companies including Meta and Salesforce",
+   "stat": "",
+   "attribution": "Charter session description"
+  },
+  {
+   "claim": "Shih removed job postings for entry-level roles she had previously hired for",
+   "stat": "",
+   "attribution": "Charter session description"
+  },
+  {
+   "claim": "The New Work Foundation is a nonprofit providing young job seekers with AI skills and job search tools while urging employers to keep hiring entry-level workers",
+   "stat": "",
+   "attribution": "Charter session description"
+  },
+  {
+   "claim": "There is an ongoing entry-level jobs collapse that employers are essential to fixing",
+   "stat": "",
+   "attribution": "Clara Shih, via Charter session framing"
+  }
+ ],
+ "vocabulary": [
+  "entry-level jobs crisis",
+  "entry-level jobs collapse",
+  "business AI",
+  "New Work Foundation",
+  "AI skills",
+  "job search tools",
+  "hiring at the bottom of the ladder",
+  "fireside conversation",
+  "Charter Workplace Summit 2026"
+ ],
+ "topics_covered": []
+}

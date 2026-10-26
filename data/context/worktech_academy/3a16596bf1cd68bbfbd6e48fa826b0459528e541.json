@@ -1,0 +1,16 @@
+{
+ "id": "3a16596bf1cd68bbfbd6e48fa826b0459528e541",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ1paZXFSdTdmREVDVll6M0FvX2JMbl9LOHp0bzV3dml1M1U1Vko2SkRlMFZMTWdRQUE4SG1BMHZHaWV6YWg3X3FxaXp3NktTM3VDRURIZXhHTUVSZTVYQWJZb3c1NDUtbFhVcDA4X0tOb2REdUpZaGlQWm1Edl9VQjRaakllUWF0WV9pbzRfV01YVlgyM0Y3Q21jLVA?oc=5",
+ "published_at": "2024-08-19",
+ "observed_at": "2026-10-26",
+ "summary": "This item is a headline-only entry from WORKTECH Academy promoting a podcast episode titled \"How data-driven insights can demystify the workplace experience.\" No body text, show notes, guest names, episode description or transcript were included in the supplied content, so the substance of the discussion cannot be summarized. Based on the title alone, the episode appears to sit in the workplace analytics and employee experience space, suggesting a conversation about using workplace data, occupancy or sentiment measurement to better understand how people use offices and how the workplace experience is perceived. No specific metrics, vendors, methodologies, case studies or policy positions are present in the item. No claims, statistics or attributions can be extracted. Because the only usable signal is the title, this item should be treated as a low-information stub for the listening pipeline: it indicates publisher activity and topic direction for WORKTECH Academy but contributes no evidence to any theme. If full show notes or a transcript become available, the item would likely be re-evaluated for relevance to workplace analytics, occupancy data and experience measurement themes, none of which appear as discrete theme_ids in the provided registry. Tagging against the current registry yields no matches, since the title does not address hot desking, return to office mandates, admin overhead, visitor management, room booking, support desk metrics, attendance tracking tools or any other listed theme with sufficient specificity. Strict saturation scoring therefore returns an empty topic list rather than a speculative match to adjacent themes such as attendance tracking or hybrid policy.",
+ "claims": [],
+ "vocabulary": [
+  "data-driven insights",
+  "workplace experience",
+  "WORKTECH Academy",
+  "podcast"
+ ],
+ "topics_covered": []
+}

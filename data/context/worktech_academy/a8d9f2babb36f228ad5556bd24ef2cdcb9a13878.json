@@ -1,0 +1,18 @@
+{
+ "id": "a8d9f2babb36f228ad5556bd24ef2cdcb9a13878",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ1k3bVA3ei1mWEZlMUloQkJLY0RHVFdhTVd4OUdoemp1VUtISldhb2diZ01ZMmZLVFd2OHM2MXhyWTd6VmZWU0JVeVpadmRFYWZwLWFJdVB6ZGtmZUttRWNreFhmRlJZRmlINGdoLUFjdEFyMFd6UFM2TWxnX01TcjdGUkR1WlRaeVI3WDVqZlJRNW42bnZveDVWU1FOenNf?oc=5",
+ "published_at": "2025-11-11",
+ "observed_at": "2026-10-26",
+ "summary": "This item is a headline-only entry from WORKTECH Academy, surfaced via a Google News RSS link. The title asks: \"After the return: can the office really raise levels of performance?\" No body text, author, date, or supporting detail is included in the supplied record, so the substance of the argument cannot be summarized.\n\nFrom the title alone, the piece appears to sit in the post-return-to-office debate, framing a question about whether physical office attendance actually improves workplace performance and productivity rather than simply restoring pre-pandemic presence. The phrase \"after the return\" implies the article treats large-scale RTO as already largely accomplished and shifts the question toward outcomes and justification: what the office contributes once people are back. WORKTECH Academy typically publishes research-led commentary on workplace design, hybrid work strategy, and performance measurement, so the likely content concerns evidence for office-driven performance gains, workplace experience design, and how organisations measure the value of in-office time.\n\nNo statistics, named sources, vendor references, or research citations are present in the supplied text. Any tagging beyond the broad return-to-office and office performance theme would be speculative. A follow-up fetch of the full article would be needed to extract claims, data points, and category vocabulary for the listening pipeline. Readers should treat this entry as a pointer or lead rather than a usable source summary.",
+ "claims": [],
+ "vocabulary": [
+  "return to office",
+  "after the return",
+  "office performance",
+  "WORKTECH Academy"
+ ],
+ "topics_covered": [
+  "hybrid_rto_mandate_pushback"
+ ]
+}

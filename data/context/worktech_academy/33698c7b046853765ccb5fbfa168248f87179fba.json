@@ -1,0 +1,16 @@
+{
+ "id": "33698c7b046853765ccb5fbfa168248f87179fba",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPejVNN2pwM3ZnNElsVmxHQ0xYU2ZPbHdPR2EzNEd3czAyWDdnZlRSM04wSXpjazJucE51MUpaeFE4Rl9WeWN1MlY1T0lUWGFQc2JyVmpUMHBKaEVlYWFOLUZjbXNFOE5mV2dTTWNTT2tlbklqdkU5MFNQY2VsOWdRcVZkcGUwQmNDUExwTDRndk50MVFrS01jREhwdw?oc=5",
+ "published_at": "2026-10-21",
+ "observed_at": "2026-10-26",
+ "summary": "This item is a headline-only entry from WORKTECH Academy with no accompanying article body in the supplied text. The title, \"Design for civility: how to stop your colleagues behaving badly,\" indicates a piece about workplace behaviour and incivility in offices, and how workplace or office design can be used to curb or discourage bad colleague conduct. Based on the source (WORKTECH Academy, a workplace innovation research and trade publication) and the framing of the headline, the likely subject matter covers office etiquette, noise and disruption in shared environments, social norms in open or shared settings, and design-led interventions intended to encourage civil behaviour among coworkers. However, no body copy, author, data, named sources, examples, or recommendations are present in the provided material, so none of this can be confirmed. There are no verifiable statistics, quotes, vendor references, or category terminology available to extract. No specific workplace-technology category language (visitor management, desk or room booking, attendance tracking, workplace analytics, hybrid policy tooling) appears in the supplied text. Analysts wanting usable detail would need to retrieve the full article from the WORKTECH Academy site, since the Google News RSS link provided resolves to a redirect rather than readable content. Recommend re-ingestion with full text before tagging or scoring this item for theme saturation.",
+ "claims": [],
+ "vocabulary": [
+  "design for civility",
+  "workplace behaviour",
+  "colleagues",
+  "WORKTECH Academy"
+ ],
+ "topics_covered": []
+}

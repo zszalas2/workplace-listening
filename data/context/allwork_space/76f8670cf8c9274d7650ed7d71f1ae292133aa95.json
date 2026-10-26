@@ -1,0 +1,111 @@
+{
+ "id": "76f8670cf8c9274d7650ed7d71f1ae292133aa95",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/10/why-companies-are-struggling-to-turn-ai-adoption-into-measurable-roi/",
+ "published_at": "2026-10-25",
+ "observed_at": "2026-10-26",
+ "summary": "Allwork.space argues that enterprise AI buying has outpaced measurable business value, and that the gap between deployment and results is now the central AI adoption problem. The author interviews Rich Fox, President and CEO of Ardent Learning, and Bianca Baumann, VP of Learning Solutions & Innovation, whose AIRE framework focuses on AI readiness and enablement. Their core claim: organizations stall when tool access and training are treated as the finish line, leaving employees and managers to work out how AI should change actual work.\n\nKey arguments:\n\n1. Measure changed work, not tool activity. Fox warns that easier AI lets companies produce more output without more productivity, generating analyses and dashboards that obscure priorities. Baumann says most firms track logins, seats provisioned and satisfaction scores, none of which show business change. She recommends picking a high-value workflow, baselining it before rollout, then testing turnaround time, error rates, decision quality and share of higher-value work. Research cited supports workflow redesign over unchanged workflows.\n\n2. Managers are the hinge. Employee resistance is more social than skills-based: people watch colleagues to judge what is normal. Fox advises CEOs and CHROs to stop asking about query counts, token usage and training completion, and instead ask managers what is not happening, how they use AI themselves, and which employee questions they cannot answer. Communication gaps widen below VP level.\n\n3. Fear shapes usage. Employees worry about job loss and devalued expertise; Fox says \"you can't train your way out of fear.\" Workers feel simultaneous pressure to adopt and to avoid risk, making continuous learning necessary as skills shift.\n\n4. Start narrow. Baumann recommends three to five priority workflows, asking employees where they reach for or avoid AI, and listening for specific behavioral evidence. The suggested sequence (define outcome, assess readiness, clarify expectations, redesign, support, measure) mirrors Ardent's six-stage AIRE model.",
+ "claims": [
+  {
+   "claim": "Only a minority of organizations attribute any EBIT impact to AI, and few qualify as AI high performers",
+   "stat": "37 percent attributed EBIT impact; 6 percent were AI high performers",
+   "attribution": "McKinsey 2026 global survey"
+  },
+  {
+   "claim": "Nearly half of U.S. employees say their organizations had integrated AI tools",
+   "stat": "47 percent, by mid-2026",
+   "attribution": "Gallup"
+  },
+  {
+   "claim": "Leaders were far more likely to report enterprise value when AI-enabled workflows were redesigned rather than left unchanged",
+   "stat": "5.3 times more likely",
+   "attribution": "McKinsey readiness study"
+  },
+  {
+   "claim": "Organizational factors such as culture, manager support and talent practices accounted for twice the reported AI impact of individual effort",
+   "stat": "2x",
+   "attribution": "Microsoft 2026 Work Trend Index"
+  },
+  {
+   "claim": "AI high performers had fundamentally redesigned workflows at far higher rates than other respondents",
+   "stat": "nearly three-quarters vs about one-quarter",
+   "attribution": "McKinsey survey"
+  },
+  {
+   "claim": "Most employees are excited to use AI, but many do not use it because coworkers are not",
+   "stat": "65 percent excited; 37 percent did not use it despite access",
+   "attribution": "Gartner"
+  },
+  {
+   "claim": "Communication of AI-agent strategy is perceived very differently by level",
+   "stat": "21 percent of sub-VP employees said strategy was not clearly communicated vs 9 percent of VP-level leaders",
+   "attribution": "EY agentic AI workforce research"
+  },
+  {
+   "claim": "AI users feel both pressure to adapt and pressure to avoid risk",
+   "stat": "65 percent feared falling behind; 45 percent said it felt safer to focus on current goals",
+   "attribution": "Microsoft Work Trend Index"
+  },
+  {
+   "claim": "A large share of workers' core skills will change by the end of the decade",
+   "stat": "39 percent by 2030",
+   "attribution": "World Economic Forum"
+  },
+  {
+   "claim": "Demand for prompt engineering as a core skill across functions surged",
+   "stat": "up 403 percent during 2025",
+   "attribution": "Randstad 2026 Workmonitor"
+  },
+  {
+   "claim": "Skills in the most AI-exposed jobs are changing far faster than in the least exposed jobs",
+   "stat": "more than twice as fast",
+   "attribution": "PwC 2026 AI Jobs Barometer"
+  },
+  {
+   "claim": "Companies measure access and activity rather than business change",
+   "stat": "",
+   "attribution": "Bianca Baumann, VP of Learning Solutions & Innovation, Ardent Learning"
+  },
+  {
+   "claim": "Managers determine whether AI strategy reaches daily work",
+   "stat": "",
+   "attribution": "Rich Fox, President and CEO, Ardent Learning"
+  }
+ ],
+ "vocabulary": [
+  "AI adoption",
+  "measurable ROI",
+  "EBIT impact",
+  "AI high performers",
+  "AIRE framework",
+  "AI readiness and enablement",
+  "workflow redesign",
+  "AI-enabled workflows",
+  "tool activity",
+  "seats provisioned",
+  "logins",
+  "satisfaction score",
+  "baseline",
+  "turnaround time",
+  "error rates",
+  "decision quality",
+  "query counts",
+  "token usage",
+  "training completion",
+  "agentic AI",
+  "AI agents",
+  "AI-agent strategy",
+  "prompt engineering",
+  "AI-exposed jobs",
+  "Work Trend Index",
+  "AI Jobs Barometer",
+  "Workmonitor",
+  "CHRO",
+  "enablement",
+  "human behavior change",
+  "six-stage AIRE model"
+ ],
+ "topics_covered": [
+  "agentic_ai_tooling_and_governance"
+ ]
+}

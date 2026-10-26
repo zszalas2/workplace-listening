@@ -1,0 +1,79 @@
+{
+ "id": "c24e9c0a88c79da7c36043eb4be3e1e61377497d",
+ "source_id": "workplace_insight",
+ "url": "https://workplaceinsight.net/unity-place-why-the-office-day-needs-to-be-worth-the-commute/?utm_source=rss&utm_medium=rss&utm_campaign=unity-place-why-the-office-day-needs-to-be-worth-the-commute",
+ "published_at": "2026-10-21",
+ "observed_at": "2026-10-26",
+ "summary": "Workplace Insight profiles Unity Place in Milton Keynes, a mixed-use building opposite Milton Keynes Central station combining coworking, meeting rooms, event spaces, and food and social spaces. The piece argues hybrid working has shifted the purpose of in-person days: businesses are more intentional about face-to-face time, using office days for collaboration, team catch-ups, client meetings, networking and shared experiences rather than desk work.\n\nUsage data is offered as evidence. x+why at Unity Place recorded 868 meeting room bookings year to date and around 5,800 visitors year to date, plus repeat bookings from businesses that do not want a permanent office but need somewhere flexible to gather teams. Polly from x+why says that if people are travelling in, the day needs to feel worthwhile and have a purpose beyond sitting at a desk.\n\nDemand has appeared in unexpected ways: during the summer heatwave people used the space as an air-conditioned alternative to working from home, and some short-term users converted to ongoing flex members. Spaces host meetings, team days, workshops, training, networking, panel discussions, photography, filming and events for 100-plus people.\n\nUnity Place's wider conference and events operation hosted 728 meetings and events plus 319 Santander meetings in the last year, more than 1,000 total. The team reports strong demand for team building and fewer overnight, two-day and evening events, attributed to respecting employees' personal time and work-life balance. One team-building event used an inflatable football pitch.\n\nThe Santander Work Café welcomes 1,500 to 2,500 visitors monthly, busiest Tuesday to Thursday between 10am and 3pm, used for independent working, informal meetings, networking, banking and events, with a growing community of regulars making introductions. A Unity Place spokesperson says the purpose of coming together has changed and people want flexibility plus high-quality spaces for when it matters.",
+ "claims": [
+  {
+   "claim": "x+why at Unity Place has recorded meeting room bookings year to date",
+   "stat": "868 meeting room bookings",
+   "attribution": "Unity Place / x+why, via Workplace Insight"
+  },
+  {
+   "claim": "x+why at Unity Place visitor count year to date",
+   "stat": "around 5,800 visitors",
+   "attribution": "Unity Place / x+why, via Workplace Insight"
+  },
+  {
+   "claim": "Unity Place hosted meetings and events over the last year",
+   "stat": "728 meetings and events plus 319 Santander meetings, more than 1,000 total",
+   "attribution": "Unity Place Conference & Events team"
+  },
+  {
+   "claim": "The Santander Work Café at Unity Place receives monthly visitors",
+   "stat": "1,500 to 2,500 visitors per month",
+   "attribution": "Unity Place"
+  },
+  {
+   "claim": "Work Café peak usage is Tuesday to Thursday between 10am and 3pm",
+   "stat": "",
+   "attribution": "Unity Place Work Café team"
+  },
+  {
+   "claim": "Businesses are becoming more intentional about face-to-face time, needing the travel-in day to have purpose beyond desk work",
+   "stat": "",
+   "attribution": "Polly, x+why at Unity Place"
+  },
+  {
+   "claim": "Demand is rising for team-building activity while overnight, two-day and evening events decline",
+   "stat": "",
+   "attribution": "Unity Place Conference & Events team"
+  },
+  {
+   "claim": "During the summer heatwave more people used the coworking space as an air-conditioned alternative to working from home, with some converting to ongoing flex members",
+   "stat": "",
+   "attribution": "x+why at Unity Place"
+  },
+  {
+   "claim": "Spaces host events for more than 100 people",
+   "stat": "100+ people",
+   "attribution": "x+why at Unity Place"
+  }
+ ],
+ "vocabulary": [
+  "hybrid working",
+  "coworking",
+  "flex members",
+  "flexible working",
+  "meeting room bookings",
+  "informal workspaces",
+  "event spaces",
+  "conference and events",
+  "team days",
+  "team building",
+  "work café",
+  "networking",
+  "drop-in",
+  "repeat bookings",
+  "face-to-face time",
+  "work-life balance",
+  "permanent office"
+ ],
+ "topics_covered": [
+  "hybrid_rto_mandate_pushback",
+  "quiet_space_calls_and_coworking_choice",
+  "meeting_room_booking_conflicts"
+ ]
+}

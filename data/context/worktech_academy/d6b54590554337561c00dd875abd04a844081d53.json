@@ -1,0 +1,14 @@
+{
+ "id": "d6b54590554337561c00dd875abd04a844081d53",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBIQnpYYVoxSUMySWFvRGlpbmIyUGY0Z3dORzdGd3JncDNLVjVaVEZXUnk0ekx4bTB6NHZBN0tHc0tLOXJZVzRxdHZWNVRtVUNTUmo0c3lzTk4zSHk4Vmxz?oc=5",
+ "published_at": "2026-10-15",
+ "observed_at": "2026-10-26",
+ "summary": "This item is effectively empty. The entry consists only of a Google News RSS redirect link titled \"HID - WORKTECH Academy\" with body text repeating \"HID WORKTECH Academy.\" No article body, byline, date, or substantive content was captured, so there is nothing to summarize beyond the apparent source attribution: WORKTECH Academy, a workplace research and insight platform, and HID, a vendor associated with access control, credentials and identity technology often used in workplace security and building entry contexts.\n\nBecause the underlying text was not retrieved, no claims, statistics, or named sources can be extracted, and no vendor or category language beyond the two brand names is present. The topic area can only be inferred from the publisher and sponsor names, which is not sufficient evidence for theme tagging under a strict standard. Potential adjacent themes such as access control, credentialing, or visitor entry cannot be confirmed from the available text.\n\nRecommended handling for the pipeline: treat this as a retrieval failure rather than a content item. Re-fetch the destination URL behind the Google News redirect to obtain the full article, then re-run extraction. If re-fetching fails, drop the item so it does not dilute saturation scoring or introduce speculative theme assignments.",
+ "claims": [],
+ "vocabulary": [
+  "HID",
+  "WORKTECH Academy"
+ ],
+ "topics_covered": []
+}

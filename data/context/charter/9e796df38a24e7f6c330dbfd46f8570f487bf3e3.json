@@ -1,0 +1,39 @@
+{
+ "id": "9e796df38a24e7f6c330dbfd46f8570f487bf3e3",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/charter-workplace-summit-2026-what-it-takes-to-grow-cultures-of-experimentation-and-belonging/",
+ "published_at": "2026-10-24",
+ "observed_at": "2026-10-26",
+ "summary": "A short event promotion page for the Charter Workplace Summit 2026, previewing a fireside session on building cultures of experimentation and belonging. The listing frames the problem as a gap between intent and execution: most companies say they want employees to feel they belong, but few successfully grow such a culture. Patagonia's Theresita Richard, chief people and culture officer and global head of justice and belonging, is slated to discuss what it takes to create an environment where employees have permission to experiment and fail, where frontline workers have genuine channels for input, and where leadership holds the line on inclusion even when external pressure pushes companies to retreat from those commitments. The session is pitched as a candid conversation about psychological safety and about the specific conditions that make belonging something practiced rather than performed. Erin Grau, co-founder and managing director of Charter, will moderate. The text is purely promotional, containing no data, research findings, survey results, or operational detail. It does not address workplace operations topics such as office attendance, desk or room booking, visitor management, facilities tooling, or hybrid and return-to-office policy. The content sits in the people and culture, DEI, and employee experience domain rather than the workplace technology or facilities domain.",
+ "claims": [
+  {
+   "claim": "Most companies say they want a culture where people feel they belong, but few are successful at growing one.",
+   "stat": "",
+   "attribution": "Charter (event listing copy)"
+  },
+  {
+   "claim": "Theresita Richard is chief people and culture officer and global head of justice and belonging at Patagonia.",
+   "stat": "",
+   "attribution": "Charter"
+  },
+  {
+   "claim": "Erin Grau is co-founder and managing director of Charter and will moderate the session.",
+   "stat": "",
+   "attribution": "Charter"
+  }
+ ],
+ "vocabulary": [
+  "culture of experimentation",
+  "belonging",
+  "psychological safety",
+  "frontline workers",
+  "inclusion",
+  "justice and belonging",
+  "chief people and culture officer",
+  "fireside",
+  "Charter Workplace Summit 2026",
+  "permission to experiment and fail",
+  "practiced, not performed"
+ ],
+ "topics_covered": []
+}

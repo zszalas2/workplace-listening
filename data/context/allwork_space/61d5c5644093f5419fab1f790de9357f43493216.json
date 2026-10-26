@@ -1,0 +1,72 @@
+{
+ "id": "61d5c5644093f5419fab1f790de9357f43493216",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/10/india-proposes-new-way-to-measure-employment-adding-gig-and-unpaid-work-to-official-survey/",
+ "published_at": "2026-10-23",
+ "observed_at": "2026-10-26",
+ "summary": "India's statistics ministry has proposed revisions to the Periodic Labour Force Survey (PLFS) so that it captures digital platform gig work and unpaid work. The proposal responds to an ongoing debate about whether official jobs data adequately reflects underemployment and job quality in India, where headline unemployment is reported at 5%.\n\nKey changes: a separate survey category for digital platform workers, since the existing method did not capture enough of them, and a wider set of rural and urban household respondents asked whether members do platform work. The survey will also begin measuring activities that are typically unpaid, including production of goods for own use, household and caregiving activities, volunteer work and unpaid trainee work.\n\nContext cited: the government's economic survey in January estimated a 55% increase in gig workers in the five years to 2025-26, with such workers possibly comprising 2% of the total workforce.\n\nLabour economist K.R. Shyam Sundar, formerly of XLRI Jamshedpur, called the platform gig worker estimation effort \"a half-step\" because many informal gig workers are not on any platform, but said capturing unpaid work in the PLFS is an important step that could eventually change the methodology used to calculate national income.\n\nTimeline: the changes take effect from January 2027, with fresh samples for 2027-28. The government invited public and expert feedback within 15 days. The article notes the revisions will affect comparability with past data. Reported by Shubham Batra in New Delhi, edited by Mrigank Dhaniwala and Harikrishnan Nair, republished by Allwork.Space.\n\nThe item is macro labour-statistics news rather than workplace operations content, with no coverage of visitor management, desk or room booking, RTO policy, workplace analytics or facilities topics.",
+ "claims": [
+  {
+   "claim": "India proposed changes to its employment survey to better capture digital platform gig work and unpaid work",
+   "stat": "",
+   "attribution": "India's statistics ministry"
+  },
+  {
+   "claim": "Headline unemployment in India stands at 5%",
+   "stat": "5%",
+   "attribution": "Article (official jobs data)"
+  },
+  {
+   "claim": "The existing survey method did not capture enough digital platform workers, prompting a separate category",
+   "stat": "",
+   "attribution": "India's statistics ministry"
+  },
+  {
+   "claim": "Gig workers in India increased in the five years to 2025-26",
+   "stat": "55% increase",
+   "attribution": "Government economic survey, January"
+  },
+  {
+   "claim": "Gig workers may make up a share of India's total workforce",
+   "stat": "2%",
+   "attribution": "Government economic survey, January"
+  },
+  {
+   "claim": "Estimating platform gig workers is only a partial measure because many informal gig workers are not on any platform",
+   "stat": "",
+   "attribution": "K.R. Shyam Sundar, labour economist, former professor at XLRI Jamshedpur"
+  },
+  {
+   "claim": "Capturing unpaid work in the PLFS could eventually lead to changes in national income calculation methodology",
+   "stat": "",
+   "attribution": "K.R. Shyam Sundar"
+  },
+  {
+   "claim": "The survey changes take effect from January 2027, with fresh samples for 2027-28",
+   "stat": "January 2027; 2027-28",
+   "attribution": "India's statistics ministry"
+  },
+  {
+   "claim": "Public and expert feedback on the proposals was invited within a set window",
+   "stat": "15 days",
+   "attribution": "Indian government"
+  }
+ ],
+ "vocabulary": [
+  "Periodic Labour Force Survey (PLFS)",
+  "digital platform workers",
+  "gig workers",
+  "informal gig workers",
+  "unpaid work",
+  "production of goods for own use",
+  "caregiving activities",
+  "unpaid trainee work",
+  "underemployment",
+  "headline unemployment",
+  "labour force survey methodology",
+  "national income calculation",
+  "rural and urban households",
+  "economic survey"
+ ],
+ "topics_covered": []
+}

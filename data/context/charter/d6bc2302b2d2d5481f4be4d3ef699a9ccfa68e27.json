@@ -1,0 +1,41 @@
+{
+ "id": "d6bc2302b2d2d5481f4be4d3ef699a9ccfa68e27",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/charter-workplace-summit-2026-making-ai-work-for-everyone/",
+ "published_at": "2026-10-23",
+ "observed_at": "2026-10-26",
+ "summary": "A session listing for the Charter Workplace Summit 2026, themed \"Making AI work for everyone.\" The promotional blurb argues AI is already reshaping how companies grow, hire, and compete, and frames the harder question as who gets to share in that progress, measured not only in dollars but also in dignity, opportunity, and agency.\n\nThe session promises discussion of three areas: what employers are already doing to be part of the solution; what more companies could do to reskill workers and make people-centered decisions; and the broader policy and economic changes needed so that AI benefits everyone rather than a narrow group.\n\nSpeakers listed are Donna Epps, senior vice president and chief responsible business officer at Verizon, and Janet Foutty, president of corporate partnerships at Raise US. The moderator is Brian Elliott, executive-in-residence at Charter.\n\nThe item contains no data, statistics, case studies, or product detail. It is an agenda or event-marketing page rather than reported analysis. There is no coverage of workplace operations topics such as desk or room booking, visitor management, attendance tracking, hybrid scheduling mechanics, or facilities tooling. AI is discussed at the level of workforce impact, reskilling, and public policy rather than at the level of agentic tooling, deployment, or governance controls inside a workspace, so it does not map onto the agentic AI tooling and governance theme in the registry.",
+ "claims": [
+  {
+   "claim": "AI is already reshaping how companies grow, hire, and compete",
+   "stat": "",
+   "attribution": "Charter (session description)"
+  },
+  {
+   "claim": "Donna Epps is senior vice president and chief responsible business officer at Verizon",
+   "stat": "",
+   "attribution": "Charter"
+  },
+  {
+   "claim": "Janet Foutty is president of corporate partnerships at Raise US",
+   "stat": "",
+   "attribution": "Charter"
+  },
+  {
+   "claim": "Brian Elliott is executive-in-residence at Charter",
+   "stat": "",
+   "attribution": "Charter"
+  }
+ ],
+ "vocabulary": [
+  "Charter Workplace Summit",
+  "reskill",
+  "people-centered decisions",
+  "chief responsible business officer",
+  "executive-in-residence",
+  "corporate partnerships",
+  "agency",
+  "policy and economic changes"
+ ],
+ "topics_covered": []
+}

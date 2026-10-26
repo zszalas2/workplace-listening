@@ -1,0 +1,41 @@
+{
+ "id": "238e31a2744e175a8bd244abd367f7a8e535c8b3",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/charter-workplace-summit-2026-opening-remarks-and-discussion/",
+ "published_at": "2026-10-23",
+ "observed_at": "2026-10-26",
+ "summary": "A brief event listing for the sixth annual Charter Workplace Summit 2026 opening session. Charter managing editor Jena McGregor opened the summit by asking the two Summit co-chairs what is currently top of mind for people leaders. The co-chairs and session speakers are Betty Larson, executive vice president and chief human resources officer at Merck, and Amy Reichanadter, chief people officer at Databricks. The item is essentially a session abstract or show-note stub: it names the format (opening remarks and discussion), the moderator, and the speakers, but contains no substantive summary of the discussion itself, no data, and no detail on which workplace topics were raised. No claims about hybrid work policy, office attendance, workplace technology, facilities, visitor management, desk or room booking, or workplace analytics are made in the available text. Useful only as a signal that Charter continues to run an annual workplace summit and that senior HR leaders from large enterprises (pharmaceutical and software) are serving as co-chairs for the 2026 edition. Any thematic value would require the full session transcript or recording.",
+ "claims": [
+  {
+   "claim": "The Charter Workplace Summit is in its sixth annual edition",
+   "stat": "sixth annual",
+   "attribution": "Charter"
+  },
+  {
+   "claim": "Betty Larson is executive vice president and chief human resources officer at Merck and a Summit co-chair",
+   "stat": "",
+   "attribution": "Charter"
+  },
+  {
+   "claim": "Amy Reichanadter is chief people officer at Databricks and a Summit co-chair",
+   "stat": "",
+   "attribution": "Charter"
+  },
+  {
+   "claim": "The opening session was moderated by Charter managing editor Jena McGregor",
+   "stat": "",
+   "attribution": "Charter"
+  }
+ ],
+ "vocabulary": [
+  "Charter Workplace Summit",
+  "managing editor",
+  "Summit co-chairs",
+  "chief human resources officer",
+  "CHRO",
+  "chief people officer",
+  "opening remarks",
+  "session speakers"
+ ],
+ "topics_covered": []
+}

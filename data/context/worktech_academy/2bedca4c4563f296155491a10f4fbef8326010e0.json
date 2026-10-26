@@ -1,0 +1,14 @@
+{
+ "id": "2bedca4c4563f296155491a10f4fbef8326010e0",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ERWticXh2QjFvSkpSdkphQUN1RVFibkJUSXlDaUdva0ZBSmQ0eGRjcmN6QjJOZ2d5M3dZZ3J2bFdDSXpGa2tEOGNTbk1SSmFkN2hERVJGVkVWa1ZWVzdPSjdhNnhVRG50a2ctZnM3N2FGS05HdFZzektrZFU?oc=5",
+ "published_at": "2024-11-09",
+ "observed_at": "2026-10-26",
+ "summary": "This item is effectively an empty content stub rather than an article. The entry, sourced from WORKTECH Academy via a Google News RSS link, carries the title \"Mondelez-Logo - WORKTECH Academy\" and the body text repeats only \"Mondelez-Logo WORKTECH Academy.\" It appears to be an image or logo asset page for the confectionery and snacks company Mondelez, likely attached to a case study, member listing, or sponsor page on the WORKTECH Academy site, with the underlying editorial content not captured in the feed.\n\nThere is no substantive discussion of workplace technology, no narrative, no quotes, no data, and no named sources. Nothing can be extracted about visitor management, desk or room booking, hybrid and return to office policy, workplace analytics, or facilities operations. No factual claims or statistics are present, and no category or vendor vocabulary appears beyond the publisher name and the corporate brand name.\n\nFor pipeline purposes this should be treated as non-content and excluded from saturation scoring. If coverage of Mondelez workplace initiatives is desired, the original WORKTECH Academy article behind this asset would need to be retrieved directly rather than through the syndicated feed item.",
+ "claims": [],
+ "vocabulary": [
+  "WORKTECH Academy",
+  "Mondelez"
+ ],
+ "topics_covered": []
+}

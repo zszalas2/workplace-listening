@@ -1,0 +1,15 @@
+{
+ "id": "6fd8eb31d7b952ff7258da483e386aba22d4583b",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd19zelZtQ3FZUi1GTG43ZldQQjRXZndCYW5oQjhsc3NFZGVHSWJxNzhjNVJFWWtlSmxReEJfU25KUzk0M1hfUzgzNnQ4aTJhMGFqWjRsbEJRczJfdW4yY0ZVenJUZkw5S2swbUNRVWZ5WFc1TWZ0VmJqS0lBUVdKZHVnM3U1R094?oc=5",
+ "published_at": "2022-03-10",
+ "observed_at": "2026-10-26",
+ "summary": "This item is a Google News RSS stub for a WORKTECH Academy article titled \"Mitigating energy costs with smart lighting.\" No body text is present beyond the headline, which is repeated as the entire extracted content. Based on the title alone, the piece appears to address how workplaces and facilities teams can reduce energy expenditure through smart or connected lighting systems, likely touching on sensors, occupancy-driven controls, and building operating costs. No statistics, sources, quotes, vendors, or named experts can be extracted from the available text. Any summary of substantive argument, data, or recommendations would be speculation. For the listening pipeline, the item signals a facilities and building-systems energy efficiency topic from a workplace innovation research outlet, but it cannot be scored for depth or claim quality without retrieving the full article. Recommend re-crawling the canonical WORKTECH Academy URL to obtain usable content.",
+ "claims": [],
+ "vocabulary": [
+  "smart lighting",
+  "energy costs",
+  "WORKTECH Academy"
+ ],
+ "topics_covered": []
+}

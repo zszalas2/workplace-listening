@@ -1,0 +1,78 @@
+{
+ "id": "4b47c5dcf948678da7b811abe2910e02e17b74d6",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/10/higher-interest-rates-are-delaying-commercial-real-estate-deals/",
+ "published_at": "2026-10-23",
+ "observed_at": "2026-10-26",
+ "summary": "Allwork.Space reports on CBRE's third-quarter 2026 earnings call, where executives said higher interest rates and broader market uncertainty are causing commercial real estate deals to be repriced, delayed, or restructured as refinancing agreements. The reporting cites CoStar's coverage of the call. CBRE Chair and CEO Bob Sulentic said interest rate volatility is weighing on investment sales, mortgage lending, and development activity, and warned the slowdown could extend into 2027.\n\nDespite that backdrop, CBRE posted strong headline numbers. Global property sales revenue rose 28% year over year in the quarter, with a 37% increase in the United States, led by industrial and retail transactions. Industrial leasing revenue grew 16%. Total revenue increased 13% to $11.5 billion, and net income attributable to the company rose 22% to $443 million. The piece notes a divergence between those results and conditions late in the quarter: capital markets activity slowed in September as some transactions stalled or collapsed entirely.\n\nThe article also highlights a structural shift in where corporate real estate money is going. Spending on traditional real estate is weakening in part because large technology companies are redirecting capital toward data centers and critical infrastructure. CBRE's data center infrastructure revenue surged 80% in the third quarter. The company expects critical infrastructure services to produce nearly $4.5 billion of revenue in 2027, with the broader infrastructure services business approaching $7 billion.\n\nThe item is a short market and earnings roundup rather than a workplace operations piece. It touches on commercial real estate financing conditions, brokerage performance, and the data center build-out, but contains no material on workplace technology, visitor management, desk or room booking, hybrid and return-to-office policy, workplace analytics, or facilities operations. Note that the supplied text also contains repeated Cloudflare bot-verification boilerplate, which is artifact content rather than editorial material.",
+ "claims": [
+  {
+   "claim": "Interest rate volatility is weighing on investment sales, mortgage lending and development, with the slowdown potentially extending into 2027",
+   "stat": "",
+   "attribution": "Bob Sulentic, CBRE Chair and CEO, on the Q3 2026 earnings call (via CoStar)"
+  },
+  {
+   "claim": "CBRE global property sales revenue increased year over year in Q3",
+   "stat": "28%",
+   "attribution": "CBRE Q3 2026 earnings"
+  },
+  {
+   "claim": "US property sales revenue jumped, driven by industrial and retail deals",
+   "stat": "37%",
+   "attribution": "CBRE Q3 2026 earnings"
+  },
+  {
+   "claim": "Industrial leasing revenue rose",
+   "stat": "16%",
+   "attribution": "CBRE Q3 2026 earnings"
+  },
+  {
+   "claim": "Overall revenue grew to $11.5 billion",
+   "stat": "13% growth, $11.5 billion",
+   "attribution": "CBRE Q3 2026 earnings"
+  },
+  {
+   "claim": "Net income attributable to the company climbed to $443 million",
+   "stat": "22% growth, $443 million",
+   "attribution": "CBRE Q3 2026 earnings"
+  },
+  {
+   "claim": "Capital markets activity slowed in September as some transactions stalled or fell through",
+   "stat": "",
+   "attribution": "CBRE executives via CoStar"
+  },
+  {
+   "claim": "CBRE data center infrastructure revenue surged in the third quarter",
+   "stat": "80%",
+   "attribution": "CBRE Q3 2026 earnings"
+  },
+  {
+   "claim": "CBRE expects critical infrastructure services to generate revenue in 2027",
+   "stat": "nearly $4.5 billion",
+   "attribution": "CBRE"
+  },
+  {
+   "claim": "CBRE's broader infrastructure services business is projected to approach $7 billion",
+   "stat": "approximately $7 billion",
+   "attribution": "CBRE"
+  }
+ ],
+ "vocabulary": [
+  "commercial real estate",
+  "repriced",
+  "refinancing agreements",
+  "investment sales",
+  "mortgage lending",
+  "capital markets",
+  "property sales revenue",
+  "industrial leasing",
+  "net income attributable",
+  "data center infrastructure",
+  "critical infrastructure services",
+  "infrastructure services business",
+  "corporate real estate spending",
+  "earnings call",
+  "year over year"
+ ],
+ "topics_covered": []
+}

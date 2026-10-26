@@ -1,0 +1,81 @@
+{
+ "id": "a91c1e9c0be882001cf4321dd22ec70b08d11605",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/10/employers-are-overlooking-a-better-way-to-control-healthcare-costs/",
+ "published_at": "2026-10-24",
+ "observed_at": "2026-10-26",
+ "summary": "Allwork.space argues that employers facing steep healthcare cost increases should scrutinize pharmacy spend before cutting benefits or shifting costs to employees.\n\nKey pressures cited: a Marsh survey projects health benefit costs per employee rising 8.2% in 2027, the biggest jump since 2003, and 11% without planned cost-reduction measures. Pharmacy now represents 29.5% of total employer healthcare spend, up from 27.2% in 2024. GLP-1 medications show how concentrated that spending is: 6% of members used them in 2025 but they drove 20.3% of prescription spending, with growth expected as indications expand into cardiovascular disease, obstructive sleep apnea, chronic kidney disease, and MASH. Weight-management GLP-1 utilization alone is expected to account for one percentage point of 2027 employer health-cost growth.\n\nThe piece frames healthcare cost as a workforce problem, not just a benefits line item. Citing a National Alliance of Healthcare Purchaser Coalitions survey of 408 employers, it reports 83% say healthcare cost increases compete with wage and salary increases, 92% say costs hurt competitiveness, and 98% say health and well-being benefits matter for attraction and retention. Cost sharing through higher deductibles, premiums, and prescription costs transfers the affordability problem to employees and may deter them from using the benefit.\n\nRecommended actions before cutting coverage: understand PBM economics including how the pharmacy benefit manager is compensated and whether rebate and specialty pricing incentives align with lowering total cost; examine full medical and pharmacy claims data to identify spend drivers; compare clinically appropriate drug-access pathways such as manufacturer programs, alternative sourcing, and direct purchasing, assessed for compliance, affordability, and continuity of care; and measure total value across cost, access, outcomes, and employee experience rather than a single contract number. The article closes by calling for clearer ownership and collaboration among HR, finance, and benefits teams.",
+ "claims": [
+  {
+   "claim": "Health benefit costs per employee are projected to rise in 2027, the largest increase since 2003, even after planned cost-reduction changes",
+   "stat": "8.2%",
+   "attribution": "Marsh survey"
+  },
+  {
+   "claim": "Without cost-reduction measures, employers expect healthcare costs to increase by a higher rate",
+   "stat": "11%",
+   "attribution": "Marsh survey (as cited)"
+  },
+  {
+   "claim": "Pharmacy accounts for a growing share of total employer healthcare spend, up from 27.2% in 2024",
+   "stat": "29.5%",
+   "attribution": "A 2026 employer benefits report"
+  },
+  {
+   "claim": "A small share of members used GLP-1s in 2025 but the drugs drove a large share of prescription spending",
+   "stat": "6% of members; 20.3% of prescription spending",
+   "attribution": "2026 employer benefits report analysis"
+  },
+  {
+   "claim": "Rising GLP-1 utilization for weight management is expected to account for a full percentage point of overall employer health-cost growth in 2027",
+   "stat": "1 percentage point",
+   "attribution": "Article (unattributed projection)"
+  },
+  {
+   "claim": "Employers say healthcare cost increases compete with wage and salary increases",
+   "stat": "83% of 408 employers",
+   "attribution": "National Alliance of Healthcare Purchaser Coalitions, August survey"
+  },
+  {
+   "claim": "Employers say healthcare costs hurt their competitiveness",
+   "stat": "92%",
+   "attribution": "National Alliance of Healthcare Purchaser Coalitions"
+  },
+  {
+   "claim": "Employers say health and well-being benefits are important for attracting and retaining employees",
+   "stat": "98%",
+   "attribution": "National Alliance of Healthcare Purchaser Coalitions"
+  },
+  {
+   "claim": "Employers with full access to medical and pharmacy claims data tend to use more high-value purchasing strategies",
+   "stat": "",
+   "attribution": "Article"
+  }
+ ],
+ "vocabulary": [
+  "health benefit costs per employee",
+  "pharmacy spend",
+  "PBM (pharmacy benefit manager)",
+  "GLP-1 medications",
+  "specialty medications",
+  "rebates",
+  "cost sharing",
+  "deductibles",
+  "employee contributions",
+  "claims data",
+  "drug-access pathways",
+  "direct purchasing",
+  "manufacturer programs",
+  "net cost",
+  "total value",
+  "CFO",
+  "CHRO",
+  "benefits budget",
+  "healthcare inflation",
+  "MASH (metabolic dysfunction-associated steatohepatitis)",
+  "attraction and retention",
+  "high-value purchasing strategies",
+  "continuity of care"
+ ],
+ "topics_covered": []
+}

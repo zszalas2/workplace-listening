@@ -1,0 +1,41 @@
+{
+ "id": "67ecf7eedd5ffbd01980b02f28f77a15bce16834",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/charter-workplace-summit-2026-closing-the-care-gap/",
+ "published_at": "2026-10-23",
+ "observed_at": "2026-10-26",
+ "summary": "A session listing for the Charter Workplace Summit 2026 titled \"Closing the care gap.\" The promotional description frames caregiving as a mainstream workforce reality rather than an edge case: close to half of all American workers also provide unpaid care, whether for children, adult dependents, or aging relatives, and that share is said to keep climbing as the US population ages. The blurb argues that effective leaders recognize supportive cultures and comprehensive benefits deliver outsized returns for engagement and performance, a point it says is sharpened by a fraying social safety net in the US. The session promises to cover three things: the latest research on caregiving at work, the ROI case for employer-provided caregiver support, and innovative solutions for bridging the gap between research and practice. Speakers listed are Brigid Schulte, journalist and author and Director of the Better Life Lab at New America, and Molly Neitzel, founder and CEO of Molly Moon's Homemade Ice Cream, a business often cited for progressive employee benefits. Michelle Peng, senior reporter at Charter, moderates. The item is a short marketing abstract rather than reported analysis, so it contains no data tables, named programs, or vendor references. It touches benefits strategy and employee experience but does not address workplace operations topics such as space, scheduling, visitor flow, or attendance systems.",
+ "claims": [
+  {
+   "claim": "Close to half of all American workers also provide unpaid care to children, adult dependents, or aging relatives",
+   "stat": "close to half of all American workers",
+   "attribution": "Charter Workplace Summit 2026 session description"
+  },
+  {
+   "claim": "The number of working caregivers continues to climb as the US population ages",
+   "stat": "",
+   "attribution": "Charter Workplace Summit 2026 session description"
+  },
+  {
+   "claim": "Supportive cultures and comprehensive benefits produce outsized returns for engagement and performance",
+   "stat": "",
+   "attribution": "Charter Workplace Summit 2026 session description"
+  }
+ ],
+ "vocabulary": [
+  "care gap",
+  "unpaid care",
+  "caregiving at work",
+  "caregiver support",
+  "adult dependents",
+  "aging relatives",
+  "comprehensive benefits",
+  "supportive cultures",
+  "engagement and performance",
+  "ROI",
+  "social safety net",
+  "Better Life Lab",
+  "Charter Workplace Summit"
+ ],
+ "topics_covered": []
+}
