@@ -1,0 +1,54 @@
+{
+ "id": "c6242fa5b0bfbcd38b1e605b97b7ba2f4fdc32da",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/increase-security-at-demanding-construction-sites-with-boon-edams-full-height-mobile-turnstiles/",
+ "published_at": "2026-11-02",
+ "observed_at": "2026-11-02",
+ "summary": "Boon Edam, a global provider of physical security entrance solutions, has launched a new mobile full-height turnstile product aimed at construction sites and other temporary or evolving locations. The Turnlock 100 Mobile Platform mounts a full-height turnstile on a forklift-ready steel platform so it can be deployed, relocated and redeployed across different phases of a project without permanent installation, trenching or anchoring.\n\nPatrick Nora, President and Managing Director of Boon Edam, framed the product around the shifting physical makeup of construction sites during various development stages, arguing that such environments require security solutions that are mobile and adaptive while still delivering high levels of physical security. He positions the offering as a versatile, proven solution for the construction industry's temporary deployment needs.\n\nFunctionally, the platform integrates with card readers, biometrics and other access control systems to prevent unauthorized entry and tailgating. The vendor cites growing pressure on construction teams around workforce accountability, site safety, compliance and theft prevention, particularly on large multi-phase projects with shifting perimeters and temporary access points.\n\nTarget use cases named include construction sites, temporary staging areas and infrastructure projects. The piece is essentially vendor product news published via FMLink, with no independent data, pricing, availability detail or customer references. The only quantified or named element is the product name itself. Readers are directed to Boon Edam for more on portable entry solutions for the construction industry.\n\nRelevance to workplace technology audiences is limited to the access control and physical security entrance category rather than office visitor management, though the tailgating prevention and workforce accountability framing overlaps conceptually with onsite presence verification and credentialed entry.",
+ "claims": [
+  {
+   "claim": "Boon Edam has expanded its offering with new mobile full-height turnstiles designed for construction sites and other temporary locations.",
+   "stat": "",
+   "attribution": "Boon Edam via FMLink"
+  },
+  {
+   "claim": "Construction sites shift constantly in physical makeup during development stages, requiring mobile and adaptive security solutions.",
+   "stat": "",
+   "attribution": "Patrick Nora, President and Managing Director, Boon Edam"
+  },
+  {
+   "claim": "The Turnlock 100 Mobile Platform can be deployed, relocated and redeployed across project phases without permanent installation, trenching or anchoring.",
+   "stat": "",
+   "attribution": "Boon Edam"
+  },
+  {
+   "claim": "The platform integrates with card readers, biometrics and other access systems to prevent unauthorized entry and tailgating.",
+   "stat": "",
+   "attribution": "Boon Edam"
+  },
+  {
+   "claim": "Construction teams face growing pressure around workforce accountability, site safety, compliance and theft prevention on large multi-phase projects.",
+   "stat": "",
+   "attribution": "Boon Edam"
+  }
+ ],
+ "vocabulary": [
+  "full-height turnstile",
+  "mobile turnstile",
+  "Turnlock 100 Mobile Platform",
+  "physical security entrance solutions",
+  "access control",
+  "tailgating",
+  "card readers",
+  "biometrics",
+  "forklift-ready steel platform",
+  "trenching or anchoring",
+  "temporary staging areas",
+  "shifting perimeters",
+  "temporary access points",
+  "workforce accountability",
+  "portable entry solutions",
+  "unauthorized entry"
+ ],
+ "topics_covered": []
+}

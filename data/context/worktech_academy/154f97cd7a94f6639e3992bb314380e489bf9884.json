@@ -1,0 +1,14 @@
+{
+ "id": "154f97cd7a94f6639e3992bb314380e489bf9884",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYTdoOHN0Y3IzSE9nbVltTW5OUEh4NWxmczFfLWFiMk0yaVBmZVlFZzkwUHJ0bVpLSHRoNllBY3BmamlaSHpaNWJaU3lybHB1aTQwaVp0RG16ZkJqcTBPaHJ3bUxjUmdUbTVDNFNnUTAxN0JFZ0pZMWZDS3YyenQyYl8tREc?oc=5",
+ "published_at": "2018-11-07",
+ "observed_at": "2026-11-02",
+ "summary": "This item is a headline-only entry from WORKTECH Academy, surfaced through a Google News RSS link. The title is \"A new generation of space in higher education.\" No body text, author, date, or supporting detail was captured in the record beyond the repeated title string, so the substance of the article cannot be summarized with confidence.\n\nBased on the title alone, the piece appears to concern the design and evolution of physical space in universities and other higher education institutions, likely touching on how campus environments, teaching spaces, libraries, and student or staff work settings are being rethought. WORKTECH Academy typically publishes research-led commentary on workplace design, technology, and the future of work, so the article probably frames higher education estates in terms of changing user expectations, hybrid learning patterns, and space utilisation.\n\nHowever, none of this can be verified from the supplied text. There are no quotes, statistics, named institutions, vendors, or research sources present in the item as captured. No claims can be extracted, and no category or vendor vocabulary beyond the generic phrase \"space in higher education\" is available.\n\nFor the listening pipeline, this should be treated as a stub requiring full-text retrieval before it can contribute to theme saturation. If the full article is fetched later, it may prove relevant to workplace analytics, space utilisation, and booking themes, but tagging it now on the strength of a headline would introduce noise. Recommended action: re-crawl the canonical WORKTECH Academy URL behind the Google News redirect, then re-evaluate.",
+ "claims": [],
+ "vocabulary": [
+  "space in higher education",
+  "WORKTECH Academy"
+ ],
+ "topics_covered": []
+}

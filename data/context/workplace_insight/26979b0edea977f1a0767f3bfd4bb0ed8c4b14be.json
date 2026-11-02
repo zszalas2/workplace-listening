@@ -1,0 +1,62 @@
+{
+ "id": "26979b0edea977f1a0767f3bfd4bb0ed8c4b14be",
+ "source_id": "workplace_insight",
+ "url": "https://workplaceinsight.net/are-businesses-missing-the-point-of-charity-partnerships/?utm_source=rss&utm_medium=rss&utm_campaign=are-businesses-missing-the-point-of-charity-partnerships",
+ "published_at": "2026-10-28",
+ "observed_at": "2026-11-02",
+ "summary": "An opinion piece from Leukaemia Care (published via Workplace Insight) arguing that corporate charity partnership selection policies are too category-driven and should be judged on impact instead. The author notes that because Leukaemia Care is not exclusively a children's charity, its substantial work with children and young people affected by blood cancer is often overlooked by prospective corporate partners whose policies favour children-only organisations.\n\nThe article uses CAR-T (chimeric antigen receptor T cell) therapy support as evidence. In 2025 to 26, 63.4% of applications to the charity's CAR-T support service were from people aged 18 or under, with an average age of nine. Families travelled an average of 113 miles from home to the nearest hospital offering the treatment, with Great Ormond Street, Great North Children's Hospital and Royal Manchester Children's Hospital named as the three NHS paediatric CAR-T centres. Through a partnership with Dalata Hotel Group, the charity provides accommodation: 13 of 64 applicants aged up to 18 used the hotel service, totalling 254 nights, with some stays running to 31 nights.\n\nThe piece references the Government's National Cancer Plan for England, published February 2026, which commits up to 10 million pounds a year from 2027 to help children and young people with cancer meet travel costs, citing the 2024 Under-16 Cancer Patient Experience Survey finding that 37.6% of respondents took over an hour to reach their child's main treatment hospital.\n\nThe closing argument targets CSR, ESG, sustainability and HR leaders: corporate partners can contribute more than money by matching core capabilities to beneficiary needs, for example retailers offering supply chain and distribution, hospitality firms offering accommodation, meals or meeting space, and employers offering professional expertise or paid volunteering time. Partnerships should be measured by sustained change, not one-off campaign metrics, and employees should be engaged in understanding impact rather than only fundraising.",
+ "claims": [
+  {
+   "claim": "The majority of applicants to the charity's CAR-T therapy support service were children",
+   "stat": "63.4% of 2025-26 applications were aged 18 and under; average age nine",
+   "attribution": "Leukaemia Care"
+  },
+  {
+   "claim": "Families travel long distances to access CAR-T treatment",
+   "stat": "average 113 miles from family home to nearest hospital providing the treatment, 2025-26",
+   "attribution": "Leukaemia Care"
+  },
+  {
+   "claim": "The NHS designates three key centres for paediatric CAR-T services",
+   "stat": "3 centres: Great Ormond Street, Great North Children's Hospital, Royal Manchester Children's Hospital",
+   "attribution": "NHS, cited by Leukaemia Care"
+  },
+  {
+   "claim": "The charity's hotel accommodation service, delivered via a partnership with Dalata Hotel Group, was used by child applicants",
+   "stat": "13 of 64 applicants aged up to 18; 254 nights; stays of up to 31 nights in 2025-26",
+   "attribution": "Leukaemia Care"
+  },
+  {
+   "claim": "The Government's National Cancer Plan for England commits funding for childhood cancer travel costs",
+   "stat": "up to 10 million pounds a year, scheme in effect by 2027; plan published February 2026",
+   "attribution": "UK Government National Cancer Plan for England"
+  },
+  {
+   "claim": "A significant share of under-16 cancer patients face long journeys to care",
+   "stat": "37.6% of respondents took more than an hour to reach the hospital where their child received most care",
+   "attribution": "2024 Under-16 Cancer Patient Experience Survey, cited by the Government"
+  }
+ ],
+ "vocabulary": [
+  "CSR",
+  "ESG",
+  "employee engagement",
+  "charity partnership",
+  "social impact",
+  "community investment",
+  "charity selection policies",
+  "CAR-T (chimeric antigen receptor T cell) therapy",
+  "National Cancer Plan for England",
+  "Under-16 Cancer Patient Experience Survey",
+  "paid volunteering time",
+  "fundraising",
+  "supply chain",
+  "distribution network",
+  "customer reach",
+  "sustainability and HR heads",
+  "beneficiaries",
+  "one-off campaign",
+  "impact measurement"
+ ],
+ "topics_covered": []
+}

@@ -1,0 +1,145 @@
+{
+ "id": "d2c563fd86690b17304a4216773e84e2d73a906b",
+ "source_id": "raconteur",
+ "url": "https://www.raconteur.net/technology/why-youre-probably-spending-too-much-on-software-and-ai",
+ "published_at": "2026-11-02",
+ "observed_at": "2026-11-02",
+ "summary": "Raconteur reports on Spendesk's European Spend Report 2026, which argues European SMEs are significantly overspending on software and AI tools. The report tracked 2,500 European businesses with 50 to 250 employees and found they collectively overspent by 69m euros, which extrapolates to roughly 7bn euros across the EU's 250,670 similarly sized firms. The main driver is vendor-level price variance: companies of similar size paying different prices for the same products, costing an estimated 40,000 euros extra per affected company per year. A further 3bn euros is wasted on duplicate tooling, including functionally duplicate AI tools.\n\nForrester Principal Analyst Faram Medhora cautions that the 7bn figure needs a narrower label, as it measures the annual gap in per-seat SaaS prices for 50 to 250 employee European companies, not total European software overspend. He notes some price variation is reasonable because pricing reflects negotiating strength, package, user count, contract term and timing. Problems arise when buyers cannot see what they own, what is actually used, or what peers pay, while vendors negotiate with a complete account view. His example: renewing 1,000 licences when only 650 employees use the product.\n\nRecommended fixes center on centralisation: bringing contracts, invoices, usage and renewal dates into one view, starting major renewals early, benchmarking equivalent deals, removing unused licences before negotiating, and using SaaS and software asset management tools. Volume and usage-based pricing discounts are also suggested.\n\nTop vendors by overspend among the sample: HubSpot (11.7m euros), Atlassian (11.3m), Salesforce (8.3m), Adobe (4.4m) and Notion (3.3m). Notion has the widest per-head variance. Germany and France show worse variance than the UK; France alone allegedly overspends 1.6bn euros annually. IDC's Stephen Elliot attributes duplication to fragmented teams and org structure.",
+ "claims": [
+  {
+   "claim": "Vendor-level price variance accounts for a large share of European SME software overspend",
+   "stat": "7bn euros",
+   "attribution": "Spendesk European Spend Report 2026"
+  },
+  {
+   "claim": "Each European company overspending because of price variance pays extra annually",
+   "stat": "40,000 euros per year",
+   "attribution": "Spendesk European Spend Report 2026"
+  },
+  {
+   "claim": "European businesses overspend on duplicate software, including functionally duplicate AI tools",
+   "stat": "3bn euros",
+   "attribution": "Spendesk European Spend Report 2026"
+  },
+  {
+   "claim": "The report tracked European businesses with headcounts between 50 and 250",
+   "stat": "2,500 businesses",
+   "attribution": "Spendesk"
+  },
+  {
+   "claim": "The surveyed firms collectively overspent",
+   "stat": "69m euros",
+   "attribution": "Spendesk"
+  },
+  {
+   "claim": "Number of similarly sized companies in the EU used for extrapolation",
+   "stat": "250,670",
+   "attribution": "Eurostat Structural Business Statistics, cited by Spendesk"
+  },
+  {
+   "claim": "The 7bn euro figure estimates the annual gap in per-seat SaaS prices paid by European companies with 50 to 250 employees, not total software overspend across all European enterprises",
+   "stat": "7bn euros",
+   "attribution": "Faram Medhora, Principal Analyst, Forrester"
+  },
+  {
+   "claim": "Overspend by the surveyed companies rose year over year",
+   "stat": "from 64.9m euros last year to 69m euros this year",
+   "attribution": "Spendesk"
+  },
+  {
+   "claim": "HubSpot led vendor overspend among surveyed firms",
+   "stat": "11.7m euros",
+   "attribution": "Spendesk"
+  },
+  {
+   "claim": "Atlassian ranked second for overspend",
+   "stat": "11.3m euros",
+   "attribution": "Spendesk"
+  },
+  {
+   "claim": "Salesforce, Adobe and Notion rounded out the top five for overspend",
+   "stat": "8.3m, 4.4m and 3.3m euros",
+   "attribution": "Spendesk"
+  },
+  {
+   "claim": "Notion has the widest variance per head",
+   "stat": "most disciplined buyers pay 0.6 euros per user versus a median of 5.5 euros",
+   "attribution": "Spendesk"
+  },
+  {
+   "claim": "France overspends on software annually",
+   "stat": "1.6bn euros",
+   "attribution": "Spendesk estimate"
+  },
+  {
+   "claim": "AI-adopting enterprises pay for at least two competing LLMs",
+   "stat": "72%",
+   "attribution": "Spendesk European Spend Report 2026"
+  },
+  {
+   "claim": "Design tool-using companies duplicate tooling",
+   "stat": "64%",
+   "attribution": "Spendesk"
+  },
+  {
+   "claim": "Firms using dev tools duplicate tooling",
+   "stat": "44%",
+   "attribution": "Spendesk"
+  },
+  {
+   "claim": "AI tool duplication among AI-adopting SMEs grew sharply in a year",
+   "stat": "from 29% in 2025 to almost three quarters now",
+   "attribution": "Spendesk"
+  },
+  {
+   "claim": "Fragmented teams and organisational structure cause duplicative buying",
+   "stat": "",
+   "attribution": "Stephen Elliot, Group VP of Software Development and IT Operations, IDC"
+  },
+  {
+   "claim": "A company may renew 1,000 licences when only 650 employees actually use the product, signing a bad deal even with a steep discount",
+   "stat": "1,000 licences versus 650 users",
+   "attribution": "Faram Medhora, Forrester"
+  },
+  {
+   "claim": "The UK has the narrowest spread and fewest extreme overpayers, while France and Germany have lower medians but longer tails of extreme payers",
+   "stat": "",
+   "attribution": "Spendesk"
+  }
+ ],
+ "vocabulary": [
+  "price variance",
+  "vendor-level price variance",
+  "software overspend",
+  "duplicate software",
+  "functionally duplicate AI tools",
+  "SaaS",
+  "per-seat SaaS prices",
+  "software asset management",
+  "SaaS management",
+  "procurement centralisation",
+  "usage-based pricing",
+  "volume pricing",
+  "contract renewal",
+  "renewal dates",
+  "unused licences",
+  "licence count",
+  "entitlements",
+  "budget management platform",
+  "LLMs",
+  "AI-adopting SMEs",
+  "dev tools",
+  "design tools",
+  "European Spend Report 2026",
+  "Eurostat Structural Business Statistics",
+  "Forrester",
+  "IDC",
+  "Spendesk",
+  "HubSpot",
+  "Atlassian",
+  "Salesforce",
+  "Adobe",
+  "Notion"
+ ],
+ "topics_covered": []
+}

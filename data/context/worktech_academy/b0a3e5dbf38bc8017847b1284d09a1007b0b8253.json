@@ -1,0 +1,13 @@
+{
+ "id": "b0a3e5dbf38bc8017847b1284d09a1007b0b8253",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBaX1BXYzhKdHpEN0h4aC03aldfeGRJVXlxS0JVb1lsSGgzRzhkNlpEOEl6S1NaSXdaZXQwWWNSdTEwZzl5R1hNTWk3cGl5cEZvM090TE0zdi1iVVJGRW5oRGF0QQ?oc=5",
+ "published_at": "2026-10-30",
+ "observed_at": "2026-11-02",
+ "summary": "This item is effectively an empty record. The entry consists of a Google News RSS redirect link titled \"Eleanor Hecks - WORKTECH Academy\" with body text that simply repeats the title: \"Eleanor Hecks WORKTECH Academy.\" There is no article body, abstract, publication date, or any substantive discussion to summarize.\n\nThe only inferable context is the source: WORKTECH Academy, a research and knowledge platform covering the future of work and workplace, which typically publishes on topics such as workplace design, hybrid working, workplace technology and employee experience. Eleanor Hecks appears to be an author or contributor name associated with the page, suggesting the link points to a contributor profile or author archive page rather than a single article.\n\nBecause no claims, statistics, arguments, vendor references or category terminology are present in the supplied text, no meaningful analysis of visitor management, desk and room booking, hybrid or return-to-office policy, workplace analytics, or facilities content can be performed. No factual claims can be extracted and no attributions can be identified.\n\nRecommendation for the pipeline: treat this record as a non-substantive or failed fetch. The underlying Google News redirect URL would need to be resolved and the destination page crawled to obtain usable content. If the destination is indeed an author profile page, it should be filtered out at ingestion as a listing page rather than an article. No theme tags have been applied, since tagging on the basis of source reputation alone would distort saturation scoring.",
+ "claims": [],
+ "vocabulary": [
+  "WORKTECH Academy"
+ ],
+ "topics_covered": []
+}

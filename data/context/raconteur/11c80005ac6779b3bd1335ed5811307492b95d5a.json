@@ -1,0 +1,112 @@
+{
+ "id": "11c80005ac6779b3bd1335ed5811307492b95d5a",
+ "source_id": "raconteur",
+ "url": "https://www.raconteur.net/ai/your-ai-problem-might-actually-be-a-content-problem",
+ "published_at": "2026-11-02",
+ "observed_at": "2026-11-02",
+ "summary": "A sponsored-style Raconteur feature arguing that stalled enterprise AI projects are usually content problems, not model problems. AI agents need reliable, permissioned access to trusted internal content; without it, pilots that demo well fail in production. UK adoption data is cited: ONS analysis found around 35% of businesses with 10 or more employees using AI by June 2026, but only 10% of those using it extensively. Box's 2026 State of AI in the Enterprise report found 96% of organisations consider access to company-specific content important for agents, while only 36% have connected agents to trusted internal content across many use cases; fragmented data (25%) and integration difficulty (24%) were barriers, and more than two-thirds flagged legacy or on-premises systems as a moderate or major barrier.\n\nSamantha Wessels, President of EMEA at Box, says warning signs include teams getting different answers to the same question, uncertainty over which source is current, and developers rebuilding connectors per project. She argues the unit of governance is now the workflow, not the model or tool, because agents that act (not just summarise) propagate errors into live processes.\n\nAI-ready content requires quality, context, classification, metadata on where and when a document applies, consistent sensitivity labelling, permissions that carry into agent use, plus retention and audit records. Wessels frames the goal as \"institutional memory with provenance,\" delivered via a unified governed content layer. Box's Intelligent Content Management platform and Box AI are positioned as this layer, respecting existing permissions and supporting multiple models.\n\nOn security, 49% of surveyed organisations had an AI-related data exposure incident, only 34% had formal standards for agent data access, and 93% said better governance would help them move faster. Agents should inherit the permissions of the person they represent rather than blanket access, with traceable activity logs.\n\nAdvice: modernise around high-value workflows such as contract management or client onboarding rather than replacing repositories wholesale. Customer proof points: Travers Smith saving $4,000 to $5,000 per legal case versus legacy virtual data rooms, and Mitie achieving six-figure annual savings plus automated onboarding and offboarding with an audit trail.",
+ "claims": [
+  {
+   "claim": "Around 35% of UK businesses with 10 or more employees were using AI by June 2026",
+   "stat": "35%",
+   "attribution": "Office for National Statistics analysis, cited by Raconteur"
+  },
+  {
+   "claim": "Among UK businesses already using AI, only 10% said they were using it extensively",
+   "stat": "10%",
+   "attribution": "Office for National Statistics analysis, cited by Raconteur"
+  },
+  {
+   "claim": "Organisations consider access to company-specific content important for agents",
+   "stat": "96%",
+   "attribution": "Box 2026 State of AI in the Enterprise report"
+  },
+  {
+   "claim": "Only a minority have connected agents to trusted internal content across many use cases",
+   "stat": "36%",
+   "attribution": "Box 2026 State of AI in the Enterprise report"
+  },
+  {
+   "claim": "A quarter cited fragmented data as a barrier to agent deployment",
+   "stat": "25%",
+   "attribution": "Box 2026 State of AI in the Enterprise report"
+  },
+  {
+   "claim": "Integration difficulties cited as a barrier",
+   "stat": "24%",
+   "attribution": "Box 2026 State of AI in the Enterprise report"
+  },
+  {
+   "claim": "More than two-thirds said legacy or on-premises systems were a moderate or major barrier to effective agent deployment",
+   "stat": "more than two-thirds",
+   "attribution": "Box 2026 State of AI in the Enterprise report"
+  },
+  {
+   "claim": "Organisations had experienced an AI-related data exposure incident",
+   "stat": "49%",
+   "attribution": "Box survey"
+  },
+  {
+   "claim": "Organisations had formal standards governing how agents access company data",
+   "stat": "34%",
+   "attribution": "Box survey"
+  },
+  {
+   "claim": "Organisations agreed better governance would help them move faster over time",
+   "stat": "93%",
+   "attribution": "Box survey"
+  },
+  {
+   "claim": "Travers Smith saves money per legal case by using Box instead of legacy virtual data rooms",
+   "stat": "$4,000 to $5,000 per case",
+   "attribution": "Travers Smith, cited by Box/Raconteur"
+  },
+  {
+   "claim": "Mitie achieved six-figure annual cost savings by replacing its previous content management solution with Box",
+   "stat": "six-figure annual savings",
+   "attribution": "Mitie, cited by Box/Raconteur"
+  },
+  {
+   "claim": "The unit of governance is no longer the model or tool but the workflow",
+   "stat": "",
+   "attribution": "Samantha Wessels, President of EMEA, Box"
+  },
+  {
+   "claim": "If the answer to which source is current is speculation, the organisation has a content problem not an AI problem",
+   "stat": "",
+   "attribution": "Samantha Wessels, President of EMEA, Box"
+  }
+ ],
+ "vocabulary": [
+  "AI agents",
+  "agentic AI",
+  "AI-ready content",
+  "Intelligent Content Management",
+  "Box AI",
+  "unified content layer",
+  "governed content layer",
+  "metadata",
+  "permissions",
+  "classification",
+  "provenance",
+  "institutional memory with provenance",
+  "retention requirements",
+  "audit records",
+  "audit trail",
+  "legacy content management systems",
+  "on-premises systems",
+  "virtual data rooms",
+  "connectors",
+  "AI pilot",
+  "data exposure incident",
+  "human permissions inheritance",
+  "workflow governance",
+  "contract management",
+  "client onboarding",
+  "employee onboarding and offboarding",
+  "fragmented data"
+ ],
+ "topics_covered": [
+  "agentic_ai_tooling_and_governance"
+ ]
+}

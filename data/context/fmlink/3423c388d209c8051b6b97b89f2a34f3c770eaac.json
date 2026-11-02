@@ -1,0 +1,66 @@
+{
+ "id": "3423c388d209c8051b6b97b89f2a34f3c770eaac",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/when-everything-is-urgent-a-cost-of-delay-approach-to-facility-operations/",
+ "published_at": "2026-11-02",
+ "observed_at": "2026-11-02",
+ "summary": "An FMJ/FMLink article argues that facility management teams should sequence competing work using Cost of Delay, the economic concept describing how the value of an outcome changes the longer delivery waits. The author frames Cost of Delay as the opportunity cost of waiting, noting that in FM the value at stake may be operational availability, safety exposure, compliance, asset condition or occupant experience rather than only dollars.\n\nA worked example: two failures with similar operational consequence, one needing 30 minutes to fix and one needing 10 minutes, should generally be sequenced shortest first, removing a disruption sooner. But if the longer repair supports an operation with a fixed deadline after which consequences escalate sharply, the order flips. The job did not get shorter; the consequence of waiting got bigger.\n\nThe piece criticises conventional priority labels (emergency, urgent, high, medium, low) and SLAs because too much work ends up classified as high priority. Two high items can imply very different decisions: a 20 minute fix that removes meaningful exposure versus a full day job that stays stable until tomorrow. Priority labels communicate importance but not the effect of time; Cost of Delay adds that dimension by combining importance, consequence of waiting and effort required.\n\nThe author traces the concept to operations research and product development, crediting Donald Reinertsen for emphasising the economic value of time, later popularised through Lean and Agile. A Maersk Line example from the 2018 Accelerate State of DevOps Report is cited, then carefully caveated as part of a broader transformation.\n\nA table lists delay dimensions: operational, financial, safety and risk, compliance and audit, asset degradation, and stakeholder/reputation. Some costs monetise easily (production line downtime, a hotel room out of inventory); others do not but matter equally. The article closes by noting Cost of Delay is dynamic, rising as audit deadlines approach.",
+ "claims": [
+  {
+   "claim": "In backlog data examined in the Accelerate State of DevOps Report, three high-value Maersk Line features represented a substantial weekly Cost of Delay",
+   "stat": "approximately US$7 million per week; 3 features",
+   "attribution": "2018 Accelerate State of DevOps Report, cited by the FMJ article"
+  },
+  {
+   "claim": "Maersk's reported improvements, including shorter idea-to-release time and faster benefits realization, cannot be attributed to Cost of Delay alone because the transformation also included smaller work items, reduced work in progress, faster feedback and decision-making closer to the work",
+   "stat": "",
+   "attribution": "Article author"
+  },
+  {
+   "claim": "Donald Reinertsen became particularly influential in product development by emphasizing the economic value of time, with Lean and Agile practices later spreading the reasoning",
+   "stat": "",
+   "attribution": "Article author"
+  },
+  {
+   "claim": "Operations research has examined the economic sequencing of constrained work for decades, predating modern Agile practices",
+   "stat": "",
+   "attribution": "Article author"
+  },
+  {
+   "claim": "When two failures impose roughly the same Cost of Delay, the shorter repair should generally be done first",
+   "stat": "10 minutes vs 30 minutes",
+   "attribution": "Article author"
+  },
+  {
+   "claim": "Most facility organizations already classify work as emergency, urgent, high, medium or low, but too many items become high priority",
+   "stat": "",
+   "attribution": "Article author"
+  }
+ ],
+ "vocabulary": [
+  "Cost of Delay",
+  "opportunity cost of waiting",
+  "facility operations",
+  "work orders",
+  "service-level agreements (SLAs)",
+  "priority classification (emergency, urgent, high, medium, low)",
+  "backlog",
+  "work in progress",
+  "operational availability",
+  "compliance deficiency",
+  "asset condition",
+  "occupant experience",
+  "benefits realization",
+  "operations research",
+  "Lean",
+  "Agile",
+  "product development",
+  "Accelerate State of DevOps Report",
+  "safety exposure",
+  "audit and certification deadlines",
+  "emergency repair premiums",
+  "frontline personnel",
+  "FM (facility management)"
+ ],
+ "topics_covered": []
+}

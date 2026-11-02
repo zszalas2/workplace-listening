@@ -1,0 +1,93 @@
+{
+ "id": "56c15edd92d1e376472ced436bcbe6504ff37a8c",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/from-routers-to-architects-the-new-role-of-the-middle-manager/",
+ "published_at": "2026-10-27",
+ "observed_at": "2026-11-02",
+ "summary": "Charter reports from its Workplace Summit and its AI Pulse survey (more than 5,000 US-based workers who use AI at work) on the future of middle management in the AI era. The framing starts with Block CEO Jack Dorsey's March blog post arguing AI can replace managers whose main job is information routing and questioning the need for a permanent middle management layer. Charter's panelists and data push back.\n\nJevan Lenox, chief people officer at Writer, argued the middle layer becomes more important as the center of gravity moves down and teams make critical decisions about how to architect work. Prudential chief people and experience officer Vicki Walia described three future manager jobs: architecting work at enterprise level, managing teams, people and agents, and leading or coaching humans, summarized as managing agents but leading people.\n\nCharter's research found 11 of the top 14 factors associated with whether people feel they benefit from AI are set by managers, such as feeling supported to experiment or being recognized for using AI well. The strongest single factor is feeling involved in how AI fits one's job, a sense of agency. Managers are 1.8 times as likely as employees to report agency (67% versus 37%). Databricks chief people officer Amy Reichanadter said agency is a theme the company reinforces with managers.\n\nOn spans of control, Lenox critiques the player-coach and startup-ification narrative: most startup managers burn out carrying management load plus complex individual work on nights and weekends, without the equity upside. Both Writer and Databricks are moving to smaller teams. Large spans work only in stable eras.\n\nAI Pulse interviews surfaced manager stress from doing more with less; one healthcare HR manager said people were terminated because leaders overestimated AI. Role modeling that shows the work of the work builds team confidence. Prudential, with many 25 to 30 year tenured staff, launches a function-specific program called Raise Your AI Q in November.",
+ "claims": [
+  {
+   "claim": "AI can replace the traditional manager whose primary job was information routing, and a permanent middle management layer may not be needed",
+   "stat": "",
+   "attribution": "Jack Dorsey, Block CEO, in a March blog post"
+  },
+  {
+   "claim": "Charter's AI Pulse survey covered US-based users of AI at work",
+   "stat": "more than 5,000 respondents",
+   "attribution": "Charter"
+  },
+  {
+   "claim": "Most of the top factors associated with whether people feel they benefit from using AI are factors their managers set",
+   "stat": "11 of the top 14 factors",
+   "attribution": "Charter AI Pulse research"
+  },
+  {
+   "claim": "The factor most strongly linked to feeling you benefit from AI use is feeling involved in how AI fits your job (agency)",
+   "stat": "",
+   "attribution": "Charter AI Pulse research"
+  },
+  {
+   "claim": "Managers are far more likely than their employees to say they have agency over how AI fits their work",
+   "stat": "1.8x; 67% versus 37%",
+   "attribution": "Charter AI Pulse research"
+  },
+  {
+   "claim": "The middle layer of management becomes more important in a world of agentic workers and blended teams because teams architect the work",
+   "stat": "",
+   "attribution": "Jevan Lenox, chief people officer, Writer"
+  },
+  {
+   "claim": "Middle managers will have three jobs: architecting work at the enterprise level, managing teams, people and agents, and leading and coaching humans",
+   "stat": "",
+   "attribution": "Vicki Walia, chief people and experience officer, Prudential"
+  },
+  {
+   "claim": "Most startup managers burn out because they carry a full management load plus complex individual work done on nights and weekends",
+   "stat": "",
+   "attribution": "Jevan Lenox, Writer"
+  },
+  {
+   "claim": "Writer and Databricks are moving to smaller teams rather than larger spans of control, because large spans only work in stable eras",
+   "stat": "",
+   "attribution": "Jevan Lenox (Writer) and Amy Reichanadter (Databricks)"
+  },
+  {
+   "claim": "Companies terminated people because they assumed AI would do more of the work than it currently does",
+   "stat": "",
+   "attribution": "An HR manager in the healthcare industry, quoted in Charter AI Pulse interviews"
+  },
+  {
+   "claim": "Prudential has an entrenched workforce with many employees at 25 to 30 years of tenure or more, and launches a personalized, function-specific learning program called Raise Your AI Q in November",
+   "stat": "25 to 30 years tenure",
+   "attribution": "Vicki Walia, Prudential"
+  }
+ ],
+ "vocabulary": [
+  "middle management layer",
+  "information routing",
+  "router to architect",
+  "architecting work",
+  "agentic workers",
+  "blended teams",
+  "managing agents",
+  "leading people",
+  "agency",
+  "psychological safety",
+  "player-coach",
+  "startup-ification of large enterprise",
+  "spans of control",
+  "AI transformation",
+  "AI Pulse survey",
+  "role modeling",
+  "the work of the work",
+  "personalized learning paths",
+  "Raise Your AI Q",
+  "chief people officer",
+  "chief people and experience officer",
+  "merit increases",
+  "doing more with less"
+ ],
+ "topics_covered": [
+  "agentic_ai_tooling_and_governance"
+ ]
+}

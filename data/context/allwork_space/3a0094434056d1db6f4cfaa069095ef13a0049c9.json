@@ -1,0 +1,63 @@
+{
+ "id": "3a0094434056d1db6f4cfaa069095ef13a0049c9",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/11/your-coworking-space-looks-great-but-can-anyone-actually-work-there/",
+ "published_at": "2026-11-02",
+ "observed_at": "2026-11-02",
+ "summary": "An opinion piece (Allwork.Space) arguing that coworking and office design too often optimizes for photogenic appeal rather than actual productivity. The author, a Workbar operator, cites a new ballpark-themed coworking space near Fenway Park that circulates on social media as an example of confusing a fun place to visit with a good place to work, echoing the earlier era of ping-pong tables, beer taps, nap pods and slides. A personal anecdote from a 2017 job interview at a coworking space near South Station describes waiting on an adult swing in reception, awkward furniture chosen for looks rather than use.\n\nThe author recounts touring a visually stunning coworking space during a conference cocktail party: non-ergonomic wooden chairs unsuitable for more than an hour, excessive soft seating that is not work-functional, marble countertops bouncing conversation around the room, no outlets, no acoustic privacy, no place to take calls or collaborate without disrupting others, and glass office doors lacking door sweeps or gaskets. The conclusion: the space was designed for the designer, not for the people working in it.\n\nThe argument is that the most important design elements are invisible: acoustics, sound masking, air quality, lighting temperature, connectivity, natural light, desk spacing, how sound travels, whether walls extend to the deck, and where acoustic insulation is needed, plus how noise behaves when a space is full rather than empty and being photographed. Failures show up as overheard conversations, nowhere to take a call, dropped Wi-Fi, stuffy rooms and unexplained end-of-day exhaustion.\n\nProductivity also shifts through the day: heads-down work, a Zoom call, ad hoc collaboration, lunch, a team meeting, then 45 uninterrupted minutes. These need different environments. Workbar organizes space into neighborhoods: The Study for focused work, The Commons for collaboration, The Café for social, and The Switchboard for conversations, including with AI agents. The point is choice in how to be productive, not varied Instagram backdrops.",
+ "claims": [
+  {
+   "claim": "A new ballpark-themed coworking space near Fenway Park is widely shared on social media and was designed to be photogenic",
+   "stat": "",
+   "attribution": "Author, Allwork.Space"
+  },
+  {
+   "claim": "The pandemic proved people could work from almost anywhere and made them more intentional about when and why they leave home to gather",
+   "stat": "",
+   "attribution": "Author, Allwork.Space"
+  },
+  {
+   "claim": "A visually impressive coworking space had non-ergonomic wooden chairs uncomfortable beyond an hour, no outlets, no acoustic privacy and no place for calls",
+   "stat": "",
+   "attribution": "Author, Allwork.Space"
+  },
+  {
+   "claim": "Workbar organizes its spaces into neighborhoods: The Study (focus), The Commons (collaboration), The Café (social), The Switchboard (conversations including with AI agents)",
+   "stat": "",
+   "attribution": "Workbar"
+  },
+  {
+   "claim": "Nobody works the same way for eight straight hours; different activities require different environments",
+   "stat": "",
+   "attribution": "Author, Allwork.Space"
+  }
+ ],
+ "vocabulary": [
+  "coworking space",
+  "neighborhoods",
+  "The Study",
+  "The Commons",
+  "The Café",
+  "The Switchboard",
+  "sound masking",
+  "acoustics",
+  "acoustic privacy",
+  "acoustic insulation",
+  "door sweeps",
+  "gaskets",
+  "heads-down work",
+  "soft seating",
+  "ergonomic",
+  "lighting temperature",
+  "air quality",
+  "connectivity",
+  "nap pods",
+  "members",
+  "AI agents",
+  "workplace design"
+ ],
+ "topics_covered": [
+  "quiet_space_calls_and_coworking_choice",
+  "hot_desking_backlash"
+ ]
+}

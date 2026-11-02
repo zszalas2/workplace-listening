@@ -1,0 +1,67 @@
+{
+ "id": "b2cacb476e6ee29c99e9822b7f82e7ebd466e4f5",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/harvard-uga-baltimore-ccc-have-education-fm-roles-air-force-superior-court-jobs-on-fmlink-job-board/",
+ "published_at": "2026-10-26",
+ "observed_at": "2026-11-02",
+ "summary": "FMLink's job board roundup pairs US labor market commentary with a list of open education and government facilities management roles. On the data side, the piece reports that educational service employment was virtually flat in September 2026, with private educational services showing minor movements and little net change. This subdued hiring contrasts with healthcare, which added 16,700 positions, and fits a broader cooling across service-providing industries. Government employment contracted by 17,000 jobs in September, driven mainly by reductions in state and local government education payrolls, partly offsetting seasonal gains in August from a post-summer bump in local education hiring. The article notes that educational institutions mirror the wider labor market: layoffs remain historically low, but open positions are filled significantly more slowly because of tighter municipal and higher education budgets. Economists characterize the overall US labor market as cooling and stabilizing rather than rapidly improving or worsening. Employers added only 29,000 jobs in September, and the unemployment rate rose to 4.2 percent, staying within a narrow 4.1 to 4.3 percent band for most of the year.\n\nThe remainder lists senior and mid-level, well-compensated FM openings on the FMLink Career Center: Building Manager at Harvard University; Vice President of Facilities and Plant Operations at Baltimore City Community College; Associate Director of Facilities at the University of Georgia; Research Facilities Manager at Princeton University; Facilities Supervisor at Oregon Health & Science University; Air Force Facilities Project Officer at Leidos; Facilities Services and Capital Projects Director at the Superior Court of California, County of Los Angeles; O&M Facilities Project Manager at Trademasters Services; and Practice Leader, Mission Critical Facilities at Lockwood, Andrews & Newnam.\n\nThe closing promotional note describes the FMLink Job Board as connecting facility managers, planners and commercial planning and design professionals across disciplines and career stages with employers, plus career planning advice for professionals and employers.",
+ "claims": [
+  {
+   "claim": "Educational service employment was virtually flat in September 2026, with private educational services showing little net change",
+   "stat": "virtually flat",
+   "attribution": "FMLink"
+  },
+  {
+   "claim": "Healthcare added positions while private education hiring remained subdued",
+   "stat": "16,700 positions",
+   "attribution": "FMLink, citing federal employment data"
+  },
+  {
+   "claim": "Overall government employment contracted in September, driven by state and local education payroll reductions",
+   "stat": "-17,000 jobs",
+   "attribution": "FMLink"
+  },
+  {
+   "claim": "Employers added only a small number of jobs in September",
+   "stat": "29,000 jobs",
+   "attribution": "federal report cited by FMLink"
+  },
+  {
+   "claim": "The unemployment rate rose and has stayed in a narrow band for most of the year",
+   "stat": "4.2 percent; band of 4.1% to 4.3%",
+   "attribution": "federal report cited by FMLink"
+  },
+  {
+   "claim": "Layoffs remain historically low but open positions are filled significantly more slowly due to tighter municipal and higher-ed budgets",
+   "stat": "",
+   "attribution": "FMLink"
+  },
+  {
+   "claim": "The US labor market is cooling and stabilizing rather than rapidly improving or worsening",
+   "stat": "",
+   "attribution": "economists, per FMLink"
+  }
+ ],
+ "vocabulary": [
+  "facility management",
+  "FM",
+  "FMLink Career Center",
+  "FMLink Job Board",
+  "Building Manager",
+  "Vice President of Facilities and Plant Operations",
+  "Associate Director of Facilities",
+  "Research Facilities Manager",
+  "Facilities Supervisor",
+  "Facilities Project Officer",
+  "Capital Projects Director",
+  "O&M Facilities Project Manager",
+  "Mission Critical Facilities",
+  "plant operations",
+  "private educational services",
+  "service-providing industries",
+  "unemployment rate",
+  "payrolls",
+  "commercial planning and design"
+ ],
+ "topics_covered": []
+}

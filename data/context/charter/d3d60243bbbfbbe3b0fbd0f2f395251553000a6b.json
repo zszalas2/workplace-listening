@@ -1,0 +1,66 @@
+{
+ "id": "d3d60243bbbfbbe3b0fbd0f2f395251553000a6b",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/the-case-against-flattening-the-org-chart/",
+ "published_at": "2026-10-30",
+ "observed_at": "2026-11-02",
+ "summary": "A Charter newsletter interview (by Jena McGregor), part of a bimonthly AI-and-work series produced with HiBob and its Insights Lab director Kenneth Matos, featuring Stanford Graduate School of Business professor Nir Halevy on his book Level Up: Why Hierarchies Are Broken and How to Fix Them.\n\nHalevy argues the current AI-era backlash against corporate hierarchy misdiagnoses the problem. Flat structures are not a hidden recipe waiting to be discovered; they are inconsistent with scaling. A small startup where everyone does everything can work briefly, but growth brings role differentiation, ranks, coordination needs, and division of labor. The real issue is broken hierarchies, not hierarchy itself.\n\nHe identifies three symptoms of a broken hierarchy: ultra-competitiveness (passive, such as hesitating to help a colleague, and active, such as sabotage), injustice, and instability. When all three reinforce each other, the environment becomes threatening, producing stress, paranoia, and attrition.\n\nHis prescription is a CPR framework: common values, pluralism, and relatedness. Common values means hierarchies should embody stated principles such as respect with concrete manifestations, and should serve all stakeholders rather than only those at the top. Pluralism means multiple pathways to contributing, thriving, ascending, and leading. Relatedness means hierarchy should pull people together rather than sever ties.\n\nOn speculation about future org shapes (diamond, hourglass, web), Halevy says he cannot predict five to ten years out but warns that hierarchy is about influence, not just information sharing. Knowing about a job opening differs from influencing a hiring decision. Hierarchies also carry incentive systems and give people stability, predictability, and help managing uncertainty, plus paths to achievement and promotion.\n\nHe critiques empowerment talk: research shows increasing power without increasing status (respect and admiration from others) makes people more likely to be demeaning, abusive, and to create dysfunctional interpersonal conflict. Middle managers, he adds, are more than communication channels or gatekeepers.",
+ "claims": [
+  {
+   "claim": "Flat organizational structures are inconsistent with scaling; they can work briefly for small agile startup teams but break down as roles differentiate and coordination and division of labor are needed.",
+   "stat": "",
+   "attribution": "Nir Halevy, Stanford Graduate School of Business professor"
+  },
+  {
+   "claim": "Broken hierarchies show three symptoms: ultra-competitiveness, injustice, and instability, which when combined create a threatening environment causing stress, paranoia, and turnover.",
+   "stat": "3 symptoms",
+   "attribution": "Nir Halevy"
+  },
+  {
+   "claim": "The remedy is a CPR framework for organizations: common values, pluralism, and relatedness.",
+   "stat": "3-part solution",
+   "attribution": "Nir Halevy"
+  },
+  {
+   "claim": "Research finds that increasing a person's power without increasing their status makes them more likely to be demeaning and abusive and to create dysfunctional interpersonal conflict.",
+   "stat": "",
+   "attribution": "Nir Halevy, citing his research"
+  },
+  {
+   "claim": "The Charter newsletter on AI's impact on organizations, jobs, and human performance is published bimonthly in partnership with HiBob and its Insights Lab director Kenneth Matos.",
+   "stat": "every other month",
+   "attribution": "Charter"
+  },
+  {
+   "claim": "The interview was originally published as part of Charter's playbook 'Redesigning work for the AI era.'",
+   "stat": "",
+   "attribution": "Charter"
+  }
+ ],
+ "vocabulary": [
+  "org chart",
+  "flattening the org chart",
+  "flat organizational structures",
+  "hierarchy",
+  "broken hierarchy",
+  "ultra-competitiveness",
+  "injustice",
+  "instability",
+  "CPR for organizations",
+  "common values",
+  "pluralism",
+  "relatedness",
+  "power versus status",
+  "empowerment",
+  "middle managers",
+  "division of labor",
+  "coordination",
+  "incentive systems",
+  "diamond, hourglass, web org shapes",
+  "AI era",
+  "Insights Lab",
+  "playbook",
+  "Redesigning work for the AI era"
+ ],
+ "topics_covered": []
+}

@@ -1,0 +1,116 @@
+{
+ "id": "88b109206622bb3cea16d294f7923873aab69a3c",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/11/myperfectresume-finds-more-than-1-in-4-unemployed-americans-are-now-long-term-unemployed/",
+ "published_at": "2026-11-02",
+ "observed_at": "2026-11-02",
+ "summary": "A press release from MyPerfectResume, published via Allwork.Space, announces The Long Shutout report on US long-term unemployment. Analyzing 23 seasonally adjusted monthly Bureau of Labor Statistics data sets (Current Population Survey and JOLTS) covering January 2016 to July 2026, the company finds that 25.9% of unemployed Americans had been out of work at least 27 weeks during the first seven months of 2026, up from 18.9% in 2023. The long-term unemployed population grew 68%, from 1.1 million to 1.9 million, with nearly 2 million in May 2026.\n\nDuration of joblessness is lengthening: median unemployment duration rose from 8.9 weeks in 2023 to 11.1 weeks in 2026, and average duration from 20.4 to 25.1 weeks.\n\nThe report frames the problem as a hiring slowdown rather than a layoff wave. From 2023 to 2026 the hiring rate fell from 3.8% to 3.3%, quits from 2.4% to 2.0%, job openings from 5.8% to 4.4%, while layoffs held at 1.1%, below pre-pandemic levels. Hiring and quits both hit their lowest rates in the 11-year study period. The release cautions that the data show correlation, not causation.\n\nLabor force participation among prime-age adults (25 to 54) reached 83.7%, the highest in the study, indicating workers are still engaged. Unemployment rose across groups versus 2019: ages 25 to 34 at 4.7% (from 3.8%), ages 25 to 54 at 3.7% (from 3.1%), ages 20 to 24 at 7.1% (from 6.9%), and bachelor's degree or higher age 25+ at 2.8% (from 2.2%). Adults 25 to 34 saw the largest increase.\n\nDr. Jasmine Escalera, Career Expert at MyPerfectResume, notes low layoffs make the market look stable but mask long searches. Boilerplate describes the resume builder, used by over 11 million job seekers since 2012.",
+ "claims": [
+  {
+   "claim": "More than one in four unemployed Americans are long-term unemployed (27+ weeks) in the first seven months of 2026, up from 2023.",
+   "stat": "25.9% in 2026 vs 18.9% in 2023",
+   "attribution": "MyPerfectResume analysis of BLS data"
+  },
+  {
+   "claim": "The long-term unemployed population grew 68% since 2023.",
+   "stat": "1.1 million to 1.9 million",
+   "attribution": "MyPerfectResume"
+  },
+  {
+   "claim": "Nearly 2 million Americans had been unemployed at least 27 weeks in May 2026.",
+   "stat": "~2 million",
+   "attribution": "MyPerfectResume / BLS"
+  },
+  {
+   "claim": "Median unemployment duration increased.",
+   "stat": "8.9 weeks (2023) to 11.1 weeks (2026)",
+   "attribution": "MyPerfectResume / BLS"
+  },
+  {
+   "claim": "Average unemployment duration increased.",
+   "stat": "20.4 weeks to 25.1 weeks",
+   "attribution": "MyPerfectResume / BLS"
+  },
+  {
+   "claim": "The hiring rate fell to its lowest level in the 11 years studied.",
+   "stat": "3.8% to 3.3%",
+   "attribution": "MyPerfectResume analysis of JOLTS"
+  },
+  {
+   "claim": "Quits rate declined to the lowest in the period studied.",
+   "stat": "2.4% to 2.0%",
+   "attribution": "MyPerfectResume analysis of JOLTS"
+  },
+  {
+   "claim": "Layoffs rate remained flat and below pre-pandemic levels.",
+   "stat": "1.1%",
+   "attribution": "MyPerfectResume analysis of JOLTS"
+  },
+  {
+   "claim": "Job openings rate declined from 2023 to 2026.",
+   "stat": "5.8% to 4.4%",
+   "attribution": "MyPerfectResume analysis of JOLTS"
+  },
+  {
+   "claim": "Prime-age labor force participation reached the highest level in the study.",
+   "stat": "83.7% of adults 25-54",
+   "attribution": "MyPerfectResume / BLS"
+  },
+  {
+   "claim": "Unemployment among ages 25-34 rose compared with 2019, the largest increase among age groups studied.",
+   "stat": "4.7% vs 3.8% in 2019",
+   "attribution": "MyPerfectResume / BLS"
+  },
+  {
+   "claim": "Unemployment for ages 25-54 rose versus 2019.",
+   "stat": "3.7% vs 3.1%",
+   "attribution": "MyPerfectResume / BLS"
+  },
+  {
+   "claim": "Unemployment for ages 20-24 rose versus 2019.",
+   "stat": "7.1% vs 6.9%",
+   "attribution": "MyPerfectResume / BLS"
+  },
+  {
+   "claim": "Unemployment among those with a bachelor's degree or higher, age 25+, rose versus 2019.",
+   "stat": "2.8% vs 2.2%",
+   "attribution": "MyPerfectResume / BLS"
+  },
+  {
+   "claim": "Low layoffs mask the difficulty faced by people already out of work.",
+   "stat": "",
+   "attribution": "Dr. Jasmine Escalera, Career Expert at MyPerfectResume"
+  },
+  {
+   "claim": "The resume builder has helped job seekers since 2012.",
+   "stat": "more than 11 million job seekers",
+   "attribution": "MyPerfectResume"
+  },
+  {
+   "claim": "The analysis covered seasonally adjusted monthly BLS data sets from January 2016 through July 2026.",
+   "stat": "23 data sets",
+   "attribution": "MyPerfectResume methodology"
+  }
+ ],
+ "vocabulary": [
+  "long-term unemployment",
+  "The Long Shutout report",
+  "hiring rate",
+  "quits rate",
+  "layoffs rate",
+  "job openings rate",
+  "labor force participation rate",
+  "prime-age workers",
+  "median unemployment duration",
+  "average unemployment duration",
+  "Bureau of Labor Statistics",
+  "Current Population Survey",
+  "Job Openings and Labor Turnover Survey (JOLTS)",
+  "seasonally adjusted",
+  "pre-pandemic levels",
+  "resume builder",
+  "MyPerfectResume Research Center",
+  "Career Expert"
+ ],
+ "topics_covered": []
+}

@@ -1,0 +1,16 @@
+{
+ "id": "8d429fb58fb02e3095b438a05082bf7dedb63580",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbzBXNzBsZW9TZ2R4MkoySVBYaFl3MU1wR3RYREJDLXdIcFloNkh2Tkcxay0wV2RlMmdiMDhfVGdnb05iVkVtQ1JKSmp2OG1QZ3ZiM25tbXl0MnNOVkhZUlVXQWJDNDlJMGY2Y0RKSGo4S1V1WndmSzE1U1l2ekdkekxPLWJzWW14eUpHRQ?oc=5",
+ "published_at": "2026-10-30",
+ "observed_at": "2026-11-02",
+ "summary": "This item is a headline-only entry from WORKTECH Academy's \"Signal File\" series, syndicated via a Google News RSS link. The title asks: \"why do workers have to leave to be seen?\" No article body, author byline, publication date, or supporting detail was captured in the supplied record, so the substance of the argument cannot be verified or summarized.\n\nBased on the title alone, the piece appears to pose a visibility and recognition question in the context of workplace culture, implying that employees may need to change employers (or physically leave the office or an existing role) in order to gain recognition, promotion or attention from leadership. It could plausibly touch on presenteeism, visibility bias in hybrid settings, internal mobility, or talent retention, but none of that can be confirmed from the available text.\n\nNo statistics, research findings, named sources, vendor references, or product claims are present in the captured content. No workplace-technology category language (visitor management, desk or room booking, workplace analytics, facilities operations) appears.\n\nRecommendation for the listening pipeline: treat this as a stub requiring full-text retrieval before it can be scored or tagged with confidence. If the full article is obtained, it would be worth re-checking for hybrid and return-to-office framing, since \"being seen\" is a common proxy for office attendance and presence debates. As captured, the item contributes no verifiable claims and should not count toward theme saturation.",
+ "claims": [],
+ "vocabulary": [
+  "Signal File",
+  "WORKTECH Academy",
+  "workers",
+  "to be seen"
+ ],
+ "topics_covered": []
+}

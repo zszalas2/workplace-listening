@@ -1,0 +1,46 @@
+{
+ "id": "321f7c4cf6c666000876ca7211153f4c30a0f050",
+ "source_id": "fmlink",
+ "url": "https://www.fmlink.com/virginia-beach-project-turns-wastewater-byproduct-into-renewable-natural-gas/",
+ "published_at": "2026-10-26",
+ "observed_at": "2026-11-02",
+ "summary": "FMLink reports that Virginia Natural Gas (VNG), Hampton Roads Sanitation District (HRSD) and Johnson Controls have broken ground on a renewable natural gas (RNG) facility at HRSD's Atlantic Treatment Plant in Virginia Beach, described as a first-of-its-kind project. The facility will capture biogas generated during wastewater treatment and upgrade it into pipeline-quality renewable natural gas.\n\nOnce operational, the plant is expected to produce enough RNG annually to serve roughly 5,000 homes, while reducing emissions and creating a productive use for a byproduct already generated within the community. The project is projected to create about 268 construction jobs and 18 permanent positions, and it marks VNG's first renewable natural gas facility. The item frames the work as supporting Virginia's sustainability, resiliency and energy innovation goals, and positions Hampton Roads as transforming waste into an energy resource.\n\nThe piece is a short news brief with links to supporting PDFs including a project site document. It is a facilities and utilities infrastructure story rather than a workplace experience item: there is no discussion of visitor management, desk or room booking, hybrid or return-to-office policy, workplace analytics, or administrative workload. Content is limited to the partnership, the energy output estimate, job creation figures, and sustainability positioning.",
+ "claims": [
+  {
+   "claim": "The facility will produce enough renewable natural gas annually to serve approximately 5,000 homes",
+   "stat": "~5,000 homes",
+   "attribution": "FMLink, citing VNG/HRSD"
+  },
+  {
+   "claim": "The project will create construction and permanent jobs",
+   "stat": "~268 construction jobs and 18 permanent positions",
+   "attribution": "FMLink, citing VNG/HRSD"
+  },
+  {
+   "claim": "This is Virginia Natural Gas' first renewable natural gas facility",
+   "stat": "",
+   "attribution": "FMLink"
+  },
+  {
+   "claim": "Groundbreaking took place at HRSD's Atlantic Treatment Plant in Virginia Beach involving VNG, HRSD and Johnson Controls",
+   "stat": "",
+   "attribution": "FMLink"
+  }
+ ],
+ "vocabulary": [
+  "renewable natural gas",
+  "RNG",
+  "biogas",
+  "wastewater treatment byproduct",
+  "pipeline-quality renewable energy",
+  "Atlantic Treatment Plant",
+  "Hampton Roads Sanitation District (HRSD)",
+  "Virginia Natural Gas (VNG)",
+  "Johnson Controls",
+  "sustainability",
+  "resiliency",
+  "energy innovation",
+  "groundbreaking"
+ ],
+ "topics_covered": []
+}

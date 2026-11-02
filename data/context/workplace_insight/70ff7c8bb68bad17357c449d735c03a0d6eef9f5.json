@@ -1,0 +1,74 @@
+{
+ "id": "70ff7c8bb68bad17357c449d735c03a0d6eef9f5",
+ "source_id": "workplace_insight",
+ "url": "https://workplaceinsight.net/are-bonuses-and-share-options-split-in-a-divorce/?utm_source=rss&utm_medium=rss&utm_campaign=are-bonuses-and-share-options-split-in-a-divorce",
+ "published_at": "2026-10-28",
+ "observed_at": "2026-11-02",
+ "summary": "A sponsored-style legal explainer published on Workplace Insight covering how courts in England and Wales treat performance bonuses and company share options during divorce. The piece argues that for employees whose pay packages include variable compensation, these elements can rival the family home or pension in value, yet are often overlooked or misunderstood.\n\nKey points: courts assess the entire financial picture rather than isolating income streams, and can issue lump sums, property transfers and pension sharing orders. A bonus already paid is generally treated as an available resource rather than ring-fenced; treatment depends on when it was earned, its purpose and both parties' needs. Future bonuses, particularly those relating to post-separation work, may be assessed differently.\n\nOn share options, the article explains that options confer a right to buy shares at a set price at a future date, so ownership is not outright until exercise. Options granted during the marriage are more likely to be treated as matrimonial property; those granted after separation may fall outside the pot. The matrimonial versus non-matrimonial distinction derives from case law rather than a single statute, with equal sharing the usual starting point for matrimonial property. Vesting timing matters: options granted during the marriage but vesting afterwards can still be relevant, and courts may apportion value between pre- and post-separation periods.\n\nThe article cites the section 25 checklist of the Matrimonial Causes Act 1973, listing factors including marriage length, income and earning capacity, financial needs, contributions (financial and non-financial), and standard of living. It notes courts can distinguish ordinary living-cost income from exceptional bonus income. Full disclosure via Form E is required, including bonus details and calculation methods. Forensic accountants are recommended for complex, deferred or offshore schemes. Mediation and solicitor negotiation are offered as alternatives to court, with any agreement requiring a consent order to be legally binding. Stowe Family Law is referenced repeatedly as a source of specialist support.",
+ "claims": [
+  {
+   "claim": "Courts in England and Wales work from a checklist set out in section 25 of the Matrimonial Causes Act 1973, requiring consideration of income, earning capacity, property, financial resources, needs, standard of living, contributions and lost benefits such as pensions.",
+   "stat": "section 25, Matrimonial Causes Act 1973",
+   "attribution": "Workplace Insight article"
+  },
+  {
+   "claim": "Bonuses must be declared as part of the standard financial disclosure form used in divorce proceedings, known as Form E, which asks for details of any bonus payments and how they are calculated.",
+   "stat": "",
+   "attribution": "HM Courts and Tribunals Service"
+  },
+  {
+   "claim": "Equal sharing is usually the starting point for matrimonial property, with need sometimes justifying a different outcome.",
+   "stat": "",
+   "attribution": "Government proposals, as cited in the article"
+  },
+  {
+   "claim": "The distinction between matrimonial and non-matrimonial property is not written into a single statute and has developed through case law.",
+   "stat": "",
+   "attribution": "Workplace Insight article"
+  },
+  {
+   "claim": "Courts can take unvested share options into account even though they cannot be sold immediately, weighing vesting conditions and the link between the award and the marriage.",
+   "stat": "",
+   "attribution": "Workplace Insight article"
+  },
+  {
+   "claim": "Any agreement reached through mediation or solicitor negotiation still needs to be turned into a consent order to carry legal weight.",
+   "stat": "",
+   "attribution": "Workplace Insight article"
+  },
+  {
+   "claim": "Stowe Family Law has an in-house forensic accountancy team set up to support valuation of complex share schemes and bonus structures.",
+   "stat": "",
+   "attribution": "Workplace Insight article (referencing Stowe Family Law)"
+  }
+ ],
+ "vocabulary": [
+  "bonus and share options divorce",
+  "share options",
+  "vesting",
+  "unvested options",
+  "exercise the option",
+  "matrimonial property",
+  "non-matrimonial property",
+  "equal sharing",
+  "financial orders",
+  "lump sums",
+  "property transfers",
+  "pension sharing",
+  "Form E",
+  "financial disclosure",
+  "section 25 checklist",
+  "Matrimonial Causes Act 1973",
+  "consent order",
+  "mediation",
+  "forensic accountants",
+  "deferred payments",
+  "offshore arrangements",
+  "earning capacity",
+  "standard of living",
+  "exceptional bonus income",
+  "Stowe Family Law",
+  "HM Courts and Tribunals Service"
+ ],
+ "topics_covered": []
+}

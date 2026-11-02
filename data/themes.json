@@ -13,7 +13,8 @@
    "2026-W39": 0,
    "2026-W42": 0,
    "2026-W43": 0,
-   "2026-W44": 0
+   "2026-W44": 0,
+   "2026-W45": 0
   },
   "evidence": [
    {
@@ -46,13 +47,15 @@
   ],
   "became_post": null,
   "became_post_at": null,
-  "covered_by_context": [],
+  "covered_by_context": [
+   "allwork_space"
+  ],
   "suggested_angle": "Argue that time lost hunting for a desk is a measurable workspace cost HR can trade against per-seat spend.",
   "current": 0,
-  "trailing_mean": 0.167,
-  "delta_z": -0.447,
+  "trailing_mean": 0,
+  "delta_z": 0.0,
   "demand_score": 0.0,
-  "saturation_score": 0.0,
+  "saturation_score": 0.333,
   "opportunity_score": 0.0,
   "status": "steady"
  },
@@ -70,18 +73,19 @@
    "2026-W39": 0,
    "2026-W42": 0,
    "2026-W43": 0,
-   "2026-W44": 2
+   "2026-W44": 2,
+   "2026-W45": 2
   },
   "evidence": [
    {
-    "quote": "the person above my line manager doesn't like it anymore and is putting pressure on me to return to the office",
-    "url": "https://www.reddit.com/r/HumanResourcesUK/comments/1wlawu4/wfh_arrangements_reversed/",
-    "source_id": "reddit_humanresourcesuk"
+    "quote": "Skydance offers buyouts, orders return to office",
+    "url": "https://variety.com/2026/film/news/skydance-voluntary-buyouts-layoffs-5-days-per-week-in-office-policy-1236931402/",
+    "source_id": "hackernews"
    },
    {
-    "quote": "it regularly requires out-of-hours working across evenings and weekends and in-office hours linked to their executive's schedule",
-    "url": "https://www.reddit.com/r/HumanResourcesUK/comments/1wwq2w8/returning_to_role_post_matleave/",
-    "source_id": "reddit_humanresourcesuk"
+    "quote": "he told us that he still does not plan on coming in Mondays and Fridays",
+    "url": "https://www.reddit.com/r/humanresources/comments/1xhd6r3/pa_facility_director_told_employee_we_could_do/",
+    "source_id": "reddit_humanresources"
    }
   ],
   "vocabulary": [
@@ -109,17 +113,18 @@
   "became_post": null,
   "became_post_at": null,
   "covered_by_context": [
-   "workplace_insight",
-   "worktech_academy"
+   "allwork_space",
+   "charter",
+   "work_design_mag"
   ],
-  "suggested_angle": "Frame RTO as a spend and fairness question: what the office day has to deliver before you can ask someone to pay for the commute.",
+  "suggested_angle": "Show HR leaders how to price the real cost of a mandate week, from buyout exposure to the office spend that attendance days actually trigger.",
   "current": 2,
-  "trailing_mean": 0,
-  "delta_z": 0.0,
-  "demand_score": 0.092,
-  "saturation_score": 0.667,
-  "opportunity_score": 0.031,
-  "status": "steady"
+  "trailing_mean": 0.333,
+  "delta_z": 2.236,
+  "demand_score": 0.76,
+  "saturation_score": 1.0,
+  "opportunity_score": 0.0,
+  "status": "watching"
  },
  {
   "theme_id": "admin_ea_operational_overhead",
@@ -135,7 +140,8 @@
    "2026-W39": 3,
    "2026-W42": 6,
    "2026-W43": 2,
-   "2026-W44": 3
+   "2026-W44": 3,
+   "2026-W45": 0
   },
   "evidence": [
    {
@@ -180,12 +186,12 @@
   "became_post_at": null,
   "covered_by_context": [],
   "suggested_angle": "Quantify the hidden cost of ad hoc interruptions and manual asset sign out logs that office teams absorb before anyone budgets for a system.",
-  "current": 3,
-  "trailing_mean": 2.833,
-  "delta_z": 0.067,
-  "demand_score": 0.186,
+  "current": 0,
+  "trailing_mean": 2.333,
+  "delta_z": -1.136,
+  "demand_score": 0.0,
   "saturation_score": 0.0,
-  "opportunity_score": 0.186,
+  "opportunity_score": 0.0,
   "status": "steady"
  },
  {
@@ -202,7 +208,8 @@
    "2026-W39": 0,
    "2026-W42": 0,
    "2026-W43": 0,
-   "2026-W44": 0
+   "2026-W44": 0,
+   "2026-W45": 0
   },
   "evidence": [
    {
@@ -250,7 +257,8 @@
    "2026-W39": 2,
    "2026-W42": 2,
    "2026-W43": 0,
-   "2026-W44": 2
+   "2026-W44": 2,
+   "2026-W45": 0
   },
   "evidence": [
    {
@@ -290,12 +298,12 @@
   "became_post_at": null,
   "covered_by_context": [],
   "suggested_angle": "Argue that service desk and workplace ops teams should report cost avoided and time returned, not ticket volume.",
-  "current": 2,
-  "trailing_mean": 0.667,
-  "delta_z": 1.414,
-  "demand_score": 0.1,
+  "current": 0,
+  "trailing_mean": 1,
+  "delta_z": -1.0,
+  "demand_score": 0.0,
   "saturation_score": 0.0,
-  "opportunity_score": 0.1,
+  "opportunity_score": 0.0,
   "status": "steady"
  },
  {
@@ -311,7 +319,8 @@
    "2026-W39": 0,
    "2026-W42": 0,
    "2026-W43": 0,
-   "2026-W44": 0
+   "2026-W44": 0,
+   "2026-W45": 0
   },
   "evidence": [
    {
@@ -352,22 +361,13 @@
    "2026-W39": 0,
    "2026-W42": 0,
    "2026-W43": 3,
-   "2026-W44": 0
+   "2026-W44": 0,
+   "2026-W45": 1
   },
   "evidence": [
    {
-    "quote": "An employee has had 6 attendance issues in less than a month",
-    "url": "https://www.reddit.com/r/humanresources/comments/1x8kt2q/il_cook_county_suburbs_attendance_issues/",
-    "source_id": "reddit_humanresources"
-   },
-   {
-    "quote": "How do I advise the manager, move forward with eventual termination and avoid any potential litigation",
-    "url": "https://www.reddit.com/r/humanresources/comments/1x8kt2q/il_cook_county_suburbs_attendance_issues/",
-    "source_id": "reddit_humanresources"
-   },
-   {
-    "quote": "recently received some corrective feedback about my in-office attendance",
-    "url": "https://www.reddit.com/r/humanresources/comments/1x04jns/hr_pals_how_do_you_handle_being_on_the_receiving/",
+    "quote": "He would historically use it to take off Mondays and Fridays",
+    "url": "https://www.reddit.com/r/humanresources/comments/1xhd6r3/pa_facility_director_told_employee_we_could_do/",
     "source_id": "reddit_humanresources"
    }
   ],
@@ -395,14 +395,16 @@
   ],
   "became_post": null,
   "became_post_at": null,
-  "covered_by_context": [],
-  "suggested_angle": "Show HR leads how clean attendance and presence data from the workplace itself turns coverage disputes and terminations into documented, defensible facts instead of manager impressions.",
-  "current": 0,
-  "trailing_mean": 0.833,
-  "delta_z": -0.687,
-  "demand_score": 0.0,
-  "saturation_score": 0.0,
-  "opportunity_score": 0.0,
+  "covered_by_context": [
+   "work_design_mag"
+  ],
+  "suggested_angle": "Argue that attendance data is only useful when it is tied to spend, so HR can see what each in-office day actually costs per head.",
+  "current": 1,
+  "trailing_mean": 0.5,
+  "delta_z": 0.447,
+  "demand_score": 0.481,
+  "saturation_score": 0.333,
+  "opportunity_score": 0.321,
   "status": "steady"
  },
  {
@@ -417,7 +419,8 @@
    "2026-W39": 0,
    "2026-W42": 1,
    "2026-W43": 0,
-   "2026-W44": 0
+   "2026-W44": 0,
+   "2026-W45": 0
   },
   "evidence": [
    {
@@ -477,7 +480,8 @@
    "2026-W39": 0,
    "2026-W42": 0,
    "2026-W43": 0,
-   "2026-W44": 0
+   "2026-W44": 0,
+   "2026-W45": 0
   },
   "evidence": [
    {
@@ -510,7 +514,7 @@
   "became_post": null,
   "became_post_at": null,
   "covered_by_context": [
-   "workplace_insight"
+   "allwork_space"
   ],
   "suggested_angle": "Frame coworking stipends and day-pass desks as a managed spend category for HR, with policy on what employees can claim and why call privacy drives the choice.",
   "current": 0,
@@ -532,7 +536,8 @@
    "2026-W39": 0,
    "2026-W42": 0,
    "2026-W43": 0,
-   "2026-W44": 0
+   "2026-W44": 0,
+   "2026-W45": 0
   },
   "evidence": [
    {
@@ -579,7 +584,8 @@
    "2026-W39": 2,
    "2026-W42": 0,
    "2026-W43": 0,
-   "2026-W44": 0
+   "2026-W44": 0,
+   "2026-W45": 0
   },
   "evidence": [
    {
@@ -642,18 +648,14 @@
    "2026-W39": 3,
    "2026-W42": 4,
    "2026-W43": 0,
-   "2026-W44": 2
+   "2026-W44": 2,
+   "2026-W45": 1
   },
   "evidence": [
    {
-    "quote": "everyone signs in with their own account, but the agent connects to the CRM or billing system with one shared API key, so the agent can do anything that the key can do",
-    "url": "https://alterauth.com/",
+    "quote": "We are building the simulation layer that lets engineers and AI agents test and validate firmware without hardware.",
+    "url": "https://news.ycombinator.com/item?id=50291116",
     "source_id": "hackernews"
-   },
-   {
-    "quote": "he hired an AI company called Mega AI, which will eventually automate a significant portion of my current responsibilities",
-    "url": "https://www.reddit.com/r/ExecutiveAssistants/comments/1x528kk/i_thought_i_was_doing_great_as_an_ea_until_today/",
-    "source_id": "reddit_executiveassistants"
    }
   ],
   "vocabulary": [
@@ -681,17 +683,16 @@
   "became_post": null,
   "became_post_at": null,
   "covered_by_context": [
-   "allwork_space",
    "charter",
-   "workplace_insight"
+   "raconteur"
   ],
-  "suggested_angle": "Explain to HR buyers who owns agent permissions and spend when an AI assistant starts booking, buying and scheduling on behalf of staff.",
-  "current": 2,
+  "suggested_angle": "Position spend controls as the practical governance layer for AI tools that teams buy faster than anyone can review them.",
+  "current": 1,
   "trailing_mean": 1.5,
-  "delta_z": 0.311,
-  "demand_score": 0.1,
-  "saturation_score": 1.0,
-  "opportunity_score": 0.0,
+  "delta_z": -0.311,
+  "demand_score": 0.293,
+  "saturation_score": 0.667,
+  "opportunity_score": 0.098,
   "status": "steady"
  },
  {
@@ -704,7 +705,8 @@
    "2026-W39": 0,
    "2026-W42": 0,
    "2026-W43": 0,
-   "2026-W44": 0
+   "2026-W44": 0,
+   "2026-W45": 0
   },
   "evidence": [
    {
@@ -749,7 +751,8 @@
    "2026-W39": 7,
    "2026-W42": 1,
    "2026-W43": 0,
-   "2026-W44": 11
+   "2026-W44": 11,
+   "2026-W45": 0
   },
   "evidence": [
    {
@@ -794,13 +797,13 @@
   "became_post_at": null,
   "covered_by_context": [],
   "suggested_angle": "Show HR and ops leaders how much senior time is lost to manual calendar policing, and what spend on scheduling and briefing tools actually buys back.",
-  "current": 11,
-  "trailing_mean": 2.333,
-  "delta_z": 2.907,
-  "demand_score": 0.704,
+  "current": 0,
+  "trailing_mean": 3.167,
+  "delta_z": -0.737,
+  "demand_score": 0.0,
   "saturation_score": 0.0,
-  "opportunity_score": 0.704,
-  "status": "accelerating"
+  "opportunity_score": 0.0,
+  "status": "steady"
  },
  {
   "theme_id": "meeting_room_booking_conflicts",
@@ -811,7 +814,8 @@
    "2026-W39": 0,
    "2026-W42": 0,
    "2026-W43": 0,
-   "2026-W44": 0
+   "2026-W44": 0,
+   "2026-W45": 0
   },
   "evidence": [
    {
@@ -831,15 +835,13 @@
   ],
   "became_post": null,
   "became_post_at": null,
-  "covered_by_context": [
-   "workplace_insight"
-  ],
+  "covered_by_context": [],
   "suggested_angle": "Position room booking hygiene as a spend and utilisation question for HR-led workplace owners, not a policing job dumped on the office manager.",
   "current": 0,
-  "trailing_mean": 0.167,
-  "delta_z": -0.447,
+  "trailing_mean": 0,
+  "delta_z": 0.0,
   "demand_score": 0.0,
-  "saturation_score": 0.333,
+  "saturation_score": 0.0,
   "opportunity_score": 0.0,
   "status": "steady"
  },
@@ -852,7 +854,8 @@
    "2026-W39": 4,
    "2026-W42": 8,
    "2026-W43": 1,
-   "2026-W44": 16
+   "2026-W44": 16,
+   "2026-W45": 0
   },
   "evidence": [
    {
@@ -897,13 +900,13 @@
   "became_post_at": null,
   "covered_by_context": [],
   "suggested_angle": "Map what the modern EA and office coordinator role actually absorbs, and where workspace spend tooling removes the lowest value parts of the job.",
-  "current": 16,
-  "trailing_mean": 3.667,
-  "delta_z": 3.35,
-  "demand_score": 1.0,
+  "current": 0,
+  "trailing_mean": 4.833,
+  "delta_z": -0.844,
+  "demand_score": 0.0,
   "saturation_score": 0.0,
-  "opportunity_score": 1.0,
-  "status": "accelerating"
+  "opportunity_score": 0.0,
+  "status": "steady"
  },
  {
   "theme_id": "personal_data_access_and_credential_handover",
@@ -913,7 +916,8 @@
    "2026-W39": 1,
    "2026-W42": 0,
    "2026-W43": 0,
-   "2026-W44": 0
+   "2026-W44": 0,
+   "2026-W45": 0
   },
   "evidence": [
    {
@@ -947,7 +951,8 @@
   "counts_by_week": {
    "2026-W42": 1,
    "2026-W43": 0,
-   "2026-W44": 0
+   "2026-W44": 0,
+   "2026-W45": 0
   },
   "evidence": [
    {
@@ -988,23 +993,19 @@
   "first_seen": "2026-10-19",
   "counts_by_week": {
    "2026-W43": 1,
-   "2026-W44": 4
+   "2026-W44": 4,
+   "2026-W45": 2
   },
   "evidence": [
    {
-    "quote": "I'm not even clear on what the policy is to take sick",
-    "url": "https://www.reddit.com/r/HumanResourcesUK/comments/1xadf83/need_help_calling_in_sick/",
-    "source_id": "reddit_humanresourcesuk"
+    "quote": "Do you take time off when you're sick?",
+    "url": "https://community.spiceworks.com/t/do-you-take-time-off-when-youre-sick/1259218",
+    "source_id": "spiceworks"
    },
    {
-    "quote": "It was mandated by my employer that I had a meeting with occupational health before returning to work",
-    "url": "https://www.reddit.com/r/HumanResourcesUK/comments/1wrgf4u/discrimination_for_attending_therapy/",
-    "source_id": "reddit_humanresourcesuk"
-   },
-   {
-    "quote": "Final written warning for sickness",
-    "url": "https://www.reddit.com/r/HumanResourcesUK/comments/1wjjowv/final_written_warning_for_sickness/",
-    "source_id": "reddit_humanresourcesuk"
+    "quote": "we had an employee (let’s call him Jared for convenience) who has run out of his FMLA for the year",
+    "url": "https://www.reddit.com/r/humanresources/comments/1xhd6r3/pa_facility_director_told_employee_we_could_do/",
+    "source_id": "reddit_humanresources"
    }
   ],
   "vocabulary": [
@@ -1022,37 +1023,43 @@
    "final written warning",
    "sickness absence policy",
    "KIT day",
-   "calling in sick"
+   "calling in sick",
+   "FMLA",
+   "ran out of FMLA",
+   "time off",
+   "properly logging this",
+   "deny my time off"
   ],
   "became_post": null,
   "became_post_at": null,
   "covered_by_context": [],
-  "suggested_angle": "Show HR how absence, adjustment and return to work records intersect with attendance data without turning into surveillance.",
-  "current": 4,
-  "trailing_mean": 0.167,
-  "delta_z": 10.286,
-  "demand_score": 0.194,
+  "suggested_angle": "Explain how absence and leave exceptions quietly reshape who is actually in the building, and what that means for the space and perks HR is paying for.",
+  "current": 2,
+  "trailing_mean": 0.833,
+  "delta_z": 0.798,
+  "demand_score": 1.0,
   "saturation_score": 0.0,
-  "opportunity_score": 0.194,
-  "status": "accelerating"
+  "opportunity_score": 1.0,
+  "status": "gap"
  },
  {
   "theme_id": "hr_managing_own_workload_and_manager",
-  "label": "HR and ops staff negotiating their own protected time and workload",
+  "label": "HR and ops staff negotiating their own protected time, authority and workload",
   "first_seen": "2026-10-26",
   "counts_by_week": {
-   "2026-W44": 2
+   "2026-W44": 2,
+   "2026-W45": 2
   },
   "evidence": [
    {
-    "quote": "I'm entitled to 6 hours a week protected study time and I have never been given this",
-    "url": "https://www.reddit.com/r/HumanResourcesUK/comments/1xbvq5o/advice_for_hr_managing_their_own_manager/",
-    "source_id": "reddit_humanresourcesuk"
+    "quote": "I am the only HR person on site at our small facility, but we work for a very large corporate company with many people above us",
+    "url": "https://www.reddit.com/r/humanresources/comments/1xhd6r3/pa_facility_director_told_employee_we_could_do/",
+    "source_id": "reddit_humanresources"
    },
    {
-    "quote": "I wanted time set in my diary each week",
-    "url": "https://www.reddit.com/r/HumanResourcesUK/comments/1xbvq5o/advice_for_hr_managing_their_own_manager/",
-    "source_id": "reddit_humanresourcesuk"
+    "quote": "Lead, develop, and mentor a team of HR professionals across Benefits, Compensation, Recruitment, HRIS, Payroll",
+    "url": "https://www.reddit.com/r/humanresources/comments/1xg8ltk/open_hr_manager_role_ky/",
+    "source_id": "reddit_humanresources"
    }
   ],
   "vocabulary": [
@@ -1061,18 +1068,91 @@
    "covering for a colleague off sick",
    "duty phone",
    "out of hours calls",
-   "contractual query"
+   "contractual query",
+   "only HR person on site",
+   "HR Generalist",
+   "report to an HR Manager at corporate",
+   "facility director",
+   "trusted advisor to plant leadership",
+   "HR operations",
+   "HRIS",
+   "liaison between management and the workforce"
   ],
   "became_post": null,
   "became_post_at": null,
   "covered_by_context": [],
-  "suggested_angle": "A short piece on how HR and office teams can defend protected time when they are the ones administering everyone else's.",
+  "suggested_angle": "Speak to the solo site HR lead who owns workplace spend decisions without authority, and show how clear budgets and policy defaults settle arguments with facility leadership.",
   "current": 2,
+  "trailing_mean": 0.333,
+  "delta_z": 2.236,
+  "demand_score": 0.947,
+  "saturation_score": 0.0,
+  "opportunity_score": 0.947,
+  "status": "accelerating"
+ },
+ {
+  "theme_id": "saas_and_ai_tool_overspend",
+  "label": "Software and AI tool overspend, duplicate licences and renewal visibility",
+  "first_seen": "2026-11-02",
+  "counts_by_week": {
+   "2026-W45": 0
+  },
+  "evidence": [],
+  "vocabulary": [
+   "software overspend",
+   "duplicate tooling",
+   "per-seat SaaS prices",
+   "unused licences",
+   "renewal dates",
+   "price variance",
+   "SaaS management",
+   "software asset management",
+   "centralise contracts and invoices"
+  ],
+  "became_post": null,
+  "became_post_at": null,
+  "covered_by_context": [],
+  "suggested_angle": "Make the case that workspace and workplace tools belong in the same spend review as SaaS, since both hide duplicate subscriptions and unused seats.",
+  "current": 0,
   "trailing_mean": 0,
   "delta_z": 0.0,
-  "demand_score": 0.11,
+  "demand_score": 0.0,
   "saturation_score": 0.0,
-  "opportunity_score": 0.11,
+  "opportunity_score": 0.0,
+  "status": "watching"
+ },
+ {
+  "theme_id": "secure_team_comms_and_privacy_tooling",
+  "label": "Privacy-respecting team communication and collaboration tools",
+  "first_seen": "2026-11-02",
+  "counts_by_week": {
+   "2026-W45": 1
+  },
+  "evidence": [
+   {
+    "quote": "An End-to-End Encrypted Alternative to Discord",
+    "url": "https://github.com/hyperkubeorg/openarcanum/",
+    "source_id": "hackernews"
+   }
+  ],
+  "vocabulary": [
+   "end-to-end encrypted",
+   "profile its users",
+   "respects privacy",
+   "open beta",
+   "desktop app",
+   "self-hosted maintainer nodes"
+  ],
+  "became_post": null,
+  "became_post_at": null,
+  "covered_by_context": [],
+  "suggested_angle": "Note for HR and ops buyers that privacy expectations now extend to every workplace tool that quietly collects employee data, including presence and booking systems.",
+  "current": 1,
+  "trailing_mean": 0,
+  "delta_z": 0.0,
+  "demand_score": 0.293,
+  "saturation_score": 0.0,
+  "opportunity_score": 0.293,
   "status": "watching"
  }
 ]

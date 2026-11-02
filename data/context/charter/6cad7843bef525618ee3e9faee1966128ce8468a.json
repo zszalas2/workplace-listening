@@ -1,0 +1,41 @@
+{
+ "id": "6cad7843bef525618ee3e9faee1966128ce8468a",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/book-briefing-in-person-by-natalia-emanuel-and-emma-harrington/",
+ "published_at": "2026-10-29",
+ "observed_at": "2026-11-02",
+ "summary": "A short book briefing on In Person, a new book by economists Natalia Emanuel (research economist at the New York Federal Reserve Bank) and Emma Harrington (economics professor at the University of Virginia). The two researchers have become prominent advocates for in-person work with colleagues, based on their own studies linking remote work to declines in mental health, reduced feedback, and lower entry-level hiring. The book summarizes their research alongside other researchers' findings on the benefits of working in person. The item is a brief framing note rather than a detailed review, and it does not describe specific policies, tooling, or workplace operations practices; it positions the authors within the ongoing debate about remote versus in-office work and the evidence base cited by return-to-office proponents.",
+ "claims": [
+  {
+   "claim": "Research shows correlations between remote work and declines in mental health, feedback, and entry-level hiring.",
+   "stat": "",
+   "attribution": "Natalia Emanuel and Emma Harrington"
+  },
+  {
+   "claim": "Natalia Emanuel is a research economist at the New York Federal Reserve Bank.",
+   "stat": "",
+   "attribution": "Charter"
+  },
+  {
+   "claim": "Emma Harrington is a professor of economics at the University of Virginia.",
+   "stat": "",
+   "attribution": "Charter"
+  },
+  {
+   "claim": "The book In Person summarizes the authors' own research plus others' findings on the benefits of in-person work.",
+   "stat": "",
+   "attribution": "Charter"
+  }
+ ],
+ "vocabulary": [
+  "in-person work",
+  "remote work",
+  "entry-level hiring",
+  "feedback",
+  "mental health",
+  "research economist"
+ ],
+ "topics_covered": [
+  "hybrid_rto_mandate_pushback"
+ ]
+}

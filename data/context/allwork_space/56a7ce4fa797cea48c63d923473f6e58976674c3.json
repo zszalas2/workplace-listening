@@ -1,0 +1,96 @@
+{
+ "id": "56a7ce4fa797cea48c63d923473f6e58976674c3",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/11/employers-can-help-make-voting-a-lasting-habit-without-taking-a-political-stand/",
+ "published_at": "2026-11-02",
+ "observed_at": "2026-11-02",
+ "summary": "An opinion piece by Tom Florsheim Jr. (CEO, Weyco Group) and Adam Goodman (CEO, Goodmans Interior Structures), originally published in Fortune and syndicated via Allwork.Space, argues that employers are an underused lever for increasing voter turnout, and that doing so requires no partisan stance.\n\nThe authors contrast expensive campaign and PAC spending, which randomized trials suggest lifts turnout by only a point or two, with new academic research linking LinkedIn employment records to voter files across 30 million workers at 377,000 employers. Researchers at Michigan, Harvard, Columbia and Maryland also tracked 8 million job changers to control for selection bias, finding workers who moved to a higher-scoring employer became 3.5 percentage points more likely to vote, rising to 5.8 points for a move from the 25th to the 75th percentile employer. Effects hold across political affiliations.\n\nThe argument: workplaces shape behaviour because people spend most of their time there, and employers control formal levers such as Election Day scheduling and leave policy. Most corporate leaders do not know where their firm sits on this distribution and should find out.\n\nPractical examples are given. Weyco runs a communications calendar prompting employees to make a voting plan, flagging early voting, and reminding them the week before and on Election Day; it offers paid leave for voting or poll work, arranges rides, and hosts voter registration assistance on site. Goodmans partners with Power the Polls to recruit poll workers, offering a stipend and a paid day off. Resources cited include a Wisconsin Business Leaders for Democracy toolkit and Leadership Now Project.\n\nThe piece notes nearly half of local election jurisdictions struggled to recruit enough poll workers for the 2024 general election (U.S. Election Assistance Commission), naming shortages in Milwaukee, Kenosha, Maricopa County, Ohio, North Carolina and Nevada. It closes by arguing voting is habit-forming, spreads to households, matters most in primaries, and supports business-friendly stability.",
+ "claims": [
+  {
+   "claim": "Well-executed canvassing increases voter turnout only marginally",
+   "stat": "one to two percentage points at most",
+   "attribution": "Randomized trials cited by the authors"
+  },
+  {
+   "claim": "Research linked LinkedIn employment records to voter files to study the workplace effect on voting",
+   "stat": "30 million workers at 377,000 employers",
+   "attribution": "Researchers at Michigan, Harvard, Columbia and Maryland"
+  },
+  {
+   "claim": "Job changers were tracked to account for employee selection bias",
+   "stat": "8 million people who changed jobs",
+   "attribution": "Researchers at Michigan, Harvard, Columbia and Maryland"
+  },
+  {
+   "claim": "Workers who moved to a higher-scoring employer became more likely to vote",
+   "stat": "3.5 percentage points",
+   "attribution": "Researchers at Michigan, Harvard, Columbia and Maryland"
+  },
+  {
+   "claim": "Moving from a 25th percentile employer to a 75th percentile employer increased likelihood of voting",
+   "stat": "5.8 percentage points",
+   "attribution": "Researchers at Michigan, Harvard, Columbia and Maryland"
+  },
+  {
+   "claim": "Local election jurisdictions had difficulty recruiting enough poll workers for the 2024 general election",
+   "stat": "nearly half of jurisdictions",
+   "attribution": "U.S. Election Assistance Commission"
+  },
+  {
+   "claim": "Employer turnout effects hold across political affiliations",
+   "stat": "",
+   "attribution": "Researchers at Michigan, Harvard, Columbia and Maryland"
+  },
+  {
+   "claim": "Voting is habit-forming and employees continue voting after leaving the employer; family members of workers at higher-scoring employers also vote more",
+   "stat": "",
+   "attribution": "Research cited by Tom Florsheim Jr. and Adam Goodman"
+  },
+  {
+   "claim": "Employer influence on turnout is largest in primary elections",
+   "stat": "",
+   "attribution": "Research cited by the authors"
+  },
+  {
+   "claim": "Weyco offers paid leave for voting or poll working, arranges rides, and brings voter registration assistance into the building",
+   "stat": "",
+   "attribution": "Tom Florsheim Jr., chairman and CEO, Weyco Group"
+  },
+  {
+   "claim": "Goodmans partners with Power the Polls and gives participating poll workers a small stipend and a paid day off",
+   "stat": "",
+   "attribution": "Adam Goodman, president and CEO, Goodmans Interior Structures"
+  },
+  {
+   "claim": "Poll worker shortages this fall affect Milwaukee, Kenosha, Maricopa County, and jurisdictions in Ohio, North Carolina and Nevada",
+   "stat": "",
+   "attribution": "Tom Florsheim Jr. and Adam Goodman"
+  }
+ ],
+ "vocabulary": [
+  "voter turnout",
+  "voter files",
+  "poll workers",
+  "Power the Polls",
+  "Election Day leave policy",
+  "paid leave",
+  "communications calendar",
+  "early voting",
+  "voter registration assistance",
+  "scheduling flexibility",
+  "civic engagement",
+  "Leadership Now Project",
+  "Wisconsin Business Leaders for Democracy",
+  "U.S. Election Assistance Commission",
+  "PAC",
+  "canvassing",
+  "phone banks",
+  "randomized trials",
+  "selection bias",
+  "percentile",
+  "stipend",
+  "CEO activism",
+  "employee participation"
+ ],
+ "topics_covered": []
+}

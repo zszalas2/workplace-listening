@@ -1,0 +1,55 @@
+{
+ "id": "6de7fb0039c6ce48937867546c314ebdeee9b7e4",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/11/bank-of-america-sued-over-mandatory-arbitration-of-workplace-discrimination-claims/",
+ "published_at": "2026-11-02",
+ "observed_at": "2026-11-02",
+ "summary": "Allwork.Space republishes a Reuters report (Jonathan Stempel) that Bank of America has been sued by Katherine Mackey, a fired financial adviser, over its mandatory arbitration policy for workplace discrimination claims. The complaint, filed in Manhattan federal court, alleges the bank reneged on commitments made in a 2013 racial bias settlement not to force employees into arbitration of discrimination claims.\n\nAt issue is a November 2024 policy said to require Bank of America and Merrill Lynch employees to arbitrate many claims, including discrimination and harassment, through JAMS (formerly Judicial Arbitration and Mediation Services), and to \"forever waive\" the right to sue in court or bring class actions. Mackey argues this negates promises Merrill Lynch made in its $160 million August 2013 settlement with hundreds of Black brokers who alleged bias in pay, promotions and allocation of large accounts.\n\nThe article notes employers often favor arbitration because it can stay confidential, makes evidence gathering harder, and costs less, and they prefer individual claims over class actions because recoveries tend to be lower and individual cases can be prohibitively expensive to bring.\n\nBank of America's spokesperson said Congress and the Supreme Court have long encouraged arbitration for employment disputes, that JAMS-based arbitration policies are routinely upheld including this one, and that the bank will vigorously defend the case.\n\nMackey says she joined a Merrill Lynch program for aspiring financial advisers in 2023 at age 65, and that younger male colleagues and supervisors discriminated against and harassed her and withheld resources on grounds of gender and age. She missed production goals, was given until summer 2025 to catch up, but says the deadline was accelerated and she was fired in February 2025. She filed in arbitration as a precaution and now seeks to void the policy and move to federal court. Linda Friedman, who represented the 2013 brokers, represents Mackey.",
+ "claims": [
+  {
+   "claim": "Merrill Lynch settled with hundreds of Black brokers alleging bias in pay, promotions and account allocation",
+   "stat": "$160 million, August 2013",
+   "attribution": "Complaint filed by Katherine Mackey, per Reuters"
+  },
+  {
+   "claim": "A November 2024 policy required Bank of America and Merrill Lynch employees to accept mandatory arbitration through JAMS for claims including discrimination and harassment and to forever waive the right to sue in court or pursue class actions",
+   "stat": "November 2024",
+   "attribution": "Mackey's complaint"
+  },
+  {
+   "claim": "Mackey joined a Merrill Lynch program for aspiring financial advisers in 2023 at age 65 and was fired in February 2025 after her catch-up deadline was accelerated",
+   "stat": "age 65; fired February 2025",
+   "attribution": "Mackey's complaint"
+  },
+  {
+   "claim": "Arbitration policies using JAMS as the forum are routinely upheld in court, including this one",
+   "stat": "",
+   "attribution": "Bank of America spokesperson"
+  },
+  {
+   "claim": "Businesses prefer arbitration because it can remain confidential, makes evidence gathering harder, and costs less; they prefer individual cases to class actions because recoveries can be lower",
+   "stat": "",
+   "attribution": "Reuters/Allwork.Space article"
+  },
+  {
+   "claim": "Bank of America is the second-largest US bank",
+   "stat": "second-largest",
+   "attribution": "Reuters/Allwork.Space article"
+  }
+ ],
+ "vocabulary": [
+  "mandatory arbitration",
+  "class action waiver",
+  "JAMS",
+  "Judicial Arbitration and Mediation Services",
+  "workplace discrimination claims",
+  "harassment",
+  "racial bias settlement",
+  "production goals",
+  "financial adviser program",
+  "Merrill Lynch",
+  "federal court",
+  "employment disputes"
+ ],
+ "topics_covered": []
+}

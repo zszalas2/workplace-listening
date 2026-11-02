@@ -1,0 +1,60 @@
+{
+ "id": "540e48eff11f36bc2d9ffde96d2497ea9e0fe9cd",
+ "source_id": "workplace_insight",
+ "url": "https://workplaceinsight.net/workplace-investment-needs-to-move-beyond-the-refurbishment-cycle/?utm_source=rss&utm_medium=rss&utm_campaign=workplace-investment-needs-to-move-beyond-the-refurbishment-cycle",
+ "published_at": "2026-10-28",
+ "observed_at": "2026-11-02",
+ "summary": "An opinion piece from TSK published on Workplace Insight argues that workplace investment is still organised around a small number of trigger events: lease expiry, relocation, outgrowing premises, or a landlord repositioning an asset. Between those milestones, little changes, even though organisations evolve far faster than their buildings. The author asks how capital invested in offices today can keep delivering value in five, ten or fifteen years.\n\nThe piece claims office design has matured and that there is rarely a poor office unless it is empty. Occupiers now expect flexibility, sustainability credentials, high-quality amenities and spaces supporting a wide range of activities. But success is still judged on the quality of the finished environment, which the author says should be reframed. A completed fit-out may satisfy every line of the original brief, yet that brief rests on assumptions about headcount, team structures, technology and business priorities that frequently change.\n\nFor landlords and investors, capital expenditure is tied to long-term asset performance, rental positioning and competitiveness. Buildings designed too tightly around one occupier's requirements may need further major investment when those requirements shift. The recommended hedge is adaptability designed in at the outset: flexible floorplates, services infrastructure that can support different layouts, and multi-functional spaces. For occupiers the principle is the same, with the priority being to distinguish decisions that keep creating value from those that restrict future options.\n\nThe author advocates moving from standalone projects to an ongoing workplace strategy embedded in longer-term property and organisational planning. That means asking what the workforce will look like in five years and how technology may change office activities, then continuing to review space performance after project completion. Smaller targeted interventions can address emerging needs without waiting for the next refurbishment. The author notes working with several businesses that take an always-on approach to workplace design.",
+ "claims": [
+  {
+   "claim": "A large share of workplace investment is triggered by a small set of events such as lease expiry, relocation, outgrowing premises, or landlord asset repositioning",
+   "stat": "",
+   "attribution": "Article author (TSK)"
+  },
+  {
+   "claim": "Office design quality has improved to the point that there is rarely a poor office unless it is empty",
+   "stat": "",
+   "attribution": "Article author (TSK)"
+  },
+  {
+   "claim": "Organisational priorities, employee expectations, technology and working practices can change considerably within the lifetime of a single lease or refurbishment",
+   "stat": "",
+   "attribution": "Article author (TSK)"
+  },
+  {
+   "claim": "Several businesses the author works with pride themselves on an 'always on' approach to workplace design",
+   "stat": "",
+   "attribution": "Article author (TSK)"
+  },
+  {
+   "claim": "Offices designed around highly specific occupier requirements can require significant further investment when those requirements change",
+   "stat": "",
+   "attribution": "Article author (TSK)"
+  }
+ ],
+ "vocabulary": [
+  "workplace investment",
+  "refurbishment cycle",
+  "lease expiry",
+  "lease event",
+  "repositioning an asset",
+  "fit-out",
+  "occupier",
+  "landlord",
+  "asset manager",
+  "capital expenditure",
+  "flexible floorplates",
+  "services infrastructure",
+  "always on workplace design",
+  "workplace strategy",
+  "sustainability credentials",
+  "amenities",
+  "rental positioning",
+  "adaptability",
+  "space performance review",
+  "targeted interventions",
+  "headcount",
+  "working patterns"
+ ],
+ "topics_covered": []
+}

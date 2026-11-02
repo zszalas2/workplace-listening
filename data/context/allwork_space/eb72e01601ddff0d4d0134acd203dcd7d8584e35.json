@@ -1,0 +1,90 @@
+{
+ "id": "eb72e01601ddff0d4d0134acd203dcd7d8584e35",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/10/flexjobs-remote-work-index-fully-remote-job-postings-grew-33-in-q3-2026/",
+ "published_at": "2026-10-30",
+ "observed_at": "2026-11-02",
+ "summary": "FlexJobs released its Q3 2026 Remote Work Index, reporting a 33% quarter-over-quarter increase in fully remote job postings, the third consecutive quarter of growth. The index analyzed remote postings from more than 60,000 companies in the FlexJobs database between July 1 and September 30, 2026, tracking trends by industry, career field, employer, and occupation.\n\nBy total posting volume, Project Management remained the largest remote career field, followed by Computer & IT, Sales, Operations, and Business Development. Growth rates varied widely by field. The fastest growing categories were Operations (+52%), Customer Service (+47%), Project Management (+44%), Engineering (+41%), and Business Development (+41%). The slowest growing were Education & Training (+19%), Medical & Health (+29%), Communications (+31%), Sales (+34%), and Account Management (+35%).\n\nHealthcare and tech employers drove much of the activity. Top employers posting remote roles included Everforth, UnitedHealth Group, Actalent, Thermo Fisher Scientific, Humana, General Electric, Allstate, CVS Health, Abbott Laboratories, and JLL.\n\nBy career level, postings skewed toward experienced and leadership talent: Experienced 63%, Manager 21%, Senior Manager 10%, and Entry Level just 6%.\n\nKeith Spencer, Career Expert at FlexJobs, framed the data as a counterpoint to return-to-office messaging, saying that despite the noise about RTO mandates, the jobs data tells a different story, and that three consecutive quarters of remote growth show work-from-home careers remain a differentiator. He argued employers tapping remote talent in operations and project management are positioning themselves to build stronger teams.\n\nThe release notes FlexJobs has been used by over 135 million people since 2007 and specializes in flexible, hybrid, and remote listings, also working with companies to recruit remote talent and optimize flexible workplace programs. Media contact and methodology details are included.",
+ "claims": [
+  {
+   "claim": "Fully remote job postings grew quarter-over-quarter, the third consecutive quarter of growth",
+   "stat": "+33% over Q2 2026",
+   "attribution": "FlexJobs Q3 2026 Remote Work Index"
+  },
+  {
+   "claim": "The index analyzed remote job postings from a large employer database over a three-month window",
+   "stat": "more than 60,000 companies, July 1 to September 30, 2026",
+   "attribution": "FlexJobs methodology"
+  },
+  {
+   "claim": "Operations saw the highest rate of growth in remote postings",
+   "stat": "+52%",
+   "attribution": "FlexJobs"
+  },
+  {
+   "claim": "Customer Service was the second fastest growing remote category",
+   "stat": "+47%",
+   "attribution": "FlexJobs"
+  },
+  {
+   "claim": "Project Management grew and remained the largest remote career field by volume",
+   "stat": "+44%",
+   "attribution": "FlexJobs"
+  },
+  {
+   "claim": "Engineering and Business Development both posted strong growth",
+   "stat": "+41% each",
+   "attribution": "FlexJobs"
+  },
+  {
+   "claim": "Education & Training had the least growth among remote categories",
+   "stat": "+19%",
+   "attribution": "FlexJobs"
+  },
+  {
+   "claim": "Medical & Health, Communications, Sales and Account Management were among the slowest growing categories",
+   "stat": "+29%, +31%, +34%, +35%",
+   "attribution": "FlexJobs"
+  },
+  {
+   "claim": "Remote postings are concentrated in experienced and leadership roles, with entry level smallest",
+   "stat": "Experienced 63%, Manager 21%, Senior Manager 10%, Entry Level 6%",
+   "attribution": "FlexJobs"
+  },
+  {
+   "claim": "Actual jobs data contradicts the return-to-office narrative, and remote work remains a differentiator",
+   "stat": "three consecutive quarters of remote job growth",
+   "attribution": "Keith Spencer, Career Expert at FlexJobs"
+  },
+  {
+   "claim": "Healthcare companies accounted for a primary share of active remote job postings in the quarter",
+   "stat": "",
+   "attribution": "FlexJobs"
+  },
+  {
+   "claim": "FlexJobs resources have been used by a large number of people since its founding",
+   "stat": "over 135 million people since 2007",
+   "attribution": "FlexJobs company boilerplate"
+  }
+ ],
+ "vocabulary": [
+  "Remote Work Index",
+  "fully remote job postings",
+  "remote work hiring trends",
+  "career field",
+  "return-to-office mandates",
+  "work-from-home careers",
+  "hybrid jobs",
+  "flexible jobs",
+  "remote talent",
+  "career level",
+  "entry level",
+  "experienced",
+  "quarterly growth",
+  "job postings database",
+  "remote and flexible workplace"
+ ],
+ "topics_covered": [
+  "hybrid_rto_mandate_pushback"
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "id": "2d7eb367b402c5efe705fbec4cd7d1f87b431061",
+ "source_id": "allwork_space",
+ "url": "https://allwork.space/2026/10/top-3-reasons-workplace-sexual-harassment-policies-fail/",
+ "published_at": "2026-10-31",
+ "observed_at": "2026-11-02",
+ "summary": "Allwork.Space argues that written workplace sexual harassment policies routinely fail in practice, and that the failure shows up when a complaint involves a popular employee, a valuable client or someone with organizational influence. The piece frames the issue as relevant to all shared work environments, including coworking spaces where members, guests, vendors, building staff and tenant employees mix and the accused may not be an employee of the operator at all.\n\nThe article identifies three failure modes. First, reputation protection outranks people protection: leadership faces pressure to contain rather than confront complaints, and high performers or revenue-generating members get treated differently, which drains credibility from the written policy. The recommended fix is consistent application of conduct standards regardless of seniority or revenue contribution, documented complaint handling, and investigators insulated from the accused person's status.\n\nSecond, reporting feels riskier than silence. Employees fear disbelief, blame, exclusion from opportunities or being labeled difficult. In coworking settings, members may fear damaging business relationships or losing membership. Recommended fixes include multiple reporting channels, at least one outside the direct management chain, transparency about what happens after a report, and follow-up with complainants and witnesses to detect retaliation such as changes to schedules, responsibilities, access or treatment.\n\nThird, the policy exists but the process does not work. Policies are signed at onboarding and rarely revisited, workers do not know prohibited behavior or whom to contact, and managers get little guidance. Confusing procedures, delayed investigations and inconsistent outcomes undermine even well-drafted policies. The article cites EEOC task force recommendations for clear rules, multiple accessible reporting channels, prompt impartial investigations and protection against retaliation.\n\nThe overall thesis: a policy is only as effective as the culture and procedures supporting it, a lesson aimed at employers, landlords and coworking operators alike.",
+ "claims": [
+  {
+   "claim": "Working women report experiencing sexual harassment during their careers at a rate largely unchanged since before the pandemic, despite remote working prevalence",
+   "stat": "40%",
+   "attribution": "Allwork.Space article (source not specified)"
+  },
+  {
+   "claim": "Workplace harassment is widely underreported, with employees citing fears of disbelief, inaction, blame and professional or social retaliation",
+   "stat": "",
+   "attribution": "U.S. Equal Employment Opportunity Commission (EEOC)"
+  },
+  {
+   "claim": "People who experience harassment never take formal action such as filing a complaint or charge",
+   "stat": "about 90%",
+   "attribution": "Allwork.Space, citing EEOC findings"
+  },
+  {
+   "claim": "People who experienced harassment had not discussed it with a supervisor, manager or union representative",
+   "stat": "roughly three out of four",
+   "attribution": "EEOC task force report"
+  },
+  {
+   "claim": "Respondents had experienced sexual harassment or inappropriate sexual behavior from a coworker, supervisor, client, customer or business partner at a current or previous job",
+   "stat": "22.3%",
+   "attribution": "Cornell University 2024 Empire State Poll"
+  },
+  {
+   "claim": "Among respondents reporting such experiences, only a minority said they had reported the situation to HR or another employer representative; the article notes these are poll respondents, not a nationally representative estimate",
+   "stat": "35%",
+   "attribution": "Cornell University 2024 Empire State Poll"
+  },
+  {
+   "claim": "Charges alleging sexual harassment were received between fiscal years 2018 and 2021",
+   "stat": "27,291 charges",
+   "attribution": "EEOC"
+  },
+  {
+   "claim": "Of those sexual harassment charges, a portion also included an allegation of retaliation, though not every allegation was substantiated",
+   "stat": "43.5%",
+   "attribution": "EEOC"
+  },
+  {
+   "claim": "Leadership tolerance, weak accountability and failure to take complaints seriously are important factors in harassment risk",
+   "stat": "",
+   "attribution": "EEOC research on workplace harassment"
+  }
+ ],
+ "vocabulary": [
+  "sexual harassment policy",
+  "coworking spaces",
+  "coworking operators",
+  "coworking member",
+  "tenant organization",
+  "EEOC",
+  "EEOC task force report",
+  "retaliation",
+  "underreporting",
+  "reporting channels",
+  "direct management chain",
+  "prompt and impartial investigations",
+  "conduct standards",
+  "onboarding",
+  "complainants and witnesses",
+  "landlords",
+  "building employee",
+  "vendor",
+  "Empire State Poll",
+  "leadership tolerance",
+  "accountability"
+ ],
+ "topics_covered": []
+}

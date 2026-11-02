@@ -1,0 +1,40 @@
+{
+ "id": "e950d93e11b0aa942fd289b4fcce59a39aaea381",
+ "source_id": "charter",
+ "url": "https://www.charterworks.com/download-the-playbook-from-the-2026-charter-workplace-summit/",
+ "published_at": "2026-10-29",
+ "observed_at": "2026-11-02",
+ "summary": "Charter promotes a downloadable playbook from its sixth annual Charter Workplace Summit, held October 21 in New York. The event convened researchers, executives, and practitioners around the premise that leaders who pull ahead will both deploy AI ambitiously and sharpen distinctly human capabilities. Charter describes this as its largest summit to date, with more attendees and more sponsor support than prior years, and frames the sharing of ideas and insights as its primary measure of success.\n\nAt the summit, Charter launched the Charter AI Pulse, new research examining how AI is affecting the work and lives of more than 5,000 US desk workers who use AI. The playbook compiles the research's headline findings alongside top takeaways from every summit session, distilled into practical steps readers can apply immediately.\n\nContent themes highlighted in the playbook include redesigning work around AI, developing managers who can lead both humans and AI agents, and making breaks part of the flow of work. The playbook also links to session videos. The post closes with a call to download the playbook, share it with colleagues, and attend future Charter summits.\n\nThe item is essentially promotional and contains little substantive detail beyond the research sample size, event date, and session topic list. It does not address workplace operations topics such as space booking, visitor management, attendance tracking, or facilities, focusing instead on AI adoption, management development, and worker wellbeing framing.",
+ "claims": [
+  {
+   "claim": "The 2026 Charter Workplace Summit was the organization's sixth annual summit and its biggest yet, with more attendees and sponsor support",
+   "stat": "6th annual",
+   "attribution": "Charter"
+  },
+  {
+   "claim": "The Charter AI Pulse research covers how AI affects the work and lives of US desk workers who use AI",
+   "stat": "more than 5,000 US desk workers",
+   "attribution": "Charter"
+  },
+  {
+   "claim": "The summit was held October 21 in New York",
+   "stat": "Oct. 21",
+   "attribution": "Charter"
+  }
+ ],
+ "vocabulary": [
+  "Charter Workplace Summit",
+  "Charter AI Pulse",
+  "playbook",
+  "desk workers",
+  "redesigning work around AI",
+  "managers for humans and agents",
+  "agents",
+  "breaks in the flow of work",
+  "practitioners",
+  "sponsors"
+ ],
+ "topics_covered": [
+  "agentic_ai_tooling_and_governance"
+ ]
+}

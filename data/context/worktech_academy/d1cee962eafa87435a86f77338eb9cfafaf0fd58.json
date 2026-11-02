@@ -1,0 +1,14 @@
+{
+ "id": "d1cee962eafa87435a86f77338eb9cfafaf0fd58",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DaWM2SzE0Mkh0MEF0akM0RUlDRWJlZUJMQVV3S2p6cmlLV3B1LUlvYkpyc2pKeW0xbnk1X2NzZFZBbTlNbnJRTWVmNmQ2M1dkbFhlRWZvaWRKVzgwcVhLNG1MekpjZDU0azA5Tg?oc=5",
+ "published_at": "2025-05-30",
+ "observed_at": "2026-11-02",
+ "summary": "This item contains no substantive content. It is a Google News RSS link pointing to a WORKTECH Academy page titled \"Mastercard,\" with body text that merely repeats the title (\"Mastercard WORKTECH Academy\"). No article body, quotes, data, or editorial framing were captured in the feed payload, so there is nothing to summarize beyond the fact that WORKTECH Academy, a workplace innovation research and member network publisher, appears to have published or profiled something related to Mastercard. Based on WORKTECH Academy's typical coverage, such a page would most likely be a case study or member profile touching on workplace design, hybrid working, or employee experience at Mastercard, but that is inference rather than anything stated in the supplied text. No claims, statistics, attributions, or vendor or category terminology can be extracted. The item should be treated as a stub or retrieval failure and re-fetched from the canonical WORKTECH Academy URL before it is scored, tagged, or used in any saturation analysis. Tagging it against the theme registry on the current evidence would introduce false positives, so no themes are assigned.",
+ "claims": [],
+ "vocabulary": [
+  "WORKTECH Academy",
+  "Mastercard"
+ ],
+ "topics_covered": []
+}

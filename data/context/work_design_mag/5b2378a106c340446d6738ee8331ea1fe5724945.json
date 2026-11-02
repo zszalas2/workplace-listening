@@ -1,0 +1,49 @@
+{
+ "id": "5b2378a106c340446d6738ee8331ea1fe5724945",
+ "source_id": "work_design_mag",
+ "url": "https://www.workdesign.com/2026/10/work-doesnt-just-happen-in-the-office-and-the-office-has-to-be-ok-with-that/",
+ "published_at": "2026-10-27",
+ "observed_at": "2026-11-02",
+ "summary": "Work Design Magazine show notes for an episode of the podcast \"What the F* is Happening to the Office?\", hosted by Bob Fox, featuring guest Becca Landwehr, a strategic planner and workplace strategist trained in communication and interior design with experience on both the design firm and owner side.\n\nThe framing argument: work no longer happens only in the office. It happens on the Metro, at the kitchen table after the kids are asleep, and on Teams calls squeezed between a doctor's appointment and school pickup. The office was designed for a nine-to-five day at an assigned desk, which is not how most people work now, and Landwehr's position is that the office has to be okay with that.\n\nFox describes Landwehr as pragmatic rather than anti-office, and notes she is not pretending virtual work will disappear. Her starting question for any space is whether it actually works for the people using it.\n\nTopics covered in the conversation, per the notes: a company that has assigned desks nobody uses; return-to-office mandates; why core hours and anchor days are a better mechanism than blanket \"thou shalt come in\" directives; what workplace leaders should measure beyond badge swipes; and a simple exercise Landwehr would give any leader facing a lease decision this year.\n\nThe item is promotional show-note copy rather than reporting. It contains no statistics, no named client companies, and no survey data. Credits list Bob Fox as creator and director and Work Design Studios as producer.",
+ "claims": [
+  {
+   "claim": "The office was built for a nine-to-five workday at an assigned desk, and most people no longer work that way",
+   "stat": "",
+   "attribution": "Bob Fox / Becca Landwehr, podcast show notes"
+  },
+  {
+   "claim": "At least one company has assigned desks that nobody uses, alongside return-to-office mandates",
+   "stat": "",
+   "attribution": "Becca Landwehr, workplace strategist"
+  },
+  {
+   "claim": "Core hours and anchor days are more effective than blanket mandatory in-office directives",
+   "stat": "",
+   "attribution": "Becca Landwehr, workplace strategist"
+  },
+  {
+   "claim": "Workplace leaders should measure more than badge swipes when assessing office use",
+   "stat": "",
+   "attribution": "Becca Landwehr, workplace strategist"
+  }
+ ],
+ "vocabulary": [
+  "workplace strategist",
+  "strategic planner",
+  "assigned desk",
+  "return-to-office mandates",
+  "core hours",
+  "anchor days",
+  "badge swipes",
+  "lease decision",
+  "virtual work",
+  "hybrid work",
+  "interior design",
+  "Teams call",
+  "Work Design Studios"
+ ],
+ "topics_covered": [
+  "hybrid_rto_mandate_pushback",
+  "attendance_tracking_and_monitoring_tools"
+ ]
+}

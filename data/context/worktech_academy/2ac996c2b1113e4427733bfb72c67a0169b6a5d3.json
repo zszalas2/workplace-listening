@@ -1,0 +1,15 @@
+{
+ "id": "2ac996c2b1113e4427733bfb72c67a0169b6a5d3",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUWFyZE5Way1KY0o0cWNGTjBwdUlBMEJ1ZGdVb2ZlaEM2TlBMTnVockc2NC10MUZXTEtlM0l4ZnZ6T21xSUJWWFNWMUFsdVc5VEtBWThNZkNrRVV0WE9Jc2F6dXBYNjFRQ0luZ3hLMVlXZEt2ZGN4YVFGX1dGZHdUalppOWxYVkRQRlpXbzhkdWpzR0FGNWpB?oc=5",
+ "published_at": "2026-02-02",
+ "observed_at": "2026-11-02",
+ "summary": "This item is a headline-only entry from WORKTECH Academy, syndicated via a Google News RSS link. The title is \"Why having a sense of control over your environment matters.\" No article body, author, quotes, data or supporting detail were included in the supplied text beyond a repetition of the headline and publisher name. The implied subject is personal environmental control in the workplace, a long-running WORKTECH Academy research theme that typically covers factors such as individual control over temperature, lighting, noise, privacy and choice of work setting, and the relationship between perceived control and occupant satisfaction, wellbeing and productivity. However, none of that framing can be confirmed from the text provided here, and no specific claims, statistics, vendor references or case studies are available to extract. Because the piece as supplied contains no substantive content, it cannot be reliably mapped to registry themes. Adjacent themes such as hot desking backlash, choice of quiet space for calls, or hybrid policy could plausibly be touched on in the full article given the subject matter, but tagging them on the basis of a headline alone would be speculative and would inflate saturation scores. Recommended action for the pipeline: retrieve the full article from the WORKTECH Academy site and re-process, or mark the item as insufficient content and exclude it from theme coverage counts. Flagging this is worthwhile because environmental control is closely linked to several active registry themes, particularly debates over unassigned desks and where people choose to take calls, so the full text may well be useful once obtained.",
+ "claims": [],
+ "vocabulary": [
+  "sense of control",
+  "environment",
+  "WORKTECH Academy"
+ ],
+ "topics_covered": []
+}

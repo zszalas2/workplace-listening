@@ -1,0 +1,98 @@
+{
+ "id": "17d3f7958dddee2d76ea1b27baa7d83ae7b251b1",
+ "source_id": "workplace_insight",
+ "url": "https://workplaceinsight.net/one-in-five-workers-think-they-are-poorly-served-by-offices/?utm_source=rss&utm_medium=rss&utm_campaign=one-in-five-workers-think-they-are-poorly-served-by-offices",
+ "published_at": "2026-10-27",
+ "observed_at": "2026-11-02",
+ "summary": "Workplace Insight reports on Leesman's new Big Questions report, drawn from a database of more than 1.6 million employee responses across 10,775 workplaces in 124 countries. Rather than focusing on office attendance or return-to-office policy, the study asks whether offices actually support productivity, inclusion, collaboration and wellbeing, and whether heavy investment in space delivers measurable experience gains.\n\nInclusion is the headline concern. Across nearly 65,000 responses to Leesman's Inclusive Workplace Module, about one in five employees identified as having a disability, long-term health condition, mental health difficulty or neurodivergent profile. This group reported lower satisfaction with all 56 workplace features measured and poorer support for all 21 work activities. Only half said their workplace let them work productively, versus 67 percent of other employees, and only 42 percent said it positively affected wellbeing, versus 56 percent. Gaps were widest on fundamentals: noise satisfaction at 19 percent versus 32 percent, lighting 43 percent versus 59 percent, plus quiet rooms, air quality and temperature. Leesman argues average satisfaction scores conceal these groups and that compliance-led accessibility policies are insufficient.\n\nOn age, under-25s scored highest on workplace experience (76.6 on the 100-point Leesman Index) versus 68.7 for those 55 and over, and attended most often (47 percent more than three days a week versus 30 percent for the two oldest groups). Leesman attributes this to career stage and work complexity rather than generational attitude, noting older colleagues need support for focused work, video calls and confidential conversations. This complicates strategies that draw younger staff in for mentoring and knowledge transfer.\n\nLearning from others rose in importance from 39 percent pre-pandemic to 48 percent today, but Leesman questions whether AI tools will displace the informal exchanges behind tacit knowledge transfer, presenting this as an open question.\n\nOf 105 workplace transformation projects measured before and after, 25 (almost 24 percent) saw experience scores decline. Average improvement was 5.8 Leesman Index points; the best project gained 32.7.",
+ "claims": [
+  {
+   "claim": "Leesman's database covers more than 1.6 million employee responses across 10,775 workplaces in 124 countries",
+   "stat": "1.6 million responses; 10,775 workplaces; 124 countries",
+   "attribution": "Leesman Big Questions report"
+  },
+  {
+   "claim": "About one in five employees identified as having a disability, long-term health condition, mental health difficulty or neurodivergent profile",
+   "stat": "~20% of almost 65,000 responses",
+   "attribution": "Leesman Inclusive Workplace Module"
+  },
+  {
+   "claim": "Employees with disabilities or health conditions reported lower satisfaction with every one of the 56 workplace features measured and poorer support for all 21 work activities assessed",
+   "stat": "56 features; 21 activities",
+   "attribution": "Leesman"
+  },
+  {
+   "claim": "Half of employees with disabilities or health conditions agreed their workplace enabled productive work, versus 67 percent of other employees",
+   "stat": "50% vs 67%",
+   "attribution": "Leesman"
+  },
+  {
+   "claim": "42 percent of employees with these conditions said their workplace positively impacted wellbeing, versus 56 percent of colleagues",
+   "stat": "42% vs 56%",
+   "attribution": "Leesman"
+  },
+  {
+   "claim": "Satisfaction with office noise levels was 19 percent among employees with these conditions versus 32 percent of other respondents",
+   "stat": "19% vs 32%",
+   "attribution": "Leesman"
+  },
+  {
+   "claim": "Satisfaction with office lighting was 43 percent versus 59 percent",
+   "stat": "43% vs 59%",
+   "attribution": "Leesman"
+  },
+  {
+   "claim": "Employees under 25 recorded the highest average workplace experience score at 76.6, versus 68.7 for employees aged 55 and over",
+   "stat": "76.6 vs 68.7 on 100-point index",
+   "attribution": "Leesman Index"
+  },
+  {
+   "claim": "47 percent of under-25s attend the office more than three days a week, compared with 30 percent of the two oldest age groups",
+   "stat": "47% vs 30%",
+   "attribution": "Leesman"
+  },
+  {
+   "claim": "The proportion of employees identifying learning from others as important rose from 39 percent before the pandemic to 48 percent today",
+   "stat": "39% to 48%",
+   "attribution": "Leesman"
+  },
+  {
+   "claim": "Of 105 workplace transformation projects surveyed before and after, 25 recorded a deterioration in workplace experience scores",
+   "stat": "25 of 105, almost 24%",
+   "attribution": "Leesman"
+  },
+  {
+   "claim": "Workplace changes produced an average improvement of 5.8 points on the Leesman Index, with the best project gaining 32.7 points",
+   "stat": "+5.8 average; +32.7 best",
+   "attribution": "Leesman"
+  }
+ ],
+ "vocabulary": [
+  "workplace experience",
+  "Leesman Index",
+  "Big Questions report",
+  "Inclusive Workplace Module",
+  "workplace inclusion",
+  "neurodivergent profile",
+  "long-term health condition",
+  "return-to-office policies",
+  "office attendance",
+  "workplace features",
+  "work activities",
+  "quiet rooms",
+  "air quality",
+  "temperature control",
+  "noise levels",
+  "workplace transformation projects",
+  "pre- and post-occupancy survey",
+  "tacit knowledge",
+  "informal learning",
+  "focused work",
+  "confidential conversations",
+  "wellbeing",
+  "employee satisfaction scores",
+  "workplace design",
+  "amenities"
+ ],
+ "topics_covered": []
+}

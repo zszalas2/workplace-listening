@@ -1,0 +1,15 @@
+{
+ "id": "055d7cbf2f1b939f888733b6109bcbbd6a070f7d",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcTZIVEkza1p5c2oxdzBfVGNSU01sOUh2dmJyMjJQX1ZabWF6VWowa1E5QmM1cjdHN2JKX2VZUDRsX0FoUExGeHZTQURyR011ckdHcHlHbVpHUjNFR2NUWU4wSWRyek0xemlTeDJ1UTFod1JPTEgwa1BsSGhMR0thZkdVUXV1MVhyNmFuQjF1cnc0MHdp?oc=5",
+ "published_at": "2024-05-09",
+ "observed_at": "2026-11-02",
+ "summary": "This item is a WORKTECH Academy headline with no accompanying article body in the supplied record. The title, \"Workplace in dialogue: podcasts that challenge conventions,\" suggests a roundup or editorial piece about workplace-focused podcasts that question received wisdom in the workplace and workplace-technology field, likely covering topics such as office design, hybrid working, and the future of work. However, the item text available consists only of the repeated headline and publisher name, routed through a Google News RSS redirect link, so no substantive content, argument, data, or named sources can be extracted.\n\nBecause the body is absent, it is not possible to determine which specific podcasts are discussed, which conventions are challenged, whose voices are featured, or whether the piece addresses visitor management, desk and room booking, hybrid or return-to-office policy, workplace analytics, or facilities operations in any depth. No statistics, survey findings, vendor references, or expert attributions are present.\n\nFor the listening pipeline, this record should be treated as a stub or link-only entry. It may be worth re-fetching the full article from the WORKTECH Academy site to determine whether it contains usable commentary on hybrid work, workplace experience, or workplace technology themes. As presented, it contributes no evidence toward theme saturation and should not be counted against any registry theme. The only category language available is the implied domain signal from the publisher, WORKTECH Academy, which is a workplace innovation research and media organisation, and the general framing term \"workplace\" in the title.",
+ "claims": [],
+ "vocabulary": [
+  "workplace",
+  "WORKTECH Academy",
+  "podcasts"
+ ],
+ "topics_covered": []
+}

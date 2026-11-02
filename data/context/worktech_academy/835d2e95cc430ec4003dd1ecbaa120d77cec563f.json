@@ -1,0 +1,15 @@
+{
+ "id": "835d2e95cc430ec4003dd1ecbaa120d77cec563f",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRHJHSFUxTjFNZVFuWXhhWFM2Nl93UnFLcUNqSFB0LU9kVm42aWlLTGMzclYzTHNMZkVBNnBmOG1mNXZsSDNjRWhPc2xseFVHelV5aFc2V2N4TTI0YW1FTmhCTFB3TFc3Yk1nYVhkUktkV0tqN1owcktWX0x4M0ZJd0xfbldzNmZlMkxGbGdCVzJXbl9hbEE?oc=5",
+ "published_at": "2026-10-21",
+ "observed_at": "2026-11-02",
+ "summary": "This item is a headline-only entry from WORKTECH Academy, surfaced via a Google News RSS link. The title is \"Open minds: why curiosity should be designed into workspace.\" No article body was captured in the supplied text, which repeats only the headline and publication name, so the substance of the argument is not available for summary.\n\nBased on the headline alone, the piece appears to belong to WORKTECH Academy's workplace design and research commentary stream, arguing that curiosity is a behaviour or cognitive state that workplace design can deliberately support, and that office environments should be planned to encourage exploration, discovery and open-mindedness rather than only efficiency or density. Typical WORKTECH Academy coverage in this vein draws on neuroscience, environmental psychology and workplace strategy research, and discusses spatial variety, stimulating settings, serendipitous encounter and the role of design in innovation culture.\n\nNo verifiable claims, statistics, named researchers, vendors, or case study organisations can be extracted from the available text. No category or vendor terminology beyond \"workspace\" is present. Because the content does not demonstrably address any of the registry themes, which focus on hot desking backlash, RTO mandates, admin and EA workload, visitor sign-in, room booking, attendance tracking, IT asset ownership, agentic AI governance, home workspace stipends, absence documentation and related operational topics, no theme tags are applied. The item would need full text retrieval before it could contribute to saturation scoring. Flag for re-ingestion with the resolved publisher URL rather than the Google News redirect, since the redirect wrapper is likely the reason the body text failed to parse.",
+ "claims": [],
+ "vocabulary": [
+  "workspace",
+  "curiosity",
+  "workplace design"
+ ],
+ "topics_covered": []
+}

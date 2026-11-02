@@ -1,0 +1,14 @@
+{
+ "id": "93d7030d784072a55cfe0f9d3549b238adcf807a",
+ "source_id": "worktech_academy",
+ "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaUtQTFJERDZrQl9xUG5RUG5tRlRnZ1ZmdGFoUU1WczdsWVpzRkt3RzJBMFdRUHZhOVF0UmZJeGI1N0tqWDB3amQySmFOMEFseUtXZ0cxckdxQVpWdU5lLXlvSHhGNTkxVjNfZ01XYUdZbzJrNDcyUWpzVGxGblNla0FqSUxGcGhp?oc=5",
+ "published_at": "2026-03-12",
+ "observed_at": "2026-11-02",
+ "summary": "This item is a headline-only entry from WORKTECH Academy, surfaced via a Google News RSS link. The title is \"Why organisations must move beyond static spaces.\" No article body, author, dateline or supporting detail is present in the supplied text; the content field simply repeats the headline and publication name.\n\nFrom the title alone, the implied subject is workplace design strategy: the argument that fixed, unchanging office layouts no longer match how organisations work, and that employers should shift toward more adaptable, reconfigurable or demand-responsive environments. WORKTECH Academy typically publishes research-led commentary on workplace innovation, so the piece would likely touch on themes such as flexible layouts, activity-based settings, space utilisation data and the role of technology in making space responsive.\n\nHowever, none of that can be confirmed from the material provided. There are no statistics, no named sources, no case studies, no vendor references and no policy claims available to extract. Because the registry themes require specific evidence of subject matter such as hot desking sentiment, RTO mandates, room booking conflicts or visitor sign-in approaches, and the headline is too general to establish any of them, no themes are tagged.\n\nRecommended handling for the listening pipeline: treat this as a stub requiring retrieval of the full article before it can contribute to saturation scoring or claim extraction. If the full text becomes available, it may plausibly map to workplace design and utilisation themes, and potentially to hot desking or hybrid attendance themes depending on how the argument is framed, but that determination should be deferred until the body copy is captured.",
+ "claims": [],
+ "vocabulary": [
+  "static spaces",
+  "WORKTECH Academy"
+ ],
+ "topics_covered": []
+}
